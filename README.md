@@ -4,7 +4,7 @@ This is the code for the official website for the 2019 Annual Conference of the 
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-You can test this website locally on OS X as follows:
+You can test this website locally on macOS as follows:
 
 1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
 2. Check out this repository.
