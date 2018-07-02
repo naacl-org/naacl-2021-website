@@ -38,8 +38,8 @@ Swapna Somasundaran, Educational Testing Service, USA<br/>
 Elena Volodina, University of Gothenberg, Sweden
 
 <h3>Tutorial Co-Chairs [<a href="mailto:staracl-2019-tutorials@googlegroups.com">email</a>]</h3>
-Anoop Sarkar, Simon Fraser University, Canada
-Michael Strube, Heidelberg Institute for Theoretical Studies, Germany<br/>
+Anoop Sarkar, Simon Fraser University, Canada<br/>
+Michael Strube, Heidelberg Institute for Theoretical Studies, Germany
 
 <h3>System Demonstration Co-Chairs</h3>
 Waleed Ammar, Allen Institute for AI, USA<br/>
