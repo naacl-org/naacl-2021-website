@@ -60,8 +60,8 @@ Greg Durrett, University of Texas at Austin, USA<br/>
 Na-Rae Han, University of Pittsburgh, USA
 
 <h3>Publicity &amp; Social Media Co-Chairs [<a href="mailto:naacl-2019-social-media@googlegroups.com">email</a>]</h3>
-Yuval Pinter, Georgia Tech University, USA
-Rachael Tatman, Kaggle, USA<br/>
+Yuval Pinter, Georgia Institute of Technology, USA<br/>
+Rachael Tatman, Kaggle, USA
 
 <h3>Website &amp; Conference App Chair</h3>
 Nitin Madnani, Educational Testing Service, USA
