@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/minneapolis/panorama2.jpg"
-  caption: 'Photo by By Jdkoenig from Wikimedia Commons'
+  caption: 'Photo by Jdkoenig from Wikimedia Commons'
 excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 ---
 
