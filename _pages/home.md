@@ -35,7 +35,7 @@ Michelle Morales, IBM, USA
 <h3>Workshop Co-Chairs [<a href="mailto:workshops-naacl19@googlegroups.com">email</a>]</h3>
 Smaranda Muresan, Columbia University, USA<br/>
 Swapna Somasundaran, Educational Testing Service, USA<br/>
-Elena Volodina, University of Gothenberg, Sweden
+Elena Volodina, University of Gothenburg, Sweden
 
 <h3>Tutorial Co-Chairs [<a href="mailto:staracl-2019-tutorials@googlegroups.com">email</a>]</h3>
 Anoop Sarkar, Simon Fraser University, Canada<br/>
