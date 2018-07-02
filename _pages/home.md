@@ -47,7 +47,7 @@ Annie Louis, University of Edinburgh, Scotland<br/>
 Nasrin Mostafazadeh, Elemental Cognition, USA
 
 <h3>Publication Co-Chairs [<a href="mailto:naacl-2019-publications@googlegroups.com">email</a>]</h3>
-Stephanie Lukin, Army Research Lab, USA<br/>
+Stephanie Lukin, U.S. Army Research Laboratory<br/>
 Alla Roskovskaya, City University of New York, USA
 
 <h3>Student Research Workshop Co-Chairs [<a href="mailto:naacl-2019-student-research-workshop@googlegroups.com">email</a>]</h3>
