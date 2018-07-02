@@ -1,0 +1,64 @@
+# main links
+main:
+
+  # - title: "Calls"
+  #   url: /calls/papers
+
+  # - title: "Registration"
+  #   url: /registration
+
+  # - title: "Program"
+  #   url: "/program/keynotes/"
+
+  # - title: "Participants"
+  #   url: "/participants"
+
+  # - title: "Organization"
+  #   url: /organization
+
+  # - title: "PC Blog"
+  #   url: https://chairs-blog.acl2017.org
+
+  # - title: "Sponsors"
+  #   url: /sponsors/list/
+
+# pages:
+#   - title: Organization
+#     children:
+#       - title: "Organizing Committee"
+#       - url: /pages/organization.md
+
+# calls:
+#   - title: Call for
+#     children:
+#       - title: "Long & Short Papers"
+#         url: /calls/papers/
+#       - title: "System Demonstrations"
+#         url: /calls/demos/
+
+# program:
+#   - title: Program Details
+#     children:
+#       - title: "Keynote Speakers"
+#         url: /program/keynotes/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#       - title: "Workshops"
+#         url: /program/workshops/
+
+
+# participants:
+#   - title: "Information for Participants"
+#     children:
+#       - title: "Accommodation"
+#         url: /participants/accommodation/
+#       - title: "Social Event"
+#         url: /participants/social/
+
+# sponsors:
+#   - title: Sponsorship
+#     children:
+#       - title: "List of Sponsors"
+#         url: /sponsors/list/
+#       - title: "Tiers &amp; Pricing"
+#         url: /sponsors/benefits/
