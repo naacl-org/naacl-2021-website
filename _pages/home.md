@@ -41,7 +41,7 @@ Elena Volodina, University of Gothenburg, Sweden
 Anoop Sarkar, Simon Fraser University, Canada<br/>
 Michael Strube, Heidelberg Institute for Theoretical Studies, Germany
 
-<h3>System Demonstration Co-Chairs</h3>
+<h3>System Demonstration Co-Chairs [<a href="mailto:naacl-2019-demo-track@googlegroups.com">email</a>]</h3>
 Waleed Ammar, Allen Institute for AI, USA<br/>
 Annie Louis, University of Edinburgh, Scotland<br/>
 Nasrin Mostafazadeh, Elemental Cognition, USA
