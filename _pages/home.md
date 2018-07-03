@@ -53,7 +53,7 @@ Alla Roskovskaya, City University of New York, USA
 <h3>Student Research Workshop Co-Chairs [<a href="mailto:naacl-2019-student-research-workshop@googlegroups.com">email</a>]</h3>
 Sudipta Kar, University of Houston, USA<br/>
 Farah Nadeem, University of Washington, USA<br/>
-Laura Wendlendt, University of Michigan, USA
+Laura Wendlandt, University of Michigan, USA
 
 <h3>Student Research Workshop Faculty Advisors</h3>
 Greg Durrett, University of Texas at Austin, USA<br/>
