@@ -50,12 +50,10 @@ Nasrin Mostafazadeh, Elemental Cognition, USA
 Stephanie Lukin, U.S. Army Research Laboratory<br/>
 Alla Roskovskaya, City University of New York, USA
 
-<h3>Student Research Workshop Co-Chairs [<a href="mailto:naacl-2019-student-research-workshop@googlegroups.com">email</a>]</h3>
+<h3>Student Research Workshop Co-Chairs &amp; Faculty Advisors [<a href="mailto:naacl-2019-student-research-workshop@googlegroups.com">email</a>]</h3>
 Sudipta Kar, University of Houston, USA<br/>
 Farah Nadeem, University of Washington, USA<br/>
-Laura Wendlandt, University of Michigan, USA
-
-<h3>Student Research Workshop Faculty Advisors</h3>
+Laura Wendlandt, University of Michigan, USA<br/>
 Greg Durrett, University of Texas at Austin, USA<br/>
 Na-Rae Han, University of Pittsburgh, USA
 
@@ -66,10 +64,10 @@ Rachael Tatman, Kaggle, USA
 <h3>Website &amp; Conference App Chair</h3>
 Nitin Madnani, Educational Testing Service, USA
 
-<h3>Student Volunteer Coordinator</h3>
+<h3>Student Volunteer Coordinator [<a href="mailto:luwang@ccs.neu.edu">email</a>]</h3>
 Lu Wang, Northeastern University, USA
 
-<h3>Video Chair</h3>
+<h3>Video Chair [<a href="mailto:srwhitehead31@gmail.com">email</a>]</h3>
 Spencer Whitehead, Rensselaer Polytechnic Institute, USA
 
 <h3>Local Sponsorship Co-Chairs</h3>
