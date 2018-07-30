@@ -3,9 +3,8 @@ title: "2019 Annual Conference of the North American Chapter of the Association 
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: "/assets/images/minneapolis/panorama.jpg"
-  caption: 'Photo by Jdkoenig from Wikimedia Commons'
+  overlay_image: "/assets/images/minneapolis/unsplash.jpg"
+  caption: 'Photo by <a href="https://unsplash.com/@d_mccullough">Daniel McCullough</a> on <a href="http://www.unsplash.com">Unsplash</a>'
 excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 ---
 
