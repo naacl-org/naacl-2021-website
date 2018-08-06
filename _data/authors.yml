@@ -3,7 +3,7 @@
 program-chairs:
   name        : "Program Co-Chairs"
   email       : "naacl-2019-program-chairs@googlegroups.com"
-  bio         : "Christy Doran, Ted Pederson, and Thamar Solorio"
+  bio         : "Christy Doran, Ted Pedersen, and Thamar Solorio"
   avatar      : "assets/images/avatars/program-chairs.png"
 
 ted:
