@@ -49,6 +49,9 @@ Nasrin Mostafazadeh, Elemental Cognition, USA
 Stephanie Lukin, U.S. Army Research Laboratory<br/>
 Alla Roskovskaya, City University of New York, USA
 
+<h3>Handbook Chair</h3>
+Steve DeNeefe, SDL, USA
+
 <h3>Student Research Workshop Co-Chairs &amp; Faculty Advisors [<a href="mailto:naacl-2019-student-research-workshop@googlegroups.com">email</a>]</h3>
 Sudipta Kar, University of Houston, USA<br/>
 Farah Nadeem, University of Washington, USA<br/>
