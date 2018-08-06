@@ -16,11 +16,8 @@ main:
   # - title: "Participants"
   #   url: "/participants"
 
-  # - title: "Organization"
-  #   url: /organization
-
-  # - title: "PC Blog"
-  #   url: https://chairs-blog.acl2017.org
+  - title: "Organization"
+    url: /organization
 
   # - title: "Sponsors"
   #   url: /sponsors/list/
