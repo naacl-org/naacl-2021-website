@@ -5,6 +5,9 @@ author_profile: true
 excerpt: "Volunteer yourself or friends and colleagues to be a reviewer or area chair."
 tags:
   program-chairs
+  volunteers
+categories:
+    blog
 ---
 
 If recent trends are any indication, the research track of NAACL-HLT 2019 is going to receive an impressive number of submissions. We want to make sure that all these submissions receive the attention of qualified reviewers and area chairs, and in order to make that happen we need your help!

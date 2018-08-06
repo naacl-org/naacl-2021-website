@@ -12,6 +12,12 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 <a href="https://www.softconf.com/emnlp2018/papers/" target="_blank" class="btn btn--primary">Submit a Paper</a>
 </div> -->
 
+<h2>News</h2>
+
+**August 6, 2018**. We have launched the NAACL 2019 Conference Blog to feature communication from various chairs and invited guests. Read the inaugural post [here](/blog)!
+{: .notice--info} 
+
+
 <h2>Welcome!</h2>
 
 The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. We will update this website with more information as it becomes available.
