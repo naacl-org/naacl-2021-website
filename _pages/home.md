@@ -14,7 +14,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**August 6, 2018**. We have launched the NAACL 2019 Conference Blog to feature communication from various chairs and invited guests. Read the inaugural post [here](/blog)!
+**August 6, 2018**. We have launched the [NAACL 2019 Conference Blog](/blog) to feature communication from various chairs and invited guests. Read the inaugural post [here](/blog/call-for-volunteers/)!
 {: .notice--info} 
 
 
