@@ -14,7 +14,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**August 10, 2018**. The deadlines for long &amp; short paper submissions, notification of acceptances, and camera ready versions are now posted. See <strong>Important Dates</strong> section below.
+**August 10, 2018**. The deadlines for long, short, &amp; industry track paper submissions, notification of acceptances, and camera ready versions are now posted. See <strong>Important Dates</strong> section below.
 {: .notice--info} 
 
 
