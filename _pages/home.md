@@ -31,12 +31,12 @@ The Association for Computational Linguistics (ACL) invites you to participate i
 <table style="width: 60%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Abstract &amp; keywords due<br/>(<i>long, short &amp; industry track</i>)</td>
+            <td style="width: 40%;">Abstract &amp; keywords due<br/>(<i>long, short, &amp; industry track</i>)</td>
             <td style="width: 30%;">Monday</td>
             <td>December 3, 2018</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Final paper submissions due<br/>(<i>long, short &amp; industry track</i>)</td>
+            <td style="width: 40%;">Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
             <td style="width: 30%;">Monday</td>
             <td>December 10, 2018</td>
         </tr>
