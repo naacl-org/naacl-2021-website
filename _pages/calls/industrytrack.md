@@ -13,9 +13,9 @@ sidebar:
 
 <span style="font-weight: bolder;font-size: larger;">Industry Track: Call For Papers</span>
 
-The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL community to share and learn about recent advances in real-world application of computational linguistics.
+The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL community to share and learn about recent advances and challenges of real-world application of computational linguistics.
 
-We invite submissions in all technical areas of NAACL-HLT 2019 **[TODO: LINK]** pertaining to development and deployment of real-world applications. Papers that describe key learnings and new challenges posed by real world implementations, from both industry and academia, are solicited, including, but not limited to, the following topics:
+We invite submissions in all technical areas of NAACL-HLT 2019 **[TODO: LINK]** pertaining to development and deployment of real-world applications. Papers that describe key learnings and new challenges posed by real world implementations, from both industry and academia, are solicited, including, but not limited to, the following topics listed in alphabetical order:
 
 - Application specific datasets
 - Continuous improvement of deployed systems
@@ -43,8 +43,8 @@ Papers submitted to NAACL-HLT 2019 industry track should follow NAACL-HLT 2019 a
 
 Note that all NAACL-HLT 2019 tracks will have the same submission deadline. Submissions of identical or closely related work to multiple tracks will be treated as duplicate submissions.
 
-### Review Process
-TODOTODO TODOTODO
+### Reviewing criteria
+Submissions to the industry track should be relevant to real-world application focus of the track as described in this call for papers. Relevant papers that meet formatting requirements will be reviewed in a double-blind manner and will be assessed on the basis of their contribution, clarity, completeness and novelty.
 
 ## Important Dates
 Industry track will have the same deadlines as the research track.
