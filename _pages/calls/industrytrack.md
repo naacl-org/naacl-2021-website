@@ -9,6 +9,8 @@ sidebar:
 
 {% include toc icon="gears" %}
 
+<!-- Original document https://docs.google.com/document/d/12v_5y27zaHVlR0lqcMHQaAtFEXu_Q3PinLVdQotTMH0/ -->
+
 <span style="font-weight: bolder;font-size: larger;">Industry Track: Call For Papers</span>
 
 The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL community to share and learn about recent advances in real-world application of computational linguistics.
@@ -73,12 +75,13 @@ Industry track will have the same deadlines as the research track.
 Last updated: August 10, 2018. All deadlines are 11.59 pm UTC -12h.
 
 ## Organizers
-- General Chair
-  - Jill Burstein, Educational Testing Service, USA
-- Industry Track Chairs
-  - Rohit Kumar, Spotify, USA
-  - Anastassia Loukina, Educational Testing Service, USA
-  - Michelle Morales, IBM, USA
+**General Chair**
+- Jill Burstein, Educational Testing Service, USA
+
+**Industry Track Chairs**
+- Rohit Kumar, Spotify, USA
+- Anastassia Loukina, Educational Testing Service, USA
+- Michelle Morales, IBM, USA
 
 ## Contact
 naacl-2019-industry-track@googlegroups.com
