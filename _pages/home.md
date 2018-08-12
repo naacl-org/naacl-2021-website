@@ -46,18 +46,28 @@ The Association for Computational Linguistics (ACL) invites you to participate i
             <td>February 22, 2019</td>
         </tr>
         <tr>
-          <td>Final versions of papers due</td>
+          <td>Camera ready papers due</td>
           <td>Monday</td>
           <td>April 1, 2019</td>
         </tr>
         <tr>
-            <td>Main conference</td>
-            <td>Sunday &ndash; Friday</td>
-            <td>June 2 &ndash; 7, 2019</td>
+            <td>Tutorials</td>
+            <td>Sunday</td>
+            <td>June 2</td>
         </tr>        
-    </tbody>
+        <tr>
+            <td>Main conference</td>
+            <td>Monday &ndash; Wednesday</td>
+            <td>June 3 &ndash; 5, 2019</td>
+        </tr>        
+        <tr>
+            <td>Workshops</td>
+            <td>Thursday &ndash; Friday</td>
+            <td>June 6 &ndash; 7, 2019</td>
+        </tr>        
+</tbody>
 </table>
-<h5>Last updated: August 10, 2018. All deadlines are 11.59 pm UTC -12h.</h5>
+<h5>Last updated: August 12, 2018. All deadlines are 11.59 pm UTC -12h.</h5>
 
 <h2>NAACL-HLT 2019 Anti-Harassment Policy</h2>
 NAACL-HLT 2019 adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a>. Any participant who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
