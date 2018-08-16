@@ -61,9 +61,9 @@ Lu Wang, Northeastern University, USA
 <h3>Video Chair [<a href="mailto:srwhitehead31@gmail.com">email</a>]</h3>
 Spencer Whitehead, Rensselaer Polytechnic Institute, USA
 
-<h3>Remote Presentation Co-Chairs</h3>
+<h3>Remote Presentation Co-Chairs [<a href="mailto:naacl-2019-remote-presentation@googlegroups.com">email</a>]</h3>
 Meg Mitchell, Google, USA<br/>
-Abhinva Misra, Educational Testing Service, USA
+Abhinav Misra, Educational Testing Service, USA
 
 <h3>Local Sponsorship Co-Chairs</h3>
 Chris Callison-Burch, University of Pennsylvania, USA<br/>
