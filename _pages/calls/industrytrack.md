@@ -13,38 +13,38 @@ sidebar:
 
 <span style="font-weight: bolder;font-size: larger;">Industry Track: Call For Papers</span>
 
-The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL community to share and learn about recent advances and challenges of real-world application of computational linguistics.
+The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL community to share and learn about recent advances and challenges in the deployment of language processing technologies in real-world systems. Transitioning a technology to real-world industrial strength applications raises a different set of technical issues. Such issues do not receive the deserved attention in language technology forums and are often relegated to isolated instances and vagaries of specific systems, with little effort to learn from common experiences.
 
-We invite submissions in all technical areas of NAACL-HLT 2019 **[TODO: LINK]** pertaining to development and deployment of real-world applications. Papers that describe key learnings and new challenges posed by real world implementations, from both industry and academia, are solicited, including, but not limited to, the following topics listed in alphabetical order:
+We invite submissions in all technical areas of NAACL-HLT 2019 **[ADD LINK]** pertaining to practical issues of deployment of NLP and speech processing technologies in real-world systems. Papers that describe key learnings and new challenges posed by real world implementations, from both industry and academia, are solicited, including, but not limited to, the following topics listed in alphabetical order:
 
-- Application specific datasets
 - Continuous improvement of deployed systems
 - Cost considerations
+- Design of application-relevant datasets
 - Ethical issues specific to deployed systems
-- Evaluation metrics
 - Experience papers describing learnings and best practices 
 - Handling unexpected inputs
 - Implementation at scale
 - Monitoring and maintenance
+- Non-standard evaluation metrics
 - Novel practical solutions to known problems
 - Novel previously unsolved problems
-- Offline and online evaluation methodologies
+- Offline and online system evaluation methodologies
 - Operational processes and workflows
 - System combination and hybridization
 
 Papers highlighting interesting negative results related to real-world applications are welcome.
 
 ## Submission
-Papers submitted to NAACL-HLT 2019 industry track should follow NAACL-HLT 2019 author guidelines **[TODO: LINK]**.
+Papers submitted to NAACL-HLT 2019 industry track should follow NAACL-HLT 2019 author guidelines **[ADD LINK]**.
 
 - Similar to the research track, authors are required to register the title, author list, abstract and keywords by December 3, 2018.
 - Industry track papers should not exceed six pages in length (excluding references). Accepted papers will be given one additional page of content (up to 7 pages) so that reviewers’ comments can be taken into account.
-- Papers should be submitted electronically in PDF format via the NAACL-HLT 2019 industry track online submission system **[TODO: LINK]**.
+- Papers should be submitted electronically in PDF format via the NAACL-HLT 2019 industry track online submission system **[ADD LINK]**.
 
 Note that all NAACL-HLT 2019 tracks will have the same submission deadline. Submissions of identical or closely related work to multiple tracks will be treated as duplicate submissions.
 
 ### Reviewing criteria
-Submissions to the industry track should be relevant to real-world application focus of the track as described in this call for papers. Relevant papers that meet formatting requirements will be reviewed in a double-blind manner and will be assessed on the basis of their contribution, clarity, completeness and novelty.
+Submissions to the industry track should be relevant to real-world application focus of the track as described in this call for papers. Relevant papers that meet formatting requirements will be reviewed in a double-blind manner and will be assessed on the basis of their industry track relevance, contribution, clarity, completeness and novelty.
 
 ## Important Dates
 Industry track will have the same deadlines as the research track.
@@ -72,19 +72,18 @@ Industry track will have the same deadlines as the research track.
         </tr>  
     </tbody>
 </table>
-Last updated: August 10, 2018. All deadlines are 11.59 pm UTC -12h.
+Note: Last updated: August 10, 2018. All deadlines 11.59pm UTC-12h.
 
-## Organizers
-**General Chair**
-- Jill Burstein, Educational Testing Service, USA
-
+## Contact
 **Industry Track Chairs**
 - Rohit Kumar, Spotify, USA
 - Anastassia Loukina, Educational Testing Service, USA
 - Michelle Morales, IBM, USA
 
-## Contact
-naacl-2019-industry-track@googlegroups.com
+Email: naacl-2019-industry-track@googlegroups.com
+
+**General Chair**
+- Jill Burstein, Educational Testing Service, USA
 
 ## Frequently Asked Questions
 
@@ -102,7 +101,7 @@ Yes! If your work matches the industry track call for papers, consider submittin
 
 *I work in industry. Can I still submit my paper to the research track?*
 
-Absolutely! There are no changes to the main conference submissions. Industry track offers a forum to submit papers describing aspects of real-world application that may differ in focus from  the research track reviewing criteria.
+Absolutely! There are no changes to the main conference submissions. Industry track offers a forum to submit papers describing aspects of real-world application that may differ in focus from the research track reviewing criteria.
 
 *Will industry papers be published as proceedings?*
 
