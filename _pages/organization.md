@@ -48,6 +48,10 @@ Laura Wendlandt, University of Michigan, USA<br/>
 Greg Durrett, University of Texas at Austin, USA<br/>
 Na-Rae Han, University of Pittsburgh, USA
 
+<h3>Diversity &amp; Inclusion Co-Chairs [<a href="mailto:naacl2019-diversity-inclusion@googlegroups.com">email</a>]</h3>
+Jason Eisner, Johns Hopkins University, USA<br/>
+Natalie Schluter, IT University, Copenhagen, Denmark
+
 <h3>Publicity &amp; Social Media Co-Chairs [<a href="mailto:naacl-2019-social-media@googlegroups.com">email</a>]</h3>
 Yuval Pinter, Georgia Institute of Technology, USA<br/>
 Rachael Tatman, Kaggle, USA
