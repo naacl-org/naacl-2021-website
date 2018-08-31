@@ -14,6 +14,9 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**August 31, 2018**. The Diversity & Inclusion chairs are soliciting ideas about new initiatives at NAACL 2019 to ensure that all attendees have a good experience at the conference. Please contribute [here](https://docs.google.com/forms/d/e/1FAIpQLSeKwsLx7ihRjtHyRxWzPyz_tfgjfW2l0XYSsPelfbUbu1BfCw/viewform).
+{: .notice--info} 
+
 **August 10, 2018**. The deadlines for long, short, &amp; industry track paper submissions, notification of acceptances, and camera ready versions are now posted. See <strong>Important Dates</strong> section below.
 {: .notice--info} 
 
