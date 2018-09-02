@@ -15,6 +15,11 @@ The 17th Annual Conference of the North American Chapter of the Association for 
 
 NAACL-HLT 2019 has a goal of a diverse technical program--in addition to traditional research results, papers may present negative findings, survey an area, announce the creation of a new resource, argue a position, report novel linguistic insights derived using existing techniques, and reproduce, or fail to reproduce, previous results. 
 
+<div class="text-center">
+<a href="https://www.softconf.com/naacl2019/papers" target="_blank" class="btn btn--primary">Submit a Paper</a>
+</div>
+
+
 ## Topics
 
 While NAACL 2019 will have a theme (described below), we anticipate a comprehensive technical program. Relevant topics for the conference include, but are not limited to, the following areas (in alphabetical order):
