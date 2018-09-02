@@ -46,7 +46,7 @@ Papers submitted to NAACL-HLT 2019 industry track should follow the author guide
 - Similar to the research track, authors must register the title, author list, abstract and keywords by **December 3, 2018**.
 - Industry track papers should not exceed six (6) pages in length (excluding references). Accepted papers will be given one additional page of content (up to 7 pages) so that reviewers’ comments can be taken into account.
 - Industry papers will be presented orally or as posters to be determined by the program committee. The decisions as to which papers will be presented orally and which ones as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between industry papers presented orally and those presented as posters.
-- Papers should be submitted electronically in PDF format via the [NAACL-HLT 2019 industry track online submission system](https://www.softconf.com/naacl2019/papers).
+- Papers should follow the same style and format guidelines ([LaTeX](/downloads/naaclhlt2019-latex.zip), [Word](/downloads/naaclhlt2019-word.zip), [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth)) and be submitted electronically in PDF format via the [NAACL-HLT 2019 online submission system](https://www.softconf.com/naacl2019/papers). 
 
 **NAACL-HLT 2019 research and industry tracks will have the same submission deadline. Submissions of identical or closely related work to multiple tracks will be rejected by all tracks.**
 
