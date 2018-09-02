@@ -1,11 +1,11 @@
 # main links
 main:
 
+  - title: "Calls"
+    url: /calls/papers
+
   - title: "Blog"
     url: /blog
-
-  # - title: "Calls"
-  #   url: /calls/papers
 
   # - title: "Registration"
   #   url: /registration
@@ -28,13 +28,13 @@ main:
 #       - title: "Organizing Committee"
 #       - url: /pages/organization.md
 
-# calls:
-#   - title: Call for
-#     children:
-#       - title: "Long & Short Papers"
-#         url: /calls/papers/
-#       - title: "System Demonstrations"
-#         url: /calls/demos/
+calls:
+  - title: Call for
+    children:
+      - title: "Rsesearch Track Papers"
+        url: /calls/papers/
+      - title: "Industry Track Papers"
+        url: /calls/industry/
 
 # program:
 #   - title: Program Details
