@@ -437,7 +437,7 @@
     font-weight: bold;
   }
 
-  @include breakpoint(max-width ($large - 1px)) {
+  @include breakpoint(max-width (300px)) {
     position: relative;
     max-height: 0;
     opacity: 0%;
@@ -451,7 +451,7 @@
   }
 }
 
-@include breakpoint(max-width ($large - 1px)) {
+@include breakpoint(max-width (300px)) {
   .nav__list input:checked ~ .nav__items {
     -webkit-transition: 0.5s ease-in-out;
     transition: 0.5s ease-in-out;
