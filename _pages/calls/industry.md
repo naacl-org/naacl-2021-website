@@ -19,7 +19,7 @@ The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL 
 
 ## Topics
 
-We invite submissions in all [technical areas of NAACL-HLT 2019](http://localhost:4000/calls/papers/#topics) pertaining to practical issues in real-world deployment of NLP and speech processing technologies. Papers that describe key lessons learned and new challenges posed by real-world implementations are solicited, including, but not limited to, the following topics (in alphabetical order):
+We invite submissions in all [technical areas of NAACL-HLT 2019](/calls/papers/#topics) pertaining to practical issues in real-world deployment of NLP and speech processing technologies. Papers that describe key lessons learned and new challenges posed by real-world implementations are solicited, including, but not limited to, the following topics (in alphabetical order):
 
 - Continuous improvement of deployed systems
 - Cost considerations
