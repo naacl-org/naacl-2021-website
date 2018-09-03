@@ -56,7 +56,7 @@ As in recent years, some of the presentations at the conference will be of paper
 
 **Abstract Submission Will Be Required for Long and Short Papers**
 
-Paper submission will be a two-step process. Please read carefully. Step 1 is the *abstract submission process* that requires you to register the title, author list, abstract and keywords by **Dec 3, 2018** in the START system.  This will help us to accelerate matching papers with reviewers. Step 2 is the *long and short paper submission* which will be due on **December 10, 2018**. The title, author list, abstract and keywords may not be changed after Dec 3, 2018; if they change, the entry in START will not match the full paper when it is registered, and it will be rejected as not having met the Abstract deadline.
+Paper submission will be a two-step process. Please read carefully. Step 1 is the *abstract submission process* that requires you to register the title, author list, abstract and keywords by **December 3, 2018** in the START system.  This will help us to accelerate matching papers with reviewers. Step 2 is the *long and short paper submission* which will be due on **December 10, 2018**. The title, author list, abstract and keywords may not be changed after December 3, 2018; if they change, the entry in START will not match the full paper when it is registered, and it will be rejected as not having met the Abstract deadline.
 
 ### Long Papers
 
@@ -153,16 +153,16 @@ At least one author of each accepted paper must register for NAACL-HLT 2019 by t
 
 ### Important Dates
 
-<table style="width: 60%">
+<table style="width: 90%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Abstract submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
-            <td style="width: 30%;">Monday</td>
+            <td style="width: 50%;">Abstract submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
+            <td style="width: 15%;">Monday</td>
             <td>December 3, 2018</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
-            <td style="width: 30%;">Monday</td>
+            <td>Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
+            <td>Monday</td>
             <td>December 10, 2018</td>
         </tr>
         <tr>
@@ -183,5 +183,8 @@ At least one author of each accepted paper must register for NAACL-HLT 2019 by t
 ## Contact Information
 
 - Email: [naacl-2019-program-chairs@googlegroups.com](mailto:naacl-2019-program-chairs@googlegroups.com)
-- Program co-chairs: Christy Doran (Interactions), Ted Pedersen (University of Minnesota Duluth) and Thamar Solorio (University of Houston)
+- Program co-chairs
+  - Christy Doran (Interactions)
+  - Ted Pedersen (University of Minnesota Duluth)
+  - Thamar Solorio (University of Houston)
 - General chair: Jill Burstein (Educational Testing Service)

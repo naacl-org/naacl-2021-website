@@ -56,16 +56,16 @@ Submissions to the industry track should be relevant to real-world application f
 ## Important dates
 The industry track will have the same deadlines as the research track.
 
-<table style="width: 60%">
+<table style="width: 90%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Abstract submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
-            <td style="width: 30%;">Monday</td>
+            <td style="width: 50%;">Abstract submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
+            <td style="width: 15%;">Monday</td>
             <td>December 3, 2018</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
-            <td style="width: 30%;">Monday</td>
+            <td>Final paper submissions due<br/>(<i>long, short, &amp; industry track</i>)</td>
+            <td>Monday</td>
             <td>December 10, 2018</td>
         </tr>
         <tr>
@@ -85,7 +85,10 @@ The industry track will have the same deadlines as the research track.
 
 ## Contact Information
 - Email: [naacl-2019-industry-track@googlegroups.com](mailto:naacl-2019-industry-track@googlegroups.com)
-- Industry track co-chairs: Rohit Kumar (Spotify), Anastassia Loukina (Educational Testing Service), and Michelle Morales (IBM)
+- Industry track co-chairs
+  - Rohit Kumar (Spotify)
+  - Anastassia Loukina (Educational Testing Service)
+  - Michelle Morales (IBM)
 - General chair: Jill Burstein (Educational Testing Service)
 
 ## Frequently Asked Questions
@@ -102,7 +105,7 @@ We are looking for applications that are deployed (or expected to be deployed) f
 
 Yes! If your work matches the industry track call for papers, consider submitting a paper to the industry track.
 
-**I work in the industry. Can I still submit my paper to the research track?***
+**I work in the industry. Can I still submit my paper to the research track?**
 
 Absolutely! There are no changes to the main conference submissions. The industry track offers a forum to submit papers describing aspects of real-world applications that may differ in focus from the research track reviewing criteria.
 
