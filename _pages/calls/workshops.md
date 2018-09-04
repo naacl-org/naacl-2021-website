@@ -21,6 +21,11 @@ We solicit proposals on any topic of interest to the ACL communities. Workshops 
 
 - EMNLP-IJCNLP 2019 (the Conference on Empirical Methods in Natural Language Processing &  International Joint Conference on Natural Language Processing 2019) will be held later in 2019 (after the other two conferences). Exact details on dates and venue for EMNLP-IJCNLP workshops will be announced later.
 
+<div class="text-center">
+<a href="https://www.softconf.com/i/acl-workshops2019" target="_blank" class="btn btn--primary">Submit a Proposal</a>
+</div>
+
+
 ## Submission
 Proposals should be submitted as PDF documents. Note that submissions should essentially be ready to be turned into a Call for Workshop Papers within one week of notification (see Timelines below).
 The proposals should contain:
