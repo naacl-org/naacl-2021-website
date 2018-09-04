@@ -8,9 +8,9 @@ header:
 excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 ---
 
-<div class="text-center">
+<!-- <div class="text-center">
 <a href="https://www.softconf.com/naacl2019/papers" target="_blank" class="btn btn--primary">Submit a Paper</a>
-</div>
+</div> -->
 
 <h2>News</h2>
 
