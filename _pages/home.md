@@ -14,6 +14,9 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**September 4, 2018**. The inaugural [calls for workshop proposals](/calls/workshops) has been posted.
+{: .notice--info} 
+
 **September 2, 2018**. The inaugural calls for papers for both the [research track](/calls/papers) as well as the [industry track](/calls/industry) have been posted. Note that both tracks have a [two-step submission process](/calls/papers/#submission-types-and-requirements) &amp; the same set of [deadlines](/calls/papers/#important-dates).
 {: .notice--info} 
 
@@ -22,10 +25,6 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 **August 10, 2018**. The deadlines for long, short, &amp; industry track paper submissions, notification of acceptances, and camera ready versions are now posted. See <strong>Important Dates</strong> section below.
 {: .notice} 
-
-**August 6, 2018**. We have launched the [NAACL 2019 Conference Blog](/blog) to feature communication from various chairs and invited guests. Read the inaugural post [here](/blog/call-for-volunteers/)!
-{: .notice} 
-
 
 <h2>Welcome!</h2>
 
