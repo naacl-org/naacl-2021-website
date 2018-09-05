@@ -17,7 +17,7 @@ We solicit proposals on any topic of interest to the ACL communities. Workshops 
 
 - [ACL 2019](http://www.acl2019.org/): The 57th Annual Meeting of the Association for Computational Linguistics will be held in Florence, Italy, July 28&ndash;August 2, 2019, with workshops to be held on August 1&ndash;2, 2019. 
 
-- [NAACL HLT 2019](http://naacl2019.org): The 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies will be held in Minneapolis, Minnesota, USA, June 2&ndash;June 7, 2019 with workshops to be held on June 6&ndash;7, 2019: http://naacl2019.org/
+- [NAACL HLT 2019](http://naacl2019.org): The 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies will be held in Minneapolis, Minnesota, USA, June 2&ndash;June 7, 2019 with workshops to be held on June 6&ndash;7, 2019.
 
 - EMNLP-IJCNLP 2019 (the Conference on Empirical Methods in Natural Language Processing &  International Joint Conference on Natural Language Processing 2019) will be held later in 2019 (after the other two conferences). Exact details on dates and venue for EMNLP-IJCNLP workshops will be announced later.
 
