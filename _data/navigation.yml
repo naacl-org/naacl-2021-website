@@ -7,14 +7,14 @@ main:
   - title: "Blog"
     url: /blog
 
-  # - title: "Registration"
-  #   url: /registration
+  - title: "Registration"
+    url: /registration
 
   # - title: "Program"
   #   url: "/program/keynotes/"
 
-  # - title: "Participants"
-  #   url: "/participants"
+  - title: "Participants"
+    url: "/participants"
 
   - title: "Organization"
     url: /organization
@@ -31,7 +31,7 @@ main:
 calls:
   - title: Call for
     children:
-      - title: "Rsesearch Track Papers"
+      - title: "Research Track Papers"
         url: /calls/papers/
       - title: "Industry Track Papers"
         url: /calls/industry/
