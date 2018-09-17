@@ -18,6 +18,12 @@ Whether you want to check out nearby Minneapolis entertainment districts or expl
 
 You can find various local attractions [here](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm/area-attractions) to occupy your free time.
 
+## Transportation
+
+There is light rail service from both airport terminals to within a few blocks of the conference hotel, for $2 each way.  Tickets are purchased from vending machines at the stations, and trains run every 10 minutes from 6am-7:30pm, and then 3-4 times an hour 7:30pm to midnight.
+
+Specifically, you want the BLUE line Northbound toward downtown (the other direction will take you to the Mall of America).  Take it to the Nicollet Mall Station stop (30min ride), which is at 5th & Nicollet. From there, you can walk the half mile along Nicollet to the hotel (12th & Nicollet), or take any of the 10,11,17 or 18 bus lines (the 10 and 18 are free along this route).
+
 ## Accommodation
 
 We have secured accommodation for participants at NAACL-HLT 2019 discounted rates at the Hyatt Regency Minneapolis which is also the conference venue.  You can learn more about the hotel [here](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm).
