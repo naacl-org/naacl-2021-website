@@ -13,9 +13,9 @@ toc_icon: "cog"
 
 The industry track at NAACL-HLT 2019 will be a venue for all members of the ACL community to share and learn about recent advances and challenges in the deployment of language processing technologies in real-world systems. Transitioning a technology to real-world industrial strength applications raises a unique set of technical issues. Such issues do not receive the deserved attention in language technology forums and are often relegated to isolated instances and vagaries of specific systems, with little effort to learn from common experiences.
 
-<!-- <div class="text-center">
-<a href="https://www.softconf.com/naacl2019/papers" target="_blank" class="btn btn--primary">Submit a Paper</a>
-</div> -->
+<div class="text-center">
+<a href="https://www.softconf.com/naacl2019/industry" target="_blank" class="btn btn--primary">Submit a Paper</a>
+</div>
 
 ## Topics
 
@@ -47,7 +47,7 @@ Papers submitted to NAACL-HLT 2019 industry track should follow the author guide
 - Similar to the research track, authors must register the title, author list, abstract and keywords by **December 3, 2018**.
 - Industry track papers should not exceed six (6) pages in length (excluding references). Accepted papers will be given one additional page of content (up to 7 pages) so that reviewers’ comments can be taken into account.
 - Industry papers will be presented orally or as posters to be determined by the program committee. The decisions as to which papers will be presented orally and which ones as poster presentations will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between industry papers presented orally and those presented as posters.
-- Papers should follow the same style and format guidelines ([LaTeX](/downloads/naaclhlt2019-latex.zip), [Word](/downloads/naaclhlt2019-word.zip), [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth)) and be submitted electronically in PDF format via the NAACL-HLT 2019 online submission system (link coming soon). 
+- Papers should follow the same style and format guidelines ([LaTeX](/downloads/naaclhlt2019-latex.zip), [Word](/downloads/naaclhlt2019-word.zip), [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth)) and be submitted electronically in PDF format via the <a href="https://www.softconf.com/naacl2019/industry">NAACL-HLT 2019 online submission system</a>. 
 
 **NAACL-HLT 2019 research and industry tracks will have the same submission deadline. Submissions of identical or closely related work to multiple tracks will be rejected by all tracks.**
 
