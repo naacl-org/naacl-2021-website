@@ -29,7 +29,7 @@ All submissions should be made electronically via [START](https://www.softconf.c
 
 - A paper describing the motivation and technical details of the system, including visual aids (e.g., screenshots, snapshots, or diagrams). See examples of recent accepted demo papers in NAACL 2018, ACL 2018, ACL 2017, EMNLP 2017, NAACL 2016, ACL 2015, NAACL 2015.
 
-    - The papers must be no more than four pages, with unlimited pages for references. Please use the main NAACL 2019 paper style files ([LaTeX](http://naacl2019.org/downloads/naaclhlt2019-latex.zip), [Word](http://naacl2019.org/downloads/naaclhlt2019-word.zip), [Overleaf(https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth)). Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account. 
+    - The papers must be no more than four pages, with unlimited pages for references. Please use the main NAACL 2019 paper style files ([LaTeX](http://naacl2019.org/downloads/naaclhlt2019-latex.zip), [Word](http://naacl2019.org/downloads/naaclhlt2019-word.zip), [Overleaf](https://www.overleaf.com/latex/templates/instructions-for-naacl-hlt-2019-proceedings/xyyfwfkswhth)). Accepted papers will be given one additional page of content so that reviewers’ comments can be taken into account. 
 
     - Any papers that do not follow the official style guidelines and page limits will be automatically rejected. 
 
