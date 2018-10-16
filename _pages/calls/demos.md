@@ -39,7 +39,7 @@ All submissions should be made electronically via [START](https://www.softconf.c
 
     - The production quality of the video is not of interest. Hence, we encourage the videos to be simply a screencast of the software that is getting demoed, with zero to minimal editing efforts. 
 
-    - We recommend that you publish your video to YouTube or another website and include the link in your paper. If you prefer not to publicly upload a screencast, please submit the video (in MPG4 format). The video must be included as supplementary material when you submit your paper through SoftConf. 
+    - We recommend that you publish your video to YouTube or another website and include the link in your paper. If you prefer not to publicly upload a screencast, please submit the video (in MPEG4 format). The video must be included as supplementary material when you submit your paper through SoftConf. 
 
 In addition, we highly recommend that you also include a link to a website that hosts or demonstrates your system in the paper draft. However, we understand that this may not be possible for certain types of services or products.
 
