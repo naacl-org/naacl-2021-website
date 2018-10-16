@@ -14,16 +14,16 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**September 11, 2018**. Preliminary information about likely [registration rates](/registration) and the [conference venue and accommodation](/participants) has been posted.
+**October 16, 2018**. The inaugural [call for system demonstrations](/calls/demos) has been posted.
 {: .notice--info} 
+
+**September 11, 2018**. Preliminary information about likely [registration rates](/registration) and the [conference venue and accommodation](/participants) has been posted.
+{: .notice} 
 
 **September 4, 2018**. The inaugural [calls for workshop proposals](/calls/workshops) has been posted.
-{: .notice--info} 
+{: .notice} 
 
 **September 2, 2018**. The inaugural calls for papers for both the [research track](/calls/papers) as well as the [industry track](/calls/industry) have been posted. Note that both tracks have a [two-step submission process](/calls/papers/#submission-types-and-requirements) &amp; the same set of [deadlines](/calls/papers/#important-dates).
-{: .notice--info} 
-
-**August 31, 2018**. The Diversity & Inclusion chairs are soliciting ideas about new initiatives at NAACL 2019 to ensure that all attendees have a good experience at the conference. Please contribute [here](https://docs.google.com/forms/d/e/1FAIpQLSeKwsLx7ihRjtHyRxWzPyz_tfgjfW2l0XYSsPelfbUbu1BfCw/viewform).
 {: .notice} 
 
 <h2>Welcome!</h2>

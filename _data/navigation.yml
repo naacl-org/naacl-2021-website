@@ -37,6 +37,8 @@ calls:
         url: /calls/industry/
       - title: "Workshop Proposals"
         url: /calls/workshops/
+      - title: "System Demonstrations"
+        url: /calls/demos/
 
 # program:
 #   - title: Program Details
