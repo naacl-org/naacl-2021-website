@@ -19,7 +19,7 @@ We solicit proposals on any topic of interest to the ACL communities. Workshops 
 
 - [NAACL HLT 2019](http://naacl2019.org): The 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies will be held in Minneapolis, Minnesota, USA, June 2&ndash;June 7, 2019 with workshops to be held on June 6&ndash;7, 2019.
 
-- EMNLP-IJCNLP 2019 (the Conference on Empirical Methods in Natural Language Processing &  International Joint Conference on Natural Language Processing 2019) will be held later in 2019 (after the other two conferences). Exact details on dates and venue for EMNLP-IJCNLP workshops will be announced later.
+- EMNLP-IJCNLP 2019 (the Conference on Empirical Methods in Natural Language Processing &  International Joint Conference on Natural Language Processing 2019) will be held in will be held in Asia World Expo, Hong Kong, November 3&ndash;November 7, 2019 with workshops to be held on November 3&ndash;November 4, 2019.
 
 <div class="text-center">
 <a href="https://www.softconf.com/i/acl-workshops2019" target="_blank" class="btn btn--primary">Submit a Proposal</a>
@@ -157,8 +157,40 @@ The tentative individual dates for 2019 workshops is as follows:
 </table>
 
 ### EMNLP-IJCNLP
-
-TBA
+<table style="width: 90%">
+    <tbody>
+        <tr>
+            <td style="width: 40%;">First call for workshop papers</td>
+            <td style="width: 30%;">Friday</td>
+            <td>May 10, 2019</td>
+        </tr>
+        <tr>
+            <td style="width: 40%;">Second call for workshop papers</td>
+            <td style="width: 30%;">Friday</td>
+            <td>June 14, 2019</td>
+        </tr>
+        <tr>
+            <td>Workshop papers due</td>
+            <td>Friday</td>
+            <td>July 19, 2019</td>
+        </tr>
+        <tr>
+            <td>Notification of acceptance</td>
+            <td>Friday</td>
+            <td>August 16, 2019</td>
+        </tr>
+        <tr>
+          <td>Camera-ready papers due</td>
+          <td>Friday</td>
+          <td>September 6, 2019</td>
+        </tr>
+        <tr>
+          <td>Workshop dates</td>
+          <td>Sunday&ndash;Monday</td>
+          <td>November 3&ndash;4, 2019</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Workshop Co-Chairs
 
@@ -172,7 +204,8 @@ Swapna Somasundaran, Educational Testing Service (ETS), Princeton, USA<br/>
 Elena Volodina, University of Gothenburg, Sweden<br/>
 
 **EMNLP-IJCNLP**<br/>
-TBA
+Vera Demberg, Saarland University, Germany<br/>
+Naoaki Okazaki, Tokyo Institute of Technology, Japan
 
 ## Contact 
 

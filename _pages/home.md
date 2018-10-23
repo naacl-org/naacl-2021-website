@@ -14,13 +14,13 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**October 16, 2018**. The inaugural [call for system demonstrations](/calls/demos) has been posted.
+**October 23, 2018**. The final [calls for workshop proposals](/calls/workshops) has been posted. It now includes the dates for EMNLP-IJCNLP 2019 workshops.
 {: .notice--info} 
 
-**September 11, 2018**. Preliminary information about likely [registration rates](/registration) and the [conference venue and accommodation](/participants) has been posted.
+**October 16, 2018**. The inaugural [call for system demonstrations](/calls/demos) has been posted.
 {: .notice} 
 
-**September 4, 2018**. The inaugural [calls for workshop proposals](/calls/workshops) has been posted.
+**September 11, 2018**. Preliminary information about likely [registration rates](/registration) and the [conference venue and accommodation](/participants) has been posted.
 {: .notice} 
 
 **September 2, 2018**. The inaugural calls for papers for both the [research track](/calls/papers) as well as the [industry track](/calls/industry) have been posted. Note that both tracks have a [two-step submission process](/calls/papers/#submission-types-and-requirements) &amp; the same set of [deadlines](/calls/papers/#important-dates).
