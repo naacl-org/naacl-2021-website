@@ -191,7 +191,7 @@ At least one author of each accepted paper must register for NAACL-HLT 2019 by t
 
 ## Frequently Asked Questions
 
-**What date should we use, the submission date or the release date?**
+**What date should we use for the pre-publication anonymity period start date, the submission date or the release date?**
 
 This question relates to the fact that venues like arxiv.org can take up to three days to publish the paper. The date that counts is submission date of a non-anonymized version. So you may submit a non-anonymized version to arxiv or other preprint servers up until November 2nd.
 
