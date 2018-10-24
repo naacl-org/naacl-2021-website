@@ -8,11 +8,14 @@ header:
 excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 ---
 
-<!-- <div class="text-center">
+<div class="text-center">
 <a href="https://www.softconf.com/naacl2019/papers" target="_blank" class="btn btn--primary">Submit a Paper</a>
-</div> -->
+</div>
 
 <h2>News</h2>
+
+**October 24, 2018**. We have posted some [FAQs](/calls/papers#frequently-asked-questions) about the ACL anonymity period. Please make sure to check there before emailing the program chairs.
+{: .notice--info} 
 
 **October 23, 2018**. The final [calls for workshop proposals](/calls/workshops) has been posted. It now includes the dates for EMNLP-IJCNLP 2019 workshops.
 {: .notice--info} 

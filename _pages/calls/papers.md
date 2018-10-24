@@ -188,3 +188,19 @@ At least one author of each accepted paper must register for NAACL-HLT 2019 by t
   - Ted Pedersen (University of Minnesota Duluth)
   - Thamar Solorio (University of Houston)
 - General chair: Jill Burstein (Educational Testing Service)
+
+## Frequently Asked Questions
+
+**What date should we use, the submission date or the release date?**
+
+This question relates to the fact that venues like arxiv.org can take up to three days to publish the paper. The date that counts is submission date of a non-anonymized version. So you may submit a non-anonymized version to arxiv or other preprint servers up until November 2nd.
+
+**I want to submit my NAACL paper to a non-archival workshop with submission date BEFORE the anonymity period starts, but that happens DURING the anonymity period.**
+
+The policy does not prevent this, so long as it is a non-archival version.
+
+**Can we advertise a non-anonymized version on social media or on other channels?**
+
+Not during the anonymity period.
+
+In general, however, we want to encourage authors to avoid things that will compromise double-blind reviewing. If you cannot wait to submit non-anonymized versions or if you need to have a non-anonymized version available earlier, consider submitting your work to the Computational Linguistics journal, which does not require anonymization and has a track for "short" (i.e., conference-length) papers.
