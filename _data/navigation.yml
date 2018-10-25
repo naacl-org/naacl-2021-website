@@ -35,10 +35,12 @@ calls:
         url: /calls/papers/
       - title: "Industry Track Papers"
         url: /calls/industry/
-      - title: "Workshop Proposals"
-        url: /calls/workshops/
       - title: "System Demonstrations"
         url: /calls/demos/
+      - title: "Workshop Proposals"
+        url: /calls/workshops/
+      - title: "Tutorial Proposals"
+        url: /calls/tutorials/
 
 # program:
 #   - title: Program Details

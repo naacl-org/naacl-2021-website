@@ -14,24 +14,18 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**October 25, 2018**. The inaugural [call for tutorial proposals](/calls/tutorials/) has been posted.
+{: .notice--info} 
+
 **October 24, 2018**. We have posted some [FAQs](/calls/papers#frequently-asked-questions) about the ACL anonymity period. Please make sure to check there before emailing the program chairs.
 {: .notice--info} 
 
 **October 23, 2018**. The final [calls for workshop proposals](/calls/workshops) has been posted. It now includes the dates for EMNLP-IJCNLP 2019 workshops.
 {: .notice--info} 
 
-**October 16, 2018**. The inaugural [call for system demonstrations](/calls/demos) has been posted.
-{: .notice} 
-
-**September 11, 2018**. Preliminary information about likely [registration rates](/registration) and the [conference venue and accommodation](/participants) has been posted.
-{: .notice} 
-
-**September 2, 2018**. The inaugural calls for papers for both the [research track](/calls/papers) as well as the [industry track](/calls/industry) have been posted. Note that both tracks have a [two-step submission process](/calls/papers/#submission-types-and-requirements) &amp; the same set of [deadlines](/calls/papers/#important-dates).
-{: .notice} 
-
 <h2>Welcome!</h2>
 
-The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. We will update this website with more information as it becomes available.
+The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. The social event will be held on Tuesday, June 4th at the [Minneapolis Institute of Art](https://new.artsmia.org/). We will update this website with more information as it becomes available.
 
 <h2 id="dates">Important Dates</h2>
 
