@@ -9,7 +9,11 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 ---
 
 <div class="text-center">
-<a href="https://www.softconf.com/naacl2019/papers" target="_blank" class="btn btn--primary">Submit a Paper</a>
+    <span style="font-size: normal;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></span><br/>
+    <span style="font-weight: bold; font-size: smaller;">
+    Tutorials : June 2<br/>&nbsp;Main Conference : June 3 &ndash; June 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : June 6 &ndash; June 7</span>
+    <br/><br/>
+    <a href="https://www.softconf.com/naacl2019/papers" target="_blank" class="btn btn--primary">Submit a Paper</a>
 </div>
 
 <h2>News</h2>
