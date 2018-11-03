@@ -31,7 +31,7 @@ main:
 calls:
   - title: Call for
     children:
-      - title: "Research Track Papers"
+      - title: "Main Conference Papers"
         url: /calls/papers/
       - title: "Industry Track Papers"
         url: /calls/industry/
