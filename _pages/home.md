@@ -18,17 +18,11 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**November 15, 2018**. Submissions are now *open* for long and short paper abstracts! The deadlines are December 3rd for the abstracts and December 10th for the full papers. 
+**November 28, 2018**. Remember that NAACL submissions this year follow a [two-step process](calls/papers/#submission-types-and-requirements): abstracts on December 3 and full papers on December 10. Please read the entire [call for papers](/calls/papers) carefully including the [important dates](/calls/papers/#important-dates). **Submissions are already open for abstracts**!
 {: .notice--info} 
 
-**November 8, 2018**. In order to accommodate unexpected delays affecting the ICLR reviews, authors of ICLR submissions now have until *November 10* to withdraw their papers from ICLR and submit revised versions to NAACL.
-{: .notice} 
-
-**October 25, 2018**. The inaugural [call for tutorial proposals](/calls/tutorials/) has been posted.
-{: .notice} 
-
-**October 24, 2018**. We have posted some [FAQs](/calls/papers#frequently-asked-questions) about the ACL anonymity period. Please make sure to check there before emailing the program chairs.
-{: .notice} 
+**November 15, 2018**. Submissions are now *open* for long and short paper abstracts! The deadlines are December 3rd for the abstracts and December 10th for the full papers. 
+{: .notice--info} 
 
 <h2>Welcome!</h2>
 
