@@ -1,6 +1,9 @@
 # main links
 main:
 
+  - title: "Submit"
+    url: /submit
+
   - title: "Calls"
     url: /calls/papers
 
