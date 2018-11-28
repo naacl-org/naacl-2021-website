@@ -26,3 +26,8 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+{% if page.script %}
+    {{ page.script }}
+{% endif %}
+
