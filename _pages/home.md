@@ -16,7 +16,8 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**November 28, 2018**. Remember that this year the main conference submissions (*both* research &amp; industry tracks) follow a [two-step process](calls/papers/#submission-types-and-requirements): abstracts first (on December 3) and then full papers (on December 10). Please read the entire [call for papers](/calls/papers) carefully including the [important dates](/calls/papers/#important-dates). **Submissions are already open for abstracts**!
+**November 28, 2018**. Remember that this year the main conference submissions (*both* research &amp; industry tracks) follow a [two-step process](calls/papers/#submission-types-and-requirements): abstracts first (on December 3) and then full papers (on December 10). Please read the entire [call for papers](/calls/papers) carefully including the [important dates](/calls/papers/#important-dates). Submissions are already open for abstracts!
+**Note**: If you don't see a submission link after you log into SoftConf, you may need to update your profile first.
 {: .notice--info} 
 
 **November 27, 2018**. 
