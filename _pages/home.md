@@ -79,7 +79,7 @@ The SoftConf submission links for the each of the conference tracks are listed b
 
 - <a target="_blank" href="https://www.softconf.com/naacl2019/papers">Main Conference</a>
 - <a target="_blank" href="https://www.softconf.com/naacl2019/industry">Industry Track </a>
-- <a target="_blank" href="https://www.softconf.com/naacl2019/industry/demos">System Demonstrations</a>
+- <a target="_blank" href="https://www.softconf.com/naacl2019/demos">System Demonstrations</a>
 - <a target="_blank" href="https://www.softconf.com/naacl2019/srw">Student Research Workshop</a>
 
 <h2>NAACL-HLT 2019 Anti-Harassment Policy</h2>
