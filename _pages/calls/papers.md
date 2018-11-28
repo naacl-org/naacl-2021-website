@@ -7,7 +7,6 @@ sidebar:
 toc: true
 toc_icon: "cog"
 ---
-{% include base_path %}
 
 <span style="font-weight: bolder;font-size: larger;">Call For Papers</span>
 
