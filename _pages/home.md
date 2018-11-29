@@ -46,19 +46,39 @@ The Association for Computational Linguistics (ACL) invites you to participate i
             <td>December 10, 2018</td>
         </tr>
         <tr>
-            <td>Notification of acceptance</td>
+            <td>Demo papers due (incl. video)</td>
+            <td>Monday</td>
+            <td>February 11, 2019</td>
+        </tr>
+        <tr>
+            <td>Student research workshop papers due</td>
+            <td>Friday</td>
+            <td>February 15, 2019</td>
+        </tr>
+        <tr>
+            <td>Notification of acceptance<br/>(<i>long, short, &amp; industry track</i>)</td>
             <td>Friday</td>
             <td>February 22, 2019</td>
         </tr>
         <tr>
-          <td>Camera ready papers due</td>
+            <td>Notification of acceptance<br/>(<i>student research workshop</i>)</td>
+            <td>Saturday</td>
+            <td>March 2, 2019</td>
+        </tr>
+        <tr>
+            <td>Notification of acceptance<br/>(<i>demos</i>)</td>
+            <td>Monday</td>
+            <td>March 18, 2019</td>
+        </tr>
+        <tr>
+          <td>Camera-ready papers due<br/>(<i>long, short, industry track, demos &amp; student research workshop</i>)</td>
           <td>Monday</td>
           <td>April 1, 2019</td>
         </tr>
         <tr>
             <td>Tutorials</td>
             <td>Sunday</td>
-            <td>June 2</td>
+            <td>June 2, 2019</td>
         </tr>        
         <tr>
             <td>Main conference</td>
@@ -72,7 +92,7 @@ The Association for Computational Linguistics (ACL) invites you to participate i
         </tr>        
 </tbody>
 </table>
-<h5>Last updated: August 12, 2018. All deadlines are 11.59 pm UTC -12h.</h5>
+<h5>Last updated: November 29, 2018. All deadlines are 11.59 pm UTC -12h.</h5>
 
 <h2 id="submitlinks">Submission Links</h2>
 
