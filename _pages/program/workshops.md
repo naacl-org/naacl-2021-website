@@ -15,11 +15,10 @@ More details for the workshops will be added as they become available.
 *Organizers: Jonathan May, Ekaterina Shutova, Aurelie Herbelot, Xiaodan Zhu, Marianna Apidianaki, and Saif M. Mohammad*
 
 ### *SEM
-The 8th Joint Conference on Lexical and Computational Semantics brings together researchers interested in the semantics of natural languages and its computational modelling. The conference embraces symbolic and probabilistic approaches, and everything in between; theoretical contributions as well as practical applications are welcome in the form of long and short papers.<br/> 
+The [8th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2018) brings together researchers interested in the semantics of natural languages and its computational modelling. The conference embraces symbolic and probabilistic approaches, and everything in between; theoretical contributions as well as practical applications are welcome in the form of long and short papers.<br/> 
 *Organizers: Marine Carpuat, Sebastian Padó, and Rada Mihalcea*
 
 ### Clinical NLP
-
 [The Clinical Natural Language Processing Workshop](https://clinical-nlp.github.io/2019/) specifically focuses on advancing state-of-the-art in clinical NLP, rather than merely applying existing NLP systems to downstream clinical problems (such as outcome prediction or clinical cohort selection).<br/>
 *Organizers: Anna Rumshisky, Kirk Roberts, Steven Bethard, and Tristan Naumann*
 
