@@ -5,7 +5,6 @@ excerpt: "NAACL 2019 organizing committee."
 permalink: /organization
 sidebar: false
 ---
-{% include base_path %}
 
 <h3>General Chair [<a href="mailto:naacl2019.jillb@gmail.com">email</a>]</h3>
 Jill Burstein, Educational Testing Service, USA <br/>
@@ -131,7 +130,8 @@ Michelle Morales, IBM, USA
 
 <h3>Area Chairs: Style</h3>
 <a href="mailto:bbeigmanklebanov@ets.org">Beata Beigman Klebanov</a>, Educational Testing Service, USA<br/>
-<a href="mailto:mmontesg@inaoep.mx">Manuel Montes</a>, Instituto Nacional de Astrofísica, Óptica y Eletrónica, Mexico
+<a href="mailto:mmontesg@inaoep.mx">Manuel Montes</a>, Instituto Nacional de Astrofísica, Óptica y Eletrónica, Mexico<br/>
+<a href="mailto:joel.tetreault@grammarly.com">Joel Tetreault</a>, Grammarly, USA
 
 <h3>Area Chairs: Summarization</h3>
 <a href="mailto:mbansal@cs.unc.edu">Mohit Bansal</a>, University of North Carolina Chapel Hill, USA<br/>
