@@ -7,6 +7,9 @@ main:
   - title: "Calls"
     url: /calls/papers
 
+  - title: "Program"
+    url: /program/workshops/
+
   - title: "Blog"
     url: /blog
 
@@ -45,15 +48,15 @@ calls:
       - title: "Tutorial Proposals"
         url: /calls/tutorials/
 
-# program:
-#   - title: Program Details
-#     children:
-#       - title: "Keynote Speakers"
-#         url: /program/keynotes/
-#       - title: "Tutorials"
-#         url: /program/tutorials/
-#       - title: "Workshops"
-#         url: /program/workshops/
+program:
+  - title: Program Details
+    children:
+      - title: "Workshops"
+        url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
 
 
 # participants:
