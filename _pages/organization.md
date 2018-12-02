@@ -48,7 +48,7 @@ Michelle Morales, IBM, USA
 <h3>Area Chairs: Information Extraction</h3>
 <a href="mailto:jih@rpi.edu">Heng Ji</a>, Rensselaer Polytechnic Institute, USA<br/>
 <a href="mailto:dmcc@cs.stanford.edu">David McClosky</a>, Google, USA<br/>
-<a href="mailto:gdm@demelo.org">Gerard de Melo</a>, Rutgers University, USA<br/>
+<a href="http://gerard.demelo.org/">Gerard de Melo</a>, Rutgers University, USA<br/>
 <a href="mailto:timothy.miller@childrens.harvard.edu">Timothy Miller</a>, Boston Children’s Hospital, USA<br/>
 <a href="mailto:gflfof@gmail.com">Mo Yu</a>, IBM Research, USA
 
