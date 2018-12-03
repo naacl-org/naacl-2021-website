@@ -58,9 +58,9 @@ The [Workshop on Methods for Optimizing and Evaluating Neural Language Generatio
 The [10th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2018/index.htm) aims to continue the line of the previous editions, bringing together researchers in Computational Linguistics working on Subjectivity and Sentiment Analysis and researchers working on interdisciplinary aspects of affect computation from text.<br/>
 *Organizers: Alexandra Balahur, Roman Klinger, Veronique Hoste, Carlo Strapparava, and Orphee De Clercq*
 
-## VarDial 6
+## VarDial
 The [6th Workshop on NLP for Similar Languages, Varieties and Dialects](https://sites.google.com/view/vardial2019) is the latest in a well-established series of workshops promoting a forum for scholars working on a range of topics related to the study of diatopic linguistic variation from a computational perspective.<br/>
-*Organizers: Marcos Zampieri, Preslav Nakov, Shervin Malmasi, Nikola Ljubešiƒá, Jörg Tiedemann, and Ahmed Ali*
+*Organizers: Marcos Zampieri, Preslav Nakov, Shervin Malmasi, Nikola Ljubešić, Jörg Tiedemann, and Ahmed Ali*
 
 ## SiVL
 The [Workshop on Shortcomings in Vision and Language](https://sites.google.com/view/sivl/home) aims to bring together researchers at the intersection of vision and language to discuss shortcomings of modern approaches, tasks, datasets, and evaluation metrics for problems including image and video captioning, visual question answering, visual dialog, activity recognition, image retrieval and referring expressions.<br/>
