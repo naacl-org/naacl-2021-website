@@ -16,15 +16,14 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**December 4, 2018**. Only numerical and typographical changes can be made to abstracts up to the full paper submission deadline (Dec. 10th). Substantial changes to the abstract and the title may be made for the camera-ready versions of accepted papers. Keywords, authors, and contributions cannot be changed post-abstract submission.
+{: .notice--info} 
+
 **November 30, 2018**. The [list of workshops](/program/workshops) for NAACL 2019 workshops has been posted. 
 {: .notice--info} 
 
 **November 28, 2018**. Remember that this year the main conference and industry track submissions follow a [two-step process](calls/papers/#submission-types-and-requirements): abstracts first (on December 3) and then full papers (on December 10). Please read the entire [call for papers](/calls/papers) carefully including the [important dates](/calls/papers/#important-dates). Submissions are already open for abstracts!
 **Note**: If you don't see a submission link after you log into SoftConf, you may need to update your profile first.
-{: .notice--info} 
-
-**November 27, 2018**. 
-The inaugural [calls for papers](https://naacl2019-srw.github.io/cfp) for the Student Research workshop has been posted on its [website](https://naacl2019-srw.github.io).
 {: .notice--info} 
 
 <h2>Welcome!</h2>
