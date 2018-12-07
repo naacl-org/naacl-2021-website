@@ -27,7 +27,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 {: .notice--info} 
 
 <div class="text-center">
-    <a href="/archive/#news" style="font-size: smaller; font-decoration: italic;">Older News</a>
+    <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div>
 
 

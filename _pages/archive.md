@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: News Archive
 layout: single
 permalink: /archive/
 sidebar: false
@@ -7,8 +7,6 @@ toc: false
 toc_icon: "cog"
 ---
 {% include base_path %}
-
-## News
 
 **November 15, 2018**. Submissions are now *open* for long and short paper abstracts! The deadlines are December 3rd for the abstracts and December 10th for the full papers.
 {: .notice}
