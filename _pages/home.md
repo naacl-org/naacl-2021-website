@@ -26,6 +26,11 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 **Note**: If you don't see a submission link after you log into SoftConf, you may need to update your profile first.
 {: .notice--info} 
 
+<div class="text-center">
+    <a href="/archive/#news" style="font-size: smaller; font-decoration: italic;">Older News</a>
+</div>
+
+
 <h2>Welcome!</h2>
 
 The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. The social event will be held on Tuesday, June 4th at the [Minneapolis Institute of Art](https://new.artsmia.org/). We will update this website with more information as it becomes available.
