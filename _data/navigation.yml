@@ -25,6 +25,9 @@ main:
   - title: "Organization"
     url: /organization
 
+  - title: "Archive"
+    url: /archive
+
   # - title: "Sponsors"
   #   url: /sponsors/list/
 
