@@ -82,7 +82,7 @@ The industry track will have the same deadlines as the research track.
     </tbody>
 </table>
 
-<h5>All deadlines are 11.59 pm UTC -12h.</h5>
+<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</h5>
 
 ## Contact Information
 - Email: [naacl-2019-industry-track@googlegroups.com](mailto:naacl-2019-industry-track@googlegroups.com)

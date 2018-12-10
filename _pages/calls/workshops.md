@@ -60,7 +60,7 @@ In addition, you will need to specify the following information when you submit 
 
 - A list of organizers’ names which will be shown in the web-based survey.
 
-The proposals should be submitted no later than November 6, 2018, 11:59 PM Samoa Standard Time (SST) (UTC/GMT-11). Submission is electronic, using [the Softconf START conference management system](https://www.softconf.com/i/acl-workshops2019).  
+The proposals should be submitted no later than November 6, 2018, 11:59 PM [Samoa Standard Time](https://www.timeanddate.com/time/zones/sst) (UTC/GMT-11). Submission is electronic, using [the Softconf START conference management system](https://www.softconf.com/i/acl-workshops2019).  
 
 ## Review Criteria
 The workshop proposals will be evaluated according to their originality and impact, as well as the quality of the organizing team and Programme Committee. 
