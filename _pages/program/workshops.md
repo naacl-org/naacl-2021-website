@@ -52,7 +52,7 @@ The [3rd Workshop on Structured Prediction for NLP](http://structuredprediction.
 
 ## NeuralGen
 The [Workshop on Methods for Optimizing and Evaluating Neural Language Generation](https://neuralgen2019.github.io) aims to discuss new methods for language generation that address some of the recurring problems in existing language generation techniques (eg. bland, repetitive language) as well as novel techniques for robustly evaluating and interpreting model output.<br/>
-*Organizers: Antoine Bosselut, Marjan Ghazvininejad, Srinivasan Iyer, Urvashi Khandelwal, Hannah Rashkin, and Asli Celikyilmaz*
+*Organizers: Antoine Bosselut, Marjan Ghazvininejad, Srinivasan Iyer, Urvashi Khandelwal, Hannah Rashkin, Asli Celikyilmaz, and Thomas Wolf*
 
 ## WASSA
 The [10th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2018/index.htm) aims to continue the line of the previous editions, bringing together researchers in Computational Linguistics working on Subjectivity and Sentiment Analysis and researchers working on interdisciplinary aspects of affect computation from text.<br/>
