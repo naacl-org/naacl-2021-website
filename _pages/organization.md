@@ -29,6 +29,7 @@ Michelle Morales, IBM, USA
 
 <h3>Area Chairs: Dialog and Interactive systems</h3>
 <a href="mailto:nkaji@yahoo-corp.jp">Nobuhiro Kaji</a>, Yahoo Japan Corporation, Japan<br/>
+<a href="mailto:zkozareva@gmail.com">Zornitsa Kozareva</a>, Google, USA<br/>
 <a href="mailto:ravi.sujith@gmail.com">Sujith Ravi</a>, Google, USA<br/>
 <a href="mailto:mwhite@ling.osu.edu">Michael White</a>, Ohio State University, USA
 
@@ -53,7 +54,7 @@ Michelle Morales, IBM, USA
 <a href="mailto:gflfof@gmail.com">Mo Yu</a>, IBM Research, USA
 
 <h3>Area Chairs: Information Retrieval</h3>
-<a href="mailto:sumit.summit@gmail.com">Sumit Bhatia</a>, IBM’s India Research Laboratory, India<br/>
+<a href="mailto:sumit.summit@gmail.com">Sumit Bhatia</a>, IBM's India Research Laboratory, India<br/>
 <a href="mailto:ddemner@mail.nih.gov">Dina Demner-Fushman</a>, US National Library of Medicine, USA
 
 <h3>Area Chairs: Machine Learning for NLP</h3>
@@ -77,7 +78,9 @@ Michelle Morales, IBM, USA
 
 <h3>Area Chairs: Multilingualism, Cross lingual resources</h3>
 <a href="mailto:zeljko.agic@gmail.com">Željko Agić</a>, IT University of Copenhagen, Denmark<br/>
-<a href="mailto:ekaterina.shutova@cl.cam.ac.uk">Ekaterina Shutova</a>, University of Amsterdam, Netherlands
+<a href="mailto:ekaterina.shutova@cl.cam.ac.uk">Ekaterina Shutova</a>, University of Amsterdam, Netherlands<br/>
+<a href="mailto:yulia.tsvetkov@gmail.com">Yulia Tsvetkov</a>, Carnegie Mellon University, USA<br/>
+<a href="mailto:iv250@cam.ac.uk">Ivan Vulic</a>, Cambridge University, UK
 
 <h3>Area Chairs: NLP Applications</h3>
 <a href="mailto:tj.hazen@microsoft.com">T. J. Hazen</a>, Microsoft, USA<br/>
@@ -99,7 +102,7 @@ Michelle Morales, IBM, USA
 <a href="mailto:avi@us.ibm.com">Avi Sil</a>, IBM Research, USA
 
 <h3>Area Chairs: Resources and Evaluation</h3>
-<a href="mailto:claudia.leacock@gmail.com">Claudia Leacock</a>, Grammarly, USA<br/>
+<a href="mailto:torsten.zesch@uni-due.de">Torsten Zesch</a>, University of Duisburg-Essen, Germany<br/>
 <a href="mailto:miller@ukp.informatik.tu-darmstadt.de">Tristan Miller</a>, Technische Universität Darmstadt, Germany
 
 <h3>Area Chairs: Semantics</h3>
@@ -113,12 +116,12 @@ Michelle Morales, IBM, USA
 <h3>Area Chairs: Sentiment Analysis</h3>
 <a href="mailto:augenstein@di.ku.dk">Isabelle Augenstein</a>, University of Copenhagen, Denmark<br/>
 <a href="mailto:wlam@se.cuhk.edu.hk">Wai Lam</a>, The Chinese University of Hong Kong, Hong Kong<br/>
-<a href="mailto:mpaul39@gmail.com">Michael J. Paul</a>, University of Colorado Boulder, USA<br/>
 <a href="mailto:soujanya.poria@gmail.com">Soujanya Poria</a>, Nanyang Technological University, Singapore<br/>
 <a href="mailto:ivanvladimir@gmail.com">Ivan Vladimir Meza Ruiz</a>, Universidad Nacional Autónoma de México, Mexico
 
 <h3>Area Chairs: Social Media</h3>
 <a href="mailto:goldan55@gmail.com">Dan Goldwasser</a>, Purdue University, USA<br/>
+<a href="mailto:mpaul39@gmail.com">Michael J. Paul</a>, University of Colorado Boulder, USA<br/>
 <a href="mailto:sjrosenthal@us.ibm.com">Sara Rosenthal</a>, IBM Research, USA<br/>
 <a href="mailto:prosso@dsic.upv.es">Paolo Rosso</a>, Universitat Politècnica de València, Spain<br/>
 <a href="mailto:chenhao@chenhaot.com">Chenhao Tan</a>, University of Colorado Boulder, USA<br/>
@@ -150,6 +153,7 @@ Michelle Morales, IBM, USA
 <a href="mailto:shervin.malmasi@students.mq.edu.au">Shervin Malmasi</a>, Harvard Medical School, USA<br/>
 <a href="mailto:vrncapr@umich.edu">Verónica Pérez-Rosas</a>, University of Michigan, USA<br/>
 <a href="mailto:burrsettles@gmail.com">Burr Settles</a>, Duolingo, USA<br/>
+<a href="mailto:kevinsmall@gmail.com">Kevin Small</a>, Amazon, USA<br/>
 <a href="mailto:diyiy@cs.cmu.edu">Diyi Yang</a>, Carnegie Mellon University, USA
 
 <h3>Area Chairs: Theory and Formalisms</h3>
