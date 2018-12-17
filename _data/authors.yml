@@ -24,6 +24,13 @@ christy:
   uri         : "https://www.linkedin.com/in/christy-doran"
   bio         : "Program Co-chair | Program Director, Interactions, LLC."
 
+jill:
+  name        : "Jill Burstein"
+  uri         : "https://sites.google.com/site/jbursteinets/"
+  bio         : General Chair | Director of Research (NLP), Educational Testing Service"
+  avatar      : "assets/images/avatars/general-chair.png"
+  twitter     : "JillBurstein "
+
 nitin:
   name        : "Nitin Madnani"
   uri         : "http://desilinguist.org"
