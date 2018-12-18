@@ -16,7 +16,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**December 18, 2018**. A new blog post on NAACL 2019 submission statistics is up!
+**December 18, 2018**. A [new blog post](/blog/submission-info) on NAACL 2019 submission statistics is up!
 {: .notice--info}
 
 **December 4, 2018**. Only numerical and typographical changes can be made to abstracts up to the full paper submission deadline (Dec. 10th). Substantial changes to the abstract and the title may be made for the camera-ready versions of accepted papers. Keywords, authors, and contributions cannot be changed post-abstract submission.
