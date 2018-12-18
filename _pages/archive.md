@@ -8,6 +8,10 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**November 28, 2018**. Remember that this year the main conference and industry track submissions follow a [two-step process](calls/papers/#submission-types-and-requirements): abstracts first (on December 3) and then full papers (on December 10). Please read the entire [call for papers](/calls/papers) carefully including the [important dates](/calls/papers/#important-dates). Submissions are already open for abstracts!
+**Note**: If you don't see a submission link after you log into SoftConf, you may need to update your profile first.
+{: .notice} 
+
 **November 15, 2018**. Submissions are now *open* for long and short paper abstracts! The deadlines are December 3rd for the abstracts and December 10th for the full papers.
 {: .notice}
 
