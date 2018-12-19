@@ -38,7 +38,7 @@ The following are the numbers reported by the Industry Track Co-Chairs. Note tha
 | **Desk rejected (Incomplete)** | 11 | 
 | **Desk rejected (Duplicates)** | 1 | 
 | **Desk rejected (Page limit)** | 1 |
-| **Total final submissions** | 100 (compared to 91 in 2018) |
+| **Total final submissions** | 100 (compared to 85 in 2018) |
 
 Authors of "desk rejects" should have already received notifications via START. 
 
