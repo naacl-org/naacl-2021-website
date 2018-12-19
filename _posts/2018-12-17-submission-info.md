@@ -40,7 +40,7 @@ The following are the numbers reported by the Industry Track Co-Chairs. Note tha
 | **Desk rejected (Page limit)** | 1 |
 | **Total final submissions** | 100 (compared to 91 in 2018) |
 
-Additionally, 17 papers were asked to fix formatting & anonymity issues before they could be reviewed. All made appropriate corrections. Authors of "desk rejects" should have already received notifications via START. 
+Authors of "desk rejects" should have already received notifications via START. 
 
 Happy Holidays!
 
