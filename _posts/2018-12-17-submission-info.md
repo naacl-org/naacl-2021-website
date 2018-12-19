@@ -24,6 +24,8 @@ The following are the number of submissions reported by the Program Co-Chairs. N
 | **Short papers** | 757 (compared to 425 in 2018) |
 | **Total submissions** | 1955 (compared to 1072 in 2018) | 
 
+Authors of submissions that have been classified as "desk rejects" will be notified via START once the area chairs have completed their checks.
+
 
 ## Industry Track
 
@@ -38,7 +40,7 @@ The following are the numbers reported by the Industry Track Co-Chairs. Note tha
 | **Desk rejected (Page limit)** | 1 |
 | **Total final submissions** | 100 (compared to 91 in 2018) |
 
-Additionally, 17 papers were asked to fix formatting & anonymity issues before they could be reviewed. All made appropriate corrections.
+Additionally, 17 papers were asked to fix formatting & anonymity issues before they could be reviewed. All made appropriate corrections. Authors of "desk rejects" should have already received notifications via START. 
 
 Happy Holidays!
 
