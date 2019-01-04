@@ -87,7 +87,7 @@ The industry track will have the same deadlines as the research track.
 ## Contact Information
 - Email: [naacl-2019-industry-track@googlegroups.com](mailto:naacl-2019-industry-track@googlegroups.com)
 - Industry track co-chairs
-  - Rohit Kumar (Spotify)
+  - Rohit Kumar
   - Anastassia Loukina (Educational Testing Service)
   - Michelle Morales (IBM)
 - General chair: Jill Burstein (Educational Testing Service)
