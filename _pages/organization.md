@@ -15,7 +15,7 @@ Ted Pedersen, University of Minnesota Duluth, USA<br/>
 Thamar Solorio, University of Houston, USA
 
 <h3>Industry Track Co-chairs [<a href="mailto:naacl-2019-industry-track@googlegroups.com">email</a>]</h3>
-Rohit Kumar, Spotify, USA<br/>
+Rohit Kumar<br/>
 Anastassia Loukina, Educational Testing Service, USA<br/>
 Michelle Morales, IBM, USA
 
