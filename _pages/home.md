@@ -16,17 +16,18 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**January 5, 2019**. There's a [new blog post](/blog/from-the-ground-up) from the program chairs providing some details about conference planning.
+{: .notice--info}
+
 **December 24, 2018**. There's a [new blog post](/blog/social-media-etiquette) on social media etiquette.
 {: .notice--info}
 
 **December 19, 2018**. We are aware that reviewers in an area can access the full papers on SoftConf in addition to the abstracts during the bidding process. This was a conscious change we made in order to help the reviewers arrive at better decisions about whether they would be qualified to (or want to) review a paper. Given that the access to full papers is limited _only_ to the reviewers in each area, we think this is a reasonable and useful change to the previous practice of showing only the abstract. As always with conference reviewing, all content made available to reviewers is confidential and not to be shared or discussed during the review process.
-{: .notice--info}
+{: .notice}
 
 **December 18, 2018**. A [new blog post](/blog/submission-info) on NAACL 2019 submission statistics is up!
-{: .notice--info}
+{: .notice}
 
-**December 4, 2018**. Only numerical and typographical changes can be made to abstracts up to the full paper submission deadline (Dec. 10th). Substantial changes to the abstract and the title may be made for the camera-ready versions of accepted papers. Keywords, authors, and contributions cannot be changed post-abstract submission.
-{: .notice--info} 
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>

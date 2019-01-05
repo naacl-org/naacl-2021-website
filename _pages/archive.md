@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**December 4, 2018**. Only numerical and typographical changes can be made to abstracts up to the full paper submission deadline (Dec. 10th). Substantial changes to the abstract and the title may be made for the camera-ready versions of accepted papers. Keywords, authors, and contributions cannot be changed post-abstract submission.
+{: .notice} 
+
 **November 30, 2018**. The [list of workshops](/program/workshops) for NAACL 2019 workshops has been posted. 
 {: .notice} 
 
