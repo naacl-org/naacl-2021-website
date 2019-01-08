@@ -152,7 +152,6 @@ Michelle Morales, IBM, USA
 <a href="mailto:feldmana@mail.montclair.edu">Anna Feldman</a>, Montlcair State University, USA<br/>
 <a href="mailto:shervin.malmasi@students.mq.edu.au">Shervin Malmasi</a>, Harvard Medical School, USA<br/>
 <a href="mailto:vrncapr@umich.edu">Verónica Pérez-Rosas</a>, University of Michigan, USA<br/>
-<a href="mailto:burrsettles@gmail.com">Burr Settles</a>, Duolingo, USA<br/>
 <a href="mailto:kevinsmall@gmail.com">Kevin Small</a>, Amazon, USA<br/>
 <a href="mailto:diyiy@cs.cmu.edu">Diyi Yang</a>, Carnegie Mellon University, USA
 
