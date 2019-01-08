@@ -70,9 +70,9 @@ The [Workshop on Shortcomings in Vision and Language](https://sites.google.com/v
 The [Workshop in Natural Legal Language Processing](https://sites.google.com/view/nllp/) aims to focus attention on the applications of NLP to the wide variety of textual data in the Legal domain. We hope to stimulate interesting discussion within the community on special problems that are unique to legal texts, legal dialogue and legal knowledge resources.<br/>
 *Organizers: Nikolaos Aletras, Elliott Ash, Leslie Barrett, Daniel Chen, Adam Meyers, Daniel Preotiuc-Pietro, David Rosenberg, and Amanda Stent*
 
-## SpLU
-The [2nd International Workshop on Spatial Language Understanding](https://spatial-language.github.io) focuses on spatial language meaning representation, learning, semantic extraction, QA, reasoning, generation, combined with other modalities.<br/>
-*Organizers: Parisa Kordjamshidi, Archna Bhatia, Bonnie Dorr, and James Allen*
+## SpLU-RoboNLP
+The [Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics](https://splu-robonlp.github.io/) focuses on spatial language meaning representations, situated language grounding, and their application to robotics, HRI, learning, QA, and reasoning.<br/>
+*Organizers: James F. Allen, Jacob Andreas, Jason Baldridge, Mohit Bansal, Archna Bhatia, Yonatan Bisk, Asli Celikyilmaz, Bonnie J. Dorr, Parisa Kordjamshidi, Matthew Marge, Jesse Thomason.*
 
 ## NLP+CSS
 The [3rd Workshop on NLP and Computational Social Science](https://sites.google.com/site/nlpandcss/home) is a cross-disciplinary workshop that aims to advance the joint computational analysis of social sciences and language by explicitly involving social scientists, NLP researchers, and industry partners.<br/>
