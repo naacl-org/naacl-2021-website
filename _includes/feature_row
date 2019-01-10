@@ -42,6 +42,12 @@
             </div>
           {% endif %}
 
+          {% if f.small_excerpt %}
+            <div class="archive__item-small-excerpt">
+              {{ f.small_excerpt | markdownify }}
+            </div>
+          {% endif %}
+
           {% if f.url %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}

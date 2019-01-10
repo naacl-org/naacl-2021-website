@@ -62,6 +62,15 @@
   }
 }
 
+.archive__item-small-excerpt {
+  margin-top: 0;
+  font-size: $type-size-8;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
 .archive__item-teaser {
   position: relative;
   border-radius: $border-radius;
