@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "NAACL-HLT 2019"
 title_separator          : "-"
-name                     : "ACL"
+name                     : "NAACL"
 description              : "Official website for the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
 url                      : "https://naacl2019.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "naacl-org/naacl-hlt-2019" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
