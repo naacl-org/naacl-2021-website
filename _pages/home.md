@@ -16,7 +16,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/emergency-call-for-reviewers/).
+**January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/call-for-backup-reviewers/).
 {: .notice--info}
 
 
