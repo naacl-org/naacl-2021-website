@@ -8,7 +8,7 @@ main:
     url: /calls/papers
 
   - title: "Program"
-    url: /program/workshops/
+    url: /program/keynotes/
 
   - title: "Blog"
     url: /blog
@@ -53,12 +53,12 @@ calls:
 program:
   - title: Program Details
     children:
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
-      - title: "Keynote Speakers"
-        url: /program/keynotes/
 
 
 # participants:
