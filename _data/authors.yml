@@ -37,3 +37,10 @@ nitin:
   bio         : "Web &amp; App Chair | Senior Research Scientist, Educational Testing Service"
   avatar      : "https://secure.gravatar.com/avatar/65a5e38cb0ce9a77841d3567fb3cc156.png?r=PG&s=150"
   twitter     : "haikuman"
+
+sudipta:
+  name        : "Sudipta Kar"
+  uri         : "http://sudiptakar.info"
+  bio         : "Student Co-chair, NAACL-SRW 2019 | PhD Student, Computer Science, University of Houston"
+  email       : "skar3 AT uh DOT edu"
+  twitter     : "cryptexcode"
