@@ -16,15 +16,17 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/call-for-backup-reviewers/).
+**January 15, 2019**. There's a new [blog post](/blog/spotlight-on-srw/) highlighting the student research workshop from the SRW student and faculty co-chairs.
 {: .notice--info}
 
+**January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/call-for-backup-reviewers/).
+{: .notice--info}
 
 **January 10, 2019**. We have an amazing lineup of [Keynote Speakers](/program/keynotes/) for NAACL 2019.
 {: .notice--info}
 
 **January 5, 2019**. There's a [new blog post](/blog/from-the-ground-up) from the program chairs providing some details about conference planning.
-{: .notice--info}
+{: .notice}
 
 **December 24, 2018**. There's a [new blog post](/blog/social-media-etiquette) on social media etiquette.
 {: .notice}
