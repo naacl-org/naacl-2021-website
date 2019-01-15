@@ -110,7 +110,7 @@ She continues:
  understandably, focus on meeting standards for a promotion system that does not value these conferences, and where travel budgets are prohibitively low. The SRW, provides the means for travel, but also the means for newcomers to 
  create a community of peers, a unique networking opportunity. I hope ACL and NAACL keep the SRW going for years to come. Wishing SRW participants a great experience this year!
 
-We also expect that the NLP/CL community will heartily welcome more awesome new researchers at this year's SRW. Please follow us at our 2019 websites for the [NAACL-SRW](https://naacl2019-srw.github.io) and for [ACL-SRW](https://sites.google.com/view/acl19studentresearchworkshop) to stay up-to-date.
+We expect that the NLP/CL community will heartily welcome more awesome new researchers at this year's SRW. Please follow us at our 2019 websites for the [NAACL-SRW](https://naacl2019-srw.github.io) and for [ACL-SRW](https://sites.google.com/view/acl19studentresearchworkshop) to stay up-to-date.
 
 Our deepest thanks to all of the SRW champions over the years - all of the organizers, authors, and participants for bearing the torch!
 
