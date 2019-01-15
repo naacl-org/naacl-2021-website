@@ -137,8 +137,7 @@ the years. You are the champions.
 
 We are eagerly waiting to welcome new faces in this exciting world of Computational Linguistics.
 
-__Acknowledgement:__ I want to thank Laura Burdick, Farah Nadeem, Greg Durrett, and Na-Rae Han for helping to prepare this blog. I also
-want to thank the researchers who gave us their time for sharing experiences.
+__Acknowledgement:__ We want to thank the researchers who gave us their time for sharing experiences.
 
 
 
