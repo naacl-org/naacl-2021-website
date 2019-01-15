@@ -16,7 +16,7 @@ One of the most popular sessions of *ACL conferences is the Student Research Wor
 
 We asked some current researchers in the field who had previously submitted to the SRW to share their experiences.
 
-[Dr. Mohammad Salameh](https://www.linkedin.com/in/mohammadsalameh/), a Machine Learning Engineer at Diffbot on how he started his journey in Computational Linguistics through the SRW in 2013:
+[Dr. Mohammad Salameh](https://www.linkedin.com/in/mohammadsalameh/), a Machine Learning Engineer at Diffbot shares how he started his journey in Computational Linguistics through the SRW in 2013:
 
 > My first paper in an ACL-related conference was “Reversing morphological tokenization in English-to-Arabic SMT”, which
   was submitted and accepted at the Student Research Workshop. I believe the submission was very successful, as it shaped
@@ -29,7 +29,7 @@ Dr. Salameh completed his PhD from the University of Alberta and later worked as
 
 His story is very recent. But how about this one from __15__ years ago? 
 
-[Dr. Naoki Yoshinaga](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/index.en.html), an Associate Professor at the University of Tokyo recalled when he presented his work at the ACL student session back in 2004 as a PhD student:
+[Dr. Naoki Yoshinaga](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/index.en.html), an Associate Professor at the University of Tokyo recalls when he presented his work at the ACL student session back in 2004 as a PhD student:
 
 > ACL-SRW used to be the ACL Student Session (part of ACL) but it becomes
    one of the ACL workshops more than 15 years ago. When I present one paper at ACL-SRW 2004, 
@@ -54,7 +54,7 @@ school: The National Institute of Astrophysics, Optics and Electronics. It was t
 provided by the ACL organization that I was able to attend, and I remain to this day, very grateful for that opportunity.
 
 Many years later, this student is not only still a part of the CL community, but she is actually serving as a program co-chair of 
-_this conference_! [Dr. Thamar Solorio](http://solorio.uh.edu), who is now an Associate Professor at the University of Houston adds further:
+_this conference_! [Dr. Thamar Solorio](http://solorio.uh.edu), who is now an Associate Professor at the University of Houston further adds:
 
 > Attending ACL 2005 had a long lasting impact on my career path. Before attending ACL that year, I’ve 
 presented a paper at COLING in 2004, and another one at CICLing 2004, but for some reason it was until I attended ACL 
@@ -72,7 +72,7 @@ tells a story. My paper was on using Factorial HMMs to
 do joint POS and NER tagging, and it was quite a confidence booster to discover later that some folks in the community 
 have read it!
 
-For new students, he added:
+For new students, he adds:
 
 > I would encourage starting students to submit to SRW by yourself (but only do so once, and do not rely on 
 your advisor too much); after that, shoot for *ACL and EMNLP!
@@ -81,7 +81,7 @@ The NLP community has grown by leaps and bounds and participation in the student
 
 ![Accepted papers over time](/assets/images/srw-blog/plot_year_papers.png)
 
-The list of topics of the papers accepted in the SRW is also interesting. According to Prof. Yoshinaga,
+The list of topics of the papers accepted in the SRW is also interesting. According to Prof. Yoshinaga:
 
 > ACL-SRW papers are sometimes more exciting than ACL ones. ACL-SRW can accept ongoing research with new or unconventional goals or approaches ... The accepted papers are some times more exciting to me.
 
@@ -94,17 +94,17 @@ For purposes of illustration, here are some wordclouds made of the paper titles 
 ![](/assets/images/srw-blog/2017_wc.png)
 ![](/assets/images/srw-blog/2018_wc.png)
 
-As with everything, there are also issues and problems. For example, Dr. Salameh mentioned:
+As with everything, there are also issues and problems. For example, Dr. Salameh mentions:
 
 > Unfortunately, I was not able to attend the conference as I did not get the 
   visa to the USA on time (got it 2 months after the end of the conference). Nevertheless, this did not stop me from  presenting it to the mentor by recording it. 
 
-Thamar Solorio added:
+Thamar Solorio adds:
 
 > It turns out that the mentor assigned to provide expert feedback 
 on my research didn’t show up. My SRW mentor got stuck at the business meeting. Lucky for me, Mona Diab was a mentor  assigned to the other presenter in my session, and she graciously saved the day by providing on-the-spot feedback for me. To this day, I’m a great fan of her and her work. 
 
-Later she also added:
+She continues:
 
 > I truly believe that the SRW is a great channel to nurture young researchers, and it is especially beneficial to motivated graduate students coming from regions underrepresented at *CL conferences, where graduate advisors might, 
  understandably, focus on meeting standards for a promotion system that does not value these conferences, and where travel budgets are prohibitively low. The SRW, provides the means for travel, but also the means for newcomers to 
