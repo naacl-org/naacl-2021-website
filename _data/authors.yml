@@ -6,6 +6,13 @@ program-chairs:
   bio         : "Christy Doran, Ted Pedersen, and Thamar Solorio"
   avatar      : "assets/images/avatars/program-chairs.png"
 
+student-workshop-chairs:
+  name        : "Student Research Workshop Co-Chairs"
+  uri         : "https://naacl2019-srw.github.io"
+  email       : "naacl-2019-student-research-workshop@googlegroups.com"
+  bio         : "Sudipta Kar, Farah Nadeem, Laura Wendlandt, Greg Durrett, and Na-Rae Han"
+  avatar      : "assets/images/avatars/srw-chairs.png"
+
 ted:
   name        : "Ted Pedersen"
   uri         : "https://www.d.umn.edu/~tpederse"

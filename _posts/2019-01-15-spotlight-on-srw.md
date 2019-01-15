@@ -1,6 +1,6 @@
 ---
 title: Spotlight on the Student Research Workshop
-author: sudipta
+author: student-workshop-chairs
 author_profile: true
 excerpt: "Sharing some data from past SRWs and experiences of past participants."
 tags:
