@@ -8,6 +8,12 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**January 5, 2019**. There's a [new blog post](/blog/from-the-ground-up) from the program chairs providing some details about conference planning.
+{: .notice}
+
+**December 24, 2018**. There's a [new blog post](/blog/social-media-etiquette) on social media etiquette.
+{: .notice}
+
 **December 19, 2018**. We are aware that reviewers in an area can access the full papers on SoftConf in addition to the abstracts during the bidding process. This was a conscious change we made in order to help the reviewers arrive at better decisions about whether they would be qualified to (or want to) review a paper. Given that the access to full papers is limited _only_ to the reviewers in each area, we think this is a reasonable and useful change to the previous practice of showing only the abstract. As always with conference reviewing, all content made available to reviewers is confidential and not to be shared or discussed during the review process.
 {: .notice}
 

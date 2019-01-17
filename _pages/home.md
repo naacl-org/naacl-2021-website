@@ -16,21 +16,17 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**January 17, 2019**. NAACL-HLT 2019 will likely be the largest ever. The program co-chairs would like your feedback on the effect of this explosive growth on our conferences. More details in the [blog post](/blog/registration-survey/). Fill out the survey form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWemzwJvCZ35BqxNNwxlrCkZUMllUWDEyM0g5RkRWMU0xTThVUVE5NUVJWC4u).
+{: .notice--info}
+
 **January 15, 2019**. There's a new [blog post](/blog/spotlight-on-srw/) highlighting the student research workshop from the SRW student and faculty co-chairs.
 {: .notice--info}
 
 **January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/call-for-backup-reviewers/).
-{: .notice--info}
+{: .notice}
 
 **January 10, 2019**. We have an amazing lineup of [Keynote Speakers](/program/keynotes/) for NAACL 2019.
-{: .notice--info}
-
-**January 5, 2019**. There's a [new blog post](/blog/from-the-ground-up) from the program chairs providing some details about conference planning.
 {: .notice}
-
-**December 24, 2018**. There's a [new blog post](/blog/social-media-etiquette) on social media etiquette.
-{: .notice}
-
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
