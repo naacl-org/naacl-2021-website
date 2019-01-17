@@ -31,6 +31,10 @@ The [6th Annual Computational Linguistics and Clinical Psychology Workshop](http
 The [Workshop on Discourse Relation Parsing and Treebanking](https://sites.google.com/view/disrpt2019/) aims to broaden the scope of discussion from previous biennial events on discourse relation studies. The goal is to include participants and program committee members from different discourse theories (especially, but not limited to, RST, SDRT and PDTB) and focus on applied papers with a computational orientation, resource papers and work on discourse parsing, as well as papers that advance the field with novel theoretical contributions and promote cross-framework fertilization.<br/>
 *Organizers: Amir Zeldes, Debopam Das, Erick Galani Maziero, Juliano Antonio, and Mikel Iruskieta*
 
+### ESSP
+The [Workshop on Extracting Structured Knowledge from Scientific Publications](https://scientific-knowledge.github.io) focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.<br/>
+*Organizers: Vivi Nastase, Benjamin Roth, Laura Dietz, and Andrew McCallum*
+
 ### NeuralGen
 The [Workshop on Methods for Optimizing and Evaluating Neural Language Generation](https://neuralgen2019.github.io) aims to discuss new methods for language generation that address some of the recurring problems in existing language generation techniques (eg. bland, repetitive language) as well as novel techniques for robustly evaluating and interpreting model output.<br/>
 *Organizers: Antoine Bosselut, Marjan Ghazvininejad, Srinivasan Iyer, Urvashi Khandelwal, Hannah Rashkin, Asli Celikyilmaz, and Thomas Wolf*
@@ -68,10 +72,6 @@ The [Workshop on Cognitive Modeling and Computational Linguistics](https://cmclo
 ### CRAC
 The [2nd Workshop on Computational Models of Reference, Anaphora and Coreference](https://sites.google.com/view/crac2019/) aims to provide a forum where work on all aspects of computational work on anaphora resolution and annotation, including both coreference and types of anaphora such as bridging references resolution and discourse deixis, can be presented.<br/>
 *Organizers: Maciej Ogrodniczuk, Sameer Pradhan, Yulia Grishina, and Vincent Ng*
-
-### ESSP
-The [Workshop on Extracting Structured Knowledge from Scientific Publications](https://scientific-knowledge.github.io) focuses on processing scientific articles and creating structured repositories such as knowledge graphs for finding new information and making scientific discoveries. The aim of this workshop is to identify the necessary representations for facilitating automated reasoning over scientific information, and to bring together experts in natural language processing and information extraction with scientists from other domains (e.g. material sciences, biomedical research) who want to leverage the vast amount of information stored in scientific publications.<br/>
-*Organizers: Vivi Nastase, Benjamin Roth, Laura Dietz, and Andrew McCallum*
 
 ### LaTECH-ClFl
 The [3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature](https://sighum.wordpress.com/events/latech-clfl-2019/) will put in the same room two events with a similar research focus and with some tradition: the Workshops on Language Technology for Cultural Heritage, Social Sciences, and Humanities (LaTeCH) and the Workshops on Computational Linguistics for Literature (CLfL). The LaTeCH workshop series has focused on developing technologies for improved information access to data from the humanities and social sciences and the CLfL workshops have focussed on applications of NLP to literary data.<br/>
