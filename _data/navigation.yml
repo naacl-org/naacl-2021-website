@@ -25,8 +25,8 @@ main:
   - title: "Organization"
     url: /organization
 
-  # - title: "Sponsors"
-  #   url: /sponsors/list/
+  - title: "Sponsors"
+    url: /sponsors/list/
 
 # pages:
 #   - title: Organization
@@ -69,10 +69,10 @@ program:
 #       - title: "Social Event"
 #         url: /participants/social/
 
-# sponsors:
-#   - title: Sponsorship
-#     children:
-#       - title: "List of Sponsors"
-#         url: /sponsors/list/
-#       - title: "Tiers &amp; Pricing"
-#         url: /sponsors/benefits/
+sponsors:
+  - title: Sponsorship
+    children:
+      - title: "List of Sponsors"
+        url: /sponsors/list/
+      - title: "Tiers &amp; Pricing"
+        url: /sponsors/benefits/
