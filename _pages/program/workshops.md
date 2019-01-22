@@ -56,7 +56,7 @@ The [Combined Workshop on Spatial Language Understanding and Grounded Communicat
 *Organizers: James F. Allen, Jacob Andreas, Jason Baldridge, Mohit Bansal, Archna Bhatia, Yonatan Bisk, Asli Celikyilmaz, Bonnie J. Dorr, Parisa Kordjamshidi, Matthew Marge, Jesse Thomason.*
 
 ### WASSA
-The [10th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2018/index.htm) aims to continue the line of the previous editions, bringing together researchers in Computational Linguistics working on Subjectivity and Sentiment Analysis and researchers working on interdisciplinary aspects of affect computation from text.<br/>
+The [10th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis](https://wt-public.emm4u.eu/wassa2019/index.htm) aims to continue the line of the previous editions, bringing together researchers in Computational Linguistics working on Subjectivity and Sentiment Analysis and researchers working on interdisciplinary aspects of affect computation from text.<br/>
 *Organizers: Alexandra Balahur, Roman Klinger, Veronique Hoste, Carlo Strapparava, and Orphee De Clercq*
 
 ## June 7
