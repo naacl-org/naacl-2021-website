@@ -2,6 +2,8 @@
 title: "List of Sponsors"
 layout: single
 permalink: /sponsors/list/
+toc: true
+toc_icon: 'cog'
 diamond:
   - url: https://www.techatbloomberg.com/nlp/
     image_path: /assets/images/logos/bloomberg-logo.png
@@ -23,10 +25,6 @@ supporter:
 sidebar: 
     nav: "sponsors"
 ---
-{% include base_path %}
-
-{% include toc icon="gears" %}
-
 We gratefully acknowledge support provided by the following for the NAACL 2019 conference.
 
 ## Diamond Tier
