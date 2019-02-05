@@ -42,3 +42,10 @@ We will book a small number of rooms specifically for students. To the extent po
 
 Further information and booking instructions will be available here in early 2019.
 
+## Visa Information
+
+Since visa applications can take 1–4 months to be approved, we advise that you apply well in advance. If you require an invitation letter for your visa application, please click on the button below to fill out a request form. 
+
+<div class="text-center"> 
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUOFA4UTZLTFNTWDdDMENQWENDUzY4Q0hWWS4u" target="_blank"><button class="btn btn--large">Visa Letter Request Form</button></a>
+</div>

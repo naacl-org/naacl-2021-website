@@ -16,13 +16,13 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**January 17, 2019**. NAACL-HLT 2019 will likely be the largest NAACL ever. The program co-chairs would like your feedback on the effect of this explosive growth on our conferences. More details in the [blog post](/blog/registration-survey/). Fill out the survey form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWemzwJvCZ35BqxNNwxlrCkZUMllUWDEyM0g5RkRWMU0xTThVUVE5NUVJWC4u).
+**February 5, 2019**. If you require a visa to attend the conference, please fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUOFA4UTZLTFNTWDdDMENQWENDUzY4Q0hWWS4u) as soon as possible to request your visa invitation letter. More information about visas [here](/participants/#visa-information).
 {: .notice--info}
+
+**January 17, 2019**. NAACL-HLT 2019 will likely be the largest NAACL ever. The program co-chairs would like your feedback on the effect of this explosive growth on our conferences. More details in the [blog post](/blog/registration-survey/). Fill out the survey form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWemzwJvCZ35BqxNNwxlrCkZUMllUWDEyM0g5RkRWMU0xTThVUVE5NUVJWC4u).
+{: .notice}
 
 **January 15, 2019**. There's a new [blog post](/blog/spotlight-on-srw/) highlighting the student research workshop from the SRW student and faculty co-chairs.
-{: .notice--info}
-
-**January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/call-for-backup-reviewers/).
 {: .notice}
 
 **January 10, 2019**. We have an amazing lineup of [Keynote Speakers](/program/keynotes/) for NAACL 2019.
