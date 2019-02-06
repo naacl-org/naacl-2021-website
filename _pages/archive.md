@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**January 10, 2019**. We have an amazing lineup of [Keynote Speakers](/program/keynotes/) for NAACL 2019.
+{: .notice}
+
 **January 10, 2019**. We need backup reviewers urgently. Please volunteer [here](https://docs.google.com/forms/d/e/1FAIpQLSe1LjaTCcEgVONMC-e-WvB03dSH0m4ewPSvxJxu_do-RrRl9Q/viewform). Read more [here](/blog/call-for-backup-reviewers/).
 {: .notice}
 

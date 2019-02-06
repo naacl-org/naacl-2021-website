@@ -16,6 +16,12 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**February 6, 2019**. Hotel rooms at discouted rates are now available for the conference. Special rates for students are also available on a first-come-first-served basis. Details about hotel accommodation are [here](/participants#accommodation).
+{: .notice--info}
+
+If you require a visa to attend the conference, please fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUOFA4UTZLTFNTWDdDMENQWENDUzY4Q0hWWS4u) as soon as possible to request your visa invitation letter. More information about visas [here](/participants/#visa-information).
+{: .notice--info}
+
 **February 5, 2019**. If you require a visa to attend the conference, please fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUOFA4UTZLTFNTWDdDMENQWENDUzY4Q0hWWS4u) as soon as possible to request your visa invitation letter. More information about visas [here](/participants/#visa-information).
 {: .notice--info}
 
@@ -23,9 +29,6 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 {: .notice}
 
 **January 15, 2019**. There's a new [blog post](/blog/spotlight-on-srw/) highlighting the student research workshop from the SRW student and faculty co-chairs.
-{: .notice}
-
-**January 10, 2019**. We have an amazing lineup of [Keynote Speakers](/program/keynotes/) for NAACL 2019.
 {: .notice}
 
 <div class="text-center">

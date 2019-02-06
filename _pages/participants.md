@@ -34,13 +34,17 @@ We have secured accommodation for participants at NAACL-HLT 2019 discounted rate
 
 Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability.  ACL discounted rates are available through Saturday, May 11, 2019. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
 
-The reservation link will be posted here in early 2019.
+The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL).
 
-### Student Accommodation
+### Students
 
-We will book a small number of rooms specifically for students. To the extent possible, we encourage students to share rooms since only a limited number of rooms are available at the discounted rates. 
+We have also booked a small number of rooms specifically for students at the [Doubletree Suites by Hilton Minneapolis](https://doubletree3.hilton.com/en/hotels/minnesota/doubletree-suites-by-hilton-hotel-minneapolis-MSPLSDT/index.html) at the super-discounted rates of **$119** per night (1-2 people), **$139** (3 people) and **$159** (4 people). We strongly encourage students to share rooms to the extent possible.
 
-Further information and booking instructions will be available here in early 2019.
+The ACL Office will accept your reservation request and make the reservations on your behalf. Room sharing is recommended since only a limited number of rooms are available at the discounted rates. If you would like to share, you will need to specify the total number of people who will be sharing the room including yourself (i.e., yourself plus 1 to 3 others). Please be aware that rooms typically come with two beds so any more than two people may have to share a bed.
+
+Please complete the [Student Accommodation Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUREZJUVo4RDBaMTFSMUhJRVpaQkYyTjk1Uy4u)  to make your reservation request. We will do our best to honor your request on a first-come first-served basis. All requests must be received no later than Wednesday, May 1, 2019 by the ACL Office.
+
+The Doubletree Suites by Hilton Minneapolis is located just minutes from the Hyatt Regency Minneapolis (the conference venue).
 
 ## Visa Information
 
