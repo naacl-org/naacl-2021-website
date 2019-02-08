@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**January 15, 2019**. There's a new [blog post](/blog/spotlight-on-srw/) highlighting the student research workshop from the SRW student and faculty co-chairs.
+{: .notice}
+
 **January 10, 2019**. We have an amazing lineup of [Keynote Speakers](/program/keynotes/) for NAACL 2019.
 {: .notice}
 
