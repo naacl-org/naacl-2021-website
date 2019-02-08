@@ -20,7 +20,7 @@ The major categories for desk rejects are:
 
 As of February 7th, out of 2378 submissions, there were 44 rejections for format issues, 24 for anonymity violations, and 11 for dual submissions. This means that a total of 3% of the submissions were desk-rejected.
 
-Every recent conference has posted general guidance to help future authors avoid the pain of a desk rejection (COLING 2018 and NAACL 2018 are great examples). To avoid too much redundancy, we offer this handy checklist for authors that will help them in preparing their upcoming *ACL submissions. 
+Every recent conference has posted general guidance to help future authors avoid the pain of a desk rejection ([COLING 2018](https://coling2018.org/author-responsibilities-and-the-coling-2018-desk-reject-policy/) and [NAACL 2018](https://naacl2018.wordpress.com/2017/12/) are great examples). To avoid too much redundancy, we offer this handy checklist for authors that will help them in preparing their upcoming *ACL submissions. 
 
 ### Anonymity 
 - Are there any grant numbers that will reveal your identity?
