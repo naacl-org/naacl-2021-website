@@ -13,6 +13,6 @@ To submit a paper to one of the conference tracks, click on the corresponding bu
 
 <a href="https://www.softconf.com/naacl2019/industry" target="_blank" class="btn btn--danger">Industry Track</a> (**Note**: deadline passed)
 
-<a href="https://www.softconf.com/naacl2019/demos" target="_blank" class="btn btn--primary">System Demonstrations</a>
+<a href="https://www.softconf.com/naacl2019/demos" target="_blank" class="btn btn--danger">System Demonstrations</a>  (**Note**: deadline passed)
 
 <a href="https://www.softconf.com/naacl2019/srw" target="_blank" class="btn btn--primary">Student Research Workshop</a>
