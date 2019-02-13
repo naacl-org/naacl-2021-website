@@ -40,10 +40,17 @@ jill:
 
 nitin:
   name        : "Nitin Madnani"
-  uri         : "http://desilinguist.org"
+  uri         : "https://desilinguist.org"
   bio         : "Web &amp; App Chair | Senior Research Scientist, Educational Testing Service"
   avatar      : "https://secure.gravatar.com/avatar/65a5e38cb0ce9a77841d3567fb3cc156.png?r=PG&s=150"
   twitter     : "haikuman"
+
+luwang:
+  name        : "Student Volunteer Coordinator"
+  uri         : "https://www.ccs.neu.edu/home/luwang/"
+  bio         : "Lu Wang | Northeastern University"
+  avatar      : "assets/images/avatars/student-volunteer-chair.png"
+  email     : "luwang at ccs dot neu dot edu"
 
 sudipta:
   name        : "Sudipta Kar"

@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**January 17, 2019**. NAACL-HLT 2019 will likely be the largest NAACL ever. The program co-chairs would like your feedback on the effect of this explosive growth on our conferences. More details in the [blog post](/blog/registration-survey/). Fill out the survey form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWemzwJvCZ35BqxNNwxlrCkZUMllUWDEyM0g5RkRWMU0xTThVUVE5NUVJWC4u).
+{: .notice}
+
 **January 15, 2019**. There's a new [blog post](/blog/spotlight-on-srw/) highlighting the student research workshop from the SRW student and faculty co-chairs.
 {: .notice}
 
