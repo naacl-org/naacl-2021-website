@@ -18,6 +18,13 @@ diamond:
     alt: "Facebook Logo"
     title: "Facebook"
 platinum:
+  - url: https://www.twosigma.com
+    image_path: /assets/images/logos/twosigma-logo.png
+    alt: "Two Sigma Logo"
+    title: "Two Sigma"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
+
 gold:
 silver:
   - url: http://www.duolingo.com
@@ -31,6 +38,7 @@ silver:
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
 supporter:
+dichampion:
 dially:
   - url: https://www.google.com
     image_path: /assets/images/logos/google-logo.png
@@ -38,29 +46,32 @@ dially:
     title: "Google"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
+inkind:
+  - url: https://www.grammarly.com
+    image_path: /assets/images/logos/grammarly-logo.png
+    alt: "Grammarly Logo"
+    title: "Grammarly"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
 ---
 
-This year, in addition to the usual sponsors, we have a new sponsorship intiative designed to help the ACL community make our conferences more accessible and inclusive to every researcher working in our domain.  The **Diversity &amp; Inclusion** category is designed to address three main axes through sponsorship:
+NAACL-HLT 2019 is grateful to all its sponsors, who are listed below.  We simply couldn't run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-- **Parental inclusion and childcare**: ACL wants to become more family friendly and inclusive of researchers in our community who would have difficulty in attending the conference without some additional support.
-- **Disability access**: The physical environment of ACL conferences should encourage all attendees.  Therefore, the ACL would like to extend special support to participants whose access to integral parts of the conference would be compromised due to poor disability access.
-- **Low-income support**: Students and researchers at institutions with access to fewer resources are often prevented from attending ACL conferences.  ACL would like to offer financial support to help as many of these students and researchers as possible to attend the conference in person.
+This year's sponsor list includes two new categories: *Diversity & Inclusion Champion* and *Diversity & Inclusion Ally*.  These sponsors donated funds specifically to facilitate participation in NAACL-HLT 2019 by all researchers in our field.  This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I [sponsorship opportunities](/sponsors/benefits) are available for the ACL and EMNLP conferences as well.
 
-Sponsors in this category contribute at two levels: Ally and Champion. 
-
-We gratefully acknowledge support provided by all of the following for the NAACL 2019 conference. 
+In addition, [Grammarly](https://www.grammarly.com) donated grammar-checking services to our submitting authors.  We thank them for helping researchers who are not native English speakers to submit to NAACL-HLT 2019 on an equal footing.
 
 ## Diamond
 
 {% include gallery id="diamond" class="fourth" %}
 
-<!-- ## Platinum -->
+## Platinum
 
-<!-- {% include gallery id="platinum" class="fourth" %} -->
+{% include gallery id="platinum" class="fourth" %}
 
-<!-- ## Gold -->
+## Gold
 
 <!-- {% include gallery id="gold" class="fourth" %} -->
 
@@ -68,17 +79,25 @@ We gratefully acknowledge support provided by all of the following for the NAACL
 
 {% include gallery id="silver" class="fourth" %}
 
-<!-- ## Bronze -->
+## Bronze
 
 <!-- {% include gallery id="bronze" class="fourth" %} -->
 
-<!-- ## Supporter -->
+## Supporter
 
 <!-- {% include gallery id="supporter" class="fourth" %} -->
+
+## Diversity &amp; Inclusion: Champion
+
+<!-- {% include gallery id="dichampion" class="fourth" %} -->
 
 ## Diversity &amp; Inclusion: Ally
 
 {% include gallery id="dially" class="fourth" %}
+
+## In-Kind Donations
+
+{% include gallery id="inkind" class="fourth" %}
 
 <div class="text-center"> 
 <a href="/sponsors/benefits/"><button class="btn btn--large btn--inverse">Sponsorship Tiers &amp; Pricing</button></a>
