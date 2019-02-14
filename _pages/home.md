@@ -16,6 +16,9 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
+{: .notice--info}
+
 **February 13, 2019**. The [latest blog post](/blog/call-for-student-volunteers) asks for student volunteers to help with the conference. 
 {: .notice--info}
 
