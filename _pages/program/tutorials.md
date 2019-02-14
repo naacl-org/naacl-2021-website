@@ -70,7 +70,7 @@ The following tutorials have been accepted for NAACL 2019 and will be held on Su
     <p>We will present an overview of modern transfer learning methods in NLP, how models are pre-trained, what information the representations they learn capture, and review examples and case studies on how these models can be integrated and adapted in downstream NLP tasks.</p>
 </div>
 
-## T5: Language Learning and Processing in People and Machines. 
+## T5: Language Learning and Processing in People and Machines
 <a href="http://www.aidanematzadeh.me">Aida Nematzadeh</a>, <a href="http://socsci.uci.edu/~rfutrell/">Richard Futrell</a> and <a href="http://www.mit.edu/~rplevy/index.html">Roger Levy</a>
 
 <div>
