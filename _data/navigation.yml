@@ -1,9 +1,6 @@
 # main links
 main:
 
-  - title: "Submit"
-    url: /submit
-
   - title: "Calls"
     url: /calls/papers
 
@@ -16,9 +13,6 @@ main:
   - title: "Registration"
     url: /registration
 
-  # - title: "Program"
-  #   url: "/program/keynotes/"
-
   - title: "Participants"
     url: "/participants"
 
@@ -27,12 +21,6 @@ main:
 
   - title: "Sponsors"
     url: /sponsors/list/
-
-# pages:
-#   - title: Organization
-#     children:
-#       - title: "Organizing Committee"
-#       - url: /pages/organization.md
 
 calls:
   - title: Call for
