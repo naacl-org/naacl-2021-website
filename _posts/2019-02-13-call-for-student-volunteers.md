@@ -10,8 +10,6 @@ categories:
     blog
 ---
 
-NAACL 2019 Call for Student Volunteers
-
 We seek a limited number of student volunteers for the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019). Volunteers are assigned one full day's work. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events. Tasks include assisting at the registration desk, stuffing delegate packs, and providing technical assistance for conference events including tutorials, the main conference, and workshops.
 
 Preference will be given to students who have papers accepted at the main conference or workshops.
