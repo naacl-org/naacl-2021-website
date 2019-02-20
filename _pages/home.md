@@ -16,6 +16,10 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
+{: .notice--info}
+
+
 **February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
 {: .notice--info}
 
@@ -26,10 +30,10 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 {: .notice--info}
 
 **February 6, 2019**. Hotel rooms at discouted rates are now available for the conference. Special rates for students are also available on a first-come-first-served basis. Details about hotel accommodation are [here](/participants#accommodation).
-{: .notice--info}
+{: .notice}
 
 **February 5, 2019**. If you require a visa to attend the conference, please fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUOFA4UTZLTFNTWDdDMENQWENDUzY4Q0hWWS4u) as soon as possible to request your visa invitation letter. More information about visas [here](/participants/#visa-information).
-{: .notice--info}
+{: .notice}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
