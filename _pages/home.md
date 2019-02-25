@@ -16,9 +16,11 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
+**February 25, 2019**. The Program Chairs have made the acceptance decisions for both the main conference and industry tracks. Notifications were e-mailed to the contact authors on Friday, February 22. The list of accepted papers will be posted soon.
 {: .notice--info}
 
+**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
+{: .notice--info}
 
 **February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
 {: .notice--info}
@@ -27,7 +29,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 {: .notice--info}
 
 **February 7, 2019**. In their [latest blog post](/blog/practical-tips-to-avoid-desk-rejections), the Program Co-Chairs share a list of practical tips to avoid desk rejections.
-{: .notice--info}
+{: .notice}
 
 **February 6, 2019**. Hotel rooms at discouted rates are now available for the conference. Special rates for students are also available on a first-come-first-served basis. Details about hotel accommodation are [here](/participants#accommodation).
 {: .notice}
