@@ -17,6 +17,12 @@ diamond:
     image_path: /assets/images/logos/facebook-logo.png
     alt: "Facebook Logo"
     title: "Facebook"
+  - url: https://www.amazon.com
+    image_path: /assets/images/logos/amazon-logo.png
+    alt: "Amazon Logo"
+    title: "Amazon"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://www.twosigma.com
     image_path: /assets/images/logos/twosigma-logo.png
