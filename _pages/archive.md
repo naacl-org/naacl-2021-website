@@ -8,6 +8,13 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
+{: .notice}
+
+**February 7, 2019**. In their [latest blog post](/blog/practical-tips-to-avoid-desk-rejections), the Program Co-Chairs share a list of practical tips to avoid desk rejections.
+{: .notice}
+
+
 **January 17, 2019**. NAACL-HLT 2019 will likely be the largest NAACL ever. The program co-chairs would like your feedback on the effect of this explosive growth on our conferences. More details in the [blog post](/blog/registration-survey/). Fill out the survey form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWemzwJvCZ35BqxNNwxlrCkZUMllUWDEyM0g5RkRWMU0xTThVUVE5NUVJWC4u).
 {: .notice}
 
