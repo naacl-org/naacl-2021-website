@@ -29,7 +29,7 @@ Michelle Morales, IBM, USA
 
 <h3>Area Chairs: Dialog and Interactive systems</h3>
 <a href="mailto:nkaji@yahoo-corp.jp">Nobuhiro Kaji</a>, Yahoo Japan Corporation, Japan<br/>
-<a href="mailto:zkozareva@gmail.com">Zornitsa Kozareva</a>, Google, USA<br/>
+<a href="www.kozareva.com">Zornitsa Kozareva</a>, Google, USA<br/>
 <a href="mailto:ravi.sujith@gmail.com">Sujith Ravi</a>, Google, USA<br/>
 <a href="mailto:mwhite@ling.osu.edu">Michael White</a>, Ohio State University, USA
 
