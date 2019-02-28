@@ -10,7 +10,7 @@ sidebar: false
 
 <!-- {% include toc icon="gears" %} -->
 
-We plan to open NAACL 2019 registration in the early spring of 2019. *Note that final registration fees will not be set until closer to that time. Stay tuned!* However, we hope to not have to increase fees at all or only very slightly over the NAACL 2018 fees which are shown below for planning purposes. 
+We plan to open registration sometime during the week of March 4, 2019. We are pleased to announce that we are able to maintain the same registration fees as in 2016 and 2018!
 
 ## NAACL 2018 Registration Fees
 
