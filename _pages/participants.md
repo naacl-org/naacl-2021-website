@@ -25,6 +25,7 @@ The NAACL 2019 Social Event will be held on Tuesday, June 4th, from 7:00 pm to 1
 
 {% include figure image_path="/assets/images/Mia-exterior-1200x800.jpg" alt="this is a placeholder image" caption="Inspiring wonder through the power of art. The Minneapolis Institute of Art enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures." %}
 
+Join us for a cultural event at the Minneapolis Institute of Art and enjoy gallery-themed food and drinks, numerous galleries which include African, Asian, and European, plus the traveling Hearts of Our People  presented in close cooperation with top Native women artists and scholars. This first major exhibition of artwork by Native women celebrates the achievements of over 115 artists from the United States and Canada spanning over 1,000 years. And, of course, music!
 
 One entrance ticket will be included with registration but please note that space is limited to the first 1700 participants.  We are expecting a very large conference, so it is important to let us know on the registration form whether or not you plan to attend the social event.
 
