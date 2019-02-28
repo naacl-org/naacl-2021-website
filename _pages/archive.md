@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**February 25, 2019**. The Program Chairs have made the acceptance decisions for both the main conference and industry tracks. Notifications were e-mailed to the contact authors on Friday, February 22. The list of accepted papers will be posted soon.
+{: .notice}
+
 **February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
 {: .notice}
 

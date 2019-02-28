@@ -16,10 +16,10 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.
+**February 28, 2019**. The list of [accepted papers](/program/accepted-papers) has been posted. 
 {: .notice--info}
 
-**February 25, 2019**. The Program Chairs have made the acceptance decisions for both the main conference and industry tracks. Notifications were e-mailed to the contact authors on Friday, February 22. The list of accepted papers will be posted soon.
+**February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.
 {: .notice--info}
 
 **February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
