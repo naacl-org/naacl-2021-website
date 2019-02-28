@@ -19,6 +19,12 @@ Whether you want to check out nearby Minneapolis entertainment districts or expl
 You can find various local attractions [here](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm/area-attractions) to occupy your free time.
 
 
+## Welcome Reception
+
+A Welcome Reception will be held on Sunday, June 2nd from 6:00pm to 8:00pm.
+
+Join us in the Nicollet Ballroom of the Hyatt Regency Hotel (the conference venue) where you can meet and make new friends and catch up with your colleagues.  Light food and refreshments will be served.
+
 ## Social Event
 
 The NAACL 2019 Social Event will be held on Tuesday, June 4th, from 7:00 pm to 10:00 pm at [The Minneapolis Institute of Art](https://new.artsmia.org/about/).
