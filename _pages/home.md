@@ -16,7 +16,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**February 28, 2019**. The list of [accepted papers](/program/papers) has been posted. 
+**February 28, 2019**. The list of [accepted papers](/program/papers/) has been posted. 
 {: .notice--info}
 
 **February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.

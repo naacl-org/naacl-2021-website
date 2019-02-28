@@ -2,7 +2,7 @@
 title: Accepted Papers
 layout: single
 excerpt: "List of papers accepted at NAACL 2019."
-permalink: /program/accepted-papers/
+permalink: /program/papers/
 toc: true
 sidebar: 
     nav: program
