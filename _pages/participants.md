@@ -18,6 +18,18 @@ Whether you want to check out nearby Minneapolis entertainment districts or expl
 
 You can find various local attractions [here](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm/area-attractions) to occupy your free time.
 
+
+## Social Event
+
+The NAACL 2019 Social Event will be held on Tuesday, June 4th, from 7:00 pm to 10:00 pm at [The Minneapolis Institute of Art](https://new.artsmia.org/about/).
+
+{% include figure image_path="/assets/images/Mia-exterior-1200x800.jpg" alt="this is a placeholder image" caption="Inspiring wonder through the power of art. The Minneapolis Institute of Art enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures." %}
+
+
+One entrance ticket will be included with registration but please note that space is limited to the first 1700 participants.  We are expecting a very large conference, so it is important to let us know on the registration form whether or not you plan to attend the social event.
+
+To get to the event, catch the shuttle bus outside of the Hyatt Regency (the conference hotel) between 6:45 pm and 7:15 pm.
+
 ## Transportation
 
 There is light rail service from both airport terminals to within a few blocks of the conference hotel, for $2 each way.  Tickets are purchased from vending machines at the stations, and trains run every 10 minutes from 6am-7:30pm, and then 3-4 times an hour 7:30pm to midnight.
