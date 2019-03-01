@@ -30,8 +30,13 @@ platinum:
     title: "Two Sigma"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-
 gold:
+  - url: https://www.megagon.ai
+    image_path: /assets/images/logos/megagon-logo.png
+    alt: "Megagon Labs Logo"
+    title: "Megagon Labs"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 silver:
   - url: http://www.duolingo.com
     image_path: /assets/images/logos/duolingo-logo.png
