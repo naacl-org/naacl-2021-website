@@ -1328,10 +1328,10 @@ Zhengyuan Liu, Hazel Lim, Nur Farah Ain Suhaimi, Shao Chuen Tong, Sharon Yu Bing
 Ashwini Challa, Kartikeya Upasani, Anusha Balakrishnan and Rajen Subba
 
 **Goal-Oriented End-to-End Chatbots with Profile Features in a Real-World Setting**<br/>
-yichao lu, Manisha Srivastava, Jared Kramer, Heba Elfardy, Andrea Kahn, Song Wang and Vikas Bhardwaj
+Yichao Lu, Manisha Srivastava, Jared Kramer, Heba Elfardy, Andrea Kahn, Song Wang and Vikas Bhardwaj
 
 **Graph Convolution for Multimodal Information Extraction from Visually Rich Documents**<br/>
-Xiaojing Liu, Feiyu Gao, Qiong Zhang, Huasha ZHAO and xiaojing liu
+Xiaojing Liu, Feiyu Gao, Qiong Zhang, Huasha Zhao and Xiaojing Liu
 
 **Improving Knowledge Base Construction from Robust Infobox Extraction**<br/>
 Boya Peng, Yejin Huh, Xiao Ling and Michele Banko
@@ -1340,13 +1340,13 @@ Boya Peng, Yejin Huh, Xiao Ling and Michele Banko
 Nishant Prateek, Mateusz Lajszczak, Roberto Barra-Chicote, Thomas Drugman, Jaime Lorenzo-Trueba, Thomas Merritt, Srikanth Ronanki and Trevor Wood
 
 **Learning When Not to Answer: A Ternary Reward Structure for Reinforcement Learning based Question Answering**<br/>
-FrÃ©deric Godin, Anjishnu Kumar and Arpit Mittal
+Fréderic Godin, Anjishnu Kumar and Arpit Mittal
 
 **Locale-agnostic Universal Domain Classification Model in Spoken Language Understanding**<br/>
 Jihwan Lee, Ruhi Sarikaya and Young-Bum Kim
 
 **Multi-Modal Generative Adversarial Network for Short Product Title Generation in Mobile E-Commerce**<br/>
-Jianguo Zhang, Pengcheng Zou, Zhao Li, Yao Wan, Xiuming Pan, Yu Gong and Philip S Yu
+Jianguo Zhang, Pengcheng Zou, Zhao Li, Yao Wan, Xiuming Pan, Yu Gong and Philip S. Yu
 
 **Neural Lexicons for Slot Tagging in Spoken Language Understanding**<br/>
 Kyle Williams
@@ -1358,7 +1358,7 @@ Courtney Mansfield, Ming Sun, Yuzong Liu, Ankur Gandhe and Bjorn Hoffmeister
 Marco Damonte, Rahul Goel and Tagyoung Chung
 
 **Robust Semantic Parsing with Adversarial Learning for Domain Generalization**<br/>
-gabriel marzinotto, Geraldine Damnati, FREDERIC BECHET and Benoit Favre
+Gabriel Marzinotto, Geraldine Damnati, Frederic Bechet and Benoit Favre
 
 **Scaling Multi-Domain Dialogue State Tracking via Query Reformulation**<br/>
 Pushpendre Rastogi, Arpit Gupta, Tongfei Chen and Mathias Lambert
