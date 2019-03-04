@@ -84,7 +84,7 @@ In addition, Grammarly donated grammar-checking services to our submitting autho
 
 ## Gold
 
-<!-- {% include gallery id="gold" class="fourth" %} -->
+{% include gallery id="gold" class="fourth" %}
 
 ## Silver
 
