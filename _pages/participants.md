@@ -87,7 +87,9 @@ The non-refundable visa application fee is [approximately $160](https://travel.s
 
 **Why should I request a visa invitation letter?**
 
-A letter is not specifically required.  However, you are supposed to [bring documentation](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to your visa interview.  Bringing a letter from the conference organizers can help to establish the purpose of your trip: for example, we can document that you are coming to present a paper.  You can request such a letter [here](https://bit.ly/2Xp9pnD).  In addition, if you have already paid for your registration, bringing your receipt can help to establish your ability to pay.  In some countries, it may also be wise to bring a letter from your own institution that authorizes you to attend the conference.
+A letter is not specifically required.  However, you are supposed to [bring documentation](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to your visa interview.  Bringing a letter from the conference organizers can help to establish the purpose of your trip: for example, we can document that you are coming to present a paper.  You can request such a letter [here](https://bit.ly/2Xp9pnD).
+
+In addition, if you have already paid for your registration, bringing your receipt can help to establish your ability to pay.  In some countries, it may also be wise to bring a letter from your own institution that authorizes you to attend the conference.
 
 **What other documents may be needed in the visa interview?**
 
@@ -99,7 +101,7 @@ The answer to this question varies by the country where the interview is conduct
 - application fee payment receipt
 
 You may also bring other documentation that will help you answer the interviewer’s questions.  The interviewer is particularly interested to establish:
-- The purpose of your trip.  See question (5).  You may also be asked to bring your CV.
+- The purpose of your trip.  See the previous question.  You may also be asked to bring your CV.
 - Your intent to depart the United States after your trip.  You may wish to show your return ticket, and evidence of your work and family responsibilities outside the U.S.
 - Your ability to pay all costs of the trip.  You may wish to show your bank statement, or evidence of travel grants or sponsorships, etc.
 Your U.S. stay address.  You may wish to bring your hotel booking information.
