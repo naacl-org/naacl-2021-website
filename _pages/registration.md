@@ -10,9 +10,14 @@ sidebar: false
 
 <!-- {% include toc icon="gears" %} -->
 
-We plan to open registration sometime during the week of March 4, 2019. We are pleased to announce that we are able to maintain the same registration fees as in 2016 and 2018!
+Registration is now open! We are pleased to announce that we are able to maintain the same registration fees as in 2016 and 2018! 
 
-## NAACL 2018 Registration Fees
+<div class="text-center">
+    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
+</div>
+
+
+## NAACL 2019 Registration Fees
 
 <table style="font-size: medium;">
     <thead>

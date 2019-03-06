@@ -12,26 +12,25 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
     <span style="font-size: normal;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></span><br/>
     <span style="font-weight: bold; font-size: smaller;">
     Tutorials : June 2<br/>&nbsp;Main Conference : June 3 &ndash; June 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : June 6 &ndash; June 7</span>
+   <br/><br/>       
+    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 <h2>News</h2>
+
+**March 5, 2019**. NAACL 2019 registration is now [open](/registration/)! **Reminder**: [if you need a visa](/participants/#visa-information) to attend NAACL 2019, please apply now!
+{: .notice--info}
 
 **February 28, 2019**. The list of [accepted papers](/program/accepted/) has been posted. 
 {: .notice--info}
 
 **February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.
-{: .notice--info}
+{: .notice}
 
 **February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
-{: .notice--info}
+{: .notice}
 
 **February 13, 2019**. The [latest blog post](/blog/call-for-student-volunteers) asks for student volunteers to help with the conference. 
-{: .notice}
-
-**February 6, 2019**. Hotel rooms at discouted rates are now available for the conference. Special rates for students are also available on a first-come-first-served basis. Details about hotel accommodation are [here](/participants#accommodation).
-{: .notice}
-
-**February 5, 2019**. If you require a visa to attend the conference, please fill out this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUOFA4UTZLTFNTWDdDMENQWENDUzY4Q0hWWS4u) as soon as possible to request your visa invitation letter. More information about visas [here](/participants/#visa-information).
 {: .notice}
 
 <div class="text-center">
