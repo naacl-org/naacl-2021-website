@@ -48,6 +48,12 @@ silver:
     title: "SAP"
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
+  - url: http://www.ets.org
+    image_path: /assets/images/logos/ets-logo.png
+    alt: "ETS Logo"
+    title: "ETS"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 supporter:
 dichampion:
 dially:
@@ -92,7 +98,7 @@ In addition, Grammarly donated grammar-checking services to our submitting autho
 
 ## Bronze
 
-<!-- {% include gallery id="bronze" class="fourth" %} -->
+{% include gallery id="bronze" class="fourth" %}
 
 ## Supporter
 
