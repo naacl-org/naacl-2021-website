@@ -104,7 +104,7 @@ You may also bring other documentation that will help you answer the interviewer
 - The purpose of your trip.  See the previous question.  You may also be asked to bring your CV.
 - Your intent to depart the United States after your trip.  You may wish to show your return ticket, and evidence of your work and family responsibilities outside the U.S.
 - Your ability to pay all costs of the trip.  You may wish to show your bank statement, or evidence of travel grants or sponsorships, etc.
-Your U.S. stay address.  You may wish to bring your hotel booking information.
+- Your U.S. stay address.  You may wish to bring your hotel booking information.
 
 **Is it safe to go ahead and register for the conference before I have a visa?**
 
