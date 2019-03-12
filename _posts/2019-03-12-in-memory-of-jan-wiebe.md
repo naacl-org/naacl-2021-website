@@ -14,6 +14,9 @@ toc_label: "&nbsp;On this page"
 
 {% include figure image_path="/assets/images/janwiebe.jpg" alt="Jan Wiebe" caption="Janyce Wiebe at EACL 2014 (April 29) in Gothenburg, Sweden. Photo source: Graeme Hirst." %}
 
+_(With valuable contributions from Diane Litman, Claire Cardie, Ellen Riloff, Owen Rambow, Marilyn Walker, Rebecca Bruce, Rebecca Hwa, Swapna Somasundaran, Lingjia Deng, and Rev. Dr. Matthew Bell)_
+
+
 ## Remembering Jan Wiebe
 
 Janyce Wiebe -- known by her friends and colleagues as "Jan" -- was a Professor of Computer Science and the former director of the Intelligent Systems Program at University of Pittsburgh, and a fellow of the Association for Computational Linguistics. She was an expert in the areas of opinion analysis, discourse processing, pragmatics, and word-sense disambiguation. She was one of the first to carry out research on methodology in text annotation, just in time for the rapid rise in the need for text annotation for supervised learning methods. She was a pioneer in the research area of “subjectivity analysis” – recognizing and interpreting expressions of opinions and sentiments in text, to support NLP applications such as question answering, information extraction, text categorization, and summarization. 
@@ -42,7 +45,7 @@ After taking what seemed like a short break from her earlier work on word sense 
 
 Jan had a lasting impact on all the students and colleagues who came in contact with her and her research. Among them, several became close friends and long-term collaborators. 
 
-### Diane Litman, Professor, University of Pittsburgh
+**Diane Litman, Professor, University of Pittsburgh**
 
 It was so long ago that I am not exactly sure when I first met Jan – perhaps at COLING in 1990 or at the AAAI Fall Symposium on Discourse Structure in Natural Language Understanding and Generation in 1991.  Both of us were fairly fresh PhDs at the time. Wherever we originally met, two things still stick in my mind.  First, the session chair introduced Jan using her full name "Janyce" but mispronounced her name.  Jan very nicely but firmly gave a little lecture on how to correctly pronounce “Janyce” before beginning her presentation.  Over the years I had many opportunities to witness Jan firmly but nicely push for things that were important to her.  Second, Jan was so far ahead of the field in her research interests that the audience wasn’t quite sure what to make of her work on subjectivity, as this was years before opinion mining and sentiment analysis really took off. Jan was a true NLP pioneer, exploring new research directions that later become major research areas in their own right.
 
@@ -54,23 +57,23 @@ Together Jan and I spent many years exploring and enjoying Pittsburgh.  We took 
 
 Jan’s death leaves a hole in my heart both professionally and personally that will be difficult to heal.
 
-### Claire Cardie, Professor, Cornell University
+**Claire Cardie, Professor, Cornell University**
 
 My first encounter with Jan was actually something of a run-in with her: in 1997 Ralph Weischedel and I had accepted for publication one of her two submissions to the 2nd EMNLP Conference and it was Jan’s firm belief that we had accepted the WRONG ONE!  I don’t know if that was the case, but I  knew then and there that Jan was someone you wanted on *your* team rather than on the opposing team --- she was polite, but formidable in argumentation on issues she cared about and believed in.  Happily, I had the honor of teaming up with Jan many many times --- to write grant proposals, organize workshops and panels, prepare presentations, write reports...and to do what Jan loved most: research!  Our research collaborations gave me the chance to get to know Jan well.   We became good friends, sharing meals, conversations, opinions and adventures.   I remember especially fondly our two-day jaunt in Paris en route to Bulgaria for ACL 2013 --- we must have traversed all 20 arrondissements by foot!  Jan loved to walk.   We were walking partners at pretty much every NLP event we attended, more often than not finding ourselves somehow on streets or beaches or stretches of highway not particularly amenable to foot travel.  No matter, Jan loved to walk!  I am missing the walking and the talking and the laughing with Jan.   She was a wonderful friend and an inspirational colleague.
 
-### Ellen Riloff, Professor, University of Utah
+**Ellen Riloff, Professor, University of Utah**
 
 Jan was an outstanding researcher, collaborator, and friend. I first met Jan at a conference in 2000, when she approached me with the idea of using information extraction techniques for subjectivity analysis. Shortly thereafter, she traveled to Baltimore (where I was on sabbatical) to brainstorm in person and plan a collaborative project. This led to a decade-long collaboration involving several research projects and many joint publications. The success of our collaboration was a direct result of her vision to bring IE and subjectivity analysis together, and her willingness to educate me about the many fascinating problems related to subjectivity. Thanks to Jan's infectious enthusiasm for the topic, I came to love it myself, so much so that I continue working in this area to this day.
 
 A friendship also emerged from our collaboration. Jan had a terrific sense of humor and loved to laugh.  We regularly exchanged examples of funny or interesting subjective language encountered in everyday life.  At conferences, we often escaped for a few hours to explore local tourist sites. One of my favorite memories of Jan will be our visit to a botanical garden in Lisbon for EMNLP 2015. We encountered a flock of ducks at a pond, who waddled toward us, somewhat aggressively. Concerned that they felt threatened, we backed away from the pond and continued walking down the path. But the ducks followed and Jan got hysterical laughing at the comical scene of a dozen agitated ducks quacking loudly and waddling behind us.  Most of the ducks soon lost interest and wandered off, but one large duck fixated on Jan and relentlessly chased after her. For several minutes, I watched Jan run from the large duck, turning around every few seconds to see where it was and breaking into a new round of laughter every time (which only egged on the duck even more!). This episode became a favorite story, re-told many times, and to me epitomized Jan's easy laugh and joy for life. I will miss her greatly, as both a colleague and as a friend.
 
-### Rada Mihalcea, Professor, University of Michigan
+**Rada Mihalcea, Professor, University of Michigan**
 
 Jan has been an extraordinary presence in my life - both professionally and personally. I remember my first meeting with her, sometime in 2004. In my view of the NLP world, Jan was one of the main figures in the field, and as someone who was just starting as an assistant professor I felt a bit nervous when she invited me to have lunch "to talk about research." We talked about subjectivity (which was Jan’s main research focus) and word senses (which was my main line of work at that time). That lunch marked the beginning of a long friendship and a  fruitful collaboration -- over the years, we explored together word sense subjectivity, multilingual subjectivity, good-for/bad-for effect in word senses. We had lengthy and inspiring conversations on subjectivity and sentiment, narrative, semantics, and so many more. We came up with ideas, we imagined algorithms, we wrote papers, we exchanged annotations, we advised students, we wrote proposals; and along the way we became close friends. 
 
 I am incredibly grateful to Jan for the amazing nearly 15 years of friendship and collaboration; for having had confidence in me when I was just starting; and in recent years, for teaching me what it means to be strong. In an email she sent in late summer she said ``My mindset is that we will fight and we will win." That has always been Jan’s spirit! And even if she did not win against cancer, she won in so many other ways. She has and will continue to be a strong presence in the NLP world; and she permanently marked my own -- and I am sure so many others’ -- world.
 
-### Owen Rambow, Research Scientist, Elemental Cognition
+**Owen Rambow, Research Scientist, Elemental Cognition**
 
 I of course knew Jan by professional reputation, but the first time I met her in person was quite memorable.  At a conference, friends invited me along to dinner with her.  Conversation immediately was easy and interesting.  And fun, too.  Though it was a rather staid restaurant, the four of us at one point broke out in a *fou rire* — an uncontrollable attack of shared laughter.  It seemed to me at the time an auspicious introduction.  
 
@@ -78,21 +81,21 @@ Jan and I continued our acquaintance over the years, and a few years ago we star
 
 I was looking forward to a long collaboration and friendship.  Alas, that was not to be.  I will always treasure the memory of the week in Beijing with Jan, and its sense of potential and excitement.
 
-### Marilyn Walker, Professor, University of California Santa Cruz
+**Marilyn Walker, Professor, University of California Santa Cruz**
 
 I first met Jan at ACL 1988 in Buffalo, where she presented a paper on her Ph.D. thesis work on subjectivity in narrative "A computational theory of perspective and reference in narrative". In those days, ACL was single track, and I can still visualize the room and Jan’s presentation. I remember thinking  “This is interesting but weird stuff!”.  I admired her for following and working on something that she was interested in, when it seemed that no-one else was working on the same thing. Who could have predicted at that point in time that this interest of Jan’s would grow into the whole field of subjectivity analysis with its ties to sentiment analysis, attribution and perspective? 
 
 Over the following 30 years, I have always thought that whatever Jan was working on was interesting, but I also grew to strongly value her as a friend. When I think of her now, what I remember the most is her  quick wit and sarcasm and that contagious laugh!  Whenever we were at a conference or a meeting together, we always had a great time, getting together for dinner (e.g. a restaurant that specialized in horse meat in Prague), or ducking out to play amateur naturalist and go look at wildlife. I got to stay at her house once, with the fantastic views of Pittsburgh. She was an amazing person and colleague, and I feel lucky to have known her.
 
-### Rebecca Bruce, Professor, University of North Carolina Asheville
+**Rebecca Bruce, Professor, University of North Carolina Asheville**
 
 I was Jan’s first PhD student.  I had already begun my dissertation research when she agreed to accept me as her student.  I shared with her my passion for statistical modeling and she shared with me her expertise in NLP research.  Jan always had a keen sense of what needed to be done and the ability and perseverance to get it done.  She was meticulous and thorough in her research as well as clear and insightful in her presentations; I strove to be the same.  Our relationship shaped not only my research but my life.  When I completed by PhD, we traveled frequently to see each other.  I will never forget the days she spent traveling in North Carolina with me and my young daughter.  Although I have not been active in the field of NLP for a number of years, Jan’s friendship was constant.  She was steadfast, someone you could count on.  She was my touchstone and I will miss her greatly.
 
-### Rebecca Hwa, Associate Professor, University of Pittsburgh
+**Rebecca Hwa, Associate Professor, University of Pittsburgh**
 
 I met Jan when I was still a postdoc, looking for my first position. Her warm and friendly personality was one of the reasons that made Pitt a great place to work. Over the past fifteen years, I have come to know Jan as a mentor, a collaborator, and a friend. I admire Jan because she always spoke up for what she believed in — not only for her work, her students, and her research community but also for her local neighborhood, her favorite sports teams, and her political candidates. Once, when I was still a new junior faculty, I tried to introduce myself to a program director from a funding agency, who was swarmed by a crowd of people. I was not sure how to break in when Jan strode up confidently right into the crowd, politely discussed her project with the director; when she was done, in what seemed like a magic move, she maneuvered me in front of herself and introduced me to the director. There were countless examples of these small but impactful gestures that Jan performed to promote people who are junior to her. What I will miss the most is her energy and her love of life. She had an infectiously bright laughter; although she would sometimes apologize for "being too loud," our corridor was a more lively place when she was around. Her presence is greatly missed.
 
-### Swapna Somasundaran, Research Scientist, ETS
+**Swapna Somasundaran, Research Scientist, ETS**
 
 I was extremely blessed to have had Jan as my guru. What struck me when I met Jan for the first time, as a new graduate student visiting the university, was how simple and approachable she was. Jan was then already a very well-known researcher in the ACL community and had established the field of Subjectivity analysis.  I had anticipated to be in awe of a famous professor, and what I found was a most friendly and unassuming person who went out of her way to put me at ease. She simply came to pick me up personally, took me to all the meetings through the day, and dropped me off in the evening – and this was on the eve of an important grant deadline! 
 
@@ -100,7 +103,7 @@ As an advisor, Jan was perceptive, pragmatic and flexible. She had awe-inspiring
 
 Over the years after graduation, Jan continued to be a friend, philosopher, guide and family – she was always just a call or email away to discuss a quandary, to share a good news, or to just chat about a good book.  I will be forever grateful for her guidance and presence in my life.  
 
-### Lingjia Deng, Research Scientist, Bloomberg
+**Lingjia Deng, Research Scientist, Bloomberg**
 
 Jan is more than a Ph.D. advisor to me. In the school, she was very knowledgeable. Jan was extremely patient with teaching, especially for international students including me whose native language is not English. Her teaching not only gave us knowledge but also comforted me and encouraged me to adapt to a totally new environment. During my Ph.D. study, Jan always discussed research questions with me. She didn't have a condescending look on students. On the contrary, Jan was open to new ideas and listened to my proposals all the time. After we made a decision on an idea, Jan was strict and rigorous in the scientific experiments. It was like we two were exploring in a forest. We had many directions to go. Jan allowed me to choose the one direction that I was interested in. She then would carefully exclude the barriers for me. As a female scientist, Jan was super confident in girls learning science and choosing science and engineering as their jobs. She was a role model herself. 
 
@@ -108,7 +111,7 @@ Outside the school, Jan also guided me a lot. She was curious about many new thi
 
 Jan will be my advisor for the rest of my life. The knowledge she taught me and the experiences we shared together will influence me forever.
 
-### Rev. Dr. Matthew Bell, Whitworth University
+**Rev. Dr. Matthew Bell, Whitworth University**
 
 I first met Jan as an undergraduate at New Mexico State University around 1996, and I cannot imagine my life apart from her impact. It was her encouragement -- and the interest she took in me, even as a very "green" undergraduate -- that transformed my university experience from one of directionless intellectual interest into the seed of a life-long vocation. When, despite good grades and due largely to calf-at-a-new-gate naiveté I dropped the ball on applying to graduate school, it was Jan's mentoring and guidance that took me from the desert southwest to the University of Pittsburgh to complete a masters of science. When my interests developed down surprising channels (to me) once in Pittsburgh, Jan's council helped push me towards switching tracks from informatics to theology and the pastoral arts, sending me down the street to Pittsburgh Seminary. Finally, years down the road, when my seemingly irreconcilable career interests in teaching computer science and teaching theology began, oddly, to my eye, to come together, Jan was waiting in the wings on social media to welcome me back to the world of computer science. If I could think of one phrase to describe Jan's influence, it is: "undisturbed, optimistic encouragement." I thank God for Jan; my ambition for the future is to mimic her influence.
 
