@@ -8,10 +8,19 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.
+{: .notice}
+
 **February 25, 2019**. The Program Chairs have made the acceptance decisions for both the main conference and industry tracks. Notifications were e-mailed to the contact authors on Friday, February 22. The list of accepted papers will be posted soon.
 {: .notice}
 
+**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
+{: .notice}
+
 **February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
+{: .notice}
+
+**February 13, 2019**. The [latest blog post](/blog/call-for-student-volunteers) asks for student volunteers to help with the conference. 
 {: .notice}
 
 **February 7, 2019**. In their [latest blog post](/blog/practical-tips-to-avoid-desk-rejections), the Program Co-Chairs share a list of practical tips to avoid desk rejections.

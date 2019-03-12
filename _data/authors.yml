@@ -70,3 +70,10 @@ sudipta:
   bio         : "Student Co-chair, NAACL-SRW 2019 | PhD Student, Computer Science, University of Houston"
   email       : "skar3 AT uh DOT edu"
   twitter     : "cryptexcode"
+
+rada:
+  name        : "Rada Mihalcea"
+  uri         : "https://web.eecs.umich.edu/~mihalcea/"
+  bio         : "ACL VP-Elect | Professor, Computer Science &amp; Engineering, University of Michigan"
+  email       : "mihalcea at umich dot edu"
+  twitter     : "radamihalcea"

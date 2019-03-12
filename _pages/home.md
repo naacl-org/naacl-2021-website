@@ -18,20 +18,13 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**March 12, 2019**. A new guest [blog post](/blog/in-memory-of-jan-wiebe/) remembers Janyce Wiebe as written by ACL VP-Elect Rada Mihalcea and other close friends, students, and colleagues. 
+
 **March 5, 2019**. NAACL 2019 registration is now [open](/registration/)! **Reminder**: [if you need a visa](/participants/#visa-information) to attend NAACL 2019, please apply now!
 {: .notice--info}
 
 **February 28, 2019**. The list of [accepted papers](/program/accepted/) has been posted. 
 {: .notice--info}
-
-**February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.
-{: .notice}
-
-**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
-{: .notice}
-
-**February 13, 2019**. The [latest blog post](/blog/call-for-student-volunteers) asks for student volunteers to help with the conference. 
-{: .notice}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
