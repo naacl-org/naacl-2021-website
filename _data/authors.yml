@@ -75,5 +75,6 @@ rada:
   name        : "Rada Mihalcea"
   uri         : "https://web.eecs.umich.edu/~mihalcea/"
   bio         : "ACL VP-Elect | Professor, Computer Science &amp; Engineering, University of Michigan"
+  avatar      : "assets/images/avatars/Rada.jpg"
   email       : "mihalcea at umich dot edu"
   twitter     : "radamihalcea"

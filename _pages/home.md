@@ -19,6 +19,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 <h2>News</h2>
 
 **March 12, 2019**. A new guest [blog post](/blog/in-memory-of-jan-wiebe/) remembers Janyce Wiebe as written by ACL VP-Elect Rada Mihalcea and other close friends, students, and colleagues. 
+{: .notice--info}
 
 **March 5, 2019**. NAACL 2019 registration is now [open](/registration/)! **Reminder**: [if you need a visa](/participants/#visa-information) to attend NAACL 2019, please apply now!
 {: .notice--info}
