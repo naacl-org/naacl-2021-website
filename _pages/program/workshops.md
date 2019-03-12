@@ -18,7 +18,7 @@ Locations for each workshop will be added soon. Please refer to each individual 
 *Organizers: Jonathan May, Ekaterina Shutova, Aurelie Herbelot, Xiaodan Zhu, Marianna Apidianaki, and Saif M. Mohammad*
 
 ### *SEM
-The [8th Joint Conference on Lexical and Computational Semantics](https://sites.google.com/view/starsem2018) brings together researchers interested in the semantics of natural languages and its computational modelling. The conference embraces symbolic and probabilistic approaches, and everything in between; theoretical contributions as well as practical applications are welcome in the form of long and short papers.<br/> 
+The [8th Joint Conference on Lexical and Computational Semantics](https://starsem.org/2019/) brings together researchers interested in the semantics of natural languages and its computational modelling. The conference embraces symbolic and probabilistic approaches, and everything in between; theoretical contributions as well as practical applications are welcome in the form of long and short papers.<br/> 
 *General Chair: Rada Mihalcea*, *Program Co-Chairs: Lun-Wei Ku and Ekaterina Shutova*
 
 ## June 6
