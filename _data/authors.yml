@@ -78,3 +78,11 @@ rada:
   avatar      : "assets/images/avatars/Rada.jpg"
   email       : "mihalcea at umich dot edu"
   twitter     : "radamihalcea"
+
+cass:
+  name        : "Cassandra L. Jacobs"
+  uri         : "https://cljacobs.net"
+  bio         : "D&I Committee Member | Postdoctoral Fellow, University of Toronto"
+  avatar      : "assets/images/avatars/cass.jpg"
+  email       : "jacobs dot cassandra dot l at gmail dot com"
+  twitter     : "BayesForDays"

@@ -18,6 +18,9 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
+{: .notice--info}
+
 **March 12, 2019**. A new guest [blog post](/blog/in-memory-of-jan-wiebe/) remembers Janyce Wiebe as written by ACL VP-Elect Rada Mihalcea and other close friends, students, and colleagues. 
 {: .notice--info}
 

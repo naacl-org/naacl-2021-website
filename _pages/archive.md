@@ -14,7 +14,7 @@ toc_icon: "cog"
 **February 25, 2019**. The Program Chairs have made the acceptance decisions for both the main conference and industry tracks. Notifications were e-mailed to the contact authors on Friday, February 22. The list of accepted papers will be posted soon.
 {: .notice}
 
-**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](blog/introducing-the-diversity-and-inclusion-committee/). 
+**February 20, 2019**. The Diversity &amp; Inclusion co-chairs for NAACL 2019 introduce their remit and team in the [latest blog post](/blog/introducing-the-diversity-and-inclusion-committee/). 
 {: .notice}
 
 **February 14, 2019**. The list of accepted tutorials has been [posted](/program/tutorials). 
