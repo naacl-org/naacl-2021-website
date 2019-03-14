@@ -56,6 +56,6 @@ copy of a wonderful [illustrated book by Archie Bongiovanni and Tristan
 Jimerson](https://onipress.com/products/a-quick-easy-guide-to-they-them-pronouns)
 that discusses the hows and whys of pronoun use. There is also a wealth
 of linguistics research on personal pronouns, including work by [Kirby
-Conrod](http://genderfogblog.com/2018/09/03/who-is-they/),
+Conrod](https://medium.com/@kconrod/how-to-do-the-absolute-minimum-with-pronouns-9be0eef5ff62),
 who helped enormously in the framing of this post.
 
