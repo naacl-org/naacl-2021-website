@@ -14,7 +14,7 @@ toc_label: "&nbsp;On this page"
 
 {% include figure image_path="/assets/images/janwiebe.jpg" alt="Jan Wiebe" caption="Janyce Wiebe at EACL 2014 (April 29) in Gothenburg, Sweden. Photo source: Graeme Hirst." %}
 
-_(With valuable contributions from Diane Litman, Claire Cardie, Ellen Riloff, Owen Rambow, Marilyn Walker, Rebecca Bruce, Rebecca Hwa, Swapna Somasundaran, Lingjia Deng, and Rev. Dr. Matthew Bell)_
+_(With valuable contributions from Diane Litman, Claire Cardie, Ellen Riloff, Owen Rambow, Marilyn Walker, Graeme Hirst, Rebecca Bruce, Rebecca Hwa, Swapna Somasundaran, Lingjia Deng, and Rev. Dr. Matthew Bell)_
 
 
 ## Remembering Jan Wiebe
