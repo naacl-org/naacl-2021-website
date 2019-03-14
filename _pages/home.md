@@ -18,6 +18,9 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**March 14, 2018**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
+{: .notice--info}
+
 **March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
 {: .notice--info}
 

@@ -65,6 +65,12 @@ Please complete the [Student Accommodation Request Form](https://forms.office.co
 
 The Doubletree Suites by Hilton Minneapolis is located just minutes from the Hyatt Regency Minneapolis (the conference venue).
 
+## Remote Presentation
+
+This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post](/blog/remote-presentations/) authored by the remote presentation chairs.
+
+To apply for a remote presentation slot at NAACL-2019, please fill out [this form](/downloads/telepresence_form.docx) and e-mail it to [naacl-2019-remote-presentation@googlegroups.com](mailto:naacl-2019-remote-presentation@googlegroups.com). Decisions will be made on a case-by-case basis.
+
 ## Visa Information
 
 The following questions will help you in determining whether and how to apply for a U.S. visa to attend the conference. 
