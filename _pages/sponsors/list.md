@@ -52,7 +52,10 @@ bronze:
     image_path: /assets/images/logos/ets-logo.png
     alt: "ETS Logo"
     title: "ETS"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.raytheon.com/ourcompany/bbn
+    image_path: /assets/images/logos/raytheon-bbn-logo.png
+    alt: "Raytheon BBN Logo"
+    title: "Raytheon"
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
 dichampion:
