@@ -18,7 +18,10 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**March 14, 2018**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
+**March 18, 2019**. Note that early [registration](/registration) will end on April 28, 2019! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) soon!
+{: .notice--info}
+
+**March 14, 2019**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
 {: .notice--info}
 
 **March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
@@ -31,7 +34,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 {: .notice--info}
 
 **February 28, 2019**. The list of [accepted papers](/program/accepted/) has been posted. 
-{: .notice--info}
+{: .notice}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
@@ -85,6 +88,16 @@ The Association for Computational Linguistics (ACL) invites you to participate i
           <td>Camera-ready papers due<br/>(<i>long, short, industry track, demos &amp; student research workshop</i>)</td>
           <td>Monday</td>
           <td>April 1, 2019</td>
+        </tr>
+        <tr>
+          <td>Early registration ends</td>
+          <td>Sunday</td>
+          <td>April 28, 2019</td>
+        </tr>
+        <tr>
+          <td>Late registration ends</td>
+          <td>Sunday</td>
+          <td>May 19, 2019</td>
         </tr>
         <tr>
             <td>Tutorials</td>
