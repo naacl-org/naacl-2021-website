@@ -100,7 +100,7 @@ The Association for Computational Linguistics (ACL) invites you to participate i
           <td>May 19, 2019</td>
         </tr>
         <tr>
-            <td>Tutorials</td>
+            <td>Tutorials &amp; On-site Registration</td>
             <td>Sunday</td>
             <td>June 2, 2019</td>
         </tr>        
