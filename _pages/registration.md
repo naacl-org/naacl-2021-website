@@ -18,7 +18,8 @@ Registration is now open! We are pleased to announce that we are able to maintai
 
 Note that: 
 - Early registration is currently open and ends April 28, 2019, 11:59 PM (EDT).<br/>
-- Late registration starts April 29, 2019 and ends May 19, 2019, 11:59 PM (EDT) .
+- Late registration starts April 29, 2019 and ends May 19, 2019, 11:59 PM (EDT).<br/>
+- On-site registration begins June 2, 2019.
 
 
 ## NAACL 2019 Registration Fees
