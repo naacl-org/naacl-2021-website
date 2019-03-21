@@ -20,3 +20,5 @@ The information provided will be reviewed and selected authors will be notified 
 For individuals who are not presenters and cannot otherwise attend, we are looking into live streaming options.
 
 If you have any questions, please feel free reach out to us at [naacl-2019-remote-presentation@googlegroups.com](mailto:naacl-2019-remote-presentation@googlegroups.com).
+
+**Update**: The link to the remote presentation form can be found [here](https://naacl2019.org/participants/#remote-presentation).
