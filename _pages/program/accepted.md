@@ -1368,3 +1368,77 @@ Lin Sun, Kai Zhang and Fule Ji
 
 **Train One Get One Free: Partially Supervised Neural Network for Bug Report Duplicate Detection and Clustering**<br/>
 Lahari Poddar, Leonardo Neves, William Brendel, Luis Marujo, Sergey Tulyakov and Pradeep Karuturi
+
+## System Demonstrations
+
+**A Research Platform for Multi-Robot Dialogue with Humans**<br/>
+Matthew Marge, Stephen Nogar, Cory J. Hayes, Stephanie M. Lukin, Jesse Bloecker, Eric Holder and Clare Voss
+
+**Abbreviation Explorer - an interactive system for pre-evaluation of Unsupervised Abbreviation Disambiguation**<br/>
+Manuel Ciosici and Ira Assent
+
+**ADIDA: Automatic Dialect Identification for Arabic**<br/>
+Ossama Obeid, Mohammad Salameh, Houda Bouamor and Nizar Habash
+
+**Chat-crowd: A Dialog-based Platform for Visual Layout Composition**<br/>
+Paola Cascante-Bonilla, Xuwang Yin, Vicente Ordonez and Song Feng
+
+**ChatEval: A Tool for Chatbot Evaluation**<br/>
+Joao Sedoc, Daphne Ippolito, Arun Kirubarajan, Jai Thirani, Lyle Ungar and Chris Callison-Burch
+
+**Community lexical access for an endangered polysynthetic language: An electronic dictionary for St. Lawrence Island Yupik**<br/>
+Benjamin Hunt, Emily Chen, Sylvia Schreiner and Lane Schwartz
+
+**compare-mt: A Tool for Holistic Comparison of Language Generation Systems**<br/>
+Graham Neubig, Zi-Yi Dou, Junjie Hu, Paul Michel, Danish Pruthi and Xinyi Wang
+
+**Eidos & Delphi: From Free Text to Executable Causal Models**<br/>
+Rebecca Sharp, Adarsh Pyarelal, Benjamin Gyori, Keith Alcock, Egoitz Laparra, Marco A. Valenzuela-Escárcega, Ajay Nagesh, Vikas Yadav, John Bachman, Zheng Tang, Heather Lent, Fan Luo, Mithun Paul, Steven Bethard, Kobus Barnard, Clayton Morrison and Mihai Surdeanu
+
+**Enabling Search and Collaborative Assembly of Causal Interactions Extracted from Multilingual and Multi-domain Free Text**<br/>
+George C. G. Barbosa, Zechy Wong, Gus Hahn-Powell, Dane Bell, Rebecca Sharp, Marco A. Valenzuela-Escárcega and Mihai Surdeanu
+
+**End-to-End Open-Domain Question Answering with BERTserini**<br/>
+Wei Yang, Yuqing Xie, Aileen Lin, Xingyu Li, Luchen Tan, Kun Xiong, Ming Li and Jimmy Lin
+
+**fairseq: A Fast, Extensible Toolkit for Sequence Modeling**<br/>
+Myle Ott, Sergey Edunov, Alexei Baevski, Angela Fan, Sam Gross, Nathan Ng, David Grangier and Michael Auli
+
+**FAKTA: An Automatic End-to-End Fact Checking System**<br/>
+Moin Nadeem, Wei Fang, Brian Xu, Mitra Mohtarami and James Glass
+
+**FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP**<br/>
+Alan Akbik, Tanja Bergmann, Duncan Blythe, Kashif Rasul, Stefan Schweter and Roland Vollgraf
+
+**iComposer: An Automatic Songwriting System for Chinese Popular Music**<br/>
+Hsin-Pei Lee, Jhih-Sheng Fang and Wei-Yun Ma
+
+**INS: An Interactive Chinese News Synthesis System**<br/>
+Hui Liu, Wentao Qin and Xiaojun Wan
+
+**LeafNATS: An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization**<br/>
+Tian Shi, Ping Wang and Chandan K. Reddy
+
+**Learning to Respond to Mixed-code Queries using Bilingual Word Embeddings**<br/>
+Chia-Fang Ho, Jason Chang, Jhih-Jie Chen and Chingyu Yang
+
+**Litigation Analytics: Extracting and querying motions and orders from US federal courts**<br/>
+Thomas Vacek, Dezhao Song, Hugo Molina-Salgado, Ronald Teo, Conner Cowling and Frank Schilder
+
+**LT Expertfinder: An Evaluation Framework for Expert Finding Methods**<br/>
+Tim Fischer, Steffen Remus and Chris Biemann
+
+**Multilingual Entity, Relation, Event and Human Value Extraction**<br/>
+Manling Li, Ying Lin, Spencer Whitehead, Clare Voss, Morteza Dehghani and Heng Ji
+
+**Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation**<br/>
+Seraphina Goldfarb-Tarrant, Haining Feng and Nanyun Peng
+
+**SkillBot: Towards Automatic Skill Development via User Demonstration**<br/>
+Yilin Shen, Avik Ray, Hongxia Jin and Sandeep Nama
+
+**Train, Sort, Explain: Learning to Diagnose Translation Models**<br/>
+Robert Schwarzenberg, David Harbecke, Vivien Macketanz, Eleftherios Avramidis and Sebastian Möller
+
+**Visualizing Inferred Morphotactic Systems**<br/>
+Haley Lepp, Olga Zamaraeva and Emily M. Bender

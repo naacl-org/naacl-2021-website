@@ -18,23 +18,15 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**March 25, 2019**. The list of [accepted papers](/program/accepted) has been updated with the accepted [system demonstrations](/program/accepted#system-demonstrations).
+{: .notice--info}
+
 **March 18, 2019**. Note that early [registration](/registration) will end on April 28, 2019! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) soon!
 {: .notice--info}
 
 **March 14, 2019**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
 {: .notice--info}
 
-**March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
-{: .notice--info}
-
-**March 12, 2019**. A new guest [blog post](/blog/in-memory-of-jan-wiebe/) remembers Janyce Wiebe as written by ACL VP-Elect Rada Mihalcea and other close friends, students, and colleagues. 
-{: .notice--info}
-
-**March 5, 2019**. NAACL 2019 registration is now [open](/registration/)! **Reminder**: [if you need a visa](/participants/#visa-information) to attend NAACL 2019, please apply now!
-{: .notice--info}
-
-**February 28, 2019**. The list of [accepted papers](/program/accepted/) has been posted. 
-{: .notice}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>

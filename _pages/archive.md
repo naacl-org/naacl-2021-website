@@ -8,6 +8,18 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
+{: .notice}
+
+**March 12, 2019**. A new guest [blog post](/blog/in-memory-of-jan-wiebe/) remembers Janyce Wiebe as written by ACL VP-Elect Rada Mihalcea and other close friends, students, and colleagues. 
+{: .notice}
+
+**March 5, 2019**. NAACL 2019 registration is now [open](/registration/)! **Reminder**: [if you need a visa](/participants/#visa-information) to attend NAACL 2019, please apply now!
+{: .notice}
+
+**February 28, 2019**. The list of [accepted papers](/program/accepted/) has been posted. 
+{: .notice}
+
 **February 26, 2019**. NAACL 2019 will offer remote presentations. Read more in the [latest blog post](/blog/remote-presentations/) by the remote presentation co-chairs.
 {: .notice}
 
