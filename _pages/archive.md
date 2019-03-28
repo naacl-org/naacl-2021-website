@@ -8,6 +8,8 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**March 28, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Read about it in the [latest blog post](/blog/careers-panel-survey/).
+
 **March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
 {: .notice}
 
