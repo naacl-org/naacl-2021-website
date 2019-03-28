@@ -2,7 +2,7 @@
 title: Careers in NLP Panel @ NAACL-HLT 2019
 author: industry-track-chairs
 author_profile: true
-excerpt: "Fill out survey to share your questions with panelists"
+excerpt: "Fill this survey to share your questions with panelists"
 tags:
   panel-discussion
   survey
