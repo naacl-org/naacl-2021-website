@@ -86,3 +86,9 @@ cass:
   avatar      : "assets/images/avatars/cass.jpg"
   email       : "jacobs dot cassandra dot l at gmail dot com"
   twitter     : "BayesForDays"
+
+industry-track-chairs:
+  name        : "Industry Track Co-Chairs"
+  email       : "naacl-2019-industry-track@googlegroups.com"
+  bio         : "Anastassia Loukina, Michelle Morales, and Rohit Kumar"
+  avatar      : ""
