@@ -18,7 +18,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**March 29, 2019**. As the camera-ready deadline approaches, please review these [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information about preparing your final submissions.  
+**March 29, 2019**. The camera-ready deadline has been extended to **April 3rd**. Please review the [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information for preparing your final submissions.  
 {: .notice--info}
 
 **March 25, 2019**. The list of [accepted papers](/program/accepted) has been updated with the accepted [system demonstrations](/program/accepted#system-demonstrations).
