@@ -18,6 +18,9 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**March 29, 2019**. As the camera-ready deadline approaches, please review these [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information about preparing your final submissions.  
+{: .notice--info}
+
 **March 25, 2019**. The list of [accepted papers](/program/accepted) has been updated with the accepted [system demonstrations](/program/accepted#system-demonstrations).
 {: .notice--info}
 
@@ -25,7 +28,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 {: .notice--info}
 
 **March 14, 2019**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
-{: .notice--info}
+{: .notice}
 
 
 <div class="text-center">
