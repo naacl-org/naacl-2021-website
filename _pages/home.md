@@ -82,7 +82,7 @@ The Association for Computational Linguistics (ACL) invites you to participate i
         <tr>
           <td>Camera-ready papers due<br/>(<i>long, short, industry track, demos &amp; student research workshop</i>)</td>
           <td>Monday</td>
-          <td>April 1, 2019</td>
+          <td>April 3, 2019</td>
         </tr>
         <tr>
           <td>Early registration ends</td>
