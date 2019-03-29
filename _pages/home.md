@@ -111,7 +111,7 @@ The Association for Computational Linguistics (ACL) invites you to participate i
         </tr>        
 </tbody>
 </table>
-<h5>Last updated: November 29, 2018. All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</h5>
+<h5>Last updated: March 29, 2019. All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</h5>
 
 <h2 id="submitlinks">Submission Links</h2>
 
