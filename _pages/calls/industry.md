@@ -76,8 +76,8 @@ The industry track will have the same deadlines as the research track.
         </tr>
         <tr>
           <td>Camera ready papers due</td>
-          <td>Monday</td>
-          <td>April 1, 2019</td>
+          <td>Wednesday</td>
+          <td>April 3, 2019</td>
         </tr>
     </tbody>
 </table>

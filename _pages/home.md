@@ -21,7 +21,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 **March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Read about it in the [latest blog post](/blog/careers-panel-survey/).
 {: .notice--info}
 
-**March 29, 2019**. As the camera-ready deadline approaches, please review these [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information about preparing your final submissions.  
+**March 29, 2019**. The camera-ready deadline for _all_ papers has been extended to **April 3rd**. Please review the [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information for preparing your final submissions.  
 {: .notice--info}
 
 **March 25, 2019**. The list of [accepted papers](/program/accepted) has been updated with the accepted [system demonstrations](/program/accepted#system-demonstrations).
@@ -84,8 +84,8 @@ The Association for Computational Linguistics (ACL) invites you to participate i
         </tr>
         <tr>
           <td>Camera-ready papers due<br/>(<i>long, short, industry track, demos &amp; student research workshop</i>)</td>
-          <td>Monday</td>
-          <td>April 1, 2019</td>
+          <td>Wednesday</td>
+          <td>April 3, 2019</td>
         </tr>
         <tr>
           <td>Early registration ends</td>
@@ -114,7 +114,7 @@ The Association for Computational Linguistics (ACL) invites you to participate i
         </tr>        
 </tbody>
 </table>
-<h5>Last updated: November 29, 2018. All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</h5>
+<h5>Last updated: March 29, 2019. All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</h5>
 
 <h2 id="submitlinks">Submission Links</h2>
 
