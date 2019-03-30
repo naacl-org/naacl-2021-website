@@ -12,11 +12,14 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
     <span style="font-size: normal;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></span><br/>
     <span style="font-weight: bold; font-size: smaller;">
     Tutorials : June 2<br/>&nbsp;Main Conference : June 3 &ndash; June 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : June 6 &ndash; June 7</span>
-   <br/><br/>       
+    <br/><br/>       
     <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 <h2>News</h2>
+
+**March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Read about it in the [latest blog post](/blog/careers-panel-survey/).
+{: .notice--info}
 
 **March 29, 2019**. The camera-ready deadline for _all_ papers has been extended to **April 3rd**. Please review the [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information for preparing your final submissions.  
 {: .notice--info}
