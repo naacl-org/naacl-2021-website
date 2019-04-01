@@ -18,7 +18,7 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
-**March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Read about it in the [latest blog post](/blog/careers-panel-survey/).
+**March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Submit your questions to the panelists [here](/blog/careers-panel-survey/).
 {: .notice--info}
 
 **March 29, 2019**. The camera-ready deadline for _all_ papers has been extended to **April 3rd**. Please review the [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information for preparing your final submissions.  
