@@ -410,9 +410,6 @@ Dinesh Raghu, Nikhil Gupta and Mausam -
 **Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions**<br/>
 Zhi-Xiu Ye and Zhen-Hua Ling
 
-**Distributionally Robust Language Modeling**<br/>
-Yonatan Oren, Tatsunori Hashimoto, Kelvin Guu and Percy Liang
-
 **Document-Level Event Factuality Identification via Adversarial Neural Network**<br/>
 Zhong Qian, Peifeng Li, Qiaoming Zhu and Guodong Zhou
 
