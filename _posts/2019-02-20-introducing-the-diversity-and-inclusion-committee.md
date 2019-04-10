@@ -24,7 +24,7 @@ Meet our committee!
 
 1. **Disability access**: Cassidy Henry (Maryland), Adam Goodkind (Northwestern), Klaus Zechner (ETS)
 2. **Financial access**: Tirthankar Ghosal (IIT, Patna) and Valia Kordoni (Humboldt) 
-3. **Childcare and parental inclusion**: Cissi O Alm (RIT)
+3. **Childcare and parental inclusion**: Cissi O Alm (RIT) and Emily Prud'hommeaux (Boston College)
 4. **Other accessibility issues (especially neuro-diversity, food, religion)** : Libby Barak (Toronto), Shruti Rijhwani (CMU)
 5. **Socially inclusive activities**: Zeerak Waseem (Sheffield), Marianna Martindale (Maryland), Cassandra L Jacobs (Toronto)
 6. **Academically inclusive activities**: Kellie Webster (Google), Aakanksha Naik (CMU), Dirk Hovy (Bocconi), Masoud Rouhizadeh (JHU)
