@@ -18,6 +18,10 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
+{: .notice--info}
+
+
 **April 10, 2019**. An [overview schedule](/program/schedule/) for the conference is available. Detailed program coming soon!
 {: .notice--info}
 
