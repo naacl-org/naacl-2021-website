@@ -18,19 +18,13 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 
 <h2>News</h2>
 
+**April 10, 2019**. An [overview schedule](/program/schedule/) for the conference is available. Detailed program coming soon!
+{: .notice--info}
+
 **March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Submit your questions to the panelists [here](/blog/careers-panel-survey/).
-{: .notice--info}
-
-**March 29, 2019**. The camera-ready deadline for _all_ papers has been extended to **April 3rd**. Please review the [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information for preparing your final submissions.  
-{: .notice--info}
-
-**March 25, 2019**. The list of [accepted papers](/program/accepted) has been updated with the accepted [system demonstrations](/program/accepted#system-demonstrations).
-{: .notice--info}
+{: .notice}
 
 **March 18, 2019**. Note that early [registration](/registration) will end on April 28, 2019! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) soon!
-{: .notice--info}
-
-**March 14, 2019**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
 {: .notice}
 
 

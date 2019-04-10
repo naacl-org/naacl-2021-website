@@ -8,6 +8,15 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**March 29, 2019**. The camera-ready deadline for _all_ papers has been extended to **April 3rd**. Please review the [guidelines and FAQs](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md) containing important information for preparing your final submissions.  
+{: .notice}
+
+**March 25, 2019**. The list of [accepted papers](/program/accepted) has been updated with the accepted [system demonstrations](/program/accepted#system-demonstrations).
+{: .notice}
+
+**March 14, 2019**. If you are not unable to attend NAACL and would like to apply for [remote presentation](/blog/remote-presentations), please refer to the [newly posted instructions](/participants#remote-presentation).
+{: .notice}
+
 **March 13, 2019**. As part of the new [D&I initiative](blog/introducing-the-diversity-and-inclusion-committee/), pronouns will play an important part at NAACL 2019. Read the new [blog post](blog/why-pronouns/).
 {: .notice}
 
