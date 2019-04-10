@@ -21,14 +21,20 @@ diamond:
     image_path: /assets/images/logos/amazon-logo.png
     alt: "Amazon Logo"
     title: "Amazon"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.asapp.com
+    image_path: /assets/images/logos/asapp-logo.png
+    alt: "Asapp Logo"
+    title: "Asapp"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://www.twosigma.com
     image_path: /assets/images/logos/twosigma-logo.png
     alt: "Two Sigma Logo"
     title: "Two Sigma"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.thomsonreuters.com/en.html
+    image_path: /assets/images/logos/reuters-logo.png
+    alt: "Thomson Reuters Logo"
+    title: "Thomson Reuters"
   - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.megagon.ai
@@ -46,7 +52,22 @@ silver:
     image_path: /assets/images/logos/sap-logo.png
     alt: "SAP Logo"
     title: "SAP"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: http://www.ebay.com
+    image_path: /assets/images/logos/ebay-logo.png
+    alt: "Ebay Logo"
+    title: "Ebay"
+  - url: https://www.grammarly.com
+    image_path: /assets/images/logos/grammarly-logo.png
+    alt: "Grammarly Logo"
+    title: "Grammarly"
+  - url: https://www.microsoft.com/research
+    image_path: /assets/images/logos/msr-logo.png
+    alt: "Microsoft Research Logo"
+    title: "Microsoft Research"
+  - url: https://www.cisco.com
+    image_path: /assets/images/logos/cisco-logo.png
+    alt: "Cisco Logo"
+    title: "Cisco"
 bronze:
   - url: http://www.ets.org
     image_path: /assets/images/logos/ets-logo.png
@@ -56,7 +77,10 @@ bronze:
     image_path: /assets/images/logos/raytheon-bbn-logo.png
     alt: "Raytheon BBN Logo"
     title: "Raytheon"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.isi.edu
+    image_path: /assets/images/logos/isi-logo.png
+    alt: "USC Information Sciences Institute Logo"
+    title: "USC Information Sciences Institute"
 supporter:
 dichampion:
 dially:
