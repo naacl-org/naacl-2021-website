@@ -19,6 +19,13 @@ diversity-inclusion-chairs:
   bio         : "Natalie Schluter and Jason Eisner"
   avatar      : "assets/images/avatars/di-chairs.png"
 
+diversity-inclusion-disability:
+  name        : "Diversity & Inclusion Committee – Disability Access"
+  email       : "naacl2019-diversity-inclusion-chairs@googlegroups.com"
+  bio         : "Cassidy Henry and Adam Goodkind"
+  avatar      : "assets/images/avatars/di-chairs.png"
+
+
 remote-presentation-chairs:
   name        : "Remote Presentation Co-Chairs"
   email       : "naacl-2019-remote-presentation@googlegroups.com"
