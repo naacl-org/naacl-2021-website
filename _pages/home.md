@@ -5,11 +5,11 @@ permalink: /
 header:
   overlay_image: "/assets/images/minneapolis/unsplash.jpg"
   caption: 'Photo by <a href="https://unsplash.com/@d_mccullough">Daniel McCullough</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
+excerpt: "<br/><br/>"
 ---
 
 <div class="text-center">
-    <span style="font-size: normal;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></span><br/>
+    <img width="30%" src="assets/images/logos/naacl-logo.png"/><br/>
     <span style="font-weight: bold; font-size: smaller;">
     Tutorials : June 2<br/>&nbsp;Main Conference : June 3 &ndash; June 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : June 6 &ndash; June 7</span>
     <br/><br/>       
@@ -17,17 +17,16 @@ excerpt: "June 2&ndash;7, 2019<br/>Minneapolis, USA"
 </div>
 
 <h2>News</h2>
+**April 15, 2019**. In the latest [blog post](/blog/kudos-reviewers/), the program chairs thank all of the amazing reviewers!
+{: .notice--info}
 
 **April 11, 2019**. The latest [blog post](/blog/disability-access/) from the Diversity & Inclusion committee introduces their new proactive approach to disability access. 
 {: .notice--info}
 
 **April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
-{: .notice--info}
+{: .notice}
 
 **April 10, 2019**. An [overview schedule](/program/schedule/) for the conference is available. Detailed program coming soon!
-{: .notice--info}
-
-**March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Submit your questions to the panelists [here](/blog/careers-panel-survey/).
 {: .notice}
 
 **March 18, 2019**. Note that early [registration](/registration) will end on April 28, 2019! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) soon!
