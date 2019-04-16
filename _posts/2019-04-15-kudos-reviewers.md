@@ -566,7 +566,7 @@ If you work with any of these people, please give them a pat on the back today.
 <li>Mamoru Komachi (Tokyo Metropolitan University)</li>
 <li>Kazunori Komatani (Osaka University)</li>
 <li>Rik Koncel-Kedziorski (University of Washington)</li>
-<li>Ravi Kondadadi (Senior Principal Engineer)</li>
+<li>Ravi Kondadadi (United Health Group)</li>
 <li>Stasinos Konstantopoulos (NCSR Demokritos)</li>
 <li>Ioannis Konstas (Heriot-Watt University)</li>
 <li>Parisa Kordjamshidi (Tulane)</li>
