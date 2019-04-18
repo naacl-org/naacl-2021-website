@@ -60,10 +60,10 @@ silver:
     image_path: /assets/images/logos/grammarly-logo.png
     alt: "Grammarly Logo"
     title: "Grammarly"
-  - url: https://www.microsoft.com/research
-    image_path: /assets/images/logos/msr-logo.png
-    alt: "Microsoft Research Logo"
-    title: "Microsoft Research"
+  - url: https://www.microsoft.com/
+    image_path: /assets/images/logos/microsoft-logo.png
+    alt: "Microsoft Logo"
+    title: "Microsoft"
   - url: https://www.cisco.com
     image_path: /assets/images/logos/cisco-logo.png
     alt: "Cisco Logo"
