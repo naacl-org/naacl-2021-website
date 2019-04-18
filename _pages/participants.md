@@ -56,12 +56,13 @@ Quoted rates will be possible up to 3 days pre- and post-conference, based on ho
 The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL).
 
 ### Students
+<span style="color: red; font-weight: bold; font-size: larger; border: 2px solid red; padding: 3px;">SOLD OUT</span>
 
 We have also booked a small number of rooms specifically for students at the [Doubletree Suites by Hilton Minneapolis](https://doubletree3.hilton.com/en/hotels/minnesota/doubletree-suites-by-hilton-hotel-minneapolis-MSPLSDT/index.html) at the super-discounted rates of **$119** per night (1-2 people), **$139** (3 people) and **$159** (4 people). We strongly encourage students to share rooms to the extent possible.
 
 The ACL Office will accept your reservation request and make the reservations on your behalf. Room sharing is recommended since only a limited number of rooms are available at the discounted rates. If you would like to share, you will need to specify the total number of people who will be sharing the room including yourself (i.e., yourself plus 1 to 3 others). Please be aware that rooms typically come with two beds so any more than two people may have to share a bed.
 
-Please complete the [Student Accommodation Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUREZJUVo4RDBaMTFSMUhJRVpaQkYyTjk1Uy4u)  to make your reservation request. We will do our best to honor your request on a first-come first-served basis. All requests must be received no later than Wednesday, May 1, 2019 by the ACL Office.
+Please complete the <a style="text-decoration: line-through;;" href="https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUREZJUVo4RDBaMTFSMUhJRVpaQkYyTjk1Uy4u">Student Accommodation Request Form</a> (**SOLD OUT**)  to make your reservation request. We will do our best to honor your request on a first-come first-served basis. All requests must be received no later than Wednesday, May 1, 2019 by the ACL Office.
 
 The Doubletree Suites by Hilton Minneapolis is located just minutes from the Hyatt Regency Minneapolis (the conference venue).
 
