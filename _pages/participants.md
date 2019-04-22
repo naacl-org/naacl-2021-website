@@ -66,6 +66,10 @@ Please complete the <a style="text-decoration: line-through;;" href="https://for
 
 The Doubletree Suites by Hilton Minneapolis is located just minutes from the Hyatt Regency Minneapolis (the conference venue).
 
+## Poster Instructions
+
+Each poster paper (main conference, industry track, and Student Research Workshop) will be assigned a free-standing poster board with a display surface that is 8 feet long and 4 feet tall. Authors are free to use as much of that space as they would like. There is a [FedEx office](https://local.fedex.com/mn/minneapolis/office-5570/) in the hotel if you need on-site printing – they are sure to be busy during the conference, so plan ahead if you need their services. 
+
 ## Remote Presentation
 
 This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post](/blog/remote-presentations/) authored by the remote presentation chairs.
