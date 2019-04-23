@@ -35,13 +35,19 @@ platinum:
     image_path: /assets/images/logos/reuters-logo.png
     alt: "Thomson Reuters Logo"
     title: "Thomson Reuters"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.capitalone.com
+    image_path: /assets/images/logos/capital-one-logo.png
+    alt: "Capital One Logo"
+    title: "Capital One"
 gold:
   - url: https://www.megagon.ai
     image_path: /assets/images/logos/megagon-logo.png
     alt: "Megagon Labs Logo"
     title: "Megagon Labs"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://www.bytedance.com/ai_lab/
+    image_path: /assets/images/logos/bytedance-logo.png
+    alt: "ByteDance Logo"
+    title: "ByteDance"
   - image_path: /assets/images/logos/blank-logo.png
 silver:
   - url: http://www.duolingo.com
@@ -81,6 +87,12 @@ bronze:
     image_path: /assets/images/logos/isi-logo.png
     alt: "USC Information Sciences Institute Logo"
     title: "USC Information Sciences Institute"
+  - url: https://clinc.com
+    image_path: /assets/images/logos/clinc-logo.png
+    alt: "Clinc Logo"
+    title: "Clinc"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 supporter:
 dichampion:
 dially:
