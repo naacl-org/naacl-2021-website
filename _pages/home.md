@@ -17,21 +17,21 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+
+**April 25, 2019**. Early registration ends in 3 days on Sunday, April 28! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) now if you haven't already!
+{: .notice--info}
+
 **April 15, 2019**. In the latest [blog post](/blog/kudos-reviewers/), the program chairs thank all of the amazing reviewers!
 {: .notice--info}
 
 **April 11, 2019**. The latest [blog post](/blog/disability-access/) from the Diversity & Inclusion committee introduces their new proactive approach to disability access. 
-{: .notice--info}
+{: .notice}
 
 **April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
 {: .notice}
 
 **April 10, 2019**. An [overview schedule](/program/schedule/) for the conference is available. Detailed program coming soon!
 {: .notice}
-
-**March 18, 2019**. Note that early [registration](/registration) will end on April 28, 2019! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) soon!
-{: .notice}
-
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
