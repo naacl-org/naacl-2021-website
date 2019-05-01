@@ -99,3 +99,9 @@ industry-track-chairs:
   email       : "naacl-2019-industry-track@googlegroups.com"
   bio         : "Anastassia Loukina, Michelle Morales, and Rohit Kumar"
   avatar      : "assets/images/avatars/industry-track-chairs.png"
+
+social-media-chairs:
+  name        : "Publicity &amp; Social Media Co-Chairs"
+  email       : "naacl-2019-social-media@googlegroups.com"
+  bio         : "Yuval Pinter &amp; Rachael Tatman"
+  avatar      : "assets/images/avatars/social-media-chairs.png"
