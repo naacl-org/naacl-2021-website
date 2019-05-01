@@ -92,7 +92,7 @@ script: |
                     }
                     else if (cellClass == 'info-plenary') {
                         cell.styles.fontSize = 11;
-                        if (cellText == "Break" || cellText == "Lunch" || cellText == "Breakfast" || cellText == "Coffee Break") {
+                        if (cellText == "Break" || cellText == "Lunch" || cellText == "Breakfast" || cellText == "Coffee Break" || cellText == "Mini-Break") {
                             cell.styles.fillColor = [238, 238, 238];
                         }
                     }
@@ -116,7 +116,7 @@ script: |
                         if (infoType == "info-day" && cellText == '') {
                             cell.styles.fillColor = [187, 187, 187];
                         }
-                        if (infoType == "info-plenary" && (infoText == "Break" || infoText == "Lunch" || infoText == "Breakfast" || infoText == "Coffee Break")) {
+                        if (infoType == "info-plenary" && (infoText == "Break" || infoText == "Lunch" || infoText == "Breakfast" || infoText == "Coffee Break" || infoText == "Mini-Break")) {
                             cell.styles.fillColor = [238, 238, 238];
                         }
                     }
