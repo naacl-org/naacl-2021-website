@@ -69,7 +69,7 @@ div#generatePDFForm {
     text-align: center;
     vertical-align: middle;
     font-size: $type-size-6;
-    background-color: $lighter-gray;
+    background-color: $background-color;
     border: 1px solid $light-gray;
 
     a#generatePDFButton {
@@ -103,7 +103,7 @@ div.day {
     // background-color: $lighter-gray;
     // border: 2px solid $light-gray;
     color: white;
-    background-color: red;
+    background-color: $primary-color;
     border: 1px solid black;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -173,6 +173,7 @@ div.session {
     border-left: none;
     border-right: none;
     border-bottom: none;
+    background-color: $background-color;
 
     &.session-tutorials, &.session-workshops, &.session-plenary {
         width: percentage(24/24);
@@ -403,7 +404,7 @@ div.session {
 
     tr#tutorial, tr#poster, tr#workshop {
         cursor: pointer;
-        background-color: #fff;
+        background-color: $background-color;
         font-size: $type-size-5;
         &.selected {
             background-color: $lighter-gray2;
@@ -413,10 +414,10 @@ div.session {
 
     tr#paper {
         cursor: pointer;
-        background-color: #fff;
+        background-color: $background-color;
         font-size: $type-size-5;
         &.selected {
-            background-color: $lighter-gray2;
+            background-color: $light-gray;
         }
 
         @include breakpoint($large) {
