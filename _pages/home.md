@@ -18,14 +18,8 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**April 25, 2019**. Early registration ends in 3 days on Sunday, April 28! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) now if you haven't already!
+**May 1, 2019**. The Publicity &amp; Social Media Co-Chairs are looking for volunteers to live-tweet the conference! Read more in the latest [blog post](blog/livetweet-sign-up/).
 {: .notice--info}
-
-**April 15, 2019**. In the latest [blog post](/blog/kudos-reviewers/), the program chairs thank all of the amazing reviewers!
-{: .notice--info}
-
-**April 11, 2019**. The latest [blog post](/blog/disability-access/) from the Diversity & Inclusion committee introduces their new proactive approach to disability access. 
-{: .notice}
 
 **April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
 {: .notice}

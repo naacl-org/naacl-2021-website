@@ -8,6 +8,15 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**April 25, 2019**. Early registration ends in 3 days on Sunday, April 28! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) now if you haven't already!
+{: .notice}
+
+**April 15, 2019**. In the latest [blog post](/blog/kudos-reviewers/), the program chairs thank all of the amazing reviewers!
+{: .notice}
+
+**April 11, 2019**. The latest [blog post](/blog/disability-access/) from the Diversity & Inclusion committee introduces their new proactive approach to disability access. 
+{: .notice}
+
 **March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Submit your questions to the panelists [here](/blog/careers-panel-survey/).
 {: .notice}
 
