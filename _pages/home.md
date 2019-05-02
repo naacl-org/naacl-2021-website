@@ -18,6 +18,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
+{: .notice--info}
+
 **May 1, 2019**. The Publicity &amp; Social Media Co-Chairs are looking for volunteers to live-tweet the conference! Read more in the latest [blog post](blog/livetweet-sign-up/).
 {: .notice--info}
 

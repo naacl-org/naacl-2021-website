@@ -25,6 +25,12 @@ diversity-inclusion-disability:
   bio         : "Cassidy Henry and Adam Goodkind"
   avatar      : "assets/images/avatars/di-chairs.png"
 
+diversity-inclusion-childcare:
+  name        : "Diversity & Inclusion Committee – Childcare & Parental Inclusion"
+  email       : "naacl2019-diversity-inclusion-chairs@googlegroups.com"
+  bio         : "Cecilia Ovesdotter Alm and Emily Prud'hommeaux"
+  avatar      : "assets/images/avatars/di-chairs.png"
+
 
 remote-presentation-chairs:
   name        : "Remote Presentation Co-Chairs"
