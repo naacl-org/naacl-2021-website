@@ -18,7 +18,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**May 6, 2019**. Hotel rooms at [ACL discounted rates](https://naacl2019.org/participants/#accommodation) available through Saturday, May 11, 2019. If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
+**May 6, 2019**. Hotel rooms at [ACL discounted rates](/participants/#accommodation) available through Saturday, May 11, 2019. If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
 {: .notice--info}
 
 **May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
