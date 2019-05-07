@@ -15,7 +15,7 @@ This year NAACL-HLT will feature a plenary panel on Careers in NLP which will ta
 
 The 2019 version of this panel recognizes the diversity of NLP careers today. Traditional career paths have typically led NLP researchers into academia, industrial labs, and government agencies. Today, we also see an increase in roles at startup companies and an emerging NLP practitioner role in industry that intersects with software, data, and product.
 
-We are glad to announce that Philip Resnik will return as the panel moderator in 2019. Phil and our panelists (Joel, Judith, Owen and Yunyao) will discuss multiple topics including trends in NLP careers, emerging skills, prominent challenges and opportunities for cross-functional collaboration as an NLP professional in today’s organizations.
+We are glad to announce that Philip Resnik will return as the panel moderator in 2019. Philip and our panelists (Joel, Judith, Owen and Yunyao) will discuss multiple topics including trends in NLP careers, emerging skills, prominent challenges and opportunities for cross-functional collaboration as an NLP professional in today’s organizations.
 
 Make sure you grab your lunch early and come join us at the panel! If you haven’t filled the [survey about the careers in NLP panel](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAYLQFrZUM0hRWUlPMzhKMUJRVlRRNFozN0ZOOE1OMS4u) already, please share the questions and topics you would like to see included in the panel discussion.
 
