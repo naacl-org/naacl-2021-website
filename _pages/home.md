@@ -18,6 +18,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 10, 2019**. Panelists for the Careers in NLP panel discussion are [announced](/program/careerspanel/).
+{: .notice}
+
 **May 6, 2019**. Hotel rooms at [ACL discounted rates](/participants/#accommodation) available through Saturday, May 11, 2019. If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
 {: .notice--info}
 
