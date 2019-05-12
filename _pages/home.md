@@ -18,14 +18,11 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**May 6, 2019**. Hotel rooms at [ACL discounted rates](/participants/#accommodation) available through Saturday, May 11, 2019. If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
+**May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
 {: .notice--info}
 
 **May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
 {: .notice--info}
-
-**May 1, 2019**. The Publicity &amp; Social Media Co-Chairs are looking for volunteers to live-tweet the conference! Read more in the latest [blog post](blog/livetweet-sign-up/).
-{: .notice}
 
 **April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
 {: .notice}
