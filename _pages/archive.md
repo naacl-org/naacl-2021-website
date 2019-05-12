@@ -8,6 +8,12 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**May 6, 2019**. Hotel rooms at [ACL discounted rates](/participants/#accommodation) available through Saturday, May 11, 2019. If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
+{: .notice}
+
+**May 1, 2019**. The Publicity &amp; Social Media Co-Chairs are looking for volunteers to live-tweet the conference! Read more in the latest [blog post](blog/livetweet-sign-up/).
+{: .notice}
+
 **April 25, 2019**. Early registration ends in 3 days on Sunday, April 28! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) now if you haven't already!
 {: .notice}
 
