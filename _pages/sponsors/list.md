@@ -39,6 +39,12 @@ platinum:
     image_path: /assets/images/logos/capital-one-logo.png
     alt: "Capital One Logo"
     title: "Capital One"
+  - url: https://deepmind.com
+    image_path: /assets/images/logos/deepmind-logo.png
+    alt: "DeepMind Logo"
+    title: "DeepMind"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 gold:
   - url: https://www.megagon.ai
     image_path: /assets/images/logos/megagon-logo.png
@@ -95,6 +101,12 @@ bronze:
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
 dichampion:
+  - url: https://deepmind.com
+    image_path: /assets/images/logos/deepmind-logo.png
+    alt: "DeepMind Logo"
+    title: "DeepMind"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 dially:
   - url: https://www.google.com
     image_path: /assets/images/logos/google-logo.png
@@ -145,7 +157,7 @@ In addition, Grammarly donated grammar-checking services to our submitting autho
 
 ## Diversity &amp; Inclusion: Champion
 
-<!-- {% include gallery id="dichampion" class="fourth" %} -->
+{% include gallery id="dichampion" class="fourth" %}
 
 ## Diversity &amp; Inclusion: Ally
 
