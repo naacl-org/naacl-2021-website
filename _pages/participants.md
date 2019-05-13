@@ -140,7 +140,7 @@ We have secured accommodation for participants at NAACL-HLT 2019 discounted rate
 - Complimentary Wi-fi in all guest rooms.
 - Single/Double Room: **$199**, Triple Room: **$224**, Quad Room: **$249**.
 
-Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability.  ACL discounted rates are available through Saturday, May 11, 2019. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
+Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability.  ACL discounted rates are available through <span style="text-decoration: line-through;">Saturday, May 11, 2019</span>&nbsp;Sunday, May 19, 2019. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
 
 The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL).
 
