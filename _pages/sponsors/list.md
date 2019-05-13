@@ -100,6 +100,13 @@ bronze:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
+socialevent:
+  - url: https://www.capitalgroup.com
+    image_path: /assets/images/logos/capital-group-logo.png
+    alt: "Capital Group Logo"
+    title: "Capital Group"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 dichampion:
   - url: https://deepmind.com
     image_path: /assets/images/logos/deepmind-logo.png
@@ -154,6 +161,10 @@ In addition, Grammarly donated grammar-checking services to our submitting autho
 ## Supporter
 
 <!-- {% include gallery id="supporter" class="fourth" %} -->
+
+## Social Event Entertainment
+
+{% include gallery id="socialevent" class="fourth" %}
 
 ## Diversity &amp; Inclusion: Champion
 
