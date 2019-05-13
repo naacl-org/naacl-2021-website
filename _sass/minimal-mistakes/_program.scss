@@ -63,7 +63,7 @@ a.session-deselector {
 
 div#generatePDFForm {
     float: left;
-    width: percentage(24/24);
+    width: percentage(25/25);
     padding: 0.5em;
     font-family: $serif;
     text-align: center;
@@ -94,7 +94,7 @@ div#generatePDFForm {
 
 div.day {
     float: left;
-    width: percentage(24/24);
+    width: percentage(25/25);
     padding: 0.5em;
     font-weight: bold;
     text-align: left;
@@ -176,7 +176,7 @@ div.session {
     background-color: $background-color;
 
     &.session-tutorials, &.session-workshops, &.session-plenary {
-        width: percentage(24/24);
+        width: percentage(25/25);
         border-top: 2px solid $light-gray;
         border-left: 2px solid $light-gray;
         border-bottom: 2px solid $light-gray;
@@ -187,12 +187,12 @@ div.session {
 
     &.session-posters {
         border-top: 1px solid $light-gray;
-        width: percentage(24/24);
+        width: percentage(25/25);
     }
 
     &.session-papers-best {
         float: left;
-        width: percentage(24/24);
+        width: percentage(25/25);
         border: 2px solid $light-gray;
         margin-top: 10px;
         margin-bottom: 10px;
@@ -200,92 +200,92 @@ div.session {
 
     &.session-papers1 {
         float: left;
-        width: percentage(24/24);
+        width: percentage(25/25);
         border-bottom: 1px solid $light-gray;
 
         @include breakpoint($medium) {
-            width: percentage(24/24);
+            width: percentage(25/25);
         }
 
         @include breakpoint($medium-wide) {
-            width: percentage(24/24);
+            width: percentage(25/25);
         }
 
         @include breakpoint($large) {
             border-right: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
 
         @include breakpoint($x-large) {
             border-right: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
 
         @include breakpoint($xx-large) {
             border-right: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
     }
  
-    &.session-papers2, &.session-papers3 {
+    &.session-papers2, &.session-papers3, &.session-papers4 {
         float: left;
-        width: percentage(24/24);
+        width: percentage(25/25);
         border-bottom: 1px solid $light-gray;
 
         @include breakpoint($medium) {
-            width: percentage(24/24);
+            width: percentage(25/25);
             border-left: 1px solid $light-gray;
         }
 
         @include breakpoint($medium-wide) {
-            width: percentage(24/24);
+            width: percentage(25/25);
             border-left: 1px solid $light-gray;
         }
 
         @include breakpoint($large) {
             border-right: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
 
         @include breakpoint($x-large) {
             border-right: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
 
         @include breakpoint($xx-large) {
             border-right: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
     }
 
-    &.session-papers4 {
+    &.session-papers5 {
         float: right;
-        width: percentage(24/24);
+        width: percentage(25/25);
         border-bottom: 1px solid $light-gray;
 
         @include breakpoint($medium) {
             border-left: none;
-            width: percentage(24/24);
+            width: percentage(25/25);
         }
 
         @include breakpoint($medium-wide) {
             border-left: none;
-            width: percentage(24/24);
+            width: percentage(25/25);
         }
 
         @include breakpoint($large) {
             border-left: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
 
         @include breakpoint($x-large) {
             border-left: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
 
         @include breakpoint($xx-large) {
             border-left: 1px solid $light-gray;
-            width: percentage(6/24);
+            width: percentage(5/25);
         }
     }
 
