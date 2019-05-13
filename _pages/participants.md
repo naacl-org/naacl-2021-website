@@ -5,12 +5,19 @@ permalink: /participants/
 sidebar: false
 toc: true
 toc_icon: "cog"
-hotel:
-  - url: "/assets/images/social/magritte.jpg"
-    image_path: "/assets/images/social/magritte-th.jpg"
-    alt: "The Magritte Museum"
-    title: "The Magritte Museum &nbsp;&nbsp; (&copy; visit.brussels)"
-
+socialmaps:
+  - url: "/assets/images/minneapolis/mia-map-1st-floor.png"
+    image_path: "/assets/images/minneapolis/mia-map-1st-floor-th.png"
+    alt: "MIA 1st Floor Map"
+    title: "Minneapolis Museum of Art : Map of 1st Floor"
+  - url: "/assets/images/minneapolis/mia-map-2nd-floor.png"
+    image_path: "/assets/images/minneapolis/mia-map-2nd-floor-th.png"
+    alt: "MIA 2nd Floor Map"
+    title: "Minneapolis Museum of Art : Map of 2nd Floor"
+  - url: "/assets/images/minneapolis/mia-map-3rd-floor.png"
+    image_path: "/assets/images/minneapolis/mia-map-3rd-floor-th.png"
+    alt: "MIA 3rd Floor Map"
+    title: "Minneapolis Museum of Art : Map of 3rd Floor"
 ---
 
 ## About Minneapolis
@@ -39,11 +46,26 @@ The NAACL 2019 Social Event will be held on Tuesday, June 4th, from 7:00 pm to 1
 
 {% include figure image_path="/assets/images/minneapolis/Mia-exterior-1200x800.jpg" alt="an image of the exterior of the minneapolis institute of art" caption="Inspiring wonder through the power of art. The Minneapolis Institute of Art enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures." %}
 
-Join us for a cultural event at the Minneapolis Institute of Art and enjoy gallery-themed food and drinks, numerous galleries which include African, Asian, and European, plus the traveling Hearts of Our People  presented in close cooperation with top Native women artists and scholars. This first major exhibition of artwork by Native women celebrates the achievements of over 115 artists from the United States and Canada spanning over 1,000 years. And, of course, music!
+Join us for a cultural event at the Minneapolis Institute of Art. To peak your interest and provide a wonderful experience this evening, we have arranged the following spaces within the Museum to be open to us:
 
-One entrance ticket will be included with registration but please note that space is limited to the first 1700 participants.  We are expecting a very large conference, so it is important to let us know on the registration form whether or not you plan to attend the social event.
+- **1st Floor**: Target Park and General Mills Lobby, and Mia Store.
+- **2nd Floor**: 6 Asian Galleries, 6 African Galleries, 24th Street Entrance, and the traveling Hearts of Our People, artwork by Native women celebrates the achievements of over 115 artists from the United States and Canada spanning over 1,000 years.
+- **3rd Floor**: European and Contemporary Galleries.
 
-To get to the event, catch the shuttle bus outside of the Hyatt Regency (the conference hotel) between 6:45 pm and 7:15 pm.
+Click on a thumbnail below to see the detailed map of each floor.
+
+{% include gallery id="socialmaps" %}
+
+Eight “Ask Me Guides” will be available throughout the evening with fun facts to share with guests as well as answering guest questions.
+
+Nearby each set of galleries will be themed food stations (for example, Asian foods by the Asian galleries) to enhance your experience. These food and beverage stations will be scattered throughout the museum so, if there is a long line in one area, visit another area and come back to the first area when less busy.
+
+We have hired DJ NEEKASODOPE, who will begin the evening with a medley of culturally diverse music and, of course, ramp up to dance music as the night goes on.
+
+To get to the event, catch one of the luxury motor coaches outside of the Hyatt Regency (the conference hotel) running continuously between 6:45 pm and 7:15 pm. Buses will be available for the return trip to the Hyatt Regency Hotel from 9:30 pm onward.
+
+One entrance ticket will be included with each main conference registration. We may have a few extra tickets for sale for accompanying persons so, if you are interested, stop by the registration desk when there are no lines.
+
 
 ## Registration Hours
 
