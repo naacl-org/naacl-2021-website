@@ -2,7 +2,7 @@
 title: Conference Schedule
 layout: schedule
 excerpt: "NAACL 2019 conference schedule."
-permalink: /schedule
+permalink: /ref
 sidebar: false
 script: |
     <script type="text/javascript">
@@ -977,7 +977,6 @@ script: |
         });
     </script>
 ---
-{% include base_path %}
 <link rel="stylesheet" href="/assets/css/alertify.css" id="alertifyCSS">
 
 <table id="hidden-program-table">
