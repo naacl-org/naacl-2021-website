@@ -288,7 +288,7 @@ div.session {
     }
 
     .session-title {
-        font-size: $type-size-5;
+        font-size: $type-size-5-half;
         color: $text-color;
         text-decoration: none;
     }
@@ -371,7 +371,7 @@ div.session {
     }
 
     .session-location {
-        font-size: $type-size-6;
+        font-size: $type-size-5-half;
         float: left;
         cursor: pointer;
     }
