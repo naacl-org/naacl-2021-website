@@ -1,3 +1,19 @@
+#!/usr/bin/env python3
+
+"""
+This script is used to generate the markdown file for
+the conference schedule. This script uses the classes
+defined in the `orderfile.py` module from the NAACL
+2019 schedule repository that is integrated as a
+submodule in this repository under the `agenda`
+directory. For more details, run `generate.py --help`
+and refer to the `README.md` file in this directory.
+
+Author: Nitin Madnani
+Date: May, 2019
+"""
+
+
 import argparse
 import itertools
 import logging
@@ -7,7 +23,6 @@ from pathlib import Path
 
 _THIS_DIR = Path(__file__).absolute().parent
 AGENDA_SUBMODULE_DIR = _THIS_DIR.parent.joinpath('agenda', 'code')
-print(AGENDA_SUBMODULE_DIR)
 sys.path.append(str(AGENDA_SUBMODULE_DIR))
 
 from orderfile import Agenda, SessionGroup, Session, Item
@@ -449,7 +464,7 @@ class WebItem(Item):
 def main():
 
     # set up an argument parser
-    parser = argparse.ArgumentParser(prog='webschedule.py')
+    parser = argparse.ArgumentParser(prog='generate.py')
     parser.add_argument("--order",
                         dest="orderfile",
                         required=True,
