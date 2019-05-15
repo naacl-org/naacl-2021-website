@@ -24,7 +24,7 @@ class WebAgenda(Agenda):
 
     # define the starting static HTML that we need
     # before the actual schedule HTML
-    _starting_html = ['<link rel="stylesheet" href="assets/css/alertify.css" id="alertifyCSS">',
+    _starting_html = ['<link rel="stylesheet" href="/assets/css/alertify.css" id="alertifyCSS">',
                       '<table id="hidden-program-table">',
                       '<thead>',
                       '<tr><th>time</th><th>location</th><th>info</th></tr>'
