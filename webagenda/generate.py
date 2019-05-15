@@ -60,15 +60,31 @@ class WebAgenda(Agenda):
     def __init__(self):
         super(WebAgenda, self).__init__()
 
-    def to_html(self, metadata):
+    def to_html(self,
+                metadata,
+                paper_icons=False,
+                video_icons=False):
         """
         Convert agenda to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
 
         Parameters
         ----------
-        metadata : TYPE
-            Description
+        metadata : ScheduleMetadata
+            An instance of `ScheduleMetadata`
+            containing the title, authors,
+            abstracts, and anthology URLs for
+            each item, if applicable.
+        paper_icons : bool, optional
+            Whether to generate the icons for
+            each of the presentation items linked
+            to the PDF on the anthology.
+            Defaults to `False`.
+        video_icons : bool, optional
+            Whether to generate the icons for
+            each of the oral presentation items
+            linked to the video of the talk.
+            Defaults to `False`.
 
         Returns
         -------
@@ -98,7 +114,7 @@ class WebAgenda(Agenda):
                 if isinstance(content, SessionGroup):
                     content.__class__ = WebSessionGroup
                     session_group_index = next(WebAgenda.session_group_counter)
-                    session_group_html = content.to_html(day, metadata, session_group_index)
+                    session_group_html = content.to_html(day, metadata, session_group_index, paper_icons=paper_icons, video_icons=video_icons)
                     agenda_html.extend(session_group_html)
 
                 # if it's a `Session`, then cast it to `WebSession`
@@ -107,7 +123,7 @@ class WebAgenda(Agenda):
                 elif isinstance(content, Session):
                     content.__class__ = WebSession
                     index = next(WebAgenda.break_session_counter) if content.type == 'break' else None
-                    session_html = content.to_html(day, metadata, index=index)
+                    session_html = content.to_html(day, metadata, index=index, paper_icons=paper_icons, video_icons=video_icons)
                     agenda_html.extend(session_html)
 
         # update with the post-schedule HTML
@@ -133,7 +149,12 @@ class WebSessionGroup(SessionGroup):
     def __init__(self):
         super(WebSessionGroup, self).__init__()
 
-    def to_html(self, day, metadata, index):
+    def to_html(self,
+                day,
+                metadata,
+                index,
+                paper_icons=False,
+                video_icons=False):
         """
         Convert session group to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
@@ -143,11 +164,24 @@ class WebSessionGroup(SessionGroup):
         day : orderfile.Day
             The `Day` instance on which the session
             group is scheduled.
-        metadata : TYPE
-            Description
+        metadata : ScheduleMetadata
+            An instance of `ScheduleMetadata`
+            containing the title, authors,
+            abstracts, and anthology URLs for
+            each item, if applicable.
         index : int
             An index to be used in the HTML tags
             for the box representing this session group.
+        paper_icons : bool, optional
+            Whether to generate the icons for
+            each of the presentation items linked
+            to the PDF on the anthology.
+            Defaults to `False`.
+        video_icons : bool, optional
+            Whether to generate the icons for
+            each of the oral presentation items
+            linked to the video of the talk.
+            Defaults to `False`.
 
         Returns
         -------
@@ -181,7 +215,11 @@ class WebSessionGroup(SessionGroup):
                 index = next(WebSessionGroup.parallel_paper_track_counter)
             elif session.type == 'poster':
                 index = next(WebSessionGroup.poster_session_counter)
-            session_html = session.to_html(day, metadata, index=index)
+            session_html = session.to_html(day,
+                                           metadata,
+                                           index=index,
+                                           paper_icons=paper_icons,
+                                           video_icons=video_icons)
             generated_html.extend(session_html)
 
         # add any required closing tags for valid HTML and return
@@ -200,7 +238,12 @@ class WebSession(Session):
     def __init__(self):
         super(WebSession, self).__init__()
 
-    def to_html(self, day, metadata, index=None):
+    def to_html(self,
+                day,
+                metadata,
+                index=None,
+                paper_icons=False,
+                video_icons=False):
         """
         Convert session to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
@@ -210,10 +253,23 @@ class WebSession(Session):
         day : orderfile.Day
             The `Day` instance on which the session
             is scheduled.
-        metadata : TYPE
-            Description
+        metadata : ScheduleMetadata
+            An instance of `ScheduleMetadata`
+            containing the title, authors,
+            abstracts, and anthology URLs for
+            each item, if applicable.
         index : int, optional
             An index to be used in some of the HTML tags.
+        paper_icons : bool, optional
+            Whether to generate the icons for
+            each of the presentation items linked
+            to the PDF on the anthology.
+            Defaults to `False`.
+        video_icons : bool, optional
+            Whether to generate the icons for
+            each of the oral presentation items
+            linked to the video of the talk.
+            Defaults to `False`.
 
         Returns
         -------
@@ -268,7 +324,9 @@ class WebSession(Session):
             # their `to_html()` methods and save the results
             for item in self.items:
                 item.__class__ = WebItem
-                item_html = item.to_html(metadata)
+                item_html = item.to_html(metadata,
+                                         paper_icons=paper_icons,
+                                         video_icons=video_icons)
                 generated_html.extend(item_html)
             # add any required closing tags for valid HTML
             generated_html.extend(['</table>', '</div>', '</div>'])
@@ -281,7 +339,8 @@ class WebSession(Session):
             # their `to_html()` methods and save the results
             for item in self.items:
                 item.__class__ = WebItem
-                item_html = item.to_html(metadata)
+                item_html = item.to_html(metadata,
+                                         paper_icons=paper_icons)
                 generated_html.extend(item_html)
 
             # add any required closing tags for valid HTML and return
@@ -295,7 +354,9 @@ class WebSession(Session):
             # their `to_html()` methods and save the results
             for item in self.items:
                 item.__class__ = WebItem
-                item_html = item.to_html(metadata)
+                item_html = item.to_html(metadata,
+                                         paper_icons=paper_icons,
+                                         video_icons=video_icons)
                 generated_html.extend(item_html)
 
             # add any required closing tags for valid HTML and return
@@ -315,20 +376,37 @@ class WebItem(Item):
     def __init__(self):
         super(WebItem, self).__init__()
 
-    def to_html(self, metadata):
+    def to_html(self,
+                metadata,
+                paper_icons=False,
+                video_icons=False):
         """
         Convert item to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
+
+        Parameters
+        ----------
+        metadata : ScheduleMetadata
+            An instance of `ScheduleMetadata`
+            containing the title, authors,
+            abstracts, and anthology URLs for
+            each item, if applicable.
+        paper_icons : bool, optional
+            Whether to generate the icons for
+            each of the presentation items linked
+            to the PDF on the anthology.
+            Defaults to `False`.
+        video_icons : bool, optional
+            Whether to generate the icons for
+            each of the oral presentation items
+            linked to the video of the talk.
+            Defaults to `False`.
 
         Returns
         -------
         item_html : str
             A string containing the item HTML.
 
-        Parameters
-        ----------
-        metadata : TYPE
-            Description
         """
 
         # initialize the result variable
@@ -339,7 +417,13 @@ class WebItem(Item):
             self.title = metadata[self.id_].title
             self.authors = metadata[self.id_].authors
             self.paper_url = metadata[self.id_].anthology_url
-            generated_html.append('<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i></td></tr>'.format(self.id_, self.start, self.end, self.title, self.authors, self.paper_url))
+            item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
+            if paper_icons:
+                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
+            if video_icons:
+                item_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" aria-hidden="true" title="Video"></i>'.format(self.video_url)
+            item_html += '</td></tr>'
+            generated_html.append(item_html)
 
         elif self.type == 'poster':
             self.title = metadata[self.id_].title
@@ -347,7 +431,11 @@ class WebItem(Item):
             self.paper_url = metadata[self.id_].anthology_url
             if self.topic:
                 generated_html.append('<tr><td><span class="poster-type">{}</span></td></tr>'.format(self.topic))
-            generated_html.append('<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i></td></tr>'.format(self.id_, self.title, self.authors, self.paper_url))
+            item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
+            if paper_icons:
+                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
+            item_html += '</td></tr>'
+            generated_html.append(item_html)
 
         elif self.type == 'tutorial':
             self.title = metadata[self.id_].title
@@ -391,6 +479,20 @@ def main():
                         dest="output_file",
                         required=True,
                         help="Output markdown file")
+    parser.add_argument("--paper-icons",
+                        action="store_true",
+                        default=False,
+                        dest="paper_icons",
+                        required=False,
+                        help="Generate icons linking "
+                             "to anthology PDFs")
+    parser.add_argument("--video-icons",
+                        action="store_true",
+                        default=False,
+                        dest="video_icons",
+                        required=False,
+                        help="Generate icons linking "
+                             "to talk videos")
 
     # parse given command line arguments
     args = parser.parse_args()
@@ -410,7 +512,9 @@ def main():
                                           non_anthology_tsv=args.extra_metadata_file)
     # convert WebAgenda to HTML
     logging.info("Converting parsed agenda to HTML ...")
-    html = wa.to_html(metadata=metadata)
+    html = wa.to_html(metadata,
+                      paper_icons=args.paper_icons,
+                      video_icons=args.video_icons)
 
     # add the Jekyll frontmatter
     logging.info("Adding Jekyll frontmatter ...")
