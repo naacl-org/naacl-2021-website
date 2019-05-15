@@ -212,13 +212,11 @@ div.session {
         }
 
         @include breakpoint($large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
+            width: percentage(25/25);
         }
 
         @include breakpoint($x-large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
+            width: percentage(25/25);
         }
 
         @include breakpoint($xx-large) {
@@ -243,13 +241,13 @@ div.session {
         }
 
         @include breakpoint($large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
+            width: percentage(25/25);
+            border-left: 1px solid $light-gray;
         }
 
         @include breakpoint($x-large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
+            width: percentage(25/25);
+            border-left: 1px solid $light-gray;
         }
 
         @include breakpoint($xx-large) {
@@ -274,13 +272,13 @@ div.session {
         }
 
         @include breakpoint($large) {
-            border-left: 1px solid $light-gray;
-            width: percentage(5/25);
+            border-left: none;
+            width: percentage(25/25);
         }
 
         @include breakpoint($x-large) {
-            border-left: 1px solid $light-gray;
-            width: percentage(5/25);
+            border-left: none;
+            width: percentage(25/25);
         }
 
         @include breakpoint($xx-large) {
