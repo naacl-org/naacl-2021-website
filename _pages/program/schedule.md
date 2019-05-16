@@ -2,7 +2,7 @@
 title: Conference Schedule
 layout: schedule
 excerpt: "NAACL 2019 conference schedule."
-permalink: /schedule/
+permalink: /schedule
 sidebar: false
 script: |
     <script type="text/javascript">
@@ -519,11 +519,11 @@ script: |
             /* the include plenary checkbox is checked on startup */
             $('input#includePlenaryCheckBox').prop('checked', true);
 
-            /* show the help window whenever "?" is pressed */
+            /* show the help window whenever "?" is pressed and close it when "Esc" is pressed */
             $(document).keypress(function(event) {
                 if (doWhichKey(event) == 63 && !helpShown) {
                     helpShown = true;
-                    alertify.alert(instructions, function(event) { helpShown = false;});
+                    alertify.alert('', instructions, function(event) { helpShown = false;}).set('transition', 'fade');
                 }
             });
 
@@ -532,7 +532,7 @@ script: |
                 if (!helpShown) {
                     event.preventDefault();
                     helpShown = true;
-                    alertify.alert(instructions, function(event) { helpShown = false;});
+                    alertify.alert('', instructions, function(event) { helpShown = false;}).set('transition', 'fade');
                 }
             });
 
@@ -811,11 +811,11 @@ script: |
                 var numChosenItems = Object.keys(chosenPapersHash).length + Object.keys(chosenTutorialsHash).length + Object.keys(chosenWorkshopsHash).length + Object.keys(chosenPostersHash).length;
                 if (numChosenItems == 0) {
                     if (includePlenaryInSchedule) {
-                        alertify.confirm("The PDF will contain only the plenary sessions since nothing was chosen. Proceed?", function () { generatePDFfromTable();
-                                }, function() { return false; });
+                        alertify.confirm('', 'The PDF will contain only the plenary sessions since nothing was chosen. Proceed?', function () { generatePDFfromTable();
+                                }, function() { }).setting({'transition': 'fade', 'defaultFocus': 'cancel'});
                     }
                     else {
-                        alertify.alert('Nothing to generate. Nothing was chosen and plenary sessions were excluded.');
+                        alertify.alert('', 'Nothing to generate. Nothing was chosen and plenary sessions were excluded.').set('transition', 'fade');
                         return false;
                     }
                 }
@@ -977,7 +977,7 @@ script: |
         });
     </script>
 ---
-<link rel="stylesheet" href="/assets/css/alertify.css" id="alertifyCSS">
+<link rel="stylesheet" href="/assets/css/alertify.min.css" id="alertifyCSS">
 <table id="hidden-program-table">
 <thead>
 <tr><th>time</th><th>location</th><th>info</th></tr></thead>
