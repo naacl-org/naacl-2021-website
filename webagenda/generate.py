@@ -524,6 +524,14 @@ class WebItem(Item):
             self.title = metadata[self.id_].title
             self.authors = metadata[self.id_].authors
             self.paper_url = metadata[self.id_].anthology_url
+
+            # add [SRW] or [TACL] marker to title for appropriate papers
+            if self.id_.endswith('-srw'):
+                self.title += '[SRW] {}'.format(self.title)
+            elif self.id_.endswith('-tacl'):
+                self.title += '[TACL] {}'.format(self.title)
+
+            # generate the restt of the HTML along with optional icons
             item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
             if paper_icons:
                 item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
@@ -536,9 +544,19 @@ class WebItem(Item):
             self.title = metadata[self.id_].title
             self.authors = metadata[self.id_].authors
             self.paper_url = metadata[self.id_].anthology_url
+
+            # add [SRW] or [TACL] marker to title for appropriate papers
+            if self.id_.endswith('-srw'):
+                self.title += '[SRW] {}'.format(self.title)
+            elif self.id_.endswith('-tacl'):
+                self.title += '[TACL] {}'.format(self.title)
+
+            # display the poster topic if encounter one
             if self.topic:
                 generated_html.append('<tr><td><span class="poster-type">{}</span></td></tr>'.format(self.topic))
             item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
+
+            # display an optional icon
             if paper_icons:
                 item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
             item_html += '</td></tr>'
