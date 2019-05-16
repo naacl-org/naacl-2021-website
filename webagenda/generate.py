@@ -526,9 +526,9 @@ class WebItem(Item):
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
-                self.title += '[SRW] {}'.format(self.title)
+                self.title = '[SRW] {}'.format(self.title)
             elif self.id_.endswith('-tacl'):
-                self.title += '[TACL] {}'.format(self.title)
+                self.title = '[TACL] {}'.format(self.title)
 
             # generate the restt of the HTML along with optional icons
             item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
@@ -546,9 +546,9 @@ class WebItem(Item):
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
-                self.title += '[SRW] {}'.format(self.title)
+                self.title = '[SRW] {}'.format(self.title)
             elif self.id_.endswith('-tacl'):
-                self.title += '[TACL] {}'.format(self.title)
+                self.title = '[TACL] {}'.format(self.title)
 
             # display the poster topic if encounter one
             if self.topic:
