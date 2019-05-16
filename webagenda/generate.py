@@ -15,6 +15,7 @@ Date: May, 2019
 
 
 import argparse
+import csv
 import itertools
 import logging
 import sys
@@ -78,7 +79,8 @@ class WebAgenda(Agenda):
     def to_html(self,
                 metadata,
                 paper_icons=False,
-                video_icons=False):
+                video_icons=False,
+                plenary_info={}):
         """
         Convert agenda to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
@@ -100,6 +102,11 @@ class WebAgenda(Agenda):
             each of the oral presentation items
             linked to the video of the talk.
             Defaults to `False`.
+        plenary_info : dict, optional
+            Optional dictionary containing
+            additional info for some plenary
+            sessions. Defaults to an empty
+            dictionary.
 
         Returns
         -------
@@ -129,7 +136,12 @@ class WebAgenda(Agenda):
                 if isinstance(content, SessionGroup):
                     content.__class__ = WebSessionGroup
                     session_group_index = next(WebAgenda.session_group_counter)
-                    session_group_html = content.to_html(day, metadata, session_group_index, paper_icons=paper_icons, video_icons=video_icons)
+                    session_group_html = content.to_html(day,
+                                                         metadata,
+                                                         session_group_index,
+                                                         paper_icons=paper_icons,
+                                                         video_icons=video_icons,
+                                                         plenary_info=plenary_info)
                     agenda_html.extend(session_group_html)
 
                 # if it's a `Session`, then cast it to `WebSession`
@@ -138,7 +150,12 @@ class WebAgenda(Agenda):
                 elif isinstance(content, Session):
                     content.__class__ = WebSession
                     index = next(WebAgenda.break_session_counter) if content.type == 'break' else None
-                    session_html = content.to_html(day, metadata, index=index, paper_icons=paper_icons, video_icons=video_icons)
+                    session_html = content.to_html(day,
+                                                   metadata,
+                                                   index=index,
+                                                   paper_icons=paper_icons,
+                                                   video_icons=video_icons,
+                                                   plenary_info=plenary_info)
                     agenda_html.extend(session_html)
 
         # update with the post-schedule HTML
@@ -169,7 +186,8 @@ class WebSessionGroup(SessionGroup):
                 metadata,
                 index,
                 paper_icons=False,
-                video_icons=False):
+                video_icons=False,
+                plenary_info={}):
         """
         Convert session group to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
@@ -197,6 +215,11 @@ class WebSessionGroup(SessionGroup):
             each of the oral presentation items
             linked to the video of the talk.
             Defaults to `False`.
+        plenary_info : dict, optional
+            Optional dictionary containing
+            additional info for some plenary
+            sessions. Defaults to an empty
+            dictionary.
 
         Returns
         -------
@@ -234,7 +257,8 @@ class WebSessionGroup(SessionGroup):
                                            metadata,
                                            index=index,
                                            paper_icons=paper_icons,
-                                           video_icons=video_icons)
+                                           video_icons=video_icons,
+                                           plenary_info=plenary_info)
             generated_html.extend(session_html)
 
         # add any required closing tags for valid HTML and return
@@ -258,7 +282,8 @@ class WebSession(Session):
                 metadata,
                 index=None,
                 paper_icons=False,
-                video_icons=False):
+                video_icons=False,
+                plenary_info={}):
         """
         Convert session to HTML format compatible
         with the NAACL 2019 GitHub pages theme.
@@ -285,6 +310,11 @@ class WebSession(Session):
             each of the oral presentation items
             linked to the video of the talk.
             Defaults to `False`.
+        plenary_info : dict, optional
+            Optional dictionary containing
+            additional info for some plenary
+            sessions. Defaults to an empty
+            dictionary.
 
         Returns
         -------
@@ -299,7 +329,69 @@ class WebSession(Session):
             generated_html.append('<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span></div>'.format(index, self.title, str(day), self.start, self.end))
 
         elif self.type == 'plenary':
-            generated_html.append('<div class="session session-plenary"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/> <span class="session-location btn btn--location">{}</span></div>'.format(self.title, str(day), self.start, self.end, self.location))
+
+            # some plenary sessions might be in external locations
+            # so handle that case if we encounter it
+            if self.location.endswith('(external)'):
+                location_type = 'session-external-location'
+                real_location = self.location.replace('(external)', '')
+            else:
+                location_type = 'session-location'
+                real_location = self.location
+
+            # check if we have additional info for this plenary session
+            self.abstract = ''
+            self.person = ''
+            self.person_url = ''
+            self.pdf_url = ''
+            self.video_url = ''
+            for session_prefix in plenary_info:
+                if self.title.startswith(session_prefix):
+                    (self.abstract,
+                     self.person,
+                     self.person_url,
+                     self.pdf_url,
+                     self.video_url) = plenary_info[session_prefix]
+                    break
+
+            # build the session html bit by bit
+            if self.abstract:
+                session_html = '<div class="session session-expandable session-plenary">'
+            else:
+                session_html = '<div class="session session-plenary">'
+
+            # if we have an abstract, we need the session expander
+            # next to the title
+            if self.abstract:
+                session_html += '<div id="expander"></div><a href="#" class="session-title"><strong>{}</strong></a><br/>'.format(self.title)
+            # otherwise, no expander, just the title
+            else:
+                session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
+
+            # if we have a person, we need to show it along with the optional URL
+            # as the person's link
+            if self.person:
+                if self.person_url:
+                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span><br/>'.format(self.person_url, self.person)
+                else:
+                    session_html += '<span class="session-person">{}</span><br/>'.format(self.person)
+
+            # add the start and end time and location no matter what
+            session_html += '<span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="{} btn btn--location">{}</span>'.format(str(day), self.start, self.end, location_type, real_location)
+
+            # now add the actual abstract and the PDF and Video links
+            # as icons if we have those URLs
+            if self.abstract:
+                session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>'
+                if self.pdf_url:
+                    session_html += '&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
+                if self.video_url:
+                    session_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" title="Video"></i>'.format(self.video_url)
+                session_html += '{}</p></div></div>'.format(self.abstract)
+
+            # close off the session HTML and save it
+            session_html += '</div>'
+            generated_html.append(session_html)
 
         elif self.type == 'tutorial':
 
@@ -490,6 +582,13 @@ def main():
                         type=Path,
                         help="TSV file containing authors and "
                              "titles not in anthology XMLs")
+    parser.add_argument("--plenary-info",
+                        dest="plenary_info_file",
+                        required=False,
+                        default=None,
+                        type=Path,
+                        help="TSV file containing info "
+                             "for plenary sessions")
     parser.add_argument("--output",
                         dest="output_file",
                         required=True,
@@ -525,11 +624,27 @@ def main():
     metadata = ScheduleMetadata.fromfiles(xmls=args.xml_files,
                                           mappings=args.mapping_files,
                                           non_anthology_tsv=args.extra_metadata_file)
+
+    plenary_info_dict = {}
+    if args.plenary_info_file:
+        logging.info("Parsing plenary info file ...")
+        with open(args.plenary_info_file, 'r') as plenaryfh:
+            reader = csv.DictReader(plenaryfh, dialect=csv.excel_tab)
+            for row in reader:
+                key = row['session'].strip()
+                value = (row['abstract'].strip(),
+                         row['person'].strip(),
+                         row['person_url'].strip(),
+                         row['pdf_url'].strip(),
+                         row['video_url'].strip())
+                plenary_info_dict[key] = value
+
     # convert WebAgenda to HTML
     logging.info("Converting parsed agenda to HTML ...")
     html = wa.to_html(metadata,
                       paper_icons=args.paper_icons,
-                      video_icons=args.video_icons)
+                      video_icons=args.video_icons,
+                      plenary_info=plenary_info_dict)
 
     # add the Jekyll frontmatter
     logging.info("Adding Jekyll frontmatter ...")
