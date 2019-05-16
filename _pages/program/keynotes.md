@@ -34,5 +34,3 @@ The following speakers have graciously accepted to give keynotes at NAACL 2019. 
 {% include feature_row id="kieran" type="left" %}
 
 {% include feature_row id="aravind" type="left" %}
-
-

@@ -5,8 +5,20 @@ permalink: /participants/
 sidebar: false
 toc: true
 toc_icon: "cog"
+socialmaps:
+  - url: "/assets/images/minneapolis/mia-map-1st-floor.png"
+    image_path: "/assets/images/minneapolis/mia-map-1st-floor-th.png"
+    alt: "MIA 1st Floor Map"
+    title: "Minneapolis Museum of Art : Map of 1st Floor"
+  - url: "/assets/images/minneapolis/mia-map-2nd-floor.png"
+    image_path: "/assets/images/minneapolis/mia-map-2nd-floor-th.png"
+    alt: "MIA 2nd Floor Map"
+    title: "Minneapolis Museum of Art : Map of 2nd Floor"
+  - url: "/assets/images/minneapolis/mia-map-3rd-floor.png"
+    image_path: "/assets/images/minneapolis/mia-map-3rd-floor-th.png"
+    alt: "MIA 3rd Floor Map"
+    title: "Minneapolis Museum of Art : Map of 3rd Floor"
 ---
-{% include base_path %}
 
 ## About Minneapolis
 
@@ -18,6 +30,9 @@ Whether you want to check out nearby Minneapolis entertainment districts or expl
 
 You can find various local attractions [here](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm/area-attractions) to occupy your free time.
 
+Here are [some](https://www.minneapolis.org/food-drink/restaurants/cheap-eats/) [places](https://www.minneapolis.org/food-drink/restaurants/) for Lunch and Dinner.
+ 
+And, check out the very popular food trucks parked around downtown Minneapolis!  They usually set up on Marquette Avenue about 6-7 blocks from the Hyatt Regency, heading towards Nicollet Mall.
 
 ## Welcome Reception
 
@@ -29,21 +44,95 @@ Join us in the Nicollet Ballroom of the Hyatt Regency Hotel (the conference venu
 
 The NAACL 2019 Social Event will be held on Tuesday, June 4th, from 7:00 pm to 10:00 pm at [The Minneapolis Institute of Art](https://new.artsmia.org/about/).
 
-{% include figure image_path="/assets/images/Mia-exterior-1200x800.jpg" alt="this is a placeholder image" caption="Inspiring wonder through the power of art. The Minneapolis Institute of Art enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures." %}
+{% include figure image_path="/assets/images/minneapolis/Mia-exterior-1200x800.jpg" alt="an image of the exterior of the minneapolis institute of art" caption="Inspiring wonder through the power of art. The Minneapolis Institute of Art enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures." %}
 
-Join us for a cultural event at the Minneapolis Institute of Art and enjoy gallery-themed food and drinks, numerous galleries which include African, Asian, and European, plus the traveling Hearts of Our People  presented in close cooperation with top Native women artists and scholars. This first major exhibition of artwork by Native women celebrates the achievements of over 115 artists from the United States and Canada spanning over 1,000 years. And, of course, music!
+Join us for a cultural event at the Minneapolis Institute of Art. To peak your interest and provide a wonderful experience this evening, we have arranged the following spaces within the Museum to be open to us:
 
-One entrance ticket will be included with registration but please note that space is limited to the first 1700 participants.  We are expecting a very large conference, so it is important to let us know on the registration form whether or not you plan to attend the social event.
+- **1st Floor**: Target Park and General Mills Lobby, and Mia Store.
+- **2nd Floor**: 6 Asian Galleries, 6 African Galleries, 24th Street Entrance, and the traveling Hearts of Our People, artwork by Native women celebrates the achievements of over 115 artists from the United States and Canada spanning over 1,000 years.
+- **3rd Floor**: European and Contemporary Galleries.
 
-To get to the event, catch the shuttle bus outside of the Hyatt Regency (the conference hotel) between 6:45 pm and 7:15 pm.
+Click on a thumbnail below to see the detailed map of each floor.
+
+{% include gallery id="socialmaps" %}
+
+Eight “Ask Me Guides” will be available throughout the evening with fun facts to share with guests as well as answering guest questions.
+
+Nearby each set of galleries will be themed food stations (for example, Asian foods by the Asian galleries) to enhance your experience. These food and beverage stations will be scattered throughout the museum so, if there is a long line in one area, visit another area and come back to the first area when less busy.
+
+We have hired DJ NEEKASODOPE, who will begin the evening with a medley of culturally diverse music and, of course, ramp up to dance music as the night goes on.
+
+To get to the event, catch one of the luxury motor coaches outside of the Hyatt Regency (the conference hotel) running continuously between 6:45 pm and 7:15 pm. Buses will be available for the return trip to the Hyatt Regency Hotel from 9:30 pm onward.
+
+One entrance ticket will be included with each main conference registration. We may have a few extra tickets for sale for accompanying persons so, if you are interested, stop by the registration desk when there are no lines.
+
+
+## Registration Hours
+
+The on-site registration counters will only be open during the following hours:
+
+- Sunday, June 2 &ndash; Tuesday, June 4 : 7:30am - 6:00pm
+- Wednesday, June 5 : 8:00am - 5:30pm
+- Thursday, June 6 &ndash; Friday, June 7 : 7:30am - 5:30pm 
+
+
+## Poster Information
+
+Each poster paper (main conference, industry track, and Student Research Workshop) will be assigned a free-standing poster board with a display surface that is 8 feet long and 4 feet tall. Authors are free to use as much of that space as they would like. There is a [FedEx office](https://local.fedex.com/mn/minneapolis/office-5570/) in the hotel if you need on-site printing – they are sure to be busy during the conference, so plan ahead if you need their services. 
+
+## WiFi Information
+
+To join the conference wifi: 
+- Select the Network named “Hyatt Meeting Space”
+- A login page will come up for you to enter a code.
+- Enter `NAACL2019` and hit go.
+ 
+If you experience any problems, please call Encore at 612-596-4673 for technical support.
+
+## Remote Presentation
+
+This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post](/blog/remote-presentations/) authored by the remote presentation chairs.
+
+To apply for a remote presentation slot at NAACL-2019, please fill out [this form](/downloads/telepresence_form.docx) and e-mail it to [naacl-2019-remote-presentation@googlegroups.com](mailto:naacl-2019-remote-presentation@googlegroups.com). Decisions will be made on a case-by-case basis.
 
 ## Transportation
+
+### From the Airport
 
 There is light rail service from both airport terminals to within a few blocks of the conference hotel, for $2 each way.  Tickets are purchased from vending machines at the stations, and trains run every 10 minutes from 6am-7:30pm, and then 3-4 times an hour 7:30pm to midnight.
 
 Specifically, you want the BLUE line Northbound toward downtown (the other direction will take you to the Mall of America).  Take it to the Nicollet Mall Station stop (30min ride), which is at 5th & Nicollet. From there, you can walk the half mile along Nicollet to the hotel (12th & Nicollet), or take any of the 10,11,17 or 18 bus lines (the 10 and 18 are free along this route).
 
+### In the Area
+Bus fares range from $2.00 to $3.25, depending on time of day. To ride a few blocks in the Downtown Zone, the fare is $.50. "Free Ride" buses will take you along Nicollet Mall.
+ 
+Catch the train on the Blue or Green line. Light-rail transit (LRT) connects downtown Minneapolis with the airport, Mall of America, Saint Paul and 43 other stations.
+ 
+Visit the [Metro Transit website](https://www.metrotransit.org) for information on routes, schedule and ticket prices.
+
+### Car Sharing
+Book a Zipcar online or via the mobile app for a couple of hours or the whole day. Gas and insurance included.
+
+### Amtrak
+[The Union Depot](https://www.uniondepot.org) is part of the Amtrak national train system. Amtrak Ticket Office Hours: 6:30 am to 11:30 pm. Self service kiosks are available 24 hours.
+ 
+### Biking &amp; Walking
+
+[Nice Ride](https://www.niceridemn.com) is a non-profit bike sharing system. Simply take a bike, and return it to any station in the system when you arrive at your destination.
+ 
+Built around several lakes and the Mississippi River, Minneapolis's urban cityscape surrounds a lush green park system providing the ideal landscape for walking.
+
+## Maps
+
+A variety of maps of the areas around the conference venue as well as outer Minneapolis areas can be found [here](https://www.minneapolis.org/map-transportation/maps/).
+ 
+[Here](/downloads/naacl-2019-map.pdf) is map of the the area around the conference (Hyatt Regency and the Doubletree Inn and Suites, student housing).
+ 
+And, for those who like to shop or are just curious, [this map](/downloads/nicollet-mall-map.pdf) shows the famous Nicollet Mall.
+
 ## Accommodation
+
+{% include figure image_path="/assets/images/minneapolis/hotel.jpg" alt="an image of the hyatt regence hotel" caption="The Hyatt Regency Hotel in Downtown Minneapolis." %}
 
 We have secured accommodation for participants at NAACL-HLT 2019 discounted rates at the Hyatt Regency Minneapolis which is also the conference venue.  You can learn more about the hotel [here](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm).
 
@@ -51,7 +140,7 @@ We have secured accommodation for participants at NAACL-HLT 2019 discounted rate
 - Complimentary Wi-fi in all guest rooms.
 - Single/Double Room: **$199**, Triple Room: **$224**, Quad Room: **$249**.
 
-Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability.  ACL discounted rates are available through Saturday, May 11, 2019. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
+Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability.  ACL discounted rates are available through <span style="text-decoration: line-through;">Saturday, May 11, 2019</span>&nbsp;Sunday, May 19, 2019. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
 
 The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL).
 
@@ -65,16 +154,6 @@ The ACL Office will accept your reservation request and make the reservations on
 Please complete the <a style="text-decoration: line-through;;" href="https://forms.office.com/Pages/ResponsePage.aspx?id=t-mmC7Ngrk-S835t3Z6bZaQKPumvKxxDqgDQK1a8-MVUREZJUVo4RDBaMTFSMUhJRVpaQkYyTjk1Uy4u">Student Accommodation Request Form</a> (**SOLD OUT**)  to make your reservation request. We will do our best to honor your request on a first-come first-served basis. All requests must be received no later than Wednesday, May 1, 2019 by the ACL Office.
 
 The Doubletree Suites by Hilton Minneapolis is located just minutes from the Hyatt Regency Minneapolis (the conference venue).
-
-## Poster Information
-
-Each poster paper (main conference, industry track, and Student Research Workshop) will be assigned a free-standing poster board with a display surface that is 8 feet long and 4 feet tall. Authors are free to use as much of that space as they would like. There is a [FedEx office](https://local.fedex.com/mn/minneapolis/office-5570/) in the hotel if you need on-site printing – they are sure to be busy during the conference, so plan ahead if you need their services. 
-
-## Remote Presentation
-
-This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post](/blog/remote-presentations/) authored by the remote presentation chairs.
-
-To apply for a remote presentation slot at NAACL-2019, please fill out [this form](/downloads/telepresence_form.docx) and e-mail it to [naacl-2019-remote-presentation@googlegroups.com](mailto:naacl-2019-remote-presentation@googlegroups.com). Decisions will be made on a case-by-case basis.
 
 ## Visa Information
 

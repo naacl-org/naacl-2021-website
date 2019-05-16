@@ -18,13 +18,13 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**April 25, 2019**. Early registration ends in 3 days on Sunday, April 28! Please [register](https://aclweb.org/conference/naacl-hlt-2019-conference-registration/) now if you haven't already!
+**May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
 {: .notice--info}
 
-**April 15, 2019**. In the latest [blog post](/blog/kudos-reviewers/), the program chairs thank all of the amazing reviewers!
+**May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
 {: .notice--info}
 
-**April 11, 2019**. The latest [blog post](/blog/disability-access/) from the Diversity & Inclusion committee introduces their new proactive approach to disability access. 
+**May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
 {: .notice}
 
 **April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
