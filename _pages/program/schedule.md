@@ -2,7 +2,7 @@
 title: Conference Schedule
 layout: schedule
 excerpt: "NAACL 2019 conference schedule."
-permalink: /schedule2/
+permalink: /schedule/
 sidebar: false
 script: |
     <script type="text/javascript">
