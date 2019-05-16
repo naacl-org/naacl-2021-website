@@ -363,7 +363,7 @@ class WebSession(Session):
             # if we have an abstract, we need the session expander
             # next to the title
             if self.abstract:
-                session_html += '<div id="expander"></div><a href="#" class="session-title"><strong>{}</strong></a><br/>'.format(self.title)
+                session_html += '<div id="expander"></div><a href="#" class="session-title">{}</a><br/>'.format(self.title)
             # otherwise, no expander, just the title
             else:
                 session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
