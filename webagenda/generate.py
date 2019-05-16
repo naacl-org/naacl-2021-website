@@ -334,10 +334,9 @@ class WebSession(Session):
             # so handle that case if we encounter it
             if self.location.endswith('(external)'):
                 location_type = 'session-external-location'
-                real_location = self.location.replace('(external)', '')
+                self.location = self.location.replace('(external)', '')
             else:
                 location_type = 'session-location'
-                real_location = self.location
 
             # check if we have additional info for this plenary session
             self.abstract = ''
@@ -377,7 +376,7 @@ class WebSession(Session):
                     session_html += '<span class="session-person">{}</span><br/>'.format(self.person)
 
             # add the start and end time and location no matter what
-            session_html += '<span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="{} btn btn--location">{}</span>'.format(str(day), self.start, self.end, location_type, real_location)
+            session_html += '<span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="{} btn btn--location">{}</span>'.format(str(day), self.start, self.end, location_type, self.location)
 
             # now add the actual abstract and the PDF and Video links
             # as icons if we have those URLs
