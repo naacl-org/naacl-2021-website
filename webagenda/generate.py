@@ -642,6 +642,8 @@ def main():
                                           mappings=args.mapping_files,
                                           non_anthology_tsv=args.extra_metadata_file)
 
+    # parse and store any additional plenary session
+    # info if provided
     plenary_info_dict = {}
     if args.plenary_info_file:
         logging.info("Parsing plenary info file ...")
