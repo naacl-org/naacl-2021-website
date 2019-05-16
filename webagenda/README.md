@@ -24,6 +24,7 @@ There are two main files in this directory:
     - Files mapping the anthology IDs to the START / order file IDs.
     - XML files from the Anthology containing the titles, authors, abstracts, and anthology URLs for the items on the schedule.
     - An optional TSV file containing the title, authors, and abstracts for schedule items that are not in the anthology (e.g., TACL papers, non-archival workshop papers, etc.)
+    - Another optional TSV file containing additional info about some of the plenary sessions (e.g., keynote abstracts etc.)
 
 It also allows optional generation of icons in the schedule that link to the anthology PDFs and talk videos hosted on Vimeo/YouTube.
 
@@ -37,7 +38,7 @@ For more details on how this script works, please refer to the code and the comm
 The following command will generate the schedule markdown file for the website without the video and paper icons. This command should be run in the top level of the cloned repository:
 
 ```
-python webagenda/generate.py --order agenda/data/order/manually_combined_order --output _pages/program/schedule.md --xmls agenda/data/xml/N19.xml --mappings agenda/data/mapping/manually_combined_id_map.txt --extra-metadata agenda/data/non-anthology-metadata.tsv
+python webagenda/generate.py --order agenda/data/order/manually_combined_order --output _pages/program/schedule.md --xmls agenda/data/xml/N19.xml --mappings agenda/data/mapping/manually_combined_id_map.txt --extra-metadata agenda/data/non-anthology-metadata.tsv --plenary-info agenda/data/plenary-info.tsv
 ```
 
 To add the paper and video icons, just add the `--paper-icons` and `--video-icons` flags to the command respectively.
