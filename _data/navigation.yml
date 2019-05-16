@@ -1,6 +1,9 @@
 # main links
 main:
 
+  - title: "Schedule"
+    url: /schedule/
+
   - title: "Program"
     url: /program/tutorials/
 

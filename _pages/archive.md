@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
+{: .notice}
+
 **May 6, 2019**. Hotel rooms at [ACL discounted rates](/participants/#accommodation) available through Saturday, May 11, 2019. If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
 {: .notice}
 
@@ -21,6 +24,12 @@ toc_icon: "cog"
 {: .notice}
 
 **April 11, 2019**. The latest [blog post](/blog/disability-access/) from the Diversity & Inclusion committee introduces their new proactive approach to disability access. 
+{: .notice}
+
+**April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
+{: .notice}
+
+**April 10, 2019**. An [overview schedule](/program/schedule/) for the conference is available. Detailed program coming soon!
 {: .notice}
 
 **March 30, 2019**. NAACL 2019 will feature a panel discussion on "Careers in NLP". Submit your questions to the panelists [here](/blog/careers-panel-survey/).

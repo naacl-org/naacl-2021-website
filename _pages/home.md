@@ -18,20 +18,14 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 16, 2019**. The official conference [schedule](/schedule/) is now out!
+{: .notice--info}
+
 **May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
 {: .notice--info}
 
 **May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
 {: .notice--info}
-
-**May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
-{: .notice}
-
-**April 10, 2019**. The best papers have been announced! Please read the latest [blog post](/blog/best-papers/) for more details.
-{: .notice}
-
-**April 10, 2019**. An [overview schedule](/program/schedule/) for the conference is available. Detailed program coming soon!
-{: .notice}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
