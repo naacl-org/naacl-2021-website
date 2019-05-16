@@ -984,7 +984,7 @@ script: |
 <tbody></tbody>
 </table>
 <div id="introParagraph">
-<p>On this page, you can choose the sessions (and individual papers/posters) of your choice <em>and</em> generate a PDF of your customized schedule! This page should work on modern browsers on all operating systems. On mobile devices, Safari on iOS and Chrome on Android are the only browsers known to work. For the best experience, use a non-mobile device with a resolution of at least 1920x1080. For help, simply type "?"" while on the page or click on the "Help" button.</p>
+<p>On this page, you can choose the sessions (and individual papers/posters) of your choice <em>and</em> generate a PDF of your customized schedule! This page should work on modern browsers on all operating systems. On mobile devices, Safari on iOS and Chrome on Android are the only browsers known to work. For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. For help, simply type "?"" while on the page or click on the "Help" button.</p>
 </div>
 <p class="text-center">
 <a href="#" id="help-button" class="btn btn--small btn--twitter">Help</a>
@@ -998,7 +998,7 @@ script: |
 <div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">Morning Tutorials</a><br/><span class="session-time" title="Sunday, June 02, 2019">9:00 &ndash; 12:30</span><br/><div class="tutorial-session-details"><br/><table class="tutorial-table">
 <tr id="tutorial"><td><span class="tutorial-title"><strong>Deep Adversarial Learning for NLP. </strong>William Yang Wang, Sameer Singh and Jiwei Li. </span><br/><span class="btn btn--location inline-location">Greenway DE/FG</span></td></tr>
 <tr id="tutorial"><td><span class="tutorial-title"><strong>Deep Learning for Natural Language Inference. </strong>Samuel Bowman and Xiaodan Zhu. </span><br/><span class="btn btn--location inline-location">Greenway BC/HI</span></td></tr>
-<tr id="tutorial"><td><span class="tutorial-title"><strong>Measuring and Modeling Language Change. </strong> and Jacob Eisenstein. </span><br/><span class="btn btn--location inline-location">Greenway J</span></td></tr>
+<tr id="tutorial"><td><span class="tutorial-title"><strong>Measuring and Modeling Language Change. </strong>Jacob Eisenstein. </span><br/><span class="btn btn--location inline-location">Greenway J</span></td></tr>
 </table>
 </div>
 </div>
@@ -1014,7 +1014,7 @@ script: |
 <div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Afternoon Break</span><br/><span class="session-time" title="Sunday, June 02, 2019">15:30 &ndash; 16:00</span></div>
 <div class="session session-plenary"><span class="session-title">Welcome Reception</span><br/><span class="session-time" title="Sunday, June 02, 2019">18:00 &ndash; 20:00</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span></div>
 <div class="day" id="day-2">Monday, June 03, 2019</div>
-<div class="session session-plenary"><span class="session-title">Land Acknowledgments, Opening Remarks and Janyce Weibe and Richard Kittredge Remembrances</span><br/><span class="session-time" title="Monday, June 03, 2019">9:00 &ndash; 9:30</span><br/><span class="session-location btn btn--location">Nicollet Grand Ballroom</span></div>
+<div class="session session-plenary"><span class="session-title">Land Acknowledgment, Opening Remarks and Janyce Weibe and Richard Kittredge Remembrances</span><br/><span class="session-time" title="Monday, June 03, 2019">9:00 &ndash; 9:30</span><br/><span class="session-location btn btn--location">Nicollet Grand Ballroom</span></div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Keynote 1: "Data as a Mirror of Society: Lessons from the Emerging Science of Fairness in Machine Learning"</a><br/><span class="session-person"><a href="http://randomwalker.info" target="_blank">Arvind Narayanan (Princeton University)</a></span><br/><span class="session-time" title="Monday, June 03, 2019">9:30 &ndash; 10:30</span><br/><span class="session-location btn btn--location">Nicollet Grand Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>Language corpora reflect human society, including cultural stereotypes, prejudices, and historical patterns. By default, statistical language models will absorb these stereotypes. As a result, NLP systems for word analogy generation, toxicity detection, and many other tasks have been found to reflect racial and gender biases. Based on this observation, I will discuss two emerging research directions. First, a deeper understanding of human culture can help identify possible harmful stereotypes in algorithmic systems. The second research direction is the converse of the first: if data is a mirror of society, machine learning can be used as a magnifying lens to study human culture.</p></div></div></div>
 <div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">10:30 &ndash; 11:00</span></div>
 <div class="session-box" id="session-box-1">
@@ -1022,7 +1022,7 @@ script: |
 <div class="session session-expandable session-papers1" id="session-1a"><div id="expander"></div><a href="#" class="session-title">1A: Cognitive</a><br/><span class="session-time" title="Monday, June 03, 2019">11:00 &ndash; 12:30</span><br/><span class="session-location btn btn--location">Nicollet B+C</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Serguei Pakhomov</td></tr>
 <tr id="paper" paper-id="179"><td id="paper-time">11:00&ndash;11:18</td><td><span class="paper-title">Entity Recognition at First Sight: Improving NER with Eye Movement Information. </span><em>Nora Hollenstein and Ce Zhang</em></td></tr>
 <tr id="paper" paper-id="1465"><td id="paper-time">11:18&ndash;11:36</td><td><span class="paper-title">The emergence of number and syntax units in LSTM language models. </span><em>Yair Lakretz, Germán Kruszewski, Théo Desbordes, Dieuwke Hupkes, Stanislas Dehaene and Marco Baroni</em></td></tr>
-<tr id="paper" paper-id="1495"><td id="paper-time">11:36&ndash;11:54</td><td><span class="paper-title">Neural Self-Training through Spaced Repetition. </span><em> and Hadi Amiri</em></td></tr>
+<tr id="paper" paper-id="1495"><td id="paper-time">11:36&ndash;11:54</td><td><span class="paper-title">Neural Self-Training through Spaced Repetition. </span><em>Hadi Amiri</em></td></tr>
 <tr id="paper" paper-id="1768"><td id="paper-time">11:54&ndash;12:12</td><td><span class="paper-title">Neural language models as psycholinguistic subjects: Representations of syntactic state. </span><em>Richard Futrell, Ethan Wilcox, Takashi Morita, Peng Qian, Miguel Ballesteros and Roger Levy</em></td></tr>
 <tr id="paper" paper-id="2241"><td id="paper-time">12:12&ndash;12:30</td><td><span class="paper-title">Understanding language-elicited EEG data by predicting it from a fine-tuned language model. </span><em>Dan Schwartz and Tom Mitchell</em></td></tr>
 </table>
@@ -1057,7 +1057,7 @@ script: |
 </div>
 <div class="session session-expandable session-papers5" id="session-1e"><div id="expander"></div><a href="#" class="session-title">1E: Theory</a><br/><span class="session-time" title="Monday, June 03, 2019">11:00 &ndash; 12:30</span><br/><span class="session-location btn btn--location">Nicollet D</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-1e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1e-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Ryan Cotterell</td></tr>
 <tr id="paper" paper-id="1478"><td id="paper-time">11:00&ndash;11:18</td><td><span class="paper-title">Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing. </span><em>Hao Fu, Chunyuan Li, Xiaodong Liu, Jianfeng Gao, Asli Celikyilmaz and Lawrence Carin</em></td></tr>
-<tr id="paper" paper-id="1683"><td id="paper-time">11:18&ndash;11:36</td><td><span class="paper-title">Recurrent models and lower bounds for projective syntactic decoding. </span><em> and Natalie Schluter</em></td></tr>
+<tr id="paper" paper-id="1683"><td id="paper-time">11:18&ndash;11:36</td><td><span class="paper-title">Recurrent models and lower bounds for projective syntactic decoding. </span><em>Natalie Schluter</em></td></tr>
 <tr id="paper" paper-id="1730"><td id="paper-time">11:36&ndash;11:54</td><td><span class="paper-title">Evaluating Composition Models for Verb Phrase Elliptical Sentence Embeddings. </span><em>Gijs Wijnholds and Mehrnoosh Sadrzadeh</em></td></tr>
 <tr id="paper" paper-id="1791"><td id="paper-time">11:54&ndash;12:12</td><td><span class="paper-title">Neural Finite-State Transducers: Beyond Rational Relations. </span><em>Chu-Cheng Lin, Hao Zhu, Matthew R. Gormley and Jason Eisner</em></td></tr>
 <tr id="paper" paper-id="2151"><td id="paper-time">12:12&ndash;12:30</td><td><span class="paper-title">Riemannian Normalizing Flow on Variational Wasserstein Autoencoder for Text Modeling. </span><em>Prince Zizhuang Wang and William Yang Wang</em></td></tr>
@@ -1073,7 +1073,7 @@ script: |
 <tr id="poster" poster-id="829"><td><span class="poster-title">Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering. </span><em>Jianmo Ni, Chenguang Zhu, Weizhu Chen and Julian McAuley</em></td></tr>
 <tr id="poster" poster-id="846"><td><span class="poster-title">UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering. </span><em>Zi-Yuan Chen, Chih-Hung Chang, Yi-Pei Chen, Jijnasa Nayak and Lun-Wei Ku</em></td></tr>
 <tr id="poster" poster-id="995"><td><span class="poster-title">BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering. </span><em>Yu Cao, Meng Fang and Dacheng Tao</em></td></tr>
-<tr id="poster" poster-id="54-srw"><td><span class="poster-title">Is It Dish Washer Safe? Automatically Answering “Yes/No” Questions Using Customer Reviews. </span><em>Daria Dzendzik, Carl Vogel and Jennifer Foster</em></td></tr>
+<tr id="poster" poster-id="54-srw"><td><span class="poster-title">[SRW] Is It Dish Washer Safe? Automatically Answering “Yes/No” Questions Using Customer Reviews. </span><em>Daria Dzendzik, Carl Vogel and Jennifer Foster</em></td></tr>
 <tr><td><span class="poster-type">Sentiment</span></td></tr>
 <tr id="poster" poster-id="173"><td><span class="poster-title">Vector of Locally-Aggregated Word Embeddings (VLAWE): A Novel Document-level Representation. </span><em>Radu Tudor Ionescu and Andrei Butnaru</em></td></tr>
 <tr id="poster" poster-id="221"><td><span class="poster-title">Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis. </span><em>Md Shad Akhtar, Dushyant Chauhan, Deepanway Ghosal, Soujanya Poria, Asif Ekbal and Pushpak Bhattacharyya</em></td></tr>
@@ -1081,7 +1081,7 @@ script: |
 <tr id="poster" poster-id="641"><td><span class="poster-title">A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification. </span><em>Ziqian Zeng, Wenxuan Zhou, Xin Liu and Yangqiu Song</em></td></tr>
 <tr id="poster" poster-id="1093"><td><span class="poster-title">HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition. </span><em>Wenxiang Jiao, Haiqin Yang, Irwin King and Michael R. Lyu</em></td></tr>
 <tr id="poster" poster-id="1460"><td><span class="poster-title">Learning Interpretable Negation Rules via Weak Supervision at Document Level: A Reinforcement Learning Approach. </span><em>Nicolas Pröllochs, Stefan Feuerriegel and Dirk Neumann</em></td></tr>
-<tr id="poster" poster-id="2023"><td><span class="poster-title">Simplified Neural Unsupervised Domain Adaptation. </span><em> and Timothy Miller</em></td></tr>
+<tr id="poster" poster-id="2023"><td><span class="poster-title">Simplified Neural Unsupervised Domain Adaptation. </span><em>Timothy Miller</em></td></tr>
 <tr id="poster" poster-id="2261"><td><span class="poster-title">Learning Bilingual Sentiment-Specific Word Embeddings without Cross-lingual Supervision. </span><em>Yanlin Feng and Xiaojun Wan</em></td></tr>
 <tr><td><span class="poster-type">Machine Translation</span></td></tr>
 <tr id="poster" poster-id="514"><td><span class="poster-title">ReWE: Regressing Word Embeddings for Regularization of Neural Machine Translation Systems. </span><em>Inigo Jauregi Unanue, Ehsan Zare Borzeshi, Nazanin Esmaili and Massimo Piccardi</em></td></tr>
@@ -1103,7 +1103,7 @@ script: |
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Grab your lunch break</span><br/><span class="session-time" title="Monday, June 03, 2019">12:30 &ndash; 13:00</span></div>
-<div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Careers in NLP Panel</a><br/><span class="session-time" title="Monday, June 03, 2019">13:00 &ndash; 14:30</span><br/><span class="session-location btn btn--location">Nicollet Grand Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>The 2019 version of this panel recognizes the diversity of NLP careers today. Traditional career paths have typically led NLP researchers into academia, industrial labs, and government agencies. Today, we also see an increase in roles at startup companies and an emerging NLP practitioner role in industry that intersects with software, data, and product. The panel will discuss multiple topics including trends in NLP careers, emerging skills, prominent challenges and opportunities for cross-functional collaboration as an NLP professional in today's organizations. Panelists include <i>Judith L. Klavans (Independent)</i>, <i>Yunyao Li (IBM Research)</i>, <i>Owen Rambow (Elemental Cognition)</i>, <i>Joel Tetreault (Grammarly)</i>. Moderated by <i>Philip Resnik (University of Maryland)</i>.</p></div></div></div>
+<div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Careers in NLP Panel</a><br/><span class="session-time" title="Monday, June 03, 2019">13:00 &ndash; 14:30</span><br/><span class="session-location btn btn--location">Nicollet Grand Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>The 2019 version of this panel recognizes the diversity of NLP careers today. Traditional career paths have typically led NLP researchers into academia, industrial labs, and government agencies. Today, we also see an increase in roles at startup companies and an emerging NLP practitioner role in industry that intersects with software, data, and product. The panel will discuss multiple topics including trends in NLP careers, emerging skills, prominent challenges and opportunities for cross-functional collaboration as an NLP professional in today's organizations. <a href='/program/careerspanel#panelists' target='_blank'>Panelists</a> include <i>Judith L. Klavans (Independent)</i>, <i>Yunyao Li (IBM Research)</i>, <i>Owen Rambow (Elemental Cognition)</i>, <i>Joel Tetreault (Grammarly)</i>. Moderated by <i>Philip Resnik (University of Maryland)</i>.</p></div></div></div>
 <div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">14:30 &ndash; 15:00</span></div>
 <div class="session-box" id="session-box-2">
 <div class="session-header" id="session-header-2">Short Orals / Long & Short Posters / Demos</div>
@@ -1123,7 +1123,7 @@ script: |
 <tr id="paper" paper-id="1450"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings. </span><em>Thomas Manzini, Lim Yao Chong, Alan W. Black and Yulia Tsvetkov</em></td></tr>
 <tr id="paper" paper-id="2098"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">On Measuring Social Biases in Sentence Encoders. </span><em>Chandler May, Alex Wang, Shikha Bordia, Samuel R. Bowman and Rachel Rudinger</em></td></tr>
 <tr id="paper" paper-id="2117"><td id="paper-time">16:00&ndash;16:15</td><td><span class="paper-title">Gender Bias in Contextualized Word Embeddings. </span><em>Jieyu Zhao, Tianlu Wang, Mark Yatskar, Ryan Cotterell, Vicente Ordonez and Kai-Wei Chang</em></td></tr>
-<tr id="paper" paper-id="65-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">Identifying and Reducing Gender Bias in Word-Level Language Models. </span><em>Shikha Bordia and Samuel R. Bowman</em></td></tr>
+<tr id="paper" paper-id="65-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">[SRW] Identifying and Reducing Gender Bias in Word-Level Language Models. </span><em>Shikha Bordia and Samuel R. Bowman</em></td></tr>
 </table>
 </div>
 </div>
@@ -1133,7 +1133,7 @@ script: |
 <tr id="paper" paper-id="1358"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters. </span><em>Evgeny Kim and Roman Klinger</em></td></tr>
 <tr id="paper" paper-id="1404"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">Generalizing Unmasking for Short Texts. </span><em>Janek Bevendorff, Benno Stein, Matthias Hagen and Martin Potthast</em></td></tr>
 <tr id="paper" paper-id="334"><td id="paper-time">16:00&ndash;16:15</td><td><span class="paper-title">Adversarial Training for Satire Detection: Controlling for Confounding Variables. </span><em>Robert McHardy, Heike Adel and Roman Klinger</em></td></tr>
-<tr id="paper" paper-id="22-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">Emotion Impacts Speech Recognition Performance. </span><em>Rushab Munot and Ani Nenkova</em></td></tr>
+<tr id="paper" paper-id="22-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">[SRW] Emotion Impacts Speech Recognition Performance. </span><em>Rushab Munot and Ani Nenkova</em></td></tr>
 </table>
 </div>
 </div>
@@ -1143,7 +1143,7 @@ script: |
 <tr id="paper" paper-id="1638"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation. </span><em>Ori Shapira, David Gabay, Yang Gao, Hadar Ronen, Ramakanth Pasunuru, Mohit Bansal, Yael Amsterdamer and Ido Dagan</em></td></tr>
 <tr id="paper" paper-id="1820"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">Serial Recall Effects in Neural Language Modeling. </span><em>Hassan Hajipoor, Hadi Amiri, Maseud Rahgozar and Farhad Oroumchian</em></td></tr>
 <tr id="paper" paper-id="2310"><td id="paper-time">16:00&ndash;16:15</td><td><span class="paper-title">Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization. </span><em>Tobias Falke and Iryna Gurevych</em></td></tr>
-<tr id="paper" paper-id="14-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">The Strength of the Weakest Supervision: Topic Classification Using Class Labels. </span><em>Jiatong Li, Kai Zheng, Hua Xu, Qiaozhu Mei and Yue Wang</em></td></tr>
+<tr id="paper" paper-id="14-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">[SRW] The Strength of the Weakest Supervision: Topic Classification Using Class Labels. </span><em>Jiatong Li, Kai Zheng, Hua Xu, Qiaozhu Mei and Yue Wang</em></td></tr>
 </table>
 </div>
 </div>
@@ -1153,7 +1153,7 @@ script: |
 <tr id="paper" paper-id="1081"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">Viable Dependency Parsing as Sequence Labeling. </span><em>Michalina Strzyz, David Vilares and Carlos Gómez-Rodríguez</em></td></tr>
 <tr id="paper" paper-id="1754"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">Pooled Contextualized Embeddings for Named Entity Recognition. </span><em>Alan Akbik, Tanja Bergmann and Roland Vollgraf</em></td></tr>
 <tr id="paper" paper-id="1969"><td id="paper-time">16:00&ndash;16:15</td><td><span class="paper-title">Better Modeling of Incomplete Annotations for Named Entity Recognition. </span><em>Zhanming Jie, Pengjun Xie, Wei Lu, Ruixue Ding and Linlin Li</em></td></tr>
-<tr id="paper" paper-id="44-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling. </span><em>Debjit Paul, Mittul Singh, Michael A. Hedderich and Dietrich Klakow</em></td></tr>
+<tr id="paper" paper-id="44-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">[SRW] Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling. </span><em>Debjit Paul, Mittul Singh, Michael A. Hedderich and Dietrich Klakow</em></td></tr>
 </table>
 </div>
 </div>
@@ -1167,16 +1167,16 @@ script: |
 <tr id="poster" poster-id="2076"><td><span class="poster-title">Improving Event Coreference Resolution by Learning Argument Compatibility from Unlabeled Data. </span><em>Yin Jou Huang, Jing Lu, Sadao Kurohashi and Vincent Ng</em></td></tr>
 <tr id="poster" poster-id="2294"><td><span class="poster-title">Sentence Embedding Alignment for Lifelong Relation Extraction. </span><em>Hong Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang and William Yang Wang</em></td></tr>
 <tr id="poster" poster-id="2335"><td><span class="poster-title">Description-Based Zero-shot Fine-Grained Entity Typing. </span><em>Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi and Prasad Tadepalli</em></td></tr>
-<tr id="poster" poster-id="30-srw"><td><span class="poster-title">Opinion Mining with Deep Contextualized Embeddings. </span><em>Wen-Bin Han and Noriko Kando</em></td></tr>
-<tr id="poster" poster-id="4-srw"><td><span class="poster-title">A Bag-of-concepts Model Improves Relation Extraction in a Narrow Knowledge Domain with Limited Data. </span><em>Jiyu Chen, Karin Verspoor and Zenan Zhai</em></td></tr>
+<tr id="poster" poster-id="30-srw"><td><span class="poster-title">[SRW] Opinion Mining with Deep Contextualized Embeddings. </span><em>Wen-Bin Han and Noriko Kando</em></td></tr>
+<tr id="poster" poster-id="4-srw"><td><span class="poster-title">[SRW] A Bag-of-concepts Model Improves Relation Extraction in a Narrow Knowledge Domain with Limited Data. </span><em>Jiyu Chen, Karin Verspoor and Zenan Zhai</em></td></tr>
 <tr><td><span class="poster-type">Generation</span></td></tr>
 <tr id="poster" poster-id="2052"><td><span class="poster-title">Adversarial Decomposition of Text Representation. </span><em>Alexey Romanov, Anna Rumshisky, Anna Rogers and David Donahue</em></td></tr>
 <tr id="poster" poster-id="2119"><td><span class="poster-title">PoMo: Generating Entity-Specific Post-Modifiers in Context. </span><em>Jun Seok Kang, Robert Logan, Zewei Chu, Yang Chen, Dheeru Dua, Kevin Gimpel, Sameer Singh and Niranjan Balasubramanian</em></td></tr>
 <tr id="poster" poster-id="2184"><td><span class="poster-title">Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting. </span><em>J. Edward Hu, Huda Khayrallah, Ryan Culkin, Patrick Xia, Tongfei Chen, Matt Post and Benjamin Van Durme</em></td></tr>
 <tr id="poster" poster-id="2291"><td><span class="poster-title">Courteously Yours: Inducing courteous behavior in Customer Care responses using Reinforced Pointer Generator Network. </span><em>Hitesh Golchha, Mauajama Firdaus, Asif Ekbal and Pushpak Bhattacharyya</em></td></tr>
 <tr id="poster" poster-id="2358"><td><span class="poster-title">How to Avoid Sentences Spelling Boring? Towards a Neural Approach to Unsupervised Metaphor Generation. </span><em>Zhiwei Yu and Xiaojun Wan</em></td></tr>
-<tr id="poster" poster-id="19-srw"><td><span class="poster-title">Generating Text through Adversarial Training Using Skip-Thought Vectors. </span><em> and Afroz Ahamad</em></td></tr>
-<tr id="poster" poster-id="38-srw"><td><span class="poster-title">A Partially Rule-Based Approach to AMR Generation. </span><em> and Emma Manning</em></td></tr>
+<tr id="poster" poster-id="19-srw"><td><span class="poster-title">[SRW] Generating Text through Adversarial Training Using Skip-Thought Vectors. </span><em>Afroz Ahamad</em></td></tr>
+<tr id="poster" poster-id="38-srw"><td><span class="poster-title">[SRW] A Partially Rule-Based Approach to AMR Generation. </span><em>Emma Manning</em></td></tr>
 <tr><td><span class="poster-type">Semantics</span></td></tr>
 <tr id="poster" poster-id="526"><td><span class="poster-title">Incorporating Context and External Knowledge for Pronoun Coreference Resolution. </span><em>Hongming Zhang, Yan Song and Yangqiu Song</em></td></tr>
 <tr id="poster" poster-id="642"><td><span class="poster-title">Unsupervised Deep Structured Semantic Models for Commonsense Reasoning. </span><em>Shuohang Wang, Sheng Zhang, Yelong Shen, Xiaodong Liu, Jingjing Liu, Jianfeng Gao and Jing Jiang</em></td></tr>
@@ -1188,7 +1188,8 @@ script: |
 <tr id="poster" poster-id="1721"><td><span class="poster-title">Correlation Coefficients and Semantic Textual Similarity. </span><em>Vitalii Zhelezniak, Aleksandar Savkov, April Shen and Nils Hammerla</em></td></tr>
 <tr id="poster" poster-id="2387"><td><span class="poster-title">Generating Token-Level Explanations for Natural Language Inference. </span><em>James Thorne, Andreas Vlachos, Christos Christodoulopoulos and Arpit Mittal</em></td></tr>
 <tr id="poster" poster-id="2424"><td><span class="poster-title">Strong Baselines for Complex Word Identification across Multiple Languages. </span><em>Pierre Finnimore, Elisabeth Fritzsch, Daniel King, Alison Sneyd, Aneeq Ur Rehman, Fernando Alva-Manchego and Andreas Vlachos</em></td></tr>
-<tr id="poster" poster-id="58-srw"><td><span class="poster-title">Computational Investigations of Pragmatic Effects in Natural Language. </span><em> and Jad Kabbara</em></td></tr>
+<tr id="poster" poster-id="58-srw"><td><span class="poster-title">[SRW] Computational Investigations of Pragmatic Effects in Natural Language. </span><em>Jad Kabbara</em></td></tr>
+<tr><td><span class="poster-type">Demos</span></td></tr>
 <tr id="poster" poster-id="30-demos"><td><span class="poster-title">Abbreviation Explorer - an interactive system for pre-evaluation of Unsupervised Abbreviation Disambiguation. </span><em>Manuel Ciosici and Ira Assent</em></td></tr>
 <tr id="poster" poster-id="17-demos"><td><span class="poster-title">ADIDA: Automatic Dialect Identification for Arabic. </span><em>Ossama Obeid, Mohammad Salameh, Houda Bouamor and Nizar Habash</em></td></tr>
 <tr id="poster" poster-id="47-demos"><td><span class="poster-title">Enabling Search and Collaborative Assembly of Causal Interactions Extracted from Multilingual and Multi-domain Free Text. </span><em>George C. G. Barbosa, Zechy Wong, Gus Hahn-Powell, Dane Bell, Rebecca Sharp, Marco A. Valenzuela-Escárcega and Mihai Surdeanu</em></td></tr>
@@ -1215,13 +1216,13 @@ script: |
 <tr id="paper" paper-id="181"><td id="paper-time">17:00&ndash;17:18</td><td><span class="paper-title">Integrating Semantic Knowledge to Tackle Zero-shot Text Classification. </span><em>Jingqing Zhang, Piyawat Lertvittayakumjorn and Yike Guo</em></td></tr>
 <tr id="paper" paper-id="787"><td id="paper-time">17:18&ndash;17:36</td><td><span class="paper-title">Word-Node2Vec: Improving Word Embedding with Document-Level Non-Local Word Co-occurrences. </span><em>Procheta Sen, Debasis Ganguly and Gareth Jones</em></td></tr>
 <tr id="paper" paper-id="1579"><td id="paper-time">17:36&ndash;17:54</td><td><span class="paper-title">Cross-Topic Distributional Semantic Representations Via Unsupervised Mappings. </span><em>Eleftheria Briakou, Nikos Athanasiou and Alexandros Potamianos</em></td></tr>
-<tr id="paper" paper-id="1868"><td id="paper-time">17:54&ndash;18:12</td><td><span class="paper-title">What just happened? Evaluating retrofitted distributional word vectors. </span><em> and Dmetri Hayes</em></td></tr>
+<tr id="paper" paper-id="1868"><td id="paper-time">17:54&ndash;18:12</td><td><span class="paper-title">What just happened? Evaluating retrofitted distributional word vectors. </span><em>Dmetri Hayes</em></td></tr>
 <tr id="paper" paper-id="2049"><td id="paper-time">18:12&ndash;18:30</td><td><span class="paper-title">Linguistic Knowledge and Transferability of Contextual Representations. </span><em>Nelson F. Liu, Matt Gardner, Yonatan Belinkov, Matthew E. Peters and Noah A. Smith</em></td></tr>
 </table>
 </div>
 </div>
 <div class="session session-expandable session-papers3" id="session-3c"><div id="expander"></div><a href="#" class="session-title">3C: Parsing</a><br/><span class="session-time" title="Monday, June 03, 2019">17:00 &ndash; 18:30</span><br/><span class="session-location btn btn--location">Greenway</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-3c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3c-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Kai-Wei Chang</td></tr>
-<tr id="paper" paper-id="239"><td id="paper-time">17:00&ndash;17:18</td><td><span class="paper-title">Mutual Information Maximization for Simple and Accurate Part-Of-Speech Induction. </span><em> and Karl Stratos</em></td></tr>
+<tr id="paper" paper-id="239"><td id="paper-time">17:00&ndash;17:18</td><td><span class="paper-title">Mutual Information Maximization for Simple and Accurate Part-Of-Speech Induction. </span><em>Karl Stratos</em></td></tr>
 <tr id="paper" paper-id="503"><td id="paper-time">17:18&ndash;17:36</td><td><span class="paper-title">Unsupervised Recurrent Neural Network Grammars. </span><em>Yoon Kim, Alexander Rush, Lei Yu, Adhiguna Kuncoro, Chris Dyer and Gábor Melis</em></td></tr>
 <tr id="paper" paper-id="729"><td id="paper-time">17:36&ndash;17:54</td><td><span class="paper-title">Cooperative Learning of Disjoint Syntax and Semantics. </span><em>Serhii Havrylov, Germán Kruszewski and Armand Joulin</em></td></tr>
 <tr id="paper" paper-id="862"><td id="paper-time">17:54&ndash;18:12</td><td><span class="paper-title">Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders. </span><em>Andrew Drozdov, Patrick Verga, Mohit Yadav, Mohit Iyyer and Andrew McCallum</em></td></tr>
@@ -1243,7 +1244,7 @@ script: |
 <tr id="paper" paper-id="555"><td id="paper-time">17:18&ndash;17:36</td><td><span class="paper-title">Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. </span><em>Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Wai Lam and Shuming Shi</em></td></tr>
 <tr id="paper" paper-id="2208"><td id="paper-time">17:36&ndash;17:54</td><td><span class="paper-title">Jointly Optimizing Diversity and Relevance in Neural Response Generation. </span><em>Xiang Gao, Sungjin Lee, Yizhe Zhang, Chris Brockett, Michel Galley, Jianfeng Gao and Bill Dolan</em></td></tr>
 <tr id="paper" paper-id="2314"><td id="paper-time">17:54&ndash;18:12</td><td><span class="paper-title">Disentangling Language and Knowledge in Task-Oriented Dialogs. </span><em>Dinesh Raghu, Nikhil Gupta and  Mausam</em></td></tr>
-<tr id="paper" paper-id="2484-tacl"><td id="paper-time">18:12&ndash;18:30</td><td><span class="paper-title">DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension. </span><em>Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi and Claire Cardie</em></td></tr>
+<tr id="paper" paper-id="2484-tacl"><td id="paper-time">18:12&ndash;18:30</td><td><span class="paper-title">[TACL] DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension. </span><em>Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi and Claire Cardie</em></td></tr>
 </table>
 </div>
 </div>
@@ -1256,7 +1257,7 @@ script: |
 <tr id="poster" poster-id="1907"><td><span class="poster-title">PAWS: Paraphrase Adversaries from Word Scrambling. </span><em>Yuan Zhang, Jason Baldridge and Luheng He</em></td></tr>
 <tr id="poster" poster-id="2251"><td><span class="poster-title">Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?. </span><em>Masato Mita, Tomoya Mizumoto, Masahiro Kaneko, Ryo Nagata and Kentaro Inui</em></td></tr>
 <tr id="poster" poster-id="2337"><td><span class="poster-title">Star-Transformer. </span><em>Qipeng Guo, Xipeng Qiu, Pengfei Liu, Yunfan Shao, Xiangyang Xue and Zheng Zhang</em></td></tr>
-<tr id="poster" poster-id="20-srw"><td><span class="poster-title">SEDTWik: Segmentation-based Event Detection from Tweets Using Wikipedia. </span><em>Keval Morabia, Neti Lalita Bhanu Murthy, Aruna Malapati and Surender Samant</em></td></tr>
+<tr id="poster" poster-id="20-srw"><td><span class="poster-title">[SRW] SEDTWik: Segmentation-based Event Detection from Tweets Using Wikipedia. </span><em>Keval Morabia, Neti Lalita Bhanu Murthy, Aruna Malapati and Surender Samant</em></td></tr>
 <tr><td><span class="poster-type">Social Media</span></td></tr>
 <tr id="poster" poster-id="101"><td><span class="poster-title">Adaptation of Hierarchical Structured Models for Speech Act Recognition in Asynchronous Conversation. </span><em>Tasnim Mohiuddin, Thanh-Tung Nguyen and Shafiq Joty</em></td></tr>
 <tr id="poster" poster-id="591"><td><span class="poster-title">From legal to technical concept: Towards an automated classification of German political Twitter postings as criminal offenses. </span><em>Frederike Zufall, Tobias Horsmann and Torsten Zesch</em></td></tr>
@@ -1278,7 +1279,8 @@ script: |
 <tr id="poster" poster-id="384"><td><span class="poster-title">Predicting Annotation Difficulty to Improve Task Routing and Model Performance for Biomedical Information Extraction. </span><em>Yinfei Yang, Oshin Agarwal, Chris Tar, Byron C. Wallace and Ani Nenkova</em></td></tr>
 <tr id="poster" poster-id="1938"><td><span class="poster-title">Detecting Depression in Social Media using Fine-Grained Emotions. </span><em>Mario Ezra Aragon, Adrian Pastor Lopez Monroy, Luis Carlos Gonzalez Gurrola and Manuel Montes-y-Gomez</em></td></tr>
 <tr id="poster" poster-id="2435"><td><span class="poster-title">A Silver Standard Corpus of Human Phenotype-Gene Relations. </span><em>Diana Sousa, Andre Lamurias and Francisco M Couto</em></td></tr>
-<tr id="poster" poster-id="53-srw"><td><span class="poster-title">Kickstarting NLP for the Whole-person Function Domain with Representation Learning and Data Analysis. </span><em>Denis Newman-Griffis</em></td></tr>
+<tr id="poster" poster-id="53-srw"><td><span class="poster-title">[SRW] Kickstarting NLP for the Whole-person Function Domain with Representation Learning and Data Analysis. </span><em>Denis Newman-Griffis</em></td></tr>
+<tr><td><span class="poster-type">Demos</span></td></tr>
 <tr id="poster" poster-id="10-demos"><td><span class="poster-title">compare-mt: A Tool for Holistic Comparison of Language Generation Systems. </span><em>Graham Neubig, Zi-Yi Dou, Junjie Hu, Paul Michel, Danish Pruthi and Xinyi Wang</em></td></tr>
 <tr id="poster" poster-id="25-demos"><td><span class="poster-title">Eidos, INDRA,  Delphi: From Free Text to Executable Causal Models. </span><em>Rebecca Sharp, Adarsh Pyarelal, Benjamin Gyori, Keith Alcock, Egoitz Laparra, Marco A. Valenzuela-Escárcega, Ajay Nagesh, Vikas Yadav, John Bachman, Zheng Tang, Heather Lent, Fan Luo, Mithun Paul, Steven Bethard, Kobus Barnard, Clayton Morrison and Mihai Surdeanu</em></td></tr>
 <tr id="poster" poster-id="16-demos"><td><span class="poster-title">fairseq: A Fast, Extensible Toolkit for Sequence Modeling. </span><em>Myle Ott, Sergey Edunov, Alexei Baevski, Angela Fan, Sam Gross, Nathan Ng, David Grangier and Michael Auli</em></td></tr>
@@ -1304,7 +1306,7 @@ script: |
 <div class="session session-expandable session-papers2" id="session-4b"><div id="expander"></div><a href="#" class="session-title">4B: Multilingual NLP</a><br/><span class="session-time" title="Tuesday, June 04, 2019">9:00 &ndash; 10:30</span><br/><span class="session-location btn btn--location">Nicollet D</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-4b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4b-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Ekaterina Shutova</td></tr>
 <tr id="paper" paper-id="231"><td id="paper-time">9:00&ndash;9:18</td><td><span class="paper-title">Analyzing Bayesian Crosslingual Transfer in Topic Models. </span><em>Shudong Hao and Michael J. Paul</em></td></tr>
 <tr id="paper" paper-id="994"><td id="paper-time">9:18&ndash;9:36</td><td><span class="paper-title">Recursive Subtree Composition in LSTM-Based Dependency Parsing. </span><em>Miryam de Lhoneux, Miguel Ballesteros and Joakim Nivre</em></td></tr>
-<tr id="paper" paper-id="1044"><td id="paper-time">9:36&ndash;9:54</td><td><span class="paper-title">Cross-lingual CCG Induction. </span><em> and Kilian Evang</em></td></tr>
+<tr id="paper" paper-id="1044"><td id="paper-time">9:36&ndash;9:54</td><td><span class="paper-title">Cross-lingual CCG Induction. </span><em>Kilian Evang</em></td></tr>
 <tr id="paper" paper-id="1933"><td id="paper-time">9:54&ndash;10:12</td><td><span class="paper-title">Density Matching for Bilingual Word Embedding. </span><em>Chunting Zhou, Xuezhe Ma, Di Wang and Graham Neubig</em></td></tr>
 <tr id="paper" paper-id="2113"><td id="paper-time">10:12&ndash;10:30</td><td><span class="paper-title">Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing. </span><em>Tal Schuster, Ori Ram, Regina Barzilay and Amir Globerson</em></td></tr>
 </table>
@@ -1346,7 +1348,7 @@ script: |
 <tr id="poster" poster-id="1615"><td><span class="poster-title">A Streamlined Method for Sourcing Discourse-level Argumentation Annotations from the Crowd. </span><em>Tristan Miller, Maria Sukhareva and Iryna Gurevych</em></td></tr>
 <tr id="poster" poster-id="1634"><td><span class="poster-title">Unsupervised Dialog Structure Learning. </span><em>Weiyan Shi, Tiancheng Zhao and Zhou Yu</em></td></tr>
 <tr id="poster" poster-id="2180"><td><span class="poster-title">Modeling Document-level Causal Structures for Event Causal Relation Identification. </span><em>Lei Gao, Prafulla Kumar Choubey and Ruihong Huang</em></td></tr>
-<tr id="poster" poster-id="2483-tacl"><td><span class="poster-title">Planning, Inference, and Pragmatics in Sequential Language Games. </span><em>Fereshte Khani, Noah D. Goodman and Percy Liang</em></td></tr>
+<tr id="poster" poster-id="2483-tacl"><td><span class="poster-title">[TACL] Planning, Inference, and Pragmatics in Sequential Language Games. </span><em>Fereshte Khani, Noah D. Goodman and Percy Liang</em></td></tr>
 <tr><td><span class="poster-type">Information Retrieval</span></td></tr>
 <tr id="poster" poster-id="1272"><td><span class="poster-title">Hierarchical User and Item Representation with Three-Tier Attention for Recommendation. </span><em>Chuhan Wu, Fangzhao Wu, Junxin Liu and Yongfeng Huang</em></td></tr>
 <tr id="poster" poster-id="1274"><td><span class="poster-title">Text Similarity Estimation Based on Word Embeddings and Matrix Norms for Targeted Marketing. </span><em>Tim vor der Brück and Marc Pouly</em></td></tr>
@@ -1392,14 +1394,14 @@ script: |
 <tr id="paper" paper-id="1614"><td id="paper-time">11:30&ndash;11:45</td><td><span class="paper-title">Differentiable Sampling with Flexible Reference Word Order for Neural Machine Translation. </span><em>Weijia Xu, Xing Niu and Marine Carpuat</em></td></tr>
 <tr id="paper" paper-id="1739"><td id="paper-time">11:45&ndash;12:00</td><td><span class="paper-title">Reinforcement Learning based Curriculum Optimization for Neural Machine Translation. </span><em>Gaurav Kumar, George Foster, Colin Cherry and Maxim Krikun</em></td></tr>
 <tr id="paper" paper-id="1956"><td id="paper-time">12:00&ndash;12:15</td><td><span class="paper-title">Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation. </span><em>Brian Thompson, Jeremy Gwinnup, Huda Khayrallah, Kevin Duh and Philipp Koehn</em></td></tr>
-<tr id="paper" paper-id="32-srw"><td id="paper-time">12:15&ndash;12:30</td><td><span class="paper-title">Multimodal Machine Translation with Embedding Prediction. </span><em>Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura and Mamoru Komachi</em></td></tr>
+<tr id="paper" paper-id="32-srw"><td id="paper-time">12:15&ndash;12:30</td><td><span class="paper-title">[SRW] Multimodal Machine Translation with Embedding Prediction. </span><em>Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura and Mamoru Komachi</em></td></tr>
 </table>
 </div>
 </div>
 <div class="session session-expandable session-papers3" id="session-5c"><div id="expander"></div><a href="#" class="session-title">5C: Social Media</a><br/><span class="session-time" title="Tuesday, June 04, 2019">11:00 &ndash; 12:30</span><br/><span class="session-location btn btn--location">Greenway</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-5c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5c-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Chenhao Tan</td></tr>
 <tr id="paper" paper-id="1381"><td id="paper-time">11:00&ndash;11:15</td><td><span class="paper-title">Short-Term Meaning Shift: A Distributional Exploration. </span><em>Marco Del Tredici, Raquel Fernández and Gemma Boleda</em></td></tr>
 <tr id="paper" paper-id="617"><td id="paper-time">11:15&ndash;11:30</td><td><span class="paper-title">Detecting Derogatory Compounds – An Unsupervised Approach. </span><em>Michael Wiegand, Maximilian Wolf and Josef Ruppenhofer</em></td></tr>
-<tr id="paper" paper-id="133"><td id="paper-time">11:30&ndash;11:45</td><td><span class="paper-title">Personalized Neural Embeddings for Collaborative Filtering with Text. </span><em> and Guangneng Hu</em></td></tr>
+<tr id="paper" paper-id="133"><td id="paper-time">11:30&ndash;11:45</td><td><span class="paper-title">Personalized Neural Embeddings for Collaborative Filtering with Text. </span><em>Guangneng Hu</em></td></tr>
 <tr id="paper" paper-id="1570"><td id="paper-time">11:45&ndash;12:00</td><td><span class="paper-title">An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models. </span><em>Alexandra Chronopoulou, Christos Baziotis and Alexandros Potamianos</em></td></tr>
 <tr id="paper" paper-id="1815"><td id="paper-time">12:00&ndash;12:15</td><td><span class="paper-title">Incorporating Emoji Descriptions Improves Tweet Classification. </span><em>Abhishek Singh, Eduardo Blanco and Wei Jin</em></td></tr>
 <tr id="paper" paper-id="2454"><td id="paper-time">12:15&ndash;12:30</td><td><span class="paper-title">Modeling Personal Biases in Language Use by Inducing Personalized Word Embeddings. </span><em>Daisuke Oba, Naoki Yoshinaga, Shoetsu Sato, Satoshi Akasaki and Masashi Toyoda</em></td></tr>
@@ -1417,12 +1419,12 @@ script: |
 </div>
 </div>
 <div class="session session-expandable session-papers5" id="session-5e"><div id="expander"></div><a href="#" class="session-title">5E: Semantics</a><br/><span class="session-time" title="Tuesday, June 04, 2019">11:00 &ndash; 12:30</span><br/><span class="session-location btn btn--location">Nicollet A</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-5e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5e-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Samuel Bowman</td></tr>
-<tr id="paper" paper-id="465"><td id="paper-time">11:00&ndash;11:15</td><td><span class="paper-title">On the Importance of Distinguishing Word Meaning Representations: A Case Study on Reverse Dictionary Mapping. </span><em> and Mohammad Taher Pilehvar</em></td></tr>
+<tr id="paper" paper-id="465"><td id="paper-time">11:00&ndash;11:15</td><td><span class="paper-title">On the Importance of Distinguishing Word Meaning Representations: A Case Study on Reverse Dictionary Mapping. </span><em>Mohammad Taher Pilehvar</em></td></tr>
 <tr id="paper" paper-id="1399"><td id="paper-time">11:15&ndash;11:30</td><td><span class="paper-title">Factorising AMR generation through syntax. </span><em>Kris Cao and Stephen Clark</em></td></tr>
 <tr id="paper" paper-id="1456"><td id="paper-time">11:30&ndash;11:45</td><td><span class="paper-title">A Crowdsourced Frame Disambiguation Corpus with Ambiguity. </span><em>Anca Dumitrache, Lora Aroyo and Chris Welty</em></td></tr>
 <tr id="paper" paper-id="1951"><td id="paper-time">11:45&ndash;12:00</td><td><span class="paper-title">Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets. </span><em>Nelson F. Liu, Roy Schwartz and Noah A. Smith</em></td></tr>
-<tr id="paper" paper-id="41-srw"><td id="paper-time">12:00&ndash;12:15</td><td><span class="paper-title">Word Polysemy Aware Document Vector Estimation. </span><em>Vivek Gupta, Ankit Saw, Harshit Gupta, Pegah Nokhiz and Partha Talukdar</em></td></tr>
-<tr id="paper" paper-id="47-srw"><td id="paper-time">12:15&ndash;12:30</td><td><span class="paper-title">EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference. </span><em>Abhilasha Ravichander, Aakanksha Naik, Carolyn Rose and Eduard Hovy</em></td></tr>
+<tr id="paper" paper-id="41-srw"><td id="paper-time">12:00&ndash;12:15</td><td><span class="paper-title">[SRW] Word Polysemy Aware Document Vector Estimation. </span><em>Vivek Gupta, Ankit Saw, Harshit Gupta, Pegah Nokhiz and Partha Talukdar</em></td></tr>
+<tr id="paper" paper-id="47-srw"><td id="paper-time">12:15&ndash;12:30</td><td><span class="paper-title">[SRW] EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference. </span><em>Abhilasha Ravichander, Aakanksha Naik, Carolyn Rose and Eduard Hovy</em></td></tr>
 </table>
 </div>
 </div>
@@ -1445,7 +1447,7 @@ script: |
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
 <tr id="poster" poster-id="1354"><td><span class="poster-title">Open Information Extraction from Question-Answer Pairs. </span><em>Nikita Bhutani, Yoshihiko Suhara, Wang-Chiew Tan, Alon Halevy and H. V. Jagadish</em></td></tr>
 <tr id="poster" poster-id="1485"><td><span class="poster-title">Question Answering by Reasoning Across Documents with Graph Convolutional Networks. </span><em>Nicola De Cao, Wilker Aziz and Ivan Titov</em></td></tr>
-<tr id="poster" poster-id="1588"><td><span class="poster-title">A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC. </span><em> and Mark Yatskar</em></td></tr>
+<tr id="poster" poster-id="1588"><td><span class="poster-title">A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC. </span><em>Mark Yatskar</em></td></tr>
 <tr id="poster" poster-id="1595"><td><span class="poster-title">BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis. </span><em>Hu Xu, Bing Liu, Lei Shu and Philip Yu</em></td></tr>
 <tr id="poster" poster-id="1741"><td><span class="poster-title">Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text. </span><em>Ahmad Sakor, Isaiah Onando Mulang’, Kuldeep Singh, Saeedeh Shekarpour, Maria Esther Vidal, Jens Lehmann and Sören Auer</em></td></tr>
 <tr id="poster" poster-id="1889"><td><span class="poster-title">Be Consistent! Improving Procedural Text Comprehension using Label Consistency. </span><em>Xinya Du, Bhavana Dalvi, Niket Tandon, Antoine Bosselut, Wen-tau Yih, Peter Clark and Claire Cardie</em></td></tr>
@@ -1460,6 +1462,7 @@ script: |
 <tr id="poster" poster-id="1894"><td><span class="poster-title">A Grounded Unsupervised Universal Part-of-Speech Tagger for Low-Resource Languages. </span><em>Ronald Cardenas, Ying Lin, Heng Ji and Jonathan May</em></td></tr>
 <tr id="poster" poster-id="1922"><td><span class="poster-title">On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing. </span><em>Wasi Ahmad, Zhisong Zhang, Xuezhe Ma, Eduard Hovy, Kai-Wei Chang and Nanyun Peng</em></td></tr>
 <tr id="poster" poster-id="2163"><td><span class="poster-title">A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations. </span><em>Mingda Chen, Qingming Tang, Sam Wiseman and Kevin Gimpel</em></td></tr>
+<tr><td><span class="poster-type">Demos</span></td></tr>
 <tr id="poster" poster-id="8-demos"><td><span class="poster-title">End-to-End Open-Domain Question Answering with BERTserini. </span><em>Wei Yang, Yuqing Xie, Aileen Lin, Xingyu Li, Luchen Tan, Kun Xiong, Ming Li and Jimmy Lin</em></td></tr>
 <tr id="poster" poster-id="27-demos"><td><span class="poster-title">FAKTA: An Automatic End-to-End Fact Checking System. </span><em>Moin Nadeem, Wei Fang, Brian Xu, Mitra Mohtarami and James Glass</em></td></tr>
 <tr id="poster" poster-id="61-demos"><td><span class="poster-title">iComposer: An Automatic Songwriting System for Chinese Popular Music. </span><em>Hsin-Pei Lee, Jhih-Sheng Fang and Wei-Yun Ma</em></td></tr>
@@ -1529,16 +1532,16 @@ script: |
 <tr id="poster" poster-id="973"><td><span class="poster-title">Improving Cross-Domain Chinese Word Segmentation with Word Embeddings. </span><em>Yuxiao Ye, Weikang Li, Yue Zhang, Likun Qiu and Jian Sun</em></td></tr>
 <tr id="poster" poster-id="997"><td><span class="poster-title">Neural Semi-Markov Conditional Random Fields for Robust Character-Based Part-of-Speech Tagging. </span><em>Apostolos Kemos, Heike Adel and Hinrich Schütze</em></td></tr>
 <tr id="poster" poster-id="1193"><td><span class="poster-title">Shrinking Japanese Morphological Analyzers With Neural Networks and Semi-supervised Learning. </span><em>Arseny Tolmachev, Daisuke Kawahara and Sadao Kurohashi</em></td></tr>
-<tr id="poster" poster-id="2485-tacl"><td><span class="poster-title">Grammar Error Correction in Morphologically-Rich Languages: The Case of Russian. </span><em>Alla Rozovskaya and Dan Roth</em></td></tr>
-<tr id="poster" poster-id="49-srw"><td><span class="poster-title">Deep Learning and Sociophonetics: Automatic Coding of Rhoticity Using Neural Networks. </span><em>Sarah Gupta and Anthony DiPadova</em></td></tr>
-<tr id="poster" poster-id="60-srw"><td><span class="poster-title">Learn Languages First and Then Convert: towards Effective Simplified to Traditional Chinese Conversion. </span><em>Pranav A, S.F. Hui, I-Tsun Cheng, Ishaan Batra and Chiu Yik Hei</em></td></tr>
+<tr id="poster" poster-id="2485-tacl"><td><span class="poster-title">[TACL] Grammar Error Correction in Morphologically-Rich Languages: The Case of Russian. </span><em>Alla Rozovskaya and Dan Roth</em></td></tr>
+<tr id="poster" poster-id="49-srw"><td><span class="poster-title">[SRW] Deep Learning and Sociophonetics: Automatic Coding of Rhoticity Using Neural Networks. </span><em>Sarah Gupta and Anthony DiPadova</em></td></tr>
+<tr id="poster" poster-id="60-srw"><td><span class="poster-title">[SRW] Learn Languages First and Then Convert: towards Effective Simplified to Traditional Chinese Conversion. </span><em>Pranav A, S.F. Hui, I-Tsun Cheng, Ishaan Batra and Chiu Yik Hei</em></td></tr>
 <tr><td><span class="poster-type">Speech</span></td></tr>
 <tr id="poster" poster-id="541"><td><span class="poster-title">Neural Constituency Parsing of Speech Transcripts. </span><em>Paria Jamshid Lou, Yufei Wang and Mark Johnson</em></td></tr>
 <tr id="poster" poster-id="1783"><td><span class="poster-title">Acoustic-to-Word Models with Conversational Context Information. </span><em>Suyoun Kim and Florian Metze</em></td></tr>
 <tr id="poster" poster-id="1848"><td><span class="poster-title">A Dynamic Speaker Model for Conversational Interactions. </span><em>Hao Cheng, Hao Fang and Mari Ostendorf</em></td></tr>
 <tr id="poster" poster-id="2263"><td><span class="poster-title">Fluent Translations from Disfluent Speech in End-to-End Speech Translation. </span><em>Elizabeth Salesky, Matthias Sperber and Alexander Waibel</em></td></tr>
-<tr id="poster" poster-id="35-srw"><td><span class="poster-title">Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding. </span><em>Hwa-Yeon Kim, Yoon-Hyung Roh and Young-Kil Kim</em></td></tr>
-<tr id="poster" poster-id="59-srw"><td><span class="poster-title">Expectation and Locality Effects in the Prediction of Disfluent Fillers and Repairs in English Speech. </span><em>Samvit Dammalapati, Rajakrishnan Rajkumar and Sumeet Agarwal</em></td></tr>
+<tr id="poster" poster-id="35-srw"><td><span class="poster-title">[SRW] Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding. </span><em>Hwa-Yeon Kim, Yoon-Hyung Roh and Young-Kil Kim</em></td></tr>
+<tr id="poster" poster-id="59-srw"><td><span class="poster-title">[SRW] Expectation and Locality Effects in the Prediction of Disfluent Fillers and Repairs in English Speech. </span><em>Samvit Dammalapati, Rajakrishnan Rajkumar and Sumeet Agarwal</em></td></tr>
 <tr><td><span class="poster-type">Text Mining</span></td></tr>
 <tr id="poster" poster-id="197"><td><span class="poster-title">Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN. </span><em>Van-Hien Tran, Van-Thuy Phi, Hiroyuki Shindo and Yuji Matsumoto</em></td></tr>
 <tr id="poster" poster-id="261"><td><span class="poster-title">Document-Level Event Factuality Identification via Adversarial Neural Network. </span><em>Zhong Qian, Peifeng Li, Qiaoming Zhu and Guodong Zhou</em></td></tr>
@@ -1553,6 +1556,7 @@ script: |
 <tr id="poster" poster-id="2082"><td><span class="poster-title">Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations. </span><em>Guangxiang Zhao, Jingjing Xu, Qi Zeng, Xuancheng Ren and Xu Sun</em></td></tr>
 <tr id="poster" poster-id="2219"><td><span class="poster-title">Fact Discovery from Knowledge Base via Facet Decomposition. </span><em>Zihao Fu, Yankai Lin, Zhiyuan Liu and Wai Lam</em></td></tr>
 <tr id="poster" poster-id="2429"><td><span class="poster-title">A Richer-but-Smarter Shortest Dependency Path with Attentive Augmentation for Relation Extraction. </span><em>Duy-Cat Can, Hoang-Quynh Le, Quang-Thuy Ha and Nigel Collier</em></td></tr>
+<tr><td><span class="poster-type">Demos</span></td></tr>
 <tr id="poster" poster-id="6-demos"><td><span class="poster-title">Multilingual Entity, Relation, Event and Human Value Extraction. </span><em>Manling Li, Ying Lin, Joseph Hoover, Spencer Whitehead, Clare Voss, Morteza Dehghani and Heng Ji</em></td></tr>
 <tr id="poster" poster-id="43-demos"><td><span class="poster-title">Litigation Analytics: Extracting and querying motions and orders from US federal courts. </span><em>Thomas Vacek, Dezhao Song, Hugo Molina-Salgado, Ronald Teo, Conner Cowling and Frank Schilder</em></td></tr>
 <tr id="poster" poster-id="50-demos"><td><span class="poster-title">Community lexical access for an endangered polysynthetic language: An electronic dictionary for St. Lawrence Island Yupik. </span><em>Benjamin Hunt, Emily Chen, Sylvia L.R. Schreiner and Lane Schwartz</em></td></tr>
@@ -1574,16 +1578,16 @@ script: |
 <tr id="paper" paper-id="1626"><td id="paper-time">10:48&ndash;11:06</td><td><span class="paper-title">BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions. </span><em>Christopher Clark, Kenton Lee, Ming-Wei Chang, Tom Kwiatkowski, Michael Collins and Kristina Toutanova</em></td></tr>
 <tr id="paper" paper-id="1770"><td id="paper-time">11:06&ndash;11:24</td><td><span class="paper-title">Enhancing Key-Value Memory Neural Networks for Knowledge Based Question Answering. </span><em>Kun Xu, Yuxuan Lai, Yansong Feng and Zhiguo Wang</em></td></tr>
 <tr id="paper" paper-id="2300"><td id="paper-time">11:24&ndash;11:42</td><td><span class="paper-title">Repurposing Entailment for Multi-Hop Question Answering Tasks. </span><em>Harsh Trivedi, Heeyoung Kwon, Tushar Khot, Ashish Sabharwal and Niranjan Balasubramanian</em></td></tr>
-<tr id="paper" paper-id="2480-tacl"><td id="paper-time">11:42&ndash;12:00</td><td><span class="paper-title">CoQA: A Conversational Question Answering Challenge. </span><em>Siva Reddy, Danqi Chen and Christopher D. Manning</em></td></tr>
+<tr id="paper" paper-id="2480-tacl"><td id="paper-time">11:42&ndash;12:00</td><td><span class="paper-title">[TACL] CoQA: A Conversational Question Answering Challenge. </span><em>Siva Reddy, Danqi Chen and Christopher D. Manning</em></td></tr>
 </table>
 </div>
 </div>
 <div class="session session-expandable session-papers2" id="session-7b"><div id="expander"></div><a href="#" class="session-title">7B: Ethics, Bias & Fairness</a><br/><span class="session-time" title="Wednesday, June 05, 2019">10:30 &ndash; 12:00</span><br/><span class="session-location btn btn--location">Nicollet A</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-7b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7b-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Emily Prud'hommeaux</td></tr>
-<tr id="paper" paper-id="2479-tacl"><td id="paper-time">10:30&ndash;10:48</td><td><span class="paper-title">Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns. </span><em>Kellie Webster, Marta Recasens, Vera Axelrod and Jason Baldridge</em></td></tr>
+<tr id="paper" paper-id="2479-tacl"><td id="paper-time">10:30&ndash;10:48</td><td><span class="paper-title">[TACL] Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns. </span><em>Kellie Webster, Marta Recasens, Vera Axelrod and Jason Baldridge</em></td></tr>
 <tr id="paper" paper-id="2087"><td id="paper-time">10:48&ndash;11:06</td><td><span class="paper-title">GenderQuant: Quantifying Mention-Level Genderedness. </span><em> Ananya, Nitya Parthasarthi and Sameer Singh</em></td></tr>
 <tr id="paper" paper-id="2238"><td id="paper-time">11:06&ndash;11:24</td><td><span class="paper-title">Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings. </span><em>Dorottya Demszky, Nikhil Garg, Rob Voigt, James Zou, Jesse Shapiro, Matthew Gentzkow and Dan Jurafsky</em></td></tr>
 <tr id="paper" paper-id="1396"><td id="paper-time">11:24&ndash;11:42</td><td><span class="paper-title">Learning to Decipher Hate Symbols. </span><em>Jing Qian, Mai ElSherief, Elizabeth Belding and William Yang Wang</em></td></tr>
-<tr id="paper" paper-id="2482-tacl"><td id="paper-time">11:42&ndash;12:00</td><td><span class="paper-title">Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science. </span><em>Emily M. Bender and Batya Friedman</em></td></tr>
+<tr id="paper" paper-id="2482-tacl"><td id="paper-time">11:42&ndash;12:00</td><td><span class="paper-title">[TACL] Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science. </span><em>Emily M. Bender and Batya Friedman</em></td></tr>
 </table>
 </div>
 </div>
@@ -1633,11 +1637,11 @@ script: |
 <tr id="poster" poster-id="1932"><td><span class="poster-title">Benchmarking Approximate Inference Methods for Neural Structured Prediction. </span><em>Lifu Tu and Kevin Gimpel</em></td></tr>
 <tr id="poster" poster-id="1942"><td><span class="poster-title">Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent. </span><em>Minhao Cheng, Wei Wei and Cho-Jui Hsieh</em></td></tr>
 <tr id="poster" poster-id="2020"><td><span class="poster-title">Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications. </span><em>Pouya Pezeshkpour, Yifan Tian and Sameer Singh</em></td></tr>
-<tr id="poster" poster-id="2478-tacl"><td><span class="poster-title">Analysis Methods in Neural Language Processing: A Survey. </span><em>Yonatan Belinkov and James Glass</em></td></tr>
-<tr id="poster" poster-id="2481-tacl"><td><span class="poster-title">Attentive Convolution: Equipping CNNs with RNN-style Attention Mechanisms. </span><em>Wenpeng Yin and Hinrich Schütze</em></td></tr>
-<tr id="poster" poster-id="2486-tacl"><td><span class="poster-title">Rotational Unit of Memory: A Novel Representation Unit for RNNs with Scalable Applications. </span><em>Rumen Dangovski, Li Jing, Preslav Nakov, Mićo Tatalović and Marin Soljačić</em></td></tr>
+<tr id="poster" poster-id="2478-tacl"><td><span class="poster-title">[TACL] Analysis Methods in Neural Language Processing: A Survey. </span><em>Yonatan Belinkov and James Glass</em></td></tr>
+<tr id="poster" poster-id="2481-tacl"><td><span class="poster-title">[TACL] Attentive Convolution: Equipping CNNs with RNN-style Attention Mechanisms. </span><em>Wenpeng Yin and Hinrich Schütze</em></td></tr>
+<tr id="poster" poster-id="2486-tacl"><td><span class="poster-title">[TACL] Rotational Unit of Memory: A Novel Representation Unit for RNNs with Scalable Applications. </span><em>Rumen Dangovski, Li Jing, Preslav Nakov, Mićo Tatalović and Marin Soljačić</em></td></tr>
 <tr id="poster" poster-id="1851"><td><span class="poster-title">Transferable Neural Projection Representations. </span><em>Chinnadhurai Sankar, Sujith Ravi and Zornitsa Kozareva</em></td></tr>
-<tr id="poster" poster-id="34-srw"><td><span class="poster-title">Gating Mechanisms for Combining Character and Word-level Word Representations: an Empirical Study. </span><em>Jorge Balazs and Yutaka Matsuo</em></td></tr>
+<tr id="poster" poster-id="34-srw"><td><span class="poster-title">[SRW] Gating Mechanisms for Combining Character and Word-level Word Representations: an Empirical Study. </span><em>Jorge Balazs and Yutaka Matsuo</em></td></tr>
 <tr><td><span class="poster-type">Tagging, Chunking, Syntax  & Parsing</span></td></tr>
 <tr id="poster" poster-id="443"><td><span class="poster-title">Semantic Role Labeling with Associated Memory Network. </span><em>Chaoyu Guan, Yuhao Cheng and Hai Zhao</em></td></tr>
 <tr id="poster" poster-id="596"><td><span class="poster-title">Better, Faster, Stronger Sequence Tagging Constituent Parsers. </span><em>David Vilares, Mostafa Abdou and Anders Søgaard</em></td></tr>
@@ -1646,7 +1650,7 @@ script: |
 <tr id="poster" poster-id="943"><td><span class="poster-title">Multi-Task Learning for Japanese Predicate Argument Structure Analysis. </span><em>Hikaru Omori and Mamoru Komachi</em></td></tr>
 <tr id="poster" poster-id="1107"><td><span class="poster-title">Domain adaptation for part-of-speech tagging of noisy user-generated text. </span><em>Luisa März, Dietrich Trautmann and Benjamin Roth</em></td></tr>
 <tr id="poster" poster-id="1281"><td><span class="poster-title">Neural Chinese Address Parsing. </span><em>Hao Li, Wei Lu, Pengjun Xie and Linlin Li</em></td></tr>
-<tr id="poster" poster-id="17-srw"><td><span class="poster-title">A Pregroup Representation of Word Order Alternation Using Hindi Syntax. </span><em>Alok Debnath and Manish Shrivastava</em></td></tr>
+<tr id="poster" poster-id="17-srw"><td><span class="poster-title">[SRW] A Pregroup Representation of Word Order Alternation Using Hindi Syntax. </span><em>Alok Debnath and Manish Shrivastava</em></td></tr>
 </table>
 </div>
 </div>
@@ -1720,7 +1724,7 @@ script: |
 <tr id="poster" poster-id="907"><td><span class="poster-title">Revisiting Adversarial Autoencoder for Unsupervised Word Translation with Cycle Consistency and Improved Training. </span><em>Tasnim Mohiuddin and Shafiq Joty</em></td></tr>
 <tr id="poster" poster-id="1131"><td><span class="poster-title">Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages. </span><em>Rudra Murthy, Anoop Kunchukuttan and Pushpak Bhattacharyya</em></td></tr>
 <tr id="poster" poster-id="1206"><td><span class="poster-title">Massively Multilingual Neural Machine Translation. </span><em>Roee Aharoni, Melvin Johnson and Orhan Firat</em></td></tr>
-<tr id="poster" poster-id="1229"><td><span class="poster-title">A Large-Scale Comparison of Historical Text Normalization Systems. </span><em> and Marcel Bollmann</em></td></tr>
+<tr id="poster" poster-id="1229"><td><span class="poster-title">A Large-Scale Comparison of Historical Text Normalization Systems. </span><em>Marcel Bollmann</em></td></tr>
 <tr id="poster" poster-id="1351"><td><span class="poster-title">Combining Discourse Markers and Cross-lingual Embeddings for Synonym–Antonym Classification. </span><em>Michael Roth and Shyam Upadhyay</em></td></tr>
 <tr id="poster" poster-id="1646"><td><span class="poster-title">Context-Aware Cross-Lingual Mapping. </span><em>Hanan Aldarmaki and Mona Diab</em></td></tr>
 <tr id="poster" poster-id="1875"><td><span class="poster-title">Polyglot Contextual Representations Improve Crosslingual Transfer. </span><em>Phoebe Mulcaire, Jungo Kasai and Noah A. Smith</em></td></tr>
@@ -1753,7 +1757,7 @@ script: |
 <tr id="paper" paper-id="619"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">Neural Grammatical Error Correction with Finite State Transducers. </span><em>Felix Stahlberg, Christopher Bryant and Bill Byrne</em></td></tr>
 <tr id="paper" paper-id="1123"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">Convolutional Self-Attention Networks. </span><em>Baosong Yang, Longyue Wang, Derek F. Wong, Lidia S. Chao and Zhaopeng Tu</em></td></tr>
 <tr id="paper" paper-id="1301"><td id="paper-time">16:00&ndash;16:15</td><td><span class="paper-title">Rethinking Complex Neural Network Architectures for Document Classification. </span><em>Ashutosh Adhikari, Achyudh Ram, Raphael Tang and Jimmy Lin</em></td></tr>
-<tr id="paper" paper-id="43-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">Speak up, Fight Back! Detection of Social Media Disclosures of Sexual Harassment. </span><em>Arijit Ghosh Chowdhury, Ramit Sawhney, Puneet Mathur, Debanjan Mahata and Rajiv Ratn Shah</em></td></tr>
+<tr id="paper" paper-id="43-srw"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">[SRW] Speak up, Fight Back! Detection of Social Media Disclosures of Sexual Harassment. </span><em>Arijit Ghosh Chowdhury, Ramit Sawhney, Puneet Mathur, Debanjan Mahata and Rajiv Ratn Shah</em></td></tr>
 </table>
 </div>
 </div>
@@ -1766,8 +1770,8 @@ script: |
 </div>
 </div>
 <div class="session session-expandable session-papers4" id="session-9d"><div id="expander"></div><a href="#" class="session-title">9D: Cognitive  & Psycholinguistics</a><br/><span class="session-time" title="Wednesday, June 05, 2019">15:30 &ndash; 16:30</span><br/><span class="session-location btn btn--location">Nicollet D</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-9d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9d-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Bridget McInnes</td></tr>
-<tr id="paper" paper-id="45-srw"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media. </span><em>Rohan Mishra, Pradyumn Prakhar Sinha, Ramit Sawhney, Debanjan Mahata, Puneet Mathur and Rajiv Ratn Shah</em></td></tr>
-<tr id="paper" paper-id="1479"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">A large-scale study of the effects of word frequency and predictability in naturalistic reading. </span><em> and Cory Shain</em></td></tr>
+<tr id="paper" paper-id="45-srw"><td id="paper-time">15:30&ndash;15:45</td><td><span class="paper-title">[SRW] SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media. </span><em>Rohan Mishra, Pradyumn Prakhar Sinha, Ramit Sawhney, Debanjan Mahata, Puneet Mathur and Rajiv Ratn Shah</em></td></tr>
+<tr id="paper" paper-id="1479"><td id="paper-time">15:45&ndash;16:00</td><td><span class="paper-title">A large-scale study of the effects of word frequency and predictability in naturalistic reading. </span><em>Cory Shain</em></td></tr>
 <tr id="paper" paper-id="1716"><td id="paper-time">16:00&ndash;16:15</td><td><span class="paper-title">Augmenting word2vec with latent Dirichlet allocation within a clinical application. </span><em>Akshay Budhkar and Frank Rudzicz</em></td></tr>
 <tr id="paper" paper-id="379"><td id="paper-time">16:15&ndash;16:30</td><td><span class="paper-title">On the Idiosyncrasies of the Mandarin Chinese Classifier System. </span><em>Shijia Liu, Hongyuan Mei, Adina Williams and Ryan Cotterell</em></td></tr>
 </table>
@@ -1782,7 +1786,7 @@ script: |
 </div>
 </div>
 <div class="session session-expandable session-posters" id="session-poster-9"><div id="expander"></div><a href="#" class="session-title">9F: Industry (posters) </a><br/><span class="session-time" title="Wednesday, June 05, 2019">15:30 &ndash; 16:30</span><br/><span class="session-location btn btn--location">Hyatt Exhibit Hall</span><div class="poster-session-details"><br/><table class="poster-table">
-<tr id="poster" poster-id="4109-industry"><td><span class="poster-title">Neural Lexicons for Slot Tagging in Spoken Language Understanding. </span><em> and Kyle Williams</em></td></tr>
+<tr id="poster" poster-id="4109-industry"><td><span class="poster-title">Neural Lexicons for Slot Tagging in Spoken Language Understanding. </span><em>Kyle Williams</em></td></tr>
 <tr id="poster" poster-id="4010-industry"><td><span class="poster-title">Active Learning for New Domains in Natural Language Understanding. </span><em>Stanislav Peshterliev, John Kearney, Abhyuday Jagannatha, Imre Kiss and Spyros Matsoukas</em></td></tr>
 <tr id="poster" poster-id="4090-industry"><td><span class="poster-title">Scaling Multi-Domain Dialogue State Tracking via Query Reformulation. </span><em>Pushpendre Rastogi, Arpit Gupta, Tongfei Chen and Mathias Lambert</em></td></tr>
 <tr id="poster" poster-id="4101-industry"><td><span class="poster-title">Are the Tools up to the Task? an Evaluation of Commercial Dialog Tools in Developing Conversational Enterprise-grade Dialog Systems. </span><em>Marie Meteer, Meghan Hickey, Carmi Rothberg, David Nahamoo and Ellen Eide Kislal</em></td></tr>
