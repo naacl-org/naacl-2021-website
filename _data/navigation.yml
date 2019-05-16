@@ -50,8 +50,6 @@ program:
         url: /program/keynotes/
       - title: "Accepted Papers"
         url: /program/accepted/
-      - title: "Overview Schedule"
-        url: /program/schedule/
       - title: "Careers in NLP Panel"
         url: /program/careerspanel/
 
