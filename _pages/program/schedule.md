@@ -23,6 +23,7 @@ script: |
             return String('0' + str).slice(-2);
         }
 
+
         function formatDate(dateObj) {
             return dateObj.toLocaleDateString() + ' ' + padTime(dateObj.getHours()) + ':' + padTime(dateObj.getMinutes());
         }
