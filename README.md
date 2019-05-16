@@ -7,7 +7,7 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 You can test this website locally on macOS as follows:
 
 1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
-2. Check out this repository.
+2. Clone this repository. Note that this repository uses submodules so to properly check out the submodule code, run `git submodule init` and `git submodule update` after you clone the repository. You will need the submodule to generate the schedule for the website.
 3. Run the gems needed by this repository: `sudo bundle install`. 
    *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
 4. Start the jekyll server by running `bundle exec jekyll serve`.

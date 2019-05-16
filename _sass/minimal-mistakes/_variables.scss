@@ -39,9 +39,12 @@ $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
 $type-size-5: 1em !default; // ~16px
+$type-size-5-half: 0.875em !default; // ~14px
 $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
+$type-size-9: 0.55em !default;   // ~9px
+$type-size-10: 0.5em !default;   // ~8px
 
 /*
    Colors
@@ -52,6 +55,7 @@ $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
+$lighter-gray2: mix(#fff, $gray, 70%) !default;
 
 $background-color: #fff !default;
 $code-background-color: #fafafa !default;
@@ -133,6 +137,7 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
+$xx-large: 1900px !default;
 
 /*
    Grid
