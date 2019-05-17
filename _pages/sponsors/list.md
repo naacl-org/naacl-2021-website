@@ -80,6 +80,12 @@ silver:
     image_path: /assets/images/logos/cisco-logo.png
     alt: "Cisco Logo"
     title: "Cisco"
+  - url: https://www.interactions.com
+    image_path: /assets/images/logos/interactions-logo.png
+    alt: "Interactions Logo"
+    title: "Interactions"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 bronze:
   - url: http://www.ets.org
     image_path: /assets/images/logos/ets-logo.png
