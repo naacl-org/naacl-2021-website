@@ -18,6 +18,8 @@ You can test this website locally on macOS as follows:
 
 For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository]((https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features. 
 
+Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content.
+
 ### Important Files
 
 If you fork this repository, the following files are the ones to pay attention to in order to create content for the website:
@@ -31,6 +33,8 @@ If you fork this repository, the following files are the ones to pay attention t
 - `_data/navigation.xml` : YAML file that contains the links in the masthead at the top of the website and also links in the various sidebars. 
 
 - `_config.yml` : YAML file that contains meta-information about the website that should be set properly for a new conference. Details are given in the comments in the file. You must edit this file properly before making the website public.
+
+- `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`.
 
 
 ### Domain Setup
