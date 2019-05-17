@@ -13,6 +13,42 @@ You can test this website locally on macOS as follows:
 4. Start the jekyll server by running `bundle exec jekyll serve`.
 5. You can then see the website at http://localhost:4000.
 
+
+## Forking for a New Conference
+
+For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository]((https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features. 
+
+### Important Files
+
+If you fork this repository, the following files are the ones to pay attention to in order to create content for the website:
+
+- `_pages/xxx.md` : The markdown files contain the main contents of the different web pages of the website.
+
+- `downloads/` : Contains files that can be downloaded from the website.
+
+- `_sass/minimal-mistakes/\*.scss` : SASS files that control the look and the feel of the website. The file `_program.scss` is not part of the them and controls the look and feel of the web schedule page.
+
+- `_data/navigation.xml` : YAML file that contains the links in the masthead at the top of the website and also links in the various sidebars. 
+
+- `_config.yml` : YAML file that contains meta-information about the website that should be set properly for a new conference. Details are given in the comments in the file. You must edit this file properly before making the website public.
+
+
+### Domain Setup
+
+The following settings connect the the main domain booked for the conference (e.g. `naacl2019.org`) with the underlying Github Pages build. 
+
+On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
+
+```
+A   @   185.199.108.153 
+A   @   185.199.109.153 
+A   @   185.199.110.153 
+A   @   185.199.111.153 
+CNAME www   naacl2019.org
+```
+
+In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (`naacl2019.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
+
 ## License
 
 The MIT License (MIT)
