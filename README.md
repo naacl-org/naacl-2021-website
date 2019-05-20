@@ -18,13 +18,16 @@ You can test this website locally on macOS as follows:
 
 For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository]((https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features. 
 
-Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content.
+Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content. It might be best to rename the `gh-pages` branch so that the website for the new
+conference does not get built with content from the old conference. You can rename the branch back to `gh-pages` once you have made sufficient changes locally to remove/modify the old conference content.
 
 ### Important Files
 
 If you fork this repository, the following files are the ones to pay attention to in order to create content for the website:
 
-- `_pages/xxx.md` : The markdown files contain the main contents of the different web pages of the website.
+- `_pages/xxx.md` : The markdown files contain the main contents of the different web pages of the website. Please note that
+  once you work, you would need to move the already existing .md files out into a different folder so that old pages do not
+  get rendered into the new website.
 
 - `downloads/` : Contains files that can be downloaded from the website.
 
@@ -34,8 +37,12 @@ If you fork this repository, the following files are the ones to pay attention t
 
 - `_config.yml` : YAML file that contains meta-information about the website that should be set properly for a new conference. Details are given in the comments in the file. You must edit this file properly before making the website public.
 
-- `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`.
+- `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`. Same as the
+  files under `_pages`, you should move out already existing files from this folder to prevent them from getting rendered.
 
+- `CNAME` : You should delete this file since this contains the old external domain from the older conference. This file will be
+  automatically re-generated when you add the new external domain for the new conference. If you do not remove this file, you will
+  get a page build warning from GitHub.
 
 ### Domain Setup
 
