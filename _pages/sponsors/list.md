@@ -132,7 +132,10 @@ inkind:
     image_path: /assets/images/logos/grammarly-logo.png
     alt: "Grammarly Logo"
     title: "Grammarly"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://translator.microsoft.com
+    image_path: /assets/images/logos/microsoft-translator-logo.png
+    alt: "Microsoft Translator Logo"
+    title: "Microsoft Translator"
   - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
