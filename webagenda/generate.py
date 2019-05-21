@@ -394,12 +394,13 @@ class WebSession(Session):
 
         elif self.type == 'tutorial':
 
-            # for tutorials, the session does not have start
+            # for tutorials, we may not have the start
             # and end times defined in the order file but we
-            # need them for the website; so just get them from
+            # need them for the website; if so just get them from
             # the first session item
-            self.start = self.items[0].start
-            self.end = self.items[0].end
+            if not self.start and not self.end:
+                self.start = self.items[0].start
+                self.end = self.items[0].end
 
             generated_html.append('<div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><div class="tutorial-session-details"><br/><table class="tutorial-table">'.format(self.title, str(day), self.start, self.end, self.location))
 
@@ -416,12 +417,13 @@ class WebSession(Session):
 
         elif self.type == 'best_paper':
 
-            # the best paper session does not have start
+            # the best paper session may not have start
             # and end times defined in the order file but we
-            # need them for the website; so just get them from
+            # need them for the website; if so just get them from
             # the first and the last item
-            self.start = self.items[0].start
-            self.end = self.items[-1].end
+            if not self.start and not self.end:
+                self.start = self.items[0].start
+                self.end = self.items[-1].end
 
             generated_html.append('<div class="session session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><table class="paper-table">'.format(self.title, str(day), self.start, self.end, self.location))
 
