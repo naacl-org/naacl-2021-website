@@ -110,8 +110,8 @@ class WebAgenda(Agenda):
 
         Returns
         -------
-        agenda_html : str
-            A string containing the schedule HTML.
+        agenda_html : list of str
+            A list of strings for the schedule HTML.
         """
 
         # initialize the agenda HTML with the pre-schedule HTML
@@ -223,8 +223,8 @@ class WebSessionGroup(SessionGroup):
 
         Returns
         -------
-        session_group_html : str
-            A string containing the session group HTML.
+        generated_html : list of str
+            A list of strings for the session group HTML.
         """
 
         # initialize the HTML with a box and header that goes in the HTML
@@ -318,8 +318,8 @@ class WebSession(Session):
 
         Returns
         -------
-        session_html : str
-            A string containing the session HTML.
+        generated_html : list of str
+            A list of strings for the session HTML.
         """
         # initialize the result variable
         generated_html = []
@@ -520,8 +520,8 @@ class WebItem(Item):
 
         Returns
         -------
-        item_html : str
-            A string containing the item HTML.
+        generated_html : list of str
+            A list of strings containing the item HTML.
 
         """
 
