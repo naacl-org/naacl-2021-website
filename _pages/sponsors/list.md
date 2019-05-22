@@ -54,7 +54,10 @@ gold:
     image_path: /assets/images/logos/bytedance-logo.png
     alt: "ByteDance Logo"
     title: "ByteDance"
-  - image_path: /assets/images/logos/blank-logo.png
+  - url: https://investor.vanguard.com/corporate-portal/
+    image_path: /assets/images/logos/vanguard-logo.png
+    alt: "Vanguard Logo"
+    title: "Vanguard"
 silver:
   - url: http://www.duolingo.com
     image_path: /assets/images/logos/duolingo-logo.png
