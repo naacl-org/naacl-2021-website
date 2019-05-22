@@ -30,6 +30,20 @@ from orderfile import Agenda, SessionGroup, Session, Item
 from metadata import ScheduleMetadata
 
 
+def authorlist_to_string(authorlist):
+    """
+    Function to convert a list of author names
+    into a readable string, for example,
+    ['X', 'Y', 'Z'] -> 'X, Y and Z'.
+    """
+    if len(authorlist) > 1:
+        authors = '{} and {}'.format(', '.join(authorlist[:-1]), authorlist[-1])
+    else:
+        authors = authorlist[0]
+
+    return authors
+
+
 class WebAgenda(Agenda):
     """
     Class encapsulating the agenda for the website.
@@ -531,7 +545,7 @@ class WebItem(Item):
         # generate the appropriate type of HTML depending on item type
         if self.type == 'paper':
             self.title = metadata[self.id_].title
-            self.authors = metadata[self.id_].authors
+            self.authors = authorlist_to_string(metadata[self.id_].authors)
             self.paper_url = metadata[self.id_].anthology_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
@@ -551,7 +565,7 @@ class WebItem(Item):
 
         elif self.type == 'poster':
             self.title = metadata[self.id_].title
-            self.authors = metadata[self.id_].authors
+            self.authors = authorlist_to_string(metadata[self.id_].authors)
             self.paper_url = metadata[self.id_].anthology_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
@@ -573,7 +587,7 @@ class WebItem(Item):
 
         elif self.type == 'tutorial':
             self.title = metadata[self.id_].title
-            self.authors = metadata[self.id_].authors
+            self.authors = authorlist_to_string(metadata[self.id_].authors)
             generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><br/><span class="btn btn--location inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
 
         # return the generated item HTML
