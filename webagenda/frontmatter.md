@@ -99,24 +99,14 @@ script: |
                     else if (cellClass == 'info-poster') {
                         cell.styles.fontSize = 9;
                     }
-                    else if (cellClass == "location") {
-                        if (cellText == '') {
-                            var infoType = data.row.raw[2].content.className;
-                            if (infoType == "info-day") {
-                                cell.styles.fillColor = [187, 187, 187];
-                            }
-                            else if (infoType == "info-plenary") {
-                                cell.styles.fillColor = [238, 238, 238];
-                            }
-                        }
-                    }
-                    else if (cellClass == "time") {
+                    else if (cellClass == "location" || cellClass == "time") {
                         var infoType = data.row.raw[2].content.className;
                         var infoText = data.row.raw[2].content.textContent;
                         if (infoType == "info-day" && cellText == '') {
                             cell.styles.fillColor = [187, 187, 187];
                         }
-                        if (infoType == "info-plenary" &&  infoText.search(/(break|lunch|breakfast)/i) !== -1) {
+                        if (infoType == "info-plenary" && 
+                            infoText.search(/(break|lunch|breakfast)/i) !== -1) {
                             cell.styles.fillColor = [238, 238, 238];
                         }
                     }

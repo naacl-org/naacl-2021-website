@@ -326,7 +326,15 @@ class WebSession(Session):
 
         # generate the appropriate HTML for each type of session
         if self.type == 'break':
-            generated_html.append('<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span></div>'.format(index, self.title, str(day), self.start, self.end))
+            break_html = '<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.title, str(day), self.start, self.end)
+
+            # add the loation if we have any
+            if self.location:
+                break_html += '<br/><span class="btn btn--location session-location">{}</span>'.format(self.location)
+
+            # close the div and append to result
+            break_html += '</div>'
+            generated_html.append(break_html)
 
         elif self.type == 'plenary':
 

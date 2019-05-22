@@ -99,24 +99,14 @@ script: |
                     else if (cellClass == 'info-poster') {
                         cell.styles.fontSize = 9;
                     }
-                    else if (cellClass == "location") {
-                        if (cellText == '') {
-                            var infoType = data.row.raw[2].content.className;
-                            if (infoType == "info-day") {
-                                cell.styles.fillColor = [187, 187, 187];
-                            }
-                            else if (infoType == "info-plenary") {
-                                cell.styles.fillColor = [238, 238, 238];
-                            }
-                        }
-                    }
-                    else if (cellClass == "time") {
+                    else if (cellClass == "location" || cellClass == "time") {
                         var infoType = data.row.raw[2].content.className;
                         var infoText = data.row.raw[2].content.textContent;
                         if (infoType == "info-day" && cellText == '') {
                             cell.styles.fillColor = [187, 187, 187];
                         }
-                        if (infoType == "info-plenary" &&  infoText.search(/(break|lunch|breakfast)/i) !== -1) {
+                        if (infoType == "info-plenary" && 
+                            infoText.search(/(break|lunch|breakfast)/i) !== -1) {
                             cell.styles.fillColor = [238, 238, 238];
                         }
                     }
@@ -994,7 +984,7 @@ script: |
 </p>
 <div class="schedule">
 <div class="day" id="day-1">Sunday, June 02, 2019</div>
-<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Breakfast</span><br/><span class="session-time" title="Sunday, June 02, 2019">07:30 &ndash; 09:00</span></div>
+<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Breakfast</span><br/><span class="session-time" title="Sunday, June 02, 2019">7:30 &ndash; 9:00</span><br/><span class="btn btn--location session-location">Greenway Promenade AJ</span></div>
 <div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">Morning Tutorials</a><br/><span class="session-time" title="Sunday, June 02, 2019">9:00 &ndash; 12:30</span><br/><div class="tutorial-session-details"><br/><table class="tutorial-table">
 <tr id="tutorial"><td><span class="tutorial-title"><strong>Deep Adversarial Learning for NLP. </strong>William Yang Wang, Sameer Singh and Jiwei Li. </span><br/><span class="btn btn--location inline-location">Greenway DE/FG</span></td></tr>
 <tr id="tutorial"><td><span class="tutorial-title"><strong>Deep Learning for Natural Language Inference. </strong>Samuel Bowman and Xiaodan Zhu. </span><br/><span class="btn btn--location inline-location">Greenway BC/HI</span></td></tr>
@@ -1002,7 +992,7 @@ script: |
 </table>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Morning Break</span><br/><span class="session-time" title="Sunday, June 02, 2019">10:30 &ndash; 11:00</span></div>
+<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Morning Break</span><br/><span class="session-time" title="Sunday, June 02, 2019">10:30 &ndash; 11:00</span><br/><span class="btn btn--location session-location">Nicollet Promenade</span></div>
 <div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Lunch Break</span><br/><span class="session-time" title="Sunday, June 02, 2019">12:30 &ndash; 14:00</span></div>
 <div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">Afternoon Tutorials</a><br/><span class="session-time" title="Sunday, June 02, 2019">14:00 &ndash; 17:30</span><br/><div class="tutorial-session-details"><br/><table class="tutorial-table">
 <tr id="tutorial"><td><span class="tutorial-title"><strong>Transfer Learning in Natural Language Processing. </strong>Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta and Thomas Wolf. </span><br/><span class="btn btn--location inline-location">Greenway DE/FG</span></td></tr>
@@ -1011,12 +1001,13 @@ script: |
 </table>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Afternoon Break</span><br/><span class="session-time" title="Sunday, June 02, 2019">15:30 &ndash; 16:00</span></div>
+<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Afternoon Break</span><br/><span class="session-time" title="Sunday, June 02, 2019">15:30 &ndash; 16:00</span><br/><span class="btn btn--location session-location">Nicollet Promenade</span></div>
 <div class="session session-plenary"><span class="session-title">Welcome Reception</span><br/><span class="session-time" title="Sunday, June 02, 2019">18:00 &ndash; 20:00</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span></div>
 <div class="day" id="day-2">Monday, June 03, 2019</div>
+<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Breakfast</span><br/><span class="session-time" title="Monday, June 03, 2019">7:30 &ndash; 9:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session session-plenary"><span class="session-title">Land Acknowledgment, Opening Remarks and Janyce Wiebe and Richard Kittredge Remembrances</span><br/><span class="session-time" title="Monday, June 03, 2019">9:00 &ndash; 9:30</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span></div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Keynote 1: "Data as a Mirror of Society: Lessons from the Emerging Science of Fairness in Machine Learning"</a><br/><span class="session-person"><a href="http://randomwalker.info" target="_blank">Arvind Narayanan (Princeton University)</a></span><br/><span class="session-time" title="Monday, June 03, 2019">9:30 &ndash; 10:30</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>Language corpora reflect human society, including cultural stereotypes, prejudices, and historical patterns. By default, statistical language models will absorb these stereotypes. As a result, NLP systems for word analogy generation, toxicity detection, and many other tasks have been found to reflect racial and gender biases. Based on this observation, I will discuss two emerging research directions. First, a deeper understanding of human culture can help identify possible harmful stereotypes in algorithmic systems. The second research direction is the converse of the first: if data is a mirror of society, machine learning can be used as a magnifying lens to study human culture.</p></div></div></div>
-<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">10:30 &ndash; 11:00</span></div>
+<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">10:30 &ndash; 11:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Long Orals / Long & Short Posters</div>
 <div class="session session-expandable session-papers1" id="session-1a"><div id="expander"></div><a href="#" class="session-title">1A: Cognitive</a><br/><span class="session-time" title="Monday, June 03, 2019">11:00 &ndash; 12:30</span><br/><span class="session-location btn btn--location">Nicollet B/C</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Serguei Pakhomov</td></tr>
@@ -1102,9 +1093,9 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Grab your lunch break</span><br/><span class="session-time" title="Monday, June 03, 2019">12:30 &ndash; 13:00</span></div>
+<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Grab your lunch break</span><br/><span class="session-time" title="Monday, June 03, 2019">12:30 &ndash; 13:00</span></div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Careers in NLP Panel</a><br/><span class="session-time" title="Monday, June 03, 2019">13:00 &ndash; 14:30</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>The 2019 version of this panel recognizes the diversity of NLP careers today. Traditional career paths have typically led NLP researchers into academia, industrial labs, and government agencies. Today, we also see an increase in roles at startup companies and an emerging NLP practitioner role in industry that intersects with software, data, and product. The panel will discuss multiple topics including trends in NLP careers, emerging skills, prominent challenges and opportunities for cross-functional collaboration as an NLP professional in today's organizations. <a href='/program/careerspanel#panelists' target='_blank'>Panelists</a> include <i>Judith L. Klavans (Independent)</i>, <i>Yunyao Li (IBM Research)</i>, <i>Owen Rambow (Elemental Cognition)</i>, <i>Joel Tetreault (Grammarly)</i>. Moderated by <i>Philip Resnik (University of Maryland)</i>.</p></div></div></div>
-<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">14:30 &ndash; 15:00</span></div>
+<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">14:30 &ndash; 15:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-2">
 <div class="session-header" id="session-header-2">Short Orals / Long & Short Posters / Demos</div>
 <div class="session session-expandable session-papers1" id="session-2a"><div id="expander"></div><a href="#" class="session-title">2A: Dialogue & Discourse</a><br/><span class="session-time" title="Monday, June 03, 2019">15:00 &ndash; 16:30</span><br/><span class="session-location btn btn--location">Northstar A</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-2a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Ellen Riloff</td></tr>
@@ -1200,7 +1191,7 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">16:30 &ndash; 17:00</span></div>
+<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Monday, June 03, 2019">16:30 &ndash; 17:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-3">
 <div class="session-header" id="session-header-3">Long Orals / Long & Short Posters / Demos</div>
 <div class="session session-expandable session-papers1" id="session-3a"><div id="expander"></div><a href="#" class="session-title">3A: IE & IR</a><br/><span class="session-time" title="Monday, June 03, 2019">17:00 &ndash; 18:30</span><br/><span class="session-location btn btn--location">Nicollet A</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-3a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Gerard de Melo</td></tr>
@@ -1292,6 +1283,7 @@ script: |
 </div>
 </div>
 <div class="day" id="day-3">Tuesday, June 04, 2019</div>
+<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Breakfast</span><br/><span class="session-time" title="Tuesday, June 04, 2019">7:30 &ndash; 9:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Long Orals / Long & Short Posters</div>
 <div class="session session-expandable session-papers1" id="session-4a"><div id="expander"></div><a href="#" class="session-title">4A: Phonology  & Morphology</a><br/><span class="session-time" title="Tuesday, June 04, 2019">9:00 &ndash; 10:30</span><br/><span class="session-location btn btn--location">Nicollet A</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-4a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Greg Kondrak</td></tr>
@@ -1375,7 +1367,7 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Tuesday, June 04, 2019">10:30 &ndash; 11:00</span></div>
+<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Tuesday, June 04, 2019">10:30 &ndash; 11:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-5">
 <div class="session-header" id="session-header-5">Short Orals / Long & Short Posters / Demos</div>
 <div class="session session-expandable session-papers1" id="session-5a"><div id="expander"></div><a href="#" class="session-title">5A: Multilingual NLP</a><br/><span class="session-time" title="Tuesday, June 04, 2019">11:00 &ndash; 12:30</span><br/><span class="session-location btn btn--location">Nicollet D</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-5a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Valia Kordoni</td></tr>
@@ -1473,9 +1465,9 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Lunch Break</span><br/><span class="session-time" title="Tuesday, June 04, 2019">12:30 &ndash; 14:00</span></div>
+<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Lunch Break</span><br/><span class="session-time" title="Tuesday, June 04, 2019">12:30 &ndash; 14:00</span></div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Keynote 2: "When the Computers Spot the Lie (and People Don’t)"</a><br/><span class="session-person"><a href="https://web.eecs.umich.edu/~mihalcea/" target="_blank">Rada Mihalcea (University of Michigan)</a></span><br/><span class="session-time" title="Tuesday, June 04, 2019">14:00 &ndash; 15:00</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>Whether we like it or not, deception occurs everyday and everywhere: thousands of trials take place daily around the world; little white lies: “I’m busy that day!” even if your calendar is blank; news “with a twist” (a.k.a. fake news) meant to attract the readers attention or influence people in their future undertakings; misinformation in health social media posts; portrayed identities, on dating sites and elsewhere. Can a computer automatically detect deception in written accounts or in video recordings? In this talk, I will overview a decade of research in building linguistic and multimodal resources and algorithms for deception detection, targeting deceptive statements, trial videos, fake news, identity deception, and health misinformation. I will also show how these algorithms can provide insights into what makes a good lie - and thus teach us how we can spot a liar. As it turns out, computers can be trained to identify lies in many different contexts, and they can often do it better than humans do.</p></div></div></div>
-<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Tuesday, June 04, 2019">15:00 &ndash; 15:30</span></div>
+<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Tuesday, June 04, 2019">15:00 &ndash; 15:30</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-6">
 <div class="session-header" id="session-header-6">Long Orals / Long & Short Posters / Demos</div>
 <div class="session session-expandable session-papers1" id="session-6a"><div id="expander"></div><a href="#" class="session-title">6A: Sentiment Analysis</a><br/><span class="session-time" title="Tuesday, June 04, 2019">15:30 &ndash; 17:00</span><br/><span class="session-location btn btn--location">Northstar A</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-6a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Sara Rosenthal</td></tr>
@@ -1569,8 +1561,9 @@ script: |
 </div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Social Event</a><br/><span class="session-time" title="Tuesday, June 04, 2019">19:00 &ndash; 22:00</span><br/><span class="session-external-location btn btn--location">Minneapolis Institute of Art </span><div class="paper-session-details"><br/><div class="session-abstract"><p>Join us for a cultural event at the Minneapolis Institute of Art. Inspiring wonder through the power of art. The Minneapolis Institute of Art enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures.</p></div></div></div>
 <div class="day" id="day-4">Wednesday, June 05, 2019</div>
+<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Breakfast</span><br/><span class="session-time" title="Wednesday, June 05, 2019">7:30 &ndash; 9:00</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">Keynote 3: "Leaving the Lab: Building NLP Applications that Real People can Use"</a><br/><span class="session-person"><a href="https://textio.com/team/" target="_blank">Kieran Snyder (Textio)</a></span><br/><span class="session-time" title="Wednesday, June 05, 2019">9:00 &ndash; 10:00</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span><div class="paper-session-details"><br/><div class="session-abstract"><p>There is a chasm between an NLP technology that works well in the research lab and something that works for applications that real people use. Research conditions are often theoretical or idealized. The first time they contribute to industry projects, many theoretical researchers are surprised to discover how much goes into building outside the lab, and how hard it is to build data products for real people ethically and transparently. This talk explores my NLP journey in three stages: working as an academic NLP researcher, learning to be a practical creator of NLP products in industry, and becoming the founding CEO of an NLP business. While each role has used my background in computational linguistics in essential ways, every step has also required me to learn and unlearn new things along the way. The further I have gone in my industry career, the more critical it has become to define and work within a well-established set of principles for data ethics. This talk is for academic researchers considering industry careers or collaborations, for people in industry who started out in academia, and for anyone on either side of the divide who wants to make NLP products that real people can use.</p></div></div></div>
-<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">10:00 &ndash; 10:30</span></div>
+<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">10:00 &ndash; 10:30</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-7">
 <div class="session-header" id="session-header-7">Long Orals / Long & Short Posters</div>
 <div class="session session-expandable session-papers1" id="session-7a"><div id="expander"></div><a href="#" class="session-title">7A: Question Answering</a><br/><span class="session-time" title="Wednesday, June 05, 2019">10:30 &ndash; 12:00</span><br/><span class="session-location btn btn--location">Greenway</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-7a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Alessandro Moschitti</td></tr>
@@ -1655,7 +1648,7 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Grab your lunch break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">12:00 &ndash; 12:30</span></div>
+<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Grab your lunch break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">12:00 &ndash; 12:30</span></div>
 <div class="session session-expandable session-plenary"><div id="expander"></div><a href="#" class="session-title">NAACL Business Meeting</a><br/><span class="session-time" title="Wednesday, June 05, 2019">12:30 &ndash; 13:30</span><br/><span class="session-location btn btn--location">Nicollet B/C</span><div class="paper-session-details"><br/><div class="session-abstract"><p>All attendees are encouraged to participate in the business meeting.</p></div></div></div>
 <div class="session-box" id="session-box-8">
 <div class="session-header" id="session-header-8">Long Orals / Long & Short Posters</div>
@@ -1742,7 +1735,7 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">15:00 &ndash; 15:30</span></div>
+<div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Coffee Break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">15:00 &ndash; 15:30</span><br/><span class="btn btn--location session-location">Hyatt Exhibit Hall</span></div>
 <div class="session-box" id="session-box-9">
 <div class="session-header" id="session-header-9">Short Orals / Industry Posters</div>
 <div class="session session-expandable session-papers1" id="session-9a"><div id="expander"></div><a href="#" class="session-title">9A: Question Answering</a><br/><span class="session-time" title="Wednesday, June 05, 2019">15:30 &ndash; 16:30</span><br/><span class="session-location btn btn--location">Greenway</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-9a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9a-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: Mo Yu</td></tr>
@@ -1808,7 +1801,7 @@ script: |
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Short Break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">16:30 &ndash; 16:45</span></div>
+<div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Short Break</span><br/><span class="session-time" title="Wednesday, June 05, 2019">16:30 &ndash; 16:45</span></div>
 <div class="session session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">Best Paper Session</a><br/><span class="session-time" title="Wednesday, June 05, 2019">16:45 &ndash; 18:15</span><br/><span class="session-location btn btn--location">Nicollet Ballroom</span><br/><div class="paper-session-details"><br/><table class="paper-table">
 <tr id="paper" paper-id="440"><td id="paper-time">16:45&ndash;17:03</td><td><span class="paper-title">CNM: An Interpretable Complex-valued Network for Matching. </span><em>Qiuchi Li, Benyou Wang and Massimo Melucci</em></td></tr>
 <tr id="paper" paper-id="610"><td id="paper-time">17:03&ndash;17:21</td><td><span class="paper-title">CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge. </span><em>Alon Talmor, Jonathan Herzig, Nicholas Lourie and Jonathan Berant</em></td></tr>
