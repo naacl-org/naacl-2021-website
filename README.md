@@ -31,7 +31,7 @@ If you fork this repository, the following files are the ones to pay attention t
 
 - `downloads/` : Contains files that can be downloaded from the website.
 
-- `_sass/minimal-mistakes/\*.scss` : SASS files that control the look and the feel of the website. The file `_program.scss` is not part of the them and controls the look and feel of the web schedule page.
+- `_sass/minimal-mistakes/*.scss` : SASS files that control the look and the feel of the website. The file `_program.scss` is not part of the them and controls the look and feel of the web schedule page.
 
 - `_data/navigation.xml` : YAML file that contains the links in the masthead at the top of the website and also links in the various sidebars. 
 
