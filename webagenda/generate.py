@@ -370,6 +370,7 @@ class WebSession(Session):
                 if self.title.startswith(session_prefix):
                     (self.abstract,
                      self.person,
+                     self.person_affiliation,
                      self.person_url,
                      self.pdf_url,
                      self.video_url) = plenary_info[session_prefix]
@@ -389,13 +390,18 @@ class WebSession(Session):
             else:
                 session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
 
-            # if we have a person, we need to show it along with the optional URL
-            # as the person's link
+            # if we have a person, we need to show it along with the
+            # optional affiliation and the optional URL as the person's link
             if self.person:
+                person_name = self.person
+
+                if self.person_affiliation:
+                    person_name += ' ({})'.format(self.person_affiliation)
+
                 if self.person_url:
-                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span><br/>'.format(self.person_url, self.person)
+                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span><br/>'.format(self.person_url, person_name)
                 else:
-                    session_html += '<span class="session-person">{}</span><br/>'.format(self.person)
+                    session_html += '<span class="session-person">{}</span><br/>'.format(person_name)
 
             # add the start and end time and location no matter what
             session_html += '<span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="{} btn btn--location">{}</span>'.format(str(day), self.start, self.end, location_type, self.location)
@@ -677,6 +683,7 @@ def main():
                 key = row['session'].strip()
                 value = (row['abstract'].strip(),
                          row['person'].strip(),
+                         row['person_affiliation'].strip(),
                          row['person_url'].strip(),
                          row['pdf_url'].strip(),
                          row['video_url'].strip())
