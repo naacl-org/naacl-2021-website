@@ -1644,6 +1644,7 @@ script: |
 <tr id="poster" poster-id="1107"><td><span class="poster-title">Domain adaptation for part-of-speech tagging of noisy user-generated text. </span><em>Luisa März, Dietrich Trautmann and Benjamin Roth</em></td></tr>
 <tr id="poster" poster-id="1281"><td><span class="poster-title">Neural Chinese Address Parsing. </span><em>Hao Li, Wei Lu, Pengjun Xie and Linlin Li</em></td></tr>
 <tr id="poster" poster-id="17-srw"><td><span class="poster-title">[SRW] A Pregroup Representation of Word Order Alternation Using Hindi Syntax. </span><em>Alok Debnath and Manish Shrivastava</em></td></tr>
+<tr id="poster" poster-id="4003-industry"><td><span class="poster-title">Neural Text Normalization with Subword Units. </span><em>Courtney Mansfield, Ming Sun, Yuzong Liu, Ankur Gandhe and Bjorn Hoffmeister</em></td></tr>
 </table>
 </div>
 </div>
@@ -1792,7 +1793,6 @@ script: |
 <tr id="poster" poster-id="4083-industry"><td><span class="poster-title">Robust Semantic Parsing with Adversarial Learning for Domain Generalization. </span><em>Gabriel Marzinotto, Geraldine Damnati, Frederic Bechet and Benoit Favre</em></td></tr>
 <tr id="poster" poster-id="4017-industry"><td><span class="poster-title">TOI-CNN: a Solution of Information Extraction on Chinese Insurance Policy. </span><em>Lin Sun, Kai Zhang, Fule Ji and Zhenhua Yang</em></td></tr>
 <tr id="poster" poster-id="4006-industry"><td><span class="poster-title">Cross-lingual Transfer Learning for Japanese Named Entity Recognition. </span><em>Andrew Johnson, Penny Karanasou, Judith Gaspers and Dietrich Klakow</em></td></tr>
-<tr id="poster" poster-id="4003-industry"><td><span class="poster-title">Neural Text Normalization with Subword Units. </span><em>Courtney Mansfield, Ming Sun, Yuzong Liu, Ankur Gandhe and Bjorn Hoffmeister</em></td></tr>
 <tr id="poster" poster-id="4025-industry"><td><span class="poster-title">Audio De-identification - a New Entity Recognition Task. </span><em>Ido Cohn, Itay Laish, Genady Beryozkin, Gang Li, Izhak Shafran, Idan Szpektor, Tzvika Hartman, Avinatan Hassidim and Yossi Matias</em></td></tr>
 <tr id="poster" poster-id="4054-industry"><td><span class="poster-title">In Other News: a Bi-style Text-to-speech Model for Synthesizing Newscaster Voice with Limited Data. </span><em>Nishant Prateek, Mateusz Łajszczak, Roberto Barra-Chicote, Thomas Drugman, Jaime Lorenzo-Trueba, Thomas Merritt, Srikanth Ronanki and Trevor Wood</em></td></tr>
 <tr id="poster" poster-id="4058-industry"><td><span class="poster-title">Generate, Filter, and Rank: Grammaticality Classification for Production-Ready NLG Systems. </span><em>Ashwini Challa, Kartikeya Upasani, Anusha Balakrishnan and Rajen Subba</em></td></tr>
