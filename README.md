@@ -26,7 +26,7 @@ conference does not get built with content from the old conference. You can rena
 If you fork this repository, the following files are the ones to pay attention to in order to create content for the website:
 
 - `_pages/xxx.md` : The markdown files contain the main contents of the different web pages of the website. Please note that
-  once you work, you would need to move the already existing .md files out into a different folder so that old pages do not
+  once you fork, you would need to move the already existing .md files out into a different folder so that old pages do not
   get rendered into the new website.
 
 - `downloads/` : Contains files that can be downloaded from the website.
