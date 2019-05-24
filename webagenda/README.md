@@ -20,13 +20,13 @@ conda activate naacl2019
 
 There are two main files in this directory:
 
-1. `generate.py` : This is the main driver script that generates the schedule markdown file for the repository. This script uses the classes defined in the `orderfile.py` module from the NAACL 2019 schedule repository that is integrated as a submodule in this repository under the `agenda` directory. It takes as input:
-    - Files mapping the anthology IDs to the START / order file IDs.
-    - XML files from the Anthology containing the titles, authors, abstracts, and anthology URLs for the items on the schedule.
-    - An optional TSV file containing the title, authors, and abstracts for schedule items that are not in the anthology (e.g., TACL papers, non-archival workshop papers, etc.)
-    - Another optional TSV file containing additional info about some of the plenary sessions (e.g., keynote abstracts etc.)
-
-It also allows optional generation of icons in the schedule that link to the anthology PDFs and talk videos hosted on Vimeo/YouTube.
+1. `generate.py` : This is the main driver script that generates the schedule markdown file for the repository. This script uses the classes defined in the `orderfile.py` module from the NAACL 2019 schedule repository that is integrated as a submodule in this repository under the `agenda` directory. It takes as input a single JSON configuration file that contains the following fields:
+    - `order_file` : The manually combined order file for the main conference. - `mapping_file` : File mapping the anthology IDs to the START / order file IDs for the main conference.
+    - `xml_file` : The XML file from the Anthology containing the titles, authors, abstracts, and anthology URLs for the items in the main conference.
+    - `extra_metadata_file` : An optional TSV file containing the title, authors, and abstracts for schedule items that are not in the anthology (e.g., TACL papers, non-archival workshop papers, etc.)
+    - `plenary_info_file` : Another optional TSV file containing additional info about some of the plenary sessions (e.g., keynote abstracts etc.)
+    - `pdf_icons` : A boolean indicating whether to generate icons in the schedule that link to anthology PDFs or PDFs specified in the extra metadata file.
+    - `video_icons` : A boolean indicating whether to generate icons in the schedule that link to the talk videos hosted on Vimeo/YouTube or other video platforms.
 
 For more details on how this script works, please refer to the code and the comments in the script.
 
@@ -35,10 +35,24 @@ For more details on how this script works, please refer to the code and the comm
 
 ### Generating the Schedule
 
-The following command will generate the schedule markdown file for the website without the video and paper icons. This command should be run in the top level of the cloned repository:
+The following command will generate the schedule markdown file at `_pages/program/schedule.md` for the website without the video and paper icons. This command should be run in the top level of the cloned repository:
 
 ```
-python webagenda/generate.py --order agenda/data/order/manually_combined_order --output _pages/program/schedule.md --xmls agenda/data/xml/N19.xml --mappings agenda/data/mapping/manually_combined_id_map.txt --extra-metadata agenda/data/non-anthology-metadata.tsv --plenary-info agenda/data/plenary-info.tsv
+python webagenda/generate.py webagenda/config.json _pages/output/schedule.md
 ```
 
-To add the PDF and video icons where available, just add the `--pdf-icons` and `--video-icons` flags to the command respectively.
+The configuration file `config.json` is checked into the repository and looks like this:
+
+```json
+{
+    "order_file": "agenda/data/order/manually_combined_order",
+    "mapping_file": "agenda/data/mapping/manually_combined_id_map.txt",
+    "xml_file": "agenda/data/xml/N19.xml",
+    "extra_metadata_file": "agenda/data/non-anthology-metadata.tsv",
+    "plenary_info_file": "agenda/data/plenary-info.tsv",
+    "pdf_icons": false,
+    "video_icons": false
+}
+```
+
+To add the PDF and video icons where available, modify the above config file to have the values for `pdf_icons` and `video_icons` fields to be `true`. 
