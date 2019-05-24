@@ -41,4 +41,4 @@ The following command will generate the schedule markdown file for the website w
 python webagenda/generate.py --order agenda/data/order/manually_combined_order --output _pages/program/schedule.md --xmls agenda/data/xml/N19.xml --mappings agenda/data/mapping/manually_combined_id_map.txt --extra-metadata agenda/data/non-anthology-metadata.tsv --plenary-info agenda/data/plenary-info.tsv
 ```
 
-To add the paper and video icons, just add the `--paper-icons` and `--video-icons` flags to the command respectively.
+To add the PDF and video icons where available, just add the `--pdf-icons` and `--video-icons` flags to the command respectively.

@@ -92,7 +92,7 @@ class WebAgenda(Agenda):
 
     def to_html(self,
                 metadata,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False,
                 plenary_info={}):
         """
@@ -106,10 +106,9 @@ class WebAgenda(Agenda):
             containing the title, authors,
             abstracts, and anthology URLs for
             each item, if applicable.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -153,7 +152,7 @@ class WebAgenda(Agenda):
                     session_group_html = content.to_html(day,
                                                          metadata,
                                                          session_group_index,
-                                                         paper_icons=paper_icons,
+                                                         pdf_icons=pdf_icons,
                                                          video_icons=video_icons,
                                                          plenary_info=plenary_info)
                     agenda_html.extend(session_group_html)
@@ -167,7 +166,7 @@ class WebAgenda(Agenda):
                     session_html = content.to_html(day,
                                                    metadata,
                                                    index=index,
-                                                   paper_icons=paper_icons,
+                                                   pdf_icons=pdf_icons,
                                                    video_icons=video_icons,
                                                    plenary_info=plenary_info)
                     agenda_html.extend(session_html)
@@ -199,7 +198,7 @@ class WebSessionGroup(SessionGroup):
                 day,
                 metadata,
                 index,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False,
                 plenary_info={}):
         """
@@ -219,10 +218,9 @@ class WebSessionGroup(SessionGroup):
         index : int
             An index to be used in the HTML tags
             for the box representing this session group.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -270,7 +268,7 @@ class WebSessionGroup(SessionGroup):
             session_html = session.to_html(day,
                                            metadata,
                                            index=index,
-                                           paper_icons=paper_icons,
+                                           pdf_icons=pdf_icons,
                                            video_icons=video_icons,
                                            plenary_info=plenary_info)
             generated_html.extend(session_html)
@@ -295,7 +293,7 @@ class WebSession(Session):
                 day,
                 metadata,
                 index=None,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False,
                 plenary_info={}):
         """
@@ -314,10 +312,9 @@ class WebSession(Session):
             each item, if applicable.
         index : int, optional
             An index to be used in some of the HTML tags.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -410,7 +407,7 @@ class WebSession(Session):
             # as icons if we have those URLs
             if self.abstract:
                 session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>'
-                if paper_icons and self.pdf_url:
+                if pdf_icons and self.pdf_url:
                     session_html += '&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
                 if video_icons and self.video_url:
                     session_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" title="Video"></i>'.format(self.video_url)
@@ -461,7 +458,7 @@ class WebSession(Session):
             for item in self.items:
                 item.__class__ = WebItem
                 item_html = item.to_html(metadata,
-                                         paper_icons=paper_icons,
+                                         pdf_icons=pdf_icons,
                                          video_icons=video_icons)
                 generated_html.extend(item_html)
             # add any required closing tags for valid HTML
@@ -476,7 +473,7 @@ class WebSession(Session):
             for item in self.items:
                 item.__class__ = WebItem
                 item_html = item.to_html(metadata,
-                                         paper_icons=paper_icons)
+                                         pdf_icons=pdf_icons)
                 generated_html.extend(item_html)
 
             # add any required closing tags for valid HTML and return
@@ -491,7 +488,7 @@ class WebSession(Session):
             for item in self.items:
                 item.__class__ = WebItem
                 item_html = item.to_html(metadata,
-                                         paper_icons=paper_icons,
+                                         pdf_icons=pdf_icons,
                                          video_icons=video_icons)
                 generated_html.extend(item_html)
 
@@ -514,7 +511,7 @@ class WebItem(Item):
 
     def to_html(self,
                 metadata,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False):
         """
         Convert item to HTML format compatible
@@ -527,10 +524,9 @@ class WebItem(Item):
             containing the title, authors,
             abstracts, and anthology URLs for
             each item, if applicable.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -563,7 +559,7 @@ class WebItem(Item):
 
             # generate the rest of the HTML along with optional icons
             item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
-            if paper_icons and self.pdf_url:
+            if pdf_icons and self.pdf_url:
                 item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
             if video_icons and self.video_url:
                 item_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" aria-hidden="true" title="Video"></i>'.format(self.video_url)
@@ -587,7 +583,7 @@ class WebItem(Item):
             item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
 
             # display an optional icon
-            if paper_icons and self.pdf_url:
+            if pdf_icons and self.pdf_url:
                 item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
@@ -641,13 +637,13 @@ def main():
                         dest="output_file",
                         required=True,
                         help="Output markdown file")
-    parser.add_argument("--paper-icons",
+    parser.add_argument("--pdf-icons",
                         action="store_true",
                         default=False,
-                        dest="paper_icons",
+                        dest="pdf_icons",
                         required=False,
                         help="Generate icons linking "
-                             "to anthology PDFs")
+                             "to anthology and other PDFs")
     parser.add_argument("--video-icons",
                         action="store_true",
                         default=False,
@@ -693,7 +689,7 @@ def main():
     # convert WebAgenda to HTML
     logging.info("Converting parsed agenda to HTML ...")
     html = wa.to_html(metadata,
-                      paper_icons=args.paper_icons,
+                      pdf_icons=args.pdf_icons,
                       video_icons=args.video_icons,
                       plenary_info=plenary_info_dict)
 
