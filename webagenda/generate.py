@@ -17,6 +17,7 @@ Date: May, 2019
 import argparse
 import csv
 import itertools
+import json
 import logging
 import sys
 
@@ -546,10 +547,11 @@ class WebItem(Item):
 
         # generate the appropriate type of HTML depending on item type
         if self.type == 'paper':
-            self.title = metadata[self.id_].title
-            self.authors = authorlist_to_string(metadata[self.id_].authors)
-            self.pdf_url = metadata[self.id_].pdf_url
-            self.video_url = metadata[self.id_].video_url
+            item_metadata = metadata.lookup(self.id_)
+            self.title = item_metadata.title
+            self.authors = authorlist_to_string(item_metadata.authors)
+            self.pdf_url = item_metadata.pdf_url
+            self.video_url = item_metadata.video_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
@@ -567,9 +569,10 @@ class WebItem(Item):
             generated_html.append(item_html)
 
         elif self.type == 'poster':
-            self.title = metadata[self.id_].title
-            self.authors = authorlist_to_string(metadata[self.id_].authors)
-            self.pdf_url = metadata[self.id_].pdf_url
+            item_metadata = metadata.lookup(self.id_)
+            self.title = item_metadata.title
+            self.authors = authorlist_to_string(item_metadata.authors)
+            self.pdf_url = item_metadata.pdf_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
@@ -589,8 +592,9 @@ class WebItem(Item):
             generated_html.append(item_html)
 
         elif self.type == 'tutorial':
-            self.title = metadata[self.id_].title
-            self.authors = authorlist_to_string(metadata[self.id_].authors)
+            item_metadata = metadata.lookup(self.id_)
+            self.title = item_metadata.title
+            self.authors = authorlist_to_string(item_metadata.authors)
             generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><br/><span class="btn btn--location inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
 
         # return the generated item HTML
@@ -601,80 +605,39 @@ def main():
 
     # set up an argument parser
     parser = argparse.ArgumentParser(prog='generate.py')
-    parser.add_argument("--order",
-                        dest="orderfile",
-                        required=True,
-                        help="Manually combined order file")
-    parser.add_argument("--xmls",
-                        dest="xml_files",
-                        required=True,
-                        nargs='+',
-                        type=Path,
-                        help="Anthology XML files containing author "
-                             "and title metadata")
-    parser.add_argument("--mappings",
-                        dest="mapping_files",
-                        required=True,
-                        nargs='+',
-                        type=Path,
-                        help="Files mapping order Anthology IDs "
-                             "to order file IDs.")
-    parser.add_argument("--extra-metadata",
-                        dest="extra_metadata_file",
-                        required=False,
-                        default=None,
-                        type=Path,
-                        help="TSV file containing authors and "
-                             "titles not in anthology XMLs")
-    parser.add_argument("--plenary-info",
-                        dest="plenary_info_file",
-                        required=False,
-                        default=None,
-                        type=Path,
-                        help="TSV file containing info "
-                             "for plenary sessions")
-    parser.add_argument("--output",
-                        dest="output_file",
-                        required=True,
+    parser.add_argument("config_file",
+                        help="Input JSON file containing "
+                             "the web schedule configuration")
+    parser.add_argument("output_file",
                         help="Output markdown file")
-    parser.add_argument("--pdf-icons",
-                        action="store_true",
-                        default=False,
-                        dest="pdf_icons",
-                        required=False,
-                        help="Generate icons linking "
-                             "to anthology and other PDFs")
-    parser.add_argument("--video-icons",
-                        action="store_true",
-                        default=False,
-                        dest="video_icons",
-                        required=False,
-                        help="Generate icons linking "
-                             "to talk videos")
-
+ 
     # parse given command line arguments
     args = parser.parse_args()
 
     # set up the logging
     logging.basicConfig(format='%(levelname)s - %(message)s', level=logging.INFO)
 
+    # parse the configuration file
+    with open(args.config_file, 'r') as configfh:
+        config = json.loads(configfh.read())
+
     # parse the orderfile into a `WebAgenda` object
     logging.info('Parsing order file ...')
     wa = WebAgenda()
-    wa.fromfile(args.orderfile)
+    wa.fromfile(config['order_file'])
 
     # parse the metadata files
     logging.info('Parsing metadata files ...')
-    metadata = ScheduleMetadata.fromfiles(xmls=args.xml_files,
-                                          mappings=args.mapping_files,
-                                          non_anthology_tsv=args.extra_metadata_file)
+    metadata = ScheduleMetadata.fromfiles(xmls=[config['xml_file']],
+                                          mappings={'main': config['mapping_file']},
+                                          non_anthology_tsv=config.get('extra_metadata_file', None))
 
     # parse and store any additional plenary session
     # info if provided
     plenary_info_dict = {}
-    if args.plenary_info_file:
+    if 'plenary_info_file' in config:
         logging.info("Parsing plenary info file ...")
-        with open(args.plenary_info_file, 'r') as plenaryfh:
+        with open(config['plenary_info_file'], 'r') as plenaryfh:
             reader = csv.DictReader(plenaryfh, dialect=csv.excel_tab)
             for row in reader:
                 key = row['session'].strip()
@@ -689,8 +652,8 @@ def main():
     # convert WebAgenda to HTML
     logging.info("Converting parsed agenda to HTML ...")
     html = wa.to_html(metadata,
-                      pdf_icons=args.pdf_icons,
-                      video_icons=args.video_icons,
+                      pdf_icons=config.get('pdf_icons', False),
+                      video_icons=config.get('video_icons', False),
                       plenary_info=plenary_info_dict)
 
     # add the Jekyll frontmatter
