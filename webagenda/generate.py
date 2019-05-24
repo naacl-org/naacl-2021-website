@@ -410,9 +410,9 @@ class WebSession(Session):
             # as icons if we have those URLs
             if self.abstract:
                 session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>'
-                if self.pdf_url:
+                if paper_icons and self.pdf_url:
                     session_html += '&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
-                if self.video_url:
+                if video_icons and self.video_url:
                     session_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" title="Video"></i>'.format(self.video_url)
                 session_html += '{}</p></div></div>'.format(self.abstract)
 
@@ -552,7 +552,8 @@ class WebItem(Item):
         if self.type == 'paper':
             self.title = metadata[self.id_].title
             self.authors = authorlist_to_string(metadata[self.id_].authors)
-            self.paper_url = metadata[self.id_].anthology_url
+            self.pdf_url = metadata[self.id_].pdf_url
+            self.video_url = metadata[self.id_].video_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
@@ -560,11 +561,11 @@ class WebItem(Item):
             elif self.id_.endswith('-tacl'):
                 self.title = '[TACL] {}'.format(self.title)
 
-            # generate the restt of the HTML along with optional icons
+            # generate the rest of the HTML along with optional icons
             item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
-            if paper_icons:
-                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
-            if video_icons:
+            if paper_icons and self.pdf_url:
+                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
+            if video_icons and self.video_url:
                 item_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" aria-hidden="true" title="Video"></i>'.format(self.video_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
@@ -572,7 +573,7 @@ class WebItem(Item):
         elif self.type == 'poster':
             self.title = metadata[self.id_].title
             self.authors = authorlist_to_string(metadata[self.id_].authors)
-            self.paper_url = metadata[self.id_].anthology_url
+            self.pdf_url = metadata[self.id_].pdf_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
@@ -586,8 +587,8 @@ class WebItem(Item):
             item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
 
             # display an optional icon
-            if paper_icons:
-                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
+            if paper_icons and self.pdf_url:
+                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
 
