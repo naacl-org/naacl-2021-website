@@ -610,7 +610,7 @@ def main():
                              "the web schedule configuration")
     parser.add_argument("output_file",
                         help="Output markdown file")
- 
+
     # parse given command line arguments
     args = parser.parse_args()
 

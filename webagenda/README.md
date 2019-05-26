@@ -23,7 +23,7 @@ There are two main files in this directory:
 1. `generate.py` : This is the main driver script that generates the schedule markdown file for the repository. This script uses the classes defined in the `orderfile.py` module from the NAACL 2019 schedule repository that is integrated as a submodule in this repository under the `agenda` directory. It takes as input a single JSON configuration file that contains the following fields:
     - `order_file` : The manually combined order file for the main conference. - `mapping_file` : File mapping the anthology IDs to the START / order file IDs for the main conference.
     - `xml_file` : The XML file from the Anthology containing the titles, authors, abstracts, and anthology URLs for the items in the main conference.
-    - `extra_metadata_file` : An optional TSV file containing the title, authors, and abstracts for schedule items that are not in the anthology (e.g., TACL papers, non-archival workshop papers, etc.)
+    - `extra_metadata_file` : An optional TSV file containing the title, authors, and abstracts for the main conference items that are not in the anthology (e.g., TACL papers, SRW non-archival workshop papers, etc.)
     - `plenary_info_file` : Another optional TSV file containing additional info about some of the plenary sessions (e.g., keynote abstracts etc.)
     - `pdf_icons` : A boolean indicating whether to generate icons in the schedule that link to anthology PDFs or PDFs specified in the extra metadata file.
     - `video_icons` : A boolean indicating whether to generate icons in the schedule that link to the talk videos hosted on Vimeo/YouTube or other video platforms.
@@ -48,7 +48,7 @@ The configuration file `config.json` is checked into the repository and looks li
     "order_file": "agenda/data/order/manually_combined_order",
     "mapping_file": "agenda/data/mapping/manually_combined_id_map.txt",
     "xml_file": "agenda/data/xml/N19.xml",
-    "extra_metadata_file": "agenda/data/non-anthology-metadata.tsv",
+    "extra_metadata_file": "agenda/data/extra-metadata/main.tsv",
     "plenary_info_file": "agenda/data/plenary-info.tsv",
     "pdf_icons": false,
     "video_icons": false
