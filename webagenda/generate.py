@@ -88,8 +88,8 @@ class WebAgenda(Agenda):
     session_group_counter = itertools.count(start=1)
     break_session_counter = itertools.count(start=1)
 
-    def __init__(self):
-        super(WebAgenda, self).__init__()
+    def __init__(self, *args):
+        super(WebAgenda, self).__init__(*args)
 
     def to_html(self,
                 metadata,
@@ -622,8 +622,9 @@ def main():
         config = json.loads(configfh.read())
 
     # parse the orderfile into a `WebAgenda` object
+    # for the main conference
     logging.info('Parsing order file ...')
-    wa = WebAgenda()
+    wa = WebAgenda('main')
     wa.fromfile(config['order_file'])
 
     # parse the metadata files
