@@ -629,9 +629,10 @@ def main():
 
     # parse the metadata files
     logging.info('Parsing metadata files ...')
+    extra_metadata_file = config.get('extra_metadata_file', None)
     metadata = ScheduleMetadata.fromfiles(xmls=[config['xml_file']],
                                           mappings={'main': config['mapping_file']},
-                                          non_anthology_tsv=config.get('extra_metadata_file', None))
+                                          extra_metadata_files={'main': extra_metadata_file} if extra_metadata_file else {})
 
     # parse and store any additional plenary session
     # info if provided
