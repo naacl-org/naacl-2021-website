@@ -481,7 +481,17 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'paper':
-            generated_html.append('<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: {}</td></tr>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end, self.location, self.id_.lower(), self.id_.lower(), self.chair))
+            session_html = '<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end, self.location, self.id_.lower(), self.id_.lower(), self.chair)
+
+            # if the session has a livetweeter assigned, display that too
+            if 'tweeter' in self.extended_metadata:
+                session_html += '; <i title="LiveTweeter" class="fa fa-fw fa-twitter"></i>: <a href="https://twitter.com/search?q=%40{}%20AND%20%23naacl2019&f=realtime" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
+
+            # close the session HTML properly
+            session_html += '</td></tr>'
+
+            # append the session HTML to the result variable
+            generated_html.append(session_html)
 
             # we know paper sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call
