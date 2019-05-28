@@ -18,13 +18,10 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
+{: .notice--info}
+
 **May 16, 2019**. The official conference [schedule](/schedule/) is now out!
-{: .notice--info}
-
-**May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
-{: .notice--info}
-
-**May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
 {: .notice--info}
 
 <div class="text-center">

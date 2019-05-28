@@ -8,6 +8,13 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
+{: .notice}
+
+**May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
+{: .notice}
+
+
 **May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
 {: .notice}
 
