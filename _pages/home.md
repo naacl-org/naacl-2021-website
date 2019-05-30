@@ -18,6 +18,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 31, 2019**. Read about this year's industry track in a [new blog post](/blog/industry-track-vol2/).
+{: .notice--info}
+
 **May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
 {: .notice--info}
 
