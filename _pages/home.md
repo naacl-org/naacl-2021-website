@@ -21,6 +21,9 @@ excerpt: "<br/><br/>"
 **May 30, 2019**. NAACL 2019 will be [officially livetweeted](/blog/livetweet-sign-up/) this year! Expand the parallel tracks in the conference [schedule](/schedule/) to see who's live-tweeting your favorite sessions! (<i class="fa fa-user"></i> : Session Chair, <i class="fa fa-fw fa-twitter"></i> : LiveTweeter).
 {: .notice--info}
 
+**May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
+{: .notice--info}
+
 **May 16, 2019**. The official conference [schedule](/schedule/) is now out!
 {: .notice--info}
 

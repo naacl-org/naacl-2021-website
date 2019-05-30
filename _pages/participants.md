@@ -89,6 +89,14 @@ To join the conference wifi:
  
 If you experience any problems, please call Encore at 612-596-4673 for technical support.
 
+## Conference App
+
+This year, the conference is using the Whova platform for the official NAACL-HLT 2019 app! The Whova apps can be downloaded from <a href="https://whova.com/portal/naacl_201906/?source=download_page" target="blank_">this page</a>. To learn how to use the apps effectively, refer to the <a href="https://whova.com/resources/how-to-guide/user-tutorial/" target="blank_">Whova tutorials page</a>.
+
+Once you have downloaded the app, search for the "NAACL HLT 2019" event. If you have registered for the conference and/or you are an author of a paper, you should already be able to access the event. If you are unable to access the event but believe you should be able to, please send an access request along with a reason through the Whova app itself.
+
+Although the current version of the app is fairly stable, it will continue to be updated up until and even during the conference with some minor new features and to address any issues that are discovered. If you notice any issue yourself, please send a message to the App Chair ("Nitin Madnani") from within the app. That's likely to be the fastest way to get it fixed. 
+
 ## Remote Presentation
 
 This year, NAACL is introducing the option of remote presentations for presenters who cannot otherwise attend the conference. More details are available in this [blog post](/blog/remote-presentations/) authored by the remote presentation chairs.
