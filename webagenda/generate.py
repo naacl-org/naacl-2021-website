@@ -485,7 +485,7 @@ class WebSession(Session):
 
             # if the session has a livetweeter assigned, display that too
             if 'tweeter' in self.extended_metadata:
-                session_html += '; <i title="LiveTweeter" class="fa fa-fw fa-twitter"></i>: <a href="https://twitter.com/search?q=%40{}%20AND%20%23naacl2019&f=realtime" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
+                session_html += '; <i title="LiveTweeter" class="fa fa-fw fa-twitter"></i>: <a href="https://twitter.com/{}" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
 
             # close the session HTML properly
             session_html += '</td></tr>'
