@@ -18,13 +18,10 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 30, 2019**. NAACL 2019 will be [officially livetweeted](/blog/livetweet-sign-up/) this year! Expand the parallel tracks in the conference [schedule](/schedule/) to see who's live-tweeting your favorite sessions! (<i class="fa fa-user"></i> : Session Chair, <i class="fa fa-fw fa-twitter"></i> : LiveTweeter).
+{: .notice--info}
+
 **May 16, 2019**. The official conference [schedule](/schedule/) is now out!
-{: .notice--info}
-
-**May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
-{: .notice--info}
-
-**May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
 {: .notice--info}
 
 <div class="text-center">
