@@ -66,7 +66,6 @@ To get to the event, catch one of the luxury motor coaches outside of the Hyatt 
 
 One entrance ticket will be included with each main conference registration. We may have a few extra tickets for sale for accompanying persons so, if you are interested, stop by the registration desk when there are no lines.
 
-
 ## Registration Hours
 
 The on-site registration counters will only be open during the following hours:
@@ -74,7 +73,6 @@ The on-site registration counters will only be open during the following hours:
 - Sunday, June 2 &ndash; Tuesday, June 4 : 7:30am - 6:00pm
 - Wednesday, June 5 : 8:00am - 5:30pm
 - Thursday, June 6 &ndash; Friday, June 7 : 7:30am - 5:30pm 
-
 
 ## Poster Information
 
@@ -88,6 +86,24 @@ To join the conference wifi:
 - Enter `NAACL2019` and hit go.
  
 If you experience any problems, please call Encore at 612-596-4673 for technical support.
+
+## Live Captioning
+
+For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better.  
+
+Just click below to visit the caption stream for the room you're in.  (Come back to this page each time, since the links will change each day and perhaps more often.)
+
+- [Greenway](http://example.com)  ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
+- [Nicollet A or Nicollet Ballroom](http://example.com) ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
+- [Nicollet B/C](http://example.com)  ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20B/C&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
+- [Nicollet D](http://example.com)  ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20D&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
+- [Northstar A](http://example.com) ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Northstar%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
+
+Alternatively, you could follow along in the [published paper](https://aclweb.org/anthology/events/naacl-2019/), or catch live tweets at <a href="https://twitter.com/search?q=%23naacl2019&f=realtime" target="blank_">#naacl2019</a>.
+
+We are very grateful to [Microsoft Translator](https://translator.microsoft.com) and Will Lewis for donating this service.
+
+![Microsoft Translator Logo](/assets/images/logos/microsoft-translator-logo-small.png){: .align-center}
 
 ## Conference App
 
