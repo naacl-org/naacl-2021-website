@@ -14,7 +14,6 @@ toc_icon: "cog"
 **May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
 {: .notice}
 
-
 **May 2, 2019**. The latest [blog post](/blog/childcare-and-parental-inclusion/) from the Diversity & Inclusion committee introduces initiatives to help attendees balance professional and family commitments.
 {: .notice}
 
