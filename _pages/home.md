@@ -14,9 +14,14 @@ excerpt: "<br/><br/>"
     Tutorials : June 2<br/>&nbsp;Main Conference : June 3 &ndash; June 5<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : June 6 &ndash; June 7</span>
     <!-- <br/><br/>       
     <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a> -->
+    <br/><br/>       
+    <a href="/captions/" class="btn btn--primary">Access Live Captions</a>
 </div>
 
 <h2>News</h2>
+
+**June 1, 2019**. Thanks to Microsoft Translator, participants can view automatically generated captions for talks! More details [here](/captions/).
+{: .notice--info}
 
 **May 31, 2019**. Read about this year's industry track in a [new blog post](/blog/industry-track-vol2/).
 {: .notice--info}
@@ -27,8 +32,6 @@ excerpt: "<br/><br/>"
 **May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
 {: .notice--info}
 
-**May 16, 2019**. The official conference [schedule](/schedule/) is now out!
-{: .notice--info}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>

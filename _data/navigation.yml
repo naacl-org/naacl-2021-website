@@ -4,14 +4,17 @@ main:
   - title: "Schedule"
     url: /schedule/
 
+  - title: "LiveCaptions"
+    url: /captions/
+
   - title: "Program"
     url: /program/tutorials/
 
   - title: "Blog"
     url: /blog
 
-  - title: "Registration"
-    url: /registration
+  # - title: "Registration"
+  #   url: /registration
 
   - title: "Participants"
     url: "/participants"
@@ -22,8 +25,8 @@ main:
   - title: "Sponsors"
     url: /sponsors/list/
     
-  - title: "Calls"
-    url: /calls/papers
+  # - title: "Calls"
+  #   url: /calls/papers
 
 
 calls:

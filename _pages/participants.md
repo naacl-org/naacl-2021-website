@@ -20,6 +20,11 @@ socialmaps:
     title: "Minneapolis Museum of Art : Map of 3rd Floor"
 ---
 
+
+## Conference Venue
+
+The conference will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) located in Downtown Minneapolis at [1300 Nicollet Mall](https://www.google.com/maps/place/1300+Nicollet+Mall,+Minneapolis,+MN+55403/@44.9706403,-93.2805535,17z/data=!3m1!4b1!4m5!3m4!1s0x52b332bfc98eae9f:0x107b9182be15e62e!8m2!3d44.9706403!4d-93.2783648).
+
 ## About Minneapolis
 
 Minneapolis is considered to be one of the safest big cities in the country. Ease of transportation, pedestrian and bike friendly access is abundant, and with over 40,000 people living downtown, that is a natural vibrancy within the city throughout regardless of time of year. 
@@ -66,7 +71,6 @@ To get to the event, catch one of the luxury motor coaches outside of the Hyatt 
 
 One entrance ticket will be included with each main conference registration. We may have a few extra tickets for sale for accompanying persons so, if you are interested, stop by the registration desk when there are no lines.
 
-
 ## Registration Hours
 
 The on-site registration counters will only be open during the following hours:
@@ -74,7 +78,6 @@ The on-site registration counters will only be open during the following hours:
 - Sunday, June 2 &ndash; Tuesday, June 4 : 7:30am - 6:00pm
 - Wednesday, June 5 : 8:00am - 5:30pm
 - Thursday, June 6 &ndash; Friday, June 7 : 7:30am - 5:30pm 
-
 
 ## Poster Information
 
@@ -88,6 +91,10 @@ To join the conference wifi:
 - Enter `NAACL2019` and hit go.
  
 If you experience any problems, please call Encore at 612-596-4673 for technical support.
+
+## Live Captioning
+
+For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better. Click [here](/captions) for more details.
 
 ## Conference App
 
