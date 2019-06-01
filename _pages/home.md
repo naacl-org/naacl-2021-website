@@ -20,6 +20,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**June 1, 2019**. Thanks to Microsoft Translator, participants can view automatically generated captions for talks! More details [here](/captions/).
+{: .notice--info}
+
 **May 31, 2019**. Read about this year's industry track in a [new blog post](/blog/industry-track-vol2/).
 {: .notice--info}
 
