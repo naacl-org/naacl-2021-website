@@ -20,6 +20,11 @@ socialmaps:
     title: "Minneapolis Museum of Art : Map of 3rd Floor"
 ---
 
+
+## Conference Venue
+
+The conference will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) located in Downtown Minneapolis at [1300 Nicollet Mall](https://www.google.com/maps/place/1300+Nicollet+Mall,+Minneapolis,+MN+55403/@44.9706403,-93.2805535,17z/data=!3m1!4b1!4m5!3m4!1s0x52b332bfc98eae9f:0x107b9182be15e62e!8m2!3d44.9706403!4d-93.2783648).
+
 ## About Minneapolis
 
 Minneapolis is considered to be one of the safest big cities in the country. Ease of transportation, pedestrian and bike friendly access is abundant, and with over 40,000 people living downtown, that is a natural vibrancy within the city throughout regardless of time of year. 
@@ -89,21 +94,7 @@ If you experience any problems, please call Encore at 612-596-4673 for technical
 
 ## Live Captioning
 
-For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better.  
-
-Just click below to visit the caption stream for the room you're in.  (Come back to this page each time, since the links will change each day and perhaps more often.)
-
-- [Greenway](http://example.com)  ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
-- [Nicollet A or Nicollet Ballroom](http://example.com) ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
-- [Nicollet B/C](http://example.com)  ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20B/C&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
-- [Nicollet D](http://example.com)  ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20D&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
-- [Northstar A](http://example.com) ([report problems](mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Northstar%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.))
-
-Alternatively, you could follow along in the [published paper](https://aclweb.org/anthology/events/naacl-2019/), or catch live tweets at <a href="https://twitter.com/search?q=%23naacl2019&f=realtime" target="blank_">#naacl2019</a>.
-
-We are very grateful to [Microsoft Translator](https://translator.microsoft.com) and Will Lewis for donating this service.
-
-![Microsoft Translator Logo](/assets/images/logos/microsoft-translator-logo-small.png){: .align-center}
+For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better. Click [here](/captions) for more details.
 
 ## Conference App
 

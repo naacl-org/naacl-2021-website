@@ -5,7 +5,7 @@ main:
     url: /schedule/
 
   - title: "LiveCaptions"
-    url: /participants#live-captioning
+    url: /captions/
 
   - title: "Program"
     url: /program/tutorials/

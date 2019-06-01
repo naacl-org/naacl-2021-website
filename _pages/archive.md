@@ -8,6 +8,9 @@ toc_icon: "cog"
 ---
 {% include base_path %}
 
+**May 16, 2019**. The official conference [schedule](/schedule/) is now out!
+{: .notice}
+
 **May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
 {: .notice}
 

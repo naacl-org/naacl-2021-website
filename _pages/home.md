@@ -15,7 +15,7 @@ excerpt: "<br/><br/>"
     <!-- <br/><br/>       
     <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a> -->
     <br/><br/>       
-    <a href="/participants#live-captioning" class="btn btn--primary">Access Live Captions</a>
+    <a href="/captions/" class="btn btn--primary">Access Live Captions</a>
 </div>
 
 <h2>News</h2>
@@ -26,8 +26,6 @@ excerpt: "<br/><br/>"
 **May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
 {: .notice--info}
 
-**May 16, 2019**. The official conference [schedule](/schedule/) is now out!
-{: .notice--info}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
