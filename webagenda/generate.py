@@ -590,6 +590,11 @@ class WebItem(Item):
             elif self.id_.endswith('-tacl'):
                 self.title = '[TACL] {}'.format(self.title)
 
+            # show the poster number if available
+            if 'poster_number' in self.extended_metadata:
+                self.title = '#{}: {}'.format(self.extended_metadata['poster_number'],
+                                              self.title)
+
             # display the poster topic if encounter one
             if self.topic:
                 generated_html.append('<tr><td><span class="poster-type">{}</span></td></tr>'.format(self.topic))
