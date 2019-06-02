@@ -21,6 +21,7 @@ excerpt: "<br/><br/>"
 <h2>News</h2>
 
 **June 2, 2019**. The PDF of the NAACL 2019 handbook is available [online](https://drive.google.com/file/d/1voapzLnqp5c53vhyUSo28LYNDwhdCtxI/view).
+{: .notice--info}
 
 **June 1, 2019**. The [schedule](/schedule/) now links to the anthology PDFs. Look for the <i class="fa fa-file-pdf-o"></i> icon!
 {: .notice--info}
