@@ -20,6 +20,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**June 1, 2019**. The [schedule](/schedule/) now links to the anthology PDFs. Look for the <i class="fa fa-file-pdf-o"></i> icon!
+{: .notice--info}
+
 **June 1, 2019**. Thanks to Microsoft Translator, participants can view automatically generated captions for talks! More details [here](/captions/).
 {: .notice--info}
 
