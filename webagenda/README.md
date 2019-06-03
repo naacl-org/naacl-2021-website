@@ -57,9 +57,9 @@ The configuration file `config.json` is checked into the repository and looks li
     "xml_file": "agenda/data/xml/N19.xml",
     "extra_metadata_file": "agenda/data/extra-metadata/main.tsv",
     "plenary_info_file": "agenda/data/plenary-info.tsv",
-    "pdf_icons": false,
+    "pdf_icons": true,
     "video_icons": false
 }
 ```
 
-To add the PDF and video icons where available, modify the above config file to have the values for `pdf_icons` and `video_icons` fields to be `true`. 
+This file already adds the PDF links where available. To add the video icons where available, modify the above config file to have the value for `video_icons` field to be `true`. 
