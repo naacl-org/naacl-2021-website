@@ -13,8 +13,8 @@ main:
   - title: "Blog"
     url: /blog
 
-  # - title: "Registration"
-  #   url: /registration
+  - title: "Registration"
+    url: /registration
 
   - title: "Participants"
     url: "/participants"
