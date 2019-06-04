@@ -13,11 +13,11 @@ Just click below to visit the caption stream for the room you're in.  (Come back
 
 <span style="font-weight: bolder;color: red;">No account is required!  To log in, just enter your name (or pseudonym), and optionally choose a language.</span>
 
-- [Greenway](http://translate.it/ERHLI)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
-- [Nicollet A or Nicollet Ballroom](http://translate.it/GXLAJ) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
-- [Nicollet B/C](http://translate.it/XJKGE)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20B/C&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
-- [Nicollet D](http://translate.it/UKCJG)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20D&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
-- [Northstar A](http://translate.it/GHWRZ) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Northstar%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Greenway](http://translate.it/HAPRW)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Nicollet A or Nicollet Ballroom](http://translate.it/ECPRJ) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Nicollet B/C](http://translate.it/UTLIC)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20B/C&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Nicollet D](http://translate.it/YCZXE)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20D&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Northstar A](http://translate.it/PHTQW) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Northstar%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
 
 Alternatively, you could follow along in the [published paper](https://aclweb.org/anthology/events/naacl-2019/), or catch live tweets at <a href="https://twitter.com/search?q=%23naacl2019&f=realtime" target="blank_">#naacl2019</a>.
 
