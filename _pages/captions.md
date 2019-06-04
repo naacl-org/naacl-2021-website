@@ -11,6 +11,8 @@ For the main conference talks, you can view automatically generated captions on 
 
 Just click below to visit the caption stream for the room you're in.  (Come back to this page each time, since the links will change each day and perhaps more often.)
 
+<span style="font-weight: bolder;"color:red";">No account is required!  To log in, just enter your name (or pseudonym), and optionally choose a language.</span>
+
 - [Greenway](http://translate.it/ERHLI)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
 - [Nicollet A or Nicollet Ballroom](http://translate.it/GXLAJ) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
 - [Nicollet B/C](http://translate.it/XJKGE)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20B/C&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
