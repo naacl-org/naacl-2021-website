@@ -13,8 +13,8 @@ Just click below to visit the caption stream for the room you're in.  (Come back
 
 <span style="font-weight: bolder;color: red;">No account is required!  To log in, just enter your name (or pseudonym), and optionally choose a language.</span>
 
-- [Greenway](http://translate.it/IXLUG)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
-- [Nicollet A or Nicollet Ballroom](http://translate.it/RXEQA) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Greenway](http://translate.it/KWUEZ)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Greenway&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
+- [Nicollet A or Nicollet Ballroom](http://translate.it/AJHXT) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
 - [Nicollet B/C](http://translate.it/CPZKL)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20B/C&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
 - [Nicollet D](http://translate.it/YLDKA)  <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Nicollet%20D&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
 - [Northstar A](http://translate.it/RYATU) <span style="font-size: small;">(<a href="mailto:naacl2019-captions@googlegroups.com?subject=caption%20stream%20in%20Northstar%20A&body=Please%20come%20restart%20the%20caption%20stream,%20thanks.">report problems</a>)</span>
