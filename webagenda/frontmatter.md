@@ -890,8 +890,8 @@ script: |
                 }
             });
 
-            /* open the URL in a new window/tab when we click on the any icon - whether it is the keynote slides or the video */            
-            $('body').on('click', 'div.session-abstract p i[class$="-icon"]', function(event) {
+            /* open the URL in a new window/tab when we click on the any icon - whether it is the keynote slides or the video - this icon can be in the abstract or even in the title if there is no abstract */            
+            $('body').on('click', 'div.session-abstract p i[class$="-icon"],span.session-title i[class$="-icon"]', function(event) {
                 event.stopPropagation();
                 event.preventDefault();
                 var urlToOpen = $(this).attr('data');
