@@ -384,9 +384,14 @@ class WebSession(Session):
             # next to the title
             if self.abstract:
                 session_html += '<div id="expander"></div><a href="#" class="session-title">{}</a><br/>'.format(self.title)
-            # otherwise, no expander, just the title
+            # otherwise, no expander, just the title; if we have a PDF
+            # url (like the slides for plenary sessions) but no abstract
+            # we just make an icon in the title, if we are asked to
             else:
-                session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
+                if pdf_icons and self.pdf_url:
+                    session_html += '<span class="session-title">{}&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i></span><br/>'.format(self.title, self.pdf_url)
+                else:
+                    session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
 
             # if we have a person, we need to show it along with the
             # optional affiliation and the optional URL as the person's link
