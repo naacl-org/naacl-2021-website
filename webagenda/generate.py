@@ -412,12 +412,12 @@ class WebSession(Session):
             # now add the actual abstract and the PDF and Video links
             # as icons if we have those URLs
             if self.abstract:
-                session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>'
+                session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>{}'.format(self.abstract)
                 if pdf_icons and self.pdf_url:
                     session_html += '&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
                 if video_icons and self.video_url:
                     session_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" title="Video"></i>'.format(self.video_url)
-                session_html += '{}</p></div></div>'.format(self.abstract)
+                session_html += '</p></div></div>'.format(self.abstract)
 
             # close off the session HTML and save it
             session_html += '</div>'
