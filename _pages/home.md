@@ -20,20 +20,14 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**June 10, 2019**. The [slides](/downloads/naacl2019-intro-slides.pdf) from the opening session of the conference are now linked from the [schedule](/schedule).
+{: .notice--info}
+
 **June 2, 2019**. The PDF of the NAACL 2019 handbook is available [online](https://drive.google.com/file/d/19PKzGZiaP8s1Ev9YjvO1OvdN6fOuz3SW/view).
 {: .notice--info}
 
 **June 1, 2019**. The [schedule](/schedule/) now links to the anthology PDFs. Look for the <i class="fa fa-file-pdf-o"></i> icon!
 {: .notice--info}
-
-**June 1, 2019**. Thanks to Microsoft Translator, participants can view automatically generated captions for talks! More details [here](/captions/).
-{: .notice--info}
-
-**May 31, 2019**. Read about this year's industry track in a [new blog post](/blog/industry-track-vol2/).
-{: .notice}
-
-**May 30, 2019**. NAACL 2019 will be [officially livetweeted](/blog/livetweet-sign-up/) this year! Expand the parallel tracks in the conference [schedule](/schedule/) to see who's live-tweeting your favorite sessions! (<i class="fa fa-user"></i> : Session Chair, <i class="fa fa-fw fa-twitter"></i> : LiveTweeter).
-{: .notice}
 
 **May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
 {: .notice}
