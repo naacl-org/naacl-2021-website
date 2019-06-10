@@ -454,6 +454,12 @@ div.session {
         }
     }
 
+    span.session-title {
+        i.paper-icon, i.video-icon {
+            cursor: pointer;            
+        }
+    }
+
     td#paper-time {
         font-size: $type-size-5;
     }
