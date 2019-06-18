@@ -26,7 +26,7 @@ excerpt: "<br/><br/>"
 **June 2, 2019**. The PDF of the NAACL 2019 handbook is available [online](https://drive.google.com/file/d/19PKzGZiaP8s1Ev9YjvO1OvdN6fOuz3SW/view).
 {: .notice--info}
 
-**June 1, 2019**. The [schedule](/schedule/) now links to the anthology PDFs. Look for the <i class="fa fa-file-pdf-o"></i> icon!
+**June 1, 2019**. The [schedule](/schedule/) now links to the anthology PDFs. Look for the <i class="far fa-file-pdf"></i>&nbsp;icon!
 {: .notice--info}
 
 **May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.

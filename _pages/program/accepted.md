@@ -7,6 +7,7 @@ sidebar:
     nav: program
 toc_label: "&nbsp;On this page"
 toc: true
+toc_sticky: true
 ---
 
 ## Main Conference

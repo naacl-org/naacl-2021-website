@@ -5,9 +5,10 @@ permalink: /calls/demos/
 sidebar: 
     nav: "calls"
 toc: true
+toc_sticky: true
 toc_icon: "cog"
+toc_max_header: 4
 ---
-{% include base_path %}
 
 <span style="font-weight: bolder;font-size: larger;">Call For System Demonstrations</span>
 

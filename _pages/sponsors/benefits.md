@@ -5,7 +5,6 @@ permalink: /sponsors/benefits/
 sidebar: 
     nav: "sponsors"
 ---
-{% include base_path %}
 
 The document embedded below lists the benefits provided by all 2019 sponsorship tiers along with detailed pricing. For any questions regarding sponsorship, please email [sponsoring@aclweb.org](mailto:sponsoring@aclweb.org ). If you are unable to see the embedded document, you may download the original [here](/downloads/Sponsorship-2019-booklet.doc).
 

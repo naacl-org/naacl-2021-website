@@ -5,9 +5,9 @@ permalink: /calls/industry/
 sidebar:
     nav: "calls"
 toc: true
+toc_sticky: true
 toc_icon: "cog"
 ---
-{% include base_path %}
 
 <span style="font-weight: bolder;font-size: larger;">Industry Track: Call For Papers</span>
 

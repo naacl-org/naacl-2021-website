@@ -4,6 +4,7 @@ layout: single
 permalink: /participants/
 sidebar: false
 toc: true
+toc_sticky: true
 toc_icon: "cog"
 socialmaps:
   - url: "/assets/images/minneapolis/mia-map-1st-floor.png"
