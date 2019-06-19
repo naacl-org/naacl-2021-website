@@ -1,3 +1,20 @@
+/**
+ * Copyright (c) 2019
+ *
+ * Code that powers the customized
+ * schedule generation for NAACL 2019
+ * website. Allows a user to expand/collapse
+ * parallel sessions, examine conflicting
+ * talks, choose the desired ones, and generate
+ * a PDF of their customized agenda.
+ *
+ * @summary Code for NAACL 2019 official website schedule.
+ * @author Nitin Madnani (nmadnani@ets.org)
+ *
+ * This code is licensed under the MIT license.
+ * https://opensource.org/licenses/MIT
+ */
+
 sessionInfoHash = {};
 paperInfoHash = {};
 chosenPapersHash = {};
