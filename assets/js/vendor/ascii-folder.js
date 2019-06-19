@@ -1298,6 +1298,7 @@ var ASCIIFoldMapping = new Map([
     [0x2048, '?!'],
     [0xFF20, '@'],
     [0xFF3C, '\\'],
+    [0x2C6, '^'],
     [0x2038, '^'],
     [0xFF3E, '^'],
     [0xFF3F, '_'],
