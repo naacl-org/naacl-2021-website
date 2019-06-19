@@ -13,7 +13,7 @@ toc_icon: "cog"
 **May 31, 2019**. Read about this year's industry track in a [new blog post](/blog/industry-track-vol2/).
 {: .notice}
 
-**May 30, 2019**. NAACL 2019 will be [officially livetweeted](/blog/livetweet-sign-up/) this year! Expand the parallel tracks in the conference [schedule](/schedule/) to see who's live-tweeting your favorite sessions! (<i class="fa fa-user"></i> : Session Chair, <i class="fa fa-fw fa-twitter"></i> : LiveTweeter).
+**May 30, 2019**. NAACL 2019 will be [officially livetweeted](/blog/livetweet-sign-up/) this year! Expand the parallel tracks in the conference [schedule](/schedule/) to see who's live-tweeting your favorite sessions! (<i class="fa fa-user"></i> : Session Chair, <i class="fab fa-twitter"></i> : LiveTweeter).
 {: .notice}
 
 **May 16, 2019**. The official conference [schedule](/schedule/) is now out!

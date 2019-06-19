@@ -5,9 +5,9 @@ permalink: /calls/workshops/
 sidebar: 
     nav: "calls"
 toc: true
+toc_sticky: true
 toc_icon: "cog"
 ---
-{% include base_path %}
 
 <span style="font-weight: bolder;font-size: larger;">Joint Call for Workshop Proposals: ACL/EMNLP-IJCNLP/NAACL 2019</span>
 

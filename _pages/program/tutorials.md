@@ -7,6 +7,7 @@ sidebar:
     nav: program
 toc_label: "&nbsp;On this page"
 toc: true
+toc_sticky: true
 ---
 The following tutorials have been accepted for NAACL 2019 and will be held on Sunday, June 2nd, 2019. Exact timings will be posted later as part of the official schedule.
 

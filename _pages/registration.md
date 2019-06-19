@@ -6,7 +6,6 @@ permalink: /registration/
 sidebar: false
 
 ---
-{% include base_path %}
 
 <!-- {% include toc icon="gears" %} -->
 

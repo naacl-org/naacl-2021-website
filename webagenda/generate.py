@@ -389,7 +389,7 @@ class WebSession(Session):
             # we just make an icon in the title, if we are asked to
             else:
                 if pdf_icons and self.pdf_url:
-                    session_html += '<span class="session-title">{}&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i></span><br/>'.format(self.title, self.pdf_url)
+                    session_html += '<span class="session-title">{}&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i></span><br/>'.format(self.title, self.pdf_url)
                 else:
                     session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
 
@@ -414,9 +414,9 @@ class WebSession(Session):
             if self.abstract:
                 session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>{}'.format(self.abstract)
                 if pdf_icons and self.pdf_url:
-                    session_html += '&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
+                    session_html += '&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
                 if video_icons and self.video_url:
-                    session_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" title="Video"></i>'.format(self.video_url)
+                    session_html += '&nbsp;<i class="far fa-file-video video-icon" data="{}" title="Video"></i>'.format(self.video_url)
                 session_html += '</p></div></div>'.format(self.abstract)
 
             # close off the session HTML and save it
@@ -490,7 +490,7 @@ class WebSession(Session):
 
             # if the session has a livetweeter assigned, display that too
             if 'tweeter' in self.extended_metadata:
-                session_html += '; <i title="LiveTweeter" class="fa fa-fw fa-twitter"></i>: <a href="https://twitter.com/{}" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
+                session_html += '; <i title="LiveTweeter" class="fab fa-twitter"></i>: <a href="https://twitter.com/{}" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
 
             # close the session HTML properly
             session_html += '</td></tr>'
@@ -577,9 +577,9 @@ class WebItem(Item):
             # generate the rest of the HTML along with optional icons
             item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
             if pdf_icons and self.pdf_url:
-                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
+                item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
             if video_icons and self.video_url:
-                item_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" aria-hidden="true" title="Video"></i>'.format(self.video_url)
+                item_html += '&nbsp;<i class="far fa-file-video video-icon" data="{}" title="Video"></i>'.format(self.video_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
 
@@ -607,7 +607,7 @@ class WebItem(Item):
 
             # display an optional icon
             if pdf_icons and self.pdf_url:
-                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
+                item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
 

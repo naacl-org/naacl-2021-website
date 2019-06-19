@@ -434,28 +434,28 @@ div.session {
     }
 
     tr#tutorial {
-        a i.video-icon {
+        a svg.video-icon {
             cursor: pointer;
             
         }
     }
 
     tr#best-paper {
-        i.paper-icon, i.video-icon {
+        svg.paper-icon, svg.video-icon {
             cursor: pointer;
         }
     }
 
     div.session-abstract {
         p {
-            i.slides-icon, i.video-icon {
+            svg.slides-icon, svg.video-icon {
                 cursor: pointer;
             }        
         }
     }
 
     span.session-title {
-        i.paper-icon, i.video-icon {
+        svg.paper-icon, svg.video-icon {
             cursor: pointer;            
         }
     }

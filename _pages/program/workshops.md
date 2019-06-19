@@ -4,6 +4,7 @@ layout: single
 excerpt: "NAACL 2019 Workshops."
 permalink: /program/workshops/
 toc: true
+toc_sticky: true
 toc_icon: "cog"
 sidebar: 
     nav: program
