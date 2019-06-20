@@ -755,14 +755,14 @@ $(document).ready(function() {
     });
 
     /* when we mouse over a paper, highlight the conflicting papers */
-    $('body').on('mouseover', 'table.paper-table tr#paper', function(event) {
+    $('body').on('mouseover', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
         $(this).addClass('hovered');
         $(conflictingPapers).addClass('conflicted');
     });
 
     /* when we mouse out, remove all highlights */
-    $('body').on('mouseout', 'table.paper-table tr#paper', function(event) {
+    $('body').on('mouseout', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
         $(this).removeClass('hovered');
         $(conflictingPapers).removeClass('conflicted');
@@ -918,7 +918,7 @@ $(document).ready(function() {
         }
     });
 
-    $('body').on('click', 'table.paper-table tr#paper', function(event, fromSession) {
+    $('body').on('click', 'div.session-expandable[id] table.paper-table tr#paper', function(event, fromSession) {
         event.preventDefault();
         $(this).removeClass('hovered');
         getConflicts($(this)).removeClass('conflicted');
