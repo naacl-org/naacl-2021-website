@@ -66,9 +66,10 @@ jill:
 nitin:
   name        : "Nitin Madnani"
   uri         : "https://desilinguist.org"
-  bio         : "Web &amp; App Chair | Senior Research Scientist, Educational Testing Service"
+  bio         : "Website &amp; App Chair | Senior Research Scientist, Educational Testing Service"
   avatar      : "https://secure.gravatar.com/avatar/65a5e38cb0ce9a77841d3567fb3cc156.png?r=PG&s=150"
   twitter     : "haikuman"
+  github      : "https://github.com/desilinguist"
 
 luwang:
   name        : "Student Volunteer Coordinator"

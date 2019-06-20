@@ -20,14 +20,20 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**June 10, 2019**. The [slides](/downloads/naacl2019-intro-slides.pdf) from the opening session of the conference are now linked from the [schedule](/schedule).
+**June 20, 2019**. The latest [blog post](/blog/digital-and-collaborative-materials/) by the website & app chair offers some thoughts on the conference website, app, and handbook.
 {: .notice--info}
+
+**June 19, 2019**. The [post-conference survey](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__iHODedURTgxQkU5VUs3M1JYSUVZVzZXVUhRTUFITy4u) is now live! Please fill it out to help improve the organization of future NAACL conferences.
+{: .notice--info}
+
+**June 10, 2019**. The [slides](/downloads/naacl2019-intro-slides.pdf) from the opening session of the conference are now linked from the [schedule](/schedule).
+{: .notice}
 
 **June 2, 2019**. The PDF of the NAACL 2019 handbook is available [online](https://drive.google.com/file/d/19PKzGZiaP8s1Ev9YjvO1OvdN6fOuz3SW/view).
-{: .notice--info}
+{: .notice}
 
 **June 1, 2019**. The [schedule](/schedule/) now links to the anthology PDFs. Look for the <i class="far fa-file-pdf"></i>&nbsp;icon!
-{: .notice--info}
+{: .notice}
 
 **May 28, 2019**. The official conference App is now live! Get it [here](https://whova.com/portal/naacl_201906/?source=download_page)! Click [here](/participants#conference-app) to learn how to use it and how to report any issues.
 {: .notice}
