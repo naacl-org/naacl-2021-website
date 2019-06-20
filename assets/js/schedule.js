@@ -15,6 +15,21 @@
  * https://opensource.org/licenses/MIT
  */
 
+ /*********************************************************
+  * The main idea behind this code is as follows:
+  * on page load, each session, paper and poster, etc. are
+  * parsed and put into various hashes. Then as papers, 
+  * posters are clicked etc. they are added to another set 
+  * of "chosen" hashes. When the download PDF button is 
+  * clicked, a hidden program HTML table is populated with
+  * all the chosen items along with all of the plenary 
+  * sessions if the checkbox is enabled. Finally, the jsPDF
+  * autotable plugin is used to convert that hidden table 
+  * into a PDF. 
+  **********************************************************/
+
+
+/* initialize some global variables we need */
 sessionInfoHash = {};
 paperInfoHash = {};
 chosenPapersHash = {};
@@ -25,16 +40,20 @@ plenarySessionHash = {};
 includePlenaryInSchedule = true;
 helpShown = false;
 
+/* the help text to show */
 var instructions = "<div id=\"popupInstructionsDiv\"><div id=\"title\">Help</div><div id=\"popupInstructions\"><ul><li>Click on a the \"<strong>+</strong>\" button or the title of a session to toggle it. Click the <strong>\"Expand All Sessions ↓\"</strong> button to expand <em>all</em> sessions in one go. Click again to collapse them. </li> <li>Click on a tutorial/paper/poster to toggle its selection. </li> <li>You can select more than one paper for a time slot. </li> <li>Icon glossary: <i class=\"far fa-file-pdf\"></i> = PDF, <i class=\"far fa-file-video\"></i> = Video, <i class=\"fa fa-user\"></i> = Session Chair, <i class=\"fab fa-twitter\"></i> = LiveTweeter. </li> <li>Click the <strong>\"Download PDF\"</strong> button at the bottom to download your customized PDF. </li> <li>To expand parallel sessions simultaneously, hold Shift and click on any of them. </li> <li>On non-mobile devices, hovering on a paper for a time slot highlights it in yellow and its conflicting papers in red. Hovering on papers already selected for a time slot (or their conflicts) highlights them in green. </li> <li>Hover over the time for any session to see its day and date as a tooltip.</li> <li>While saving the generated PDF on mobile devices, its name cannot be changed.</li> </ul></div></div>";
 
+/* function to pad with zeros */
 function padTime(str) {
     return String('0' + str).slice(-2);
 }
 
+/* function to format date strings */
 function formatDate(dateObj) {
     return dateObj.toLocaleDateString() + ' ' + padTime(dateObj.getHours()) + ':' + padTime(dateObj.getMinutes());
 }
 
+/* function that generates the PDF table */
 function generatePDFfromTable() {
 
     /* clear the hidden table before starting */
@@ -43,6 +62,7 @@ function generatePDFfromTable() {
     /* now populate the hidden table with the currently chosen papers */
     populateHiddenProgramTable();
 
+    /* set up the autotable plugin */
     var doc = new jsPDF('l', 'pt', 'letter');
     doc.autoTable({
         html: "#hidden-program-table",
@@ -207,20 +227,6 @@ function doWhichKey(e) {
     //Line below not needed, but you can read the key with it
     //var charStr = String.fromCharCode(charCode);
     return charCode;
-}
-
-function getConflicts2(paperObject) {
-
-    /* most of the time, conflicts are simply based on papers having the same exact time slot but this is not always true */
-
-    /* first get the conflicting sessions */
-    var sessionId = paperObject.parents('.session').attr('id').match(/session-\d/)[0];
-    var parallelSessions = paperObject.parents('.session').siblings().filter(function() { return this.id.match(sessionId); });
-    
-    /* now get the conflicting papers from those sessions */
-    var paperTime = paperObject.children('td#paper-time')[0].textContent;
-    return $(parallelSessions).find('table.paper-table tr#paper').filter(function(index) { return this.children[0].textContent == paperTime });
-
 }
 
 function makeDayHeaderRow(day) {
@@ -520,6 +526,7 @@ function populateHiddenProgramTable() {
     $('#hidden-program-table tbody').append(output);
 }
 
+/* main jquery code starts here */
 $(document).ready(function() {
     
     /* all the Remove All buttons are disabled on startup */
@@ -564,11 +571,7 @@ $(document).ready(function() {
         }
     });
 
-
-    $('span.session-location, span.inline-location').on('click', function(event) {
-        event.stopPropagation();
-    });
-
+    /* if the location is an external one, open it in google maps */
     $('span.session-external-location').on('click', function(event) {
         var placeName = $(this).text().trim().replace(" ", "+");
         window.open("https://www.google.com/maps?q=" + placeName, "_blank");
@@ -576,6 +579,9 @@ $(document).ready(function() {
     });
 
     /* show the floorplan when any location is clicked */
+    $('span.session-location, span.inline-location').on('click', function(event) {
+        event.stopPropagation();
+    });
     $('span.session-location, span.inline-location').magnificPopup({
         items: {
             src: '/assets/images/minneapolis/3d-floormap.png'
@@ -678,6 +684,7 @@ $(document).ready(function() {
         plenarySessionHash[new Date(exactSessionStartingTime).getTime()] = session;
      });
 
+    /* select a session */
     $('body').on('click', 'a.session-selector', function(event) {
 
         /* if we are disabled, do nothing */
@@ -706,6 +713,7 @@ $(document).ready(function() {
         return false;
     });
 
+    /* deselect a session */
     $('body').on('click', 'a.session-deselector', function(event) {
 
         /* if we are disabled, do nothing */
@@ -784,6 +792,7 @@ $(document).ready(function() {
 
     });
 
+    /* disable some events from propagating */
     $('body').on('click', 'a.info-button', function(event) {
         return false;
     });
@@ -812,10 +821,12 @@ $(document).ready(function() {
         event.stopPropagation();
     });
 
+    /* toggle the inclusion of plenary sessions in the PDF */
     $('body').on('click', 'input#includePlenaryCheckBox', function(event) {
             includePlenaryInSchedule = $(this).prop('checked');
     });
 
+    /* when we click on the "Download PDF" button ... */
     $('body').on('click', 'a#generatePDFButton', function(event) {
         /* if we haven't chosen any papers, and we aren't including plenary sessions either, then raise an error. If we are including plenary sessions and no papers, then confirm. */
         event.stopPropagation();
@@ -836,6 +847,7 @@ $(document).ready(function() {
         }
     });
 
+    /* when we click on a tutorial ... */
     $('body').on('click', 'table.tutorial-table tr#tutorial', function(event) {
         event.preventDefault();
         var tutorialTimeObj = $(this).parents('.session-tutorials').children('.session-time');
@@ -860,6 +872,7 @@ $(document).ready(function() {
         }
     });
 
+    /* when we click on a workshop ... */
     $('body').on('click', 'table.workshop-table tr#workshop', function(event) {
         event.preventDefault();
         var workshopTimeObj = $(this).parents('.session-workshops').children('.session-time');
@@ -884,6 +897,7 @@ $(document).ready(function() {
         }
     });
 
+    /* when we click on a poster ... */
     $('body').on('click', 'table.poster-table tr#poster', function(event) {
         event.preventDefault();
         var posterTimeObj = $(this).parents('.session-posters').children('.session-time');
