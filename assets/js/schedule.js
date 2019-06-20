@@ -49,7 +49,6 @@ function generatePDFfromTable() {
         didDrawPage: function (data) {
             /* HEADER only on the first page */
             var pageNumber = doc.internal.getCurrentPageInfo().pageNumber;
-
             if (pageNumber == 1) {
                 doc.setFontSize(16);
                 doc.setFontStyle('normal');
@@ -100,12 +99,11 @@ function generatePDFfromTable() {
                 else if (cellClass == 'info-poster') {
                     data.cell.styles.fontSize = 9;
                 }
+                /* fill the other empty cells with appropriate colors if we have breaks or day headers */
                 else if (cellClass == "location" || cellClass == "time") {
                     var rowCells = data.row.raw.cells;
                     var infoType = rowCells[rowCells.length-1].className;
                     var infoText = rowCells[rowCells.length-1].textContent;
-                    /* var infoType = data.row.raw.cells[2].className; */
-                    /* var infoText = data.row.raw.cells[2].textContent; */
                     if (infoType == "info-day" && cellText == '') {
                         data.cell.styles.fillColor = [187, 187, 187];
                     }
