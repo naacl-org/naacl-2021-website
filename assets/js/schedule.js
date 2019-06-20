@@ -45,7 +45,7 @@ function generatePDFfromTable() {
 
     var doc = new jsPDF('l', 'pt', 'letter');
     doc.autoTable({
-        fromHtml: "#hidden-program-table",
+        html: "#hidden-program-table",
         pagebreak: 'avoid',
         avoidRowSplit: true,
         theme: 'grid',
@@ -58,15 +58,14 @@ function generatePDFfromTable() {
             lineWidth: 0.4,
             fontSize: 11
         },
-         columnStyles: {
+        columnStyles: {
             0: { fontStyle: 'bold', halign: 'right', cellWidth: 70 },
             1: { cellWidth: 110 },
             2: { fontStyle: 'italic', cellWidth: 530 }
         },
-        addPageContent: function (data) {
+        didDrawPage: function (data) {
             /* HEADER only on the first page */
             var pageNumber = doc.internal.getCurrentPageInfo().pageNumber;
-
             if (pageNumber == 1) {
                 doc.setFontSize(16);
                 doc.setFontStyle('normal');
@@ -78,49 +77,62 @@ function generatePDFfromTable() {
             doc.setFontSize(8);
             doc.text('(Generated via https://naacl2019.org/schedule)', data.settings.margin.left, doc.internal.pageSize.height - 10);
         },
-        drawCell: function(cell, data) {
-            var cellClass = cell.raw.content.className;
-            /* center the day header */
-            if (cellClass == 'info-day') {
-                cell.textPos.x = (530 - data.settings.margin.left)/2 + 120;
-            }
+        didDrawCell: function(data) {
             /* split long plenary session text */
-            else if (cellClass == 'info-plenary') {
-                cell.text = doc.splitTextToSize(cell.text.join(' '), 530, {fontSize: 11});
+            if (data.row.section == 'body') {
+                var cellClass = data.cell.raw.className;
+                if (cellClass == 'info-plenary') {
+                    data.cell.text = doc.splitTextToSize(data.cell.text.join(' '), 530, {fontSize: 11});
+                }         
             }
         },
-        createdCell: function(cell, data) {
-            var cellClass = cell.raw.content.className;
-            var cellText = cell.text[0];
-            /* */
-            if (cellClass == 'info-day') {
-                cell.styles.fontStyle = 'bold';
-                cell.styles.fontSize = 12;
-                cell.styles.fillColor = [187, 187, 187];
+        willDrawCell: function(data) {
+            /* center the day header */
+            if (data.row.section == 'body') {
+                var cellClass = data.cell.raw.className;
+                if (cellClass == 'info-day') {
+                    data.cell.textPos.x = (530 - data.settings.margin.left)/2 + 120;
+                }                
             }
-            else if (cellClass == 'info-plenary') {
-                cell.styles.fontSize = 11;
-                if (cellText.search(/break|lunch|breakfast/i) !== -1) {
-                    cell.styles.fillColor = [238, 238, 238];
+        },
+        didParseCell: function(data) {
+            /* write day headers in bold text with dark gray background */
+            if (data.row.section == 'body') {
+                var cellClass = data.cell.raw.className;
+                var cellText = data.cell.text[0];
+                if (cellClass == 'info-day') {
+                    data.cell.styles.fontStyle = 'bold';
+                    data.cell.styles.fontSize = 12;
+                    data.cell.styles.fillColor = [187, 187, 187];
                 }
-            }
-            else if (cellClass == 'info-poster') {
-                cell.styles.fontSize = 9;
-            }
-            else if (cellClass == "location" || cellClass == "time") {
-                var infoType = data.row.raw[2].content.className;
-                var infoText = data.row.raw[2].content.textContent;
-                if (infoType == "info-day" && cellText == '') {
-                    cell.styles.fillColor = [187, 187, 187];
+                /* mark breaks explicitly with a different color */
+                else if (cellClass == 'info-plenary') {
+                    data.cell.styles.fontSize = 11;
+                    if (cellText.search(/break|lunch|breakfast/i) !== -1) {
+                        data.cell.styles.fillColor = [238, 238, 238];
+                    }
                 }
-                if (infoType == "info-plenary" && 
-                    infoText.search(/(break|lunch|breakfast)/i) !== -1) {
-                    cell.styles.fillColor = [238, 238, 238];
+                /* make poster titles smaller than usual */
+                else if (cellClass == 'info-poster') {
+                    data.cell.styles.fontSize = 9;
                 }
+                /* fill the other empty cells with appropriate colors if we have breaks or day headers */
+                else if (cellClass == "location" || cellClass == "time") {
+                    var rowCells = data.row.raw.cells;
+                    var infoType = rowCells[rowCells.length-1].className;
+                    var infoText = rowCells[rowCells.length-1].textContent;
+                    if (infoType == "info-day" && cellText == '') {
+                        data.cell.styles.fillColor = [187, 187, 187];
+                    }
+                    if (infoType == "info-plenary" && 
+                        infoText.search(/(break|lunch|breakfast)/i) !== -1) {
+                        data.cell.styles.fillColor = [238, 238, 238];
+                    }
+                }                
             }
         },
     });
-    doc.output('save');
+    doc.output('save', 'schedule.pdf');
 }
 
 function getTutorialInfoFromTime(tutorialTimeObj) {
@@ -232,7 +244,7 @@ function makePaperRows(start, end, titles, sessions) {
         for (var i=1; i<numConflicts; i++) {
             var session = sessions[i];
             var title = titles[i];
-            rows.push('<tr><td></td><td class="location">' + session.location + '</td><td class="info-paper">' + title + ' [' + session.title + ']</td></tr>')
+            rows.push('<tr><td class="location">' + session.location + '</td><td class="info-paper">' + title + ' [' + session.title + ']</td></tr>')
         }
         ans = rows;
     }
@@ -251,7 +263,7 @@ function makeTutorialRows(start, end, titles, locations, sessions) {
             var session = sessions[i];
             var title = titles[i];
             var location = locations[i];
-            rows.push('<tr><td></td><td class="location">' + location + '</td><td class="info-paper">' + title + ' [' + session.title + ']</td></tr>')
+            rows.push('<tr><td class="location">' + location + '</td><td class="info-paper">' + title + ' [' + session.title + ']</td></tr>')
         }
         ans = rows;
     }
@@ -270,7 +282,7 @@ function makeWorkshopRows(start, end, titles, locations, sessions) {
             var session = sessions[i];
             var title = titles[i];
             var location = locations[i];
-            rows.push('<tr><td></td><td class="location">' + location + '</td><td class="info-paper">' + title + ' [' + session.title + ']</td></tr>')
+            rows.push('<tr><td class="location">' + location + '</td><td class="info-paper">' + title + ' [' + session.title + ']</td></tr>')
         }
         ans = rows;
     }
@@ -285,8 +297,7 @@ function makePosterRows(titles, types, sessions) {
     for (var i=0; i<numPosters; i++) {
         var title = titles[i];
         var type = types[i];
-        /* rows.push('<tr><td></td><td></td><td class="info-poster">' + title + ' [' + type + ']</td></tr>'); */
-        rows.push('<tr><td></td><td></td><td class="info-poster">' + title + '</td></tr>');
+        rows.push('<tr><td class="info-poster">' + title + '</td></tr>');
     }
     return rows;
 }
@@ -759,14 +770,14 @@ $(document).ready(function() {
     });
 
     /* when we mouse over a paper, highlight the conflicting papers */
-    $('body').on('mouseover', 'table.paper-table tr#paper', function(event) {
+    $('body').on('mouseover', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
         $(this).addClass('hovered');
         $(conflictingPapers).addClass('conflicted');
     });
 
     /* when we mouse out, remove all highlights */
-    $('body').on('mouseout', 'table.paper-table tr#paper', function(event) {
+    $('body').on('mouseout', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
         $(this).removeClass('hovered');
         $(conflictingPapers).removeClass('conflicted');
@@ -922,7 +933,7 @@ $(document).ready(function() {
         }
     });
 
-    $('body').on('click', 'table.paper-table tr#paper', function(event, fromSession) {
+    $('body').on('click', 'div.session-expandable[id] table.paper-table tr#paper', function(event, fromSession) {
         event.preventDefault();
         $(this).removeClass('hovered');
         getConflicts($(this)).removeClass('conflicted');
