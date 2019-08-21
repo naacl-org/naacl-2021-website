@@ -35,6 +35,8 @@ If you fork this repository, the following files are the ones to pay attention t
 
 - `_data/navigation.xml` : YAML file that contains the links in the masthead at the top of the website and also links in the various sidebars. 
 
+- `_data/authors.yml` : YAML file that contains the information about the various blog post authors, e.g., Program Chairs, Diversity Chairs, General Chair. This file _must_ be updated with the right names and links.
+
 - `_config.yml` : YAML file that contains meta-information about the website that should be set properly for a new conference. Details are given in the comments in the file. You must edit this file properly before making the website public.
 
 - `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`. Same as the
