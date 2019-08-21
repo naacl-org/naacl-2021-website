@@ -42,6 +42,8 @@ If you fork this repository, the following files are the ones to pay attention t
 - `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`. Same as the
   files under `_pages`, you should move out already existing files from this folder to prevent them from getting rendered.
 
+- `.github/CODEOWNERS` : This file contains the GitHub usernames of the website chairs who will be [automatically assigned](https://help.github.com/en/articles/about-code-owners) to review any submitted pull requests. This should be modified to contain the GitHub username of the new website chair(s). 
+
 - `CNAME` : You should delete this file since this contains the old external domain from the older conference. This file will be
   automatically re-generated when you add the new external domain for the new conference. If you do not remove this file, you will
   get a page build warning from GitHub.
