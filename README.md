@@ -9,6 +9,8 @@ It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.githu
 * [Building Locally](#building-locally)
    * [Using Ruby](#using-ruby)
    * [Using Docker](#using-docker)
+      * [Run and Go](#run-and-go)
+      * [Build and Reuse](#build-and-reuse)
 * [Forking for a New Conference](#forking-for-a-new-conference)
    * [Important Files](#important-files)
    * [Domain Setup](#domain-setup)
