@@ -41,27 +41,33 @@ First you need to install Docker.
 
 - For instructions on how to install docker for MacOS (at least El Capitan 10.11), go [here](https://docs.docker.com/docker-for-mac/install/), or for slightly older MacOS computers, go [here](https://docs.docker.com/toolbox/overview/)
 
-- For instructions on how to install docker for Ubuntu (at least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/). This link also has options for other Linux distributions.
+- For instructions on how to install docker for Ubuntu (at least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu). This link also has options for other Linux distributions.
 
-To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`
+To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`.
 
-Once you have docker up and running, the following command will help you run the container locally from within the root directory of the project:
+Once docker is up and running, you have two options. 
 
-```bash
+### Run and Go
+
+If you need to build the website very infrequently, this option is for you. The following command will help you run the container locally from within the root directory of the project without any intermediate steps:
+
+```
 docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll jekyll serve --livereload
 ```
 
-This will first pull down the jekyll docker image, then install all the dependencies inside the container and run the server.
+It will first pull down the jekyll docker image, then install all the dependencies inside the container and start up the website, all in one go.
 
-If you don't want to have to wait for the gems to download and install every time (perhaps because of a slow network connection), then build from the included [`Dockerfile`](/Dockerfile) with:
+### Build and Reuse
 
-```bash
+If you are going to need to test/build the website frequently, you probably don't want to have to wait for the gems to download and install _every_ time you run the previous command. In that case, it might be better to first build a Docker image from the included [`Dockerfile`](/Dockerfile) using the command:
+
+```
 docker build -t naacl/website .
 ```
 
-where `naacl/website` is a docker tag name for easy reference later. After that command completes, you can just run the website locally at `http://localhost:4000` with:
+where `naacl/website` is the docker tag for our image. After that command completes, you can use this newly created image to run the website locally at `http://localhost:4000` using the command:
 
-```bash
+```
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll naacl/website
 ```
 
