@@ -4,23 +4,74 @@ This is the code for the official website for the 2019 Annual Conference of the 
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-You can test this website locally on macOS as follows:
+# Table of contents
+
+* [Building Locally](#building-locally)
+   * [Using Ruby](#using-ruby)
+   * [Using Docker](#using-docker)
+* [Forking for a New Conference](#forking-for-a-new-conference)
+   * [Important Files](#important-files)
+   * [Domain Setup](#domain-setup)
+* [License](#license)
+
+# Building Locally
+
+GitHub Pages doesn't allow deploying changes in test mode so that they can be previewed before publishing. Therefore, if you want to see what the changes would look like, you need to build the website on your local machine. This section describes two possible options to do that:
+
+## Using Ruby
+
+This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the [Docker-based](#local-testing-with-docker) solution instead.
 
 1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
+
 2. Clone this repository. Note that this repository uses submodules so to properly check out the submodule code, run `git submodule init` and `git submodule update` after you clone the repository. You will need the submodule to generate the schedule for the website.
+
 3. Run the gems needed by this repository: `sudo bundle install`. 
    *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
+
 4. Start the jekyll server by running `bundle exec jekyll serve`.
+
 5. You can then see the website at http://localhost:4000.
 
+## Using Docker
 
-## Forking for a New Conference
+First you need to install Docker.
+
+- For instructions on how to install docker for Windows 10, go [here](https://docs.docker.com/docker-for-windows/install/), or for slightly older Windows computers, go [here](https://docs.docker.com/toolbox/overview/).
+
+- For instructions on how to install docker for MacOS (at least El Capitan 10.11), go [here](https://docs.docker.com/docker-for-mac/install/), or for slightly older MacOS computers, go [here](https://docs.docker.com/toolbox/overview/)
+
+- For instructions on how to install docker for Ubuntu (at least 14.04), go [here](https://docs.docker.com/install/linux/docker-ce/ubuntu/). This link also has options for other Linux distributions.
+
+To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`
+
+Once you have docker up and running, the following command will help you run the container locally from within the root directory of the project:
+
+```bash
+docker run --rm --volume=$(pwd):/srv/jekyll -p 4000:4000 -it jekyll/jekyll jekyll serve --livereload
+```
+
+This will first pull down the jekyll docker image, then install all the dependencies inside the container and run the server.
+
+If you don't want to have to wait for the gems to download and install every time (perhaps because of a slow network connection), then build from the included [`Dockerfile`](/Dockerfile) with:
+
+```bash
+docker build -t naacl/website .
+```
+
+where `naacl/website` is a docker tag name for easy reference later. After that command completes, you can just run the website locally at `http://localhost:4000` with:
+
+```bash
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll naacl/website
+```
+
+# Forking for a New Conference
 
 For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository](https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features. 
 
 **IMPORTANT**: Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content. It might be best to rename the `gh-pages` branch so that the website for the new conference does not get built with content from the old conference. You can rename the branch back to `gh-pages` once you have made sufficient changes locally to remove/modify the old conference content.
 
-### Important Files
+## Important Files
 
 If you fork this repository, the following files are the ones to pay attention to in order to create content for the website:
 
@@ -47,7 +98,7 @@ If you fork this repository, the following files are the ones to pay attention t
   automatically re-generated when you add the new external domain for the new conference. If you do not remove this file, you will
   get a page build warning from GitHub.
 
-### Domain Setup
+## Domain Setup
 
 The following settings connect the the main domain booked for the conference (e.g. `naacl2019.org`) with the underlying Github Pages build. 
 
@@ -63,7 +114,7 @@ CNAME www   naacl2019.org
 
 In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2019.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
 
-## License
+# License
 
 The MIT License (MIT)
 
