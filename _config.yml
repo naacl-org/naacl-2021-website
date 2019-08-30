@@ -12,6 +12,9 @@
 
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Server config options
+livereload: true
+
 # Site Settings
 locale                   : "en-US"
 title                    : "NAACL-HLT 2019"
