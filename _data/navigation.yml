@@ -1,32 +1,32 @@
 # main links
 main:
 
-  - title: "Schedule"
-    url: /schedule/
+  #- title: "Schedule"
+  #  url: /schedule/
 
-  - title: "LiveCaptions"
-    url: /captions/
+  #- title: "LiveCaptions"
+  #  url: /captions/
 
-  - title: "Program"
-    url: /program/tutorials/
+  #- title: "Program"
+  #  url: /program/tutorials/
 
-  - title: "Blog"
-    url: /blog
+  #- title: "Blog"
+  #  url: /blog
 
-  - title: "Registration"
-    url: /registration
+  #- title: "Registration"
+  #  url: /registration
 
-  - title: "Participants"
-    url: "/participants"
+  #- title: "Participants"
+  #  url: "/participants"
 
   - title: "Organization"
     url: /organization
 
-  - title: "Sponsors"
-    url: /sponsors/list/
-    
-  - title: "Calls"
-    url: /calls/papers
+  #- title: "Sponsors"
+  #  url: /sponsors/list/
+  #  
+  #- title: "Calls"
+  #  url: /calls/papers
 
 
 calls:
@@ -42,8 +42,6 @@ calls:
         url: /calls/workshops/
       - title: "Tutorial Proposals"
         url: /calls/tutorials/
-      - title: "Student Research Workshop Papers"
-        url: http://naacl2019-srw.github.io/cfp
 
 program:
   - title: Program Details

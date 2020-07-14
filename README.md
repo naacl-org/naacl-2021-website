@@ -1,6 +1,6 @@
-# NAACL-HLT 2019 official website
+# NAACL-HLT 2021 official website
 
-This is the code for the official website for the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+This is the code for the official website for the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -108,7 +108,7 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-The following settings connect the the main domain booked for the conference (e.g. `naacl2019.org`) with the underlying Github Pages build. 
+The following settings connect the the main domain booked for the conference (e.g. `naacl2021.org`) with the underlying Github Pages build. 
 
 On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
 
@@ -117,10 +117,10 @@ A   @   185.199.108.153
 A   @   185.199.109.153 
 A   @   185.199.110.153 
 A   @   185.199.111.153 
-CNAME www   naacl2019.org
+CNAME www   naacl2021.org
 ```
 
-In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2019.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
+In the settings for the repository on GitHub, the "custom domain" needs to be set to the main domain (e.g., `naacl2021.org`). This will create a CNAME file in the top folder of the Github repository. Note that it may take a few minutes for the changes to become effective until they are propagated through the DNS servers.
 
 # License
 
