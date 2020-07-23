@@ -9,9 +9,10 @@ sidebar: false
 <h3>General Chair</h3>
 <a href="http://kristinatoutanova.com">Kristina Toutanova</a>, Google Research <br/>
 
-<h3>Program Co-Chairs</h3>
+<h3>Program Co-Chairs [<a href="mailto:naacl-2021-program-chairs@googlegroups.com">email</a>]</h3>
 <a href="http://www.cs.uml.edu/~arum">Anna Rumshisky</a>,  University of Massachusetts Lowell <br/>
 <a href="https://www.cs.washington.edu/people/faculty/lsz">Luke Zettlemoyer</a>, University of Washington and Facebook AI Research <br/>
+<a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en">Dilek Hakkani-Tur</a>, Amazon Alexa AI <br/>
 
 <h3>Local Chair</h3>
 Priscilla Rasmussen,  Association for Computational Linguistics <br/>
