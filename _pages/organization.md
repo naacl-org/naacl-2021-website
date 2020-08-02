@@ -28,4 +28,4 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 <h3>Website Co-Chairs</h3>
 <a href="https://ppasupat.github.io">Ice Pasupat</a>, Google Research <br/>
-Iulia Turc, Google Research <br/>
+<a href="http://www.iuliaturc.com">Iulia Turc</a>, Google Research <br/>
