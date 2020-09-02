@@ -25,23 +25,24 @@ main:
   #- title: "Sponsors"
   #  url: /sponsors/list/
   #  
-  #- title: "Calls"
-  #  url: /calls/papers
+  - title: "Calls"
+    url: /calls/papers
 
 
 calls:
   - title: Call for
     children:
-      - title: "Main Conference Papers"
+      #- title: "Main Conference Papers"
+      - title: "Preliminary Call for Papers"
         url: /calls/papers/
-      - title: "Industry Track Papers"
-        url: /calls/industry/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Workshop Proposals"
-        url: /calls/workshops/
-      - title: "Tutorial Proposals"
-        url: /calls/tutorials/
+      #- title: "Industry Track Papers"
+      #  url: /calls/industry/
+      #- title: "System Demonstrations"
+      #  url: /calls/demos/
+      #- title: "Workshop Proposals"
+      #  url: /calls/workshops/
+      #- title: "Tutorial Proposals"
+      #  url: /calls/tutorials/
 
 program:
   - title: Program Details
