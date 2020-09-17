@@ -42,8 +42,8 @@ While NAACL-HLT 2021 will have a theme (TBD), we anticipate a comprehensive tech
 Following the previous conferences, NAACL-HLT 2021 will be open for two types of submissions: long and short papers. Author guidelines will be published at the conference webpage. Submission is electronic, using the Softconf START conference management for both long and short papers.
 
 ## Important Dates
-- Start of the anonymity period\*: Wednesday, October 23, 2020
-- Final paper submissions due (long, short, &amp; industry track): Monday, November 23, 2020
+- Start of the anonymity period\*: Friday, October 23, 2020
+- Final paper submissions due (long &amp; short): Monday, November 23, 2020
 - Notification of acceptance: Wednesday, March 10, 2021
 - Camera ready papers due: April 11, 2021
 
