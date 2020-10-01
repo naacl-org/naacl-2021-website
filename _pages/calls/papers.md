@@ -42,12 +42,33 @@ While NAACL-HLT 2021 will have a theme (TBD), we anticipate a comprehensive tech
 Following the previous conferences, NAACL-HLT 2021 will be open for two types of submissions: long and short papers. Author guidelines will be published at the conference webpage. Submission is electronic, using the Softconf START conference management for both long and short papers.
 
 ## Important Dates
-- Start of the anonymity period\*: Friday, October 23, 2020
-- Final paper submissions due (long &amp; short): Monday, November 23, 2020
-- Notification of acceptance: Wednesday, March 10, 2021
-- Camera ready papers due: April 11, 2021
 
-All deadlines are 11.59 pm UTC -12h.
+<table style="width: 100%; font-size: .9em;">
+  <tbody>
+    <tr>
+        <td style="width: 50%;">Start of the anonymity period*</td>
+        <td style="width: 15%;">Friday</td>
+        <td>October 23, 2020</td>
+    </tr>
+    <tr>
+        <td>Final paper submissions due<br/>(<i>long &amp; short</i>)</td>
+        <td>Monday</td>
+        <td>November 23, 2020</td>
+    </tr>
+    <tr>
+        <td>Notification of acceptance</td>
+        <td>Wednesday</td>
+        <td>March 10, 2021</td>
+    </tr>
+    <tr>
+      <td>Camera ready papers due</td>
+      <td>Sunday</td>
+      <td>April 11, 2021</td>
+    </tr>
+  </tbody>
+</table>
+
+<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</b>
 
 \* Anonymity period runs from 1 month before the submission deadline (starting Wednesday, October 23, 2020 11:59PM UTC-12:00) up to the date when your paper is either accepted, rejected, or withdrawn (March 10, 2021). You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period. By a version of a paper we understand another paper having essentially the same scientific content but possibly differing in minor details (including title and structure) and/or in length (e.g., an abstract is a version of the paper that it summarizes). If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the conference. The submitted version must not refer to the non-anonymized version, and you must inform the program chair(s) that a non-anonymized version exists. You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period. Note that, while you are not prohibited from making a non-anonymous version available online before the start of the anonymity period, this does make double-blind reviewing more difficult to maintain, and we therefore encourage you to wait until the end of the anonymity period if possible. Alternatively, you may consider submitting your work to the Computational Linguistics journal, which does not require anonymization and has a track for “short” (i.e., conference-length) papers.
 
