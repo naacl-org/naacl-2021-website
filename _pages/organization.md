@@ -26,6 +26,30 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <a href="https://webdocs.cs.ualberta.ca/~kondrak">Greg Kondrak</a>, University of Alberta <br/>
 <a href="https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva">Kalina Bontcheva</a>, University of Sheffield <br/>
 
+<h3>Student Research Workshop Chairs [<a href="mailto:naacl2021-srw@googlegroups.com">email</a>]</h3>
+<a href="https://www.cs.cornell.edu/~esindurmus/">Esin Durmus</a>, Cornell University <br/>
+<a href="https://cs.stanford.edu/~nfliu/">Nelson Liu</a>, Stanford University <br/>
+<a href="https://vgupta123.github.io/">Vivek Gupta</a>, University of Utah <br/>
+
+<h3>Faculty Advisors to the Student Research Workshop [<a href="mailto:naacl2021-srw@googlegroups.com">email</a>]</h3>
+<a href="https://vnpeng.net/">Nanyun Peng</a>, University of California, Los Angeles <br/>
+<a href="https://ysu1989.github.io/">Yu Su</a>, Ohio State University <br/>
+
+<h3>Ethics Chairs</h3>
+<a href="https://faculty.washington.edu/ebender/">Emily Bender</a>, University of Washington <br/>
+Karën Fort, Sorbonne Université <br/>
+
+<h3>Demonstration Chairs</h3>
+<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-avi">Avi Sil</a>, IBM Research AI <br/>
+<a href="http://victorialin.net/">Victoria Lin</a>, Salesforce Research <br/>
+
+<h3>Publication Chairs [<a href="mailto:naacl2021-publication-chairs@googlegroups.com">email</a>]</h3>
+<a href="https://beltagy.net/">Iz Beltagy</a>, AI2 <br/>
+<a href="https://bethard.faculty.arizona.edu/">Steven Bethard</a>, University of Arizona <br/>
+<a href="https://rycolab.github.io/authors/ryan/">Ryan Cotterell</a>, ETH Zurich and University of Cambridge <br/>
+<a href="http://faculty.iiitd.ac.in/~tanmoy/">Tanmoy Chakraborty</a>, IIT-Delhi <br/>
+<a href="https://yz-joey.github.io/">Yuchao Zhou</a>, University of California, Los Angeles <br/>
+
 <h3>Website Co-Chairs</h3>
 <a href="https://ppasupat.github.io">Ice Pasupat</a>, Google Research <br/>
 <a href="http://www.iuliaturc.com">Iulia Turc</a>, Google Research <br/>
