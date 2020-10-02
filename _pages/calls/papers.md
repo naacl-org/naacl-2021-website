@@ -85,7 +85,7 @@ Relevant topics for the conference include, but are not limited to, the followin
 - Summarization
 - Syntax: Tagging, Chunking, and Parsing
 
-For more detail regarding each area, please see the PC blog available on the conference website <https://2021.naacl.org/>.
+For more detail regarding each area, please see the PC blog available (soon) on the conference website <https://2021.naacl.org/>.
 
 ## NAACL-HLT 2021 Special Theme: New Challenges in NLP: Tasks, Methods, Positions
 
@@ -182,7 +182,7 @@ During the submission process, authors will be asked to answer the questions fro
 
 ### Style and formatting guidelines
 
-Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official NAACL-HLT 2021 style templates, available on the conference website. All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
+Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official NAACL-HLT 2021 style templates, available (soon) on the conference website. All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
 
 ### Presentation Requirement
 
