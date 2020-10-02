@@ -18,39 +18,37 @@ NAACL-HLT 2021 has a goal of a diverse technical program–in addition to tradit
 
 - Announcing NAACL-HLT 2021 special theme
 - Updated topics list
-- Clarification: no separate industry track at NAACL-HLT 2021, industry track papers should be submitted to the main conference track, possibly to the NLP Applications area.
+- Clarification: *no separate industry track* at NAACL-HLT 2021, industry track papers should be submitted to the main conference track, possibly to the NLP Applications area.
 - Added detailed submission instructions, including ethics policy, reproducibility criteria, double submission policy, and sticky reviews.
 
 ## Important Dates
 
 <table style="width: 100%; font-size: .9em;">
-  <tbody>
-    <tr>
-        <td style="width: 50%;">Start of the anonymity period</td>
-        <td style="width: 15%;">Friday</td>
-        <td>October 23, 2020</td>
-    </tr>
-    <tr>
-        <td>Final paper submissions due<br/>(<i>long &amp; short</i>)</td>
-        <td>Monday</td>
-        <td>November 23, 2020</td>
-    </tr>
-    <tr>
-        <td>Author Response Period</td>
-        <td>Wednesday &ndash; Monday</td>
-        <td>January 20 &ndash; 25, 2021</td>
-    </tr>
-    <tr>
-        <td>Notification of acceptance</td>
-        <td>Wednesday</td>
-        <td>March 10, 2021</td>
-    </tr>
-    <tr>
-      <td>Camera ready papers due</td>
-      <td>Sunday</td>
-      <td>April 11, 2021</td>
-    </tr>
-  </tbody>
+  <tr>
+      <td style="width: 50%;">Start of the <a href="#anonymity-period">anonymity period</a></td>
+      <td style="width: 15%;">Friday</td>
+      <td>October 23, 2020</td>
+  </tr>
+  <tr>
+      <td>Final paper submissions due<br/>(<i>long &amp; short</i>)</td>
+      <td>Monday</td>
+      <td>November 23, 2020</td>
+  </tr>
+  <tr>
+      <td>Author Response Period</td>
+      <td>Wednesday &ndash; Monday</td>
+      <td>January 20 &ndash; 25, 2021</td>
+  </tr>
+  <tr>
+      <td>Notification of acceptance</td>
+      <td>Wednesday</td>
+      <td>March 10, 2021</td>
+  </tr>
+  <tr>
+    <td>Camera ready papers due</td>
+    <td>Sunday</td>
+    <td>April 11, 2021</td>
+  </tr>
 </table>
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a>.</b>
