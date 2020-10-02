@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: "/assets/images/mexico_city/palacio_de_bellas_artes.jpg"
   caption: 'Photo by <a href="https://unsplash.com/@manuel_arroyo25">Manuel Arroyo</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "<br/><br/>"
+excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 ---
 
 ## News
