@@ -33,8 +33,10 @@ calls:
   - title: Call for
     children:
       #- title: "Main Conference Papers"
-      - title: "Preliminary Call for Papers"
+      - title: "First Call for Papers"
         url: /calls/papers/
+      - title: "Preliminary Call for Papers"
+        url: /calls/papers/prelim/
       #- title: "Industry Track Papers"
       #  url: /calls/industry/
       #- title: "System Demonstrations"
