@@ -47,7 +47,7 @@ Karën Fort, Sorbonne Université <br/>
 <a href="https://beltagy.net/">Iz Beltagy</a>, AI2 <br/>
 <a href="https://bethard.faculty.arizona.edu/">Steven Bethard</a>, University of Arizona <br/>
 <a href="https://rycolab.github.io/authors/ryan/">Ryan Cotterell</a>, ETH Zurich and University of Cambridge <br/>
-<a href="http://faculty.iiitd.ac.in/~tanmoy/">Tanmoy Chakraborty</a>, IIT-Delhi <br/>
+<a href="http://faculty.iiitd.ac.in/~tanmoy/">Tanmoy Chakraborty</a>, IIIT-Delhi <br/>
 <a href="https://yz-joey.github.io/">Yuchao Zhou</a>, University of California, Los Angeles <br/>
 
 <h3>Website Chairs</h3>
