@@ -18,7 +18,8 @@ NAACL-HLT 2021 has a goal of a diverse technical program–in addition to tradit
 
 - Announcing NAACL-HLT 2021 special theme
 - Updated topics list
-- Clarification: *no separate industry track* at NAACL-HLT 2021, industry track papers should be submitted to the main conference track, possibly to the NLP Applications area.
+- <span style="text-decoration: line-through; color: #888;">~~Clarification: *no separate industry track* at NAACL-HLT 2021, industry track papers should be submitted to the main conference track, possibly to the NLP Applications area.~~</span>
+- There will be an industry track with submission date after the main conference submission date (look out for industry track CFP).
 - Added detailed submission instructions, including ethics policy, reproducibility criteria, double submission policy, and sticky reviews.
 
 ## Important Dates
