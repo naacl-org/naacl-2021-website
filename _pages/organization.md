@@ -37,7 +37,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 <h3>Ethics Chairs</h3>
 <a href="https://faculty.washington.edu/ebender/">Emily Bender</a>, University of Washington <br/>
-Karën Fort, Sorbonne Université <br/>
+<a href="https://www.schplaf.org/kf/index_en.php">Karën Fort</a>, Sorbonne Université <br/>
 
 <h3>Demonstration Chairs</h3>
 <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-avi">Avi Sil</a>, IBM Research AI <br/>
