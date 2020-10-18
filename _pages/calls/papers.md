@@ -8,6 +8,12 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
+<div class="notice--info" markdown="1">
+**Updates** since the initial release on October 2:
+* There will now be an [industry track](#new-in-this-call-for-papers).
+* Added clarifications for the [anonymity period](#anonymity-period).
+</div>
+
 The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021](/)) is currently scheduled to take place in Mexico City, Mexico from June 6th to June 11th, 2021. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates. 
 
 NAACL-HLT 2021 aims to bring together researchers interested in the design and study of natural language processing technology as well as its applications to new problem areas. With this goal in mind, NAACL-HLT 2021 invites the submission of long and short papers on creative, substantial and unpublished research in all aspects of computational linguistics. More details will be available on the conference website.
@@ -136,6 +142,12 @@ No double submissions will be allowed for NAACL-HLT 2021. Authors submitting mor
 As mentioned above, the anonymity period for NAACL-HLT 2021 is from October 23, 2020 to March 10, 2021. You may not make a non-anonymized version of your paper available online to the general community (for example, via a preprint server) during the anonymity period.
 
 You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period.
+
+**Clarifications:**
+
+* The anonymity period starts at the end of Oct 23, 2020 anywhere on earth (11:59:59 pm UTC-12).
+
+* For papers submitted to arxiv or another pre-print server, there is often a delay between the submission time and the time the paper appears online. You will be in compliance with the anonymity rules as long as you submit by the end of Oct 23rd, even if the paper appears later (for arxiv papers, the submission time is seen under Submission history and the latest time to submit without violating the anonymity requirements is Oct 24, 2020 11:59:59 am UTC = Oct 23, 2020 11:59:59 pm [UTC-12](https://www.timeanddate.com/time/zone/timezone/utc-12)).
 
 ### Double blind review
 
