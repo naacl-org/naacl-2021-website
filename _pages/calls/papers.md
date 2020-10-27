@@ -12,6 +12,7 @@ toc_icon: "cog"
 **Updates** since the initial release on October 2:
 * There will now be an [industry track](#new-in-this-call-for-papers).
 * Added clarifications for the [anonymity period](#anonymity-period).
+* Added [style files and formatting guides](/calls/style-and-formatting/).
 </div>
 
 The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021](/)) is currently scheduled to take place in Mexico City, Mexico from June 6th to June 11th, 2021. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates. 
@@ -193,7 +194,7 @@ During the submission process, authors will be asked to answer the questions fro
 
 ### Style and formatting guidelines
 
-Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official NAACL-HLT 2021 style templates, available (soon) on the conference website. All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
+Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official [NAACL-HLT 2021 style templates](/calls/style-and-formatting/). All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
 
 ### Presentation Requirement
 

@@ -30,11 +30,12 @@ main:
 
 
 calls:
-  - title: Call for
+  - title: Calls
     children:
-      #- title: "Main Conference Papers"
       - title: "First Call for Papers"
         url: /calls/papers/
+      - title: "Style Files and Formatting"
+        url: /calls/style-and-formatting/
       - title: "Preliminary Call for Papers"
         url: /calls/papers/prelim/
       #- title: "Industry Track Papers"
