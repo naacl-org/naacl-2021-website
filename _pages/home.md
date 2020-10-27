@@ -10,6 +10,9 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 
 ## News
 
+**October 27, 2020**: Added <a href="/calls/style-and-formatting/">Style Files and Formatting</a>.
+{: .notice--info}
+
 **October 2, 2020**: The <a href="/calls/papers/">First Call for Papers</a> is out!
 {: .notice--info}
 
