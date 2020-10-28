@@ -1,7 +1,7 @@
 ---
 title: First Call for Papers
 layout: single
-permalink: /calls/papers/
+permalink: /calls/papers/first/
 sidebar: 
     nav: "calls"
 toc: true
@@ -15,7 +15,7 @@ toc_icon: "cog"
 * Added [style files and formatting guides](/calls/style-and-formatting/).
 </div>
 
-The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021](/)) is currently scheduled to take place in Mexico City, Mexico from June 6th to June 11th, 2021. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates. 
+2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021](/)) is currently scheduled to take place in Mexico City, Mexico from June 6th to June 11th, 2021. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates. 
 
 NAACL-HLT 2021 aims to bring together researchers interested in the design and study of natural language processing technology as well as its applications to new problem areas. With this goal in mind, NAACL-HLT 2021 invites the submission of long and short papers on creative, substantial and unpublished research in all aspects of computational linguistics. More details will be available on the conference website.
 
@@ -99,7 +99,7 @@ We have made significant progress in NLP over the last five years, and ACL 2020 
 
 Despite the general applicability of the unsupervised pre-training/fine-tuning paradigm, many problems are still very challenging for current models. At the same time, given the recent progress, there are likely broad new classes of problems that can now be studied for the first time. What tasks or capabilities should we focus on next?  What new classes of models should we be investigating? We envision papers falling into this theme including (but not limited to) (1) empirical and dataset papers that propose new challenges that bring us closer to human-level language understanding and generation, and (2) position papers framing an important direction or highlighting an understudied research problem. 
 
-## Submission Types and Requirements
+## Submission Types & Requirements
 
 Following the previous conferences, NAACL-HLT 2021 will be open for two types of submissions: long and short papers. Author guidelines will be published at the conference webpage. Submission is electronic, using the Softconf START conference management for both long and short papers.
 
@@ -196,7 +196,7 @@ During the submission process, authors will be asked to answer the questions fro
 
 Submissions should follow the NAACL-HLT 2021 style guidelines, which will be posted on the conference website. Long paper submissions must follow the two-column format of ACL proceedings without exceeding eight (8) pages of content. Short paper submissions must also follow the two-column format of ACL proceedings, and must not exceed four (4) pages. References do not count against these limits. We strongly recommend the use of the official [NAACL-HLT 2021 style templates](/calls/style-and-formatting/). All submissions must be in PDF format. Submissions that do not adhere to the above author guidelines or ACL policies will be rejected without review.
 
-### Presentation Requirement
+## Presentation Requirement
 
 All accepted papers must be presented at the conference to appear in the proceedings. At least one author of each accepted paper must register for NAACL-HLT 2021 by the early registration deadline.
 

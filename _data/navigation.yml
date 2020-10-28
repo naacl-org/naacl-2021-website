@@ -19,24 +19,29 @@ main:
   #- title: "Participants"
   #  url: "/participants"
 
+  - title: "Calls"
+    url: /calls/papers/
+
+  - title: "Ethics"
+    url: /ethics/faq/
+
   - title: "Organization"
     url: /organization
 
   #- title: "Sponsors"
   #  url: /sponsors/list/
-  #  
-  - title: "Calls"
-    url: /calls/papers
-
+    
 
 calls:
   - title: Calls
     children:
-      - title: "First Call for Papers"
+      - title: "Final Call for Papers"
         url: /calls/papers/
       - title: "Style Files and Formatting"
         url: /calls/style-and-formatting/
-      - title: "Preliminary Call for Papers"
+      - title: "(old) First Call for Papers"
+        url: /calls/papers/first/
+      - title: "(old) Preliminary Call for Papers"
         url: /calls/papers/prelim/
       #- title: "Industry Track Papers"
       #  url: /calls/industry/
@@ -46,6 +51,14 @@ calls:
       #  url: /calls/workshops/
       #- title: "Tutorial Proposals"
       #  url: /calls/tutorials/
+
+ethics:
+  - title: Ethics
+    children:
+      - title: "Ethics FAQ"
+        url: /ethics/faq/
+      - title: "Ethics Review Questions"
+        url: /ethics/review-questions/
 
 program:
   - title: Program Details

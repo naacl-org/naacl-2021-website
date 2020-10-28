@@ -10,13 +10,13 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 
 ## News
 
-**October 27, 2020**: Added <a href="/calls/style-and-formatting/">Style Files and Formatting</a>.
+**October 27, 2020**: Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions).
+{: .notice--warning}
+
+**October 2, 2020**: The [First Call for Papers](/calls/papers/first) is out!
 {: .notice--info}
 
-**October 2, 2020**: The <a href="/calls/papers/">First Call for Papers</a> is out!
-{: .notice--info}
-
-**September 2, 2020**: <a href="/calls/papers/prelim">Preliminary Call for Papers</a>
+**September 2, 2020**: [Preliminary Call for Papers](/calls/papers/preliminary)
 {: .notice--info} 
 
 ## Welcome!
