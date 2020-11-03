@@ -10,6 +10,9 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 
 ## News
 
+**November 2, 2020**: Added [Areas with Descriptions](/blog/).
+{: .notice--info}
+
 **October 27, 2020**: Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions).
 {: .notice--warning}
 
