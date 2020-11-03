@@ -94,7 +94,7 @@ Relevant topics for the conference include, but are not limited to, the followin
 - Summarization
 - Syntax: Tagging, Chunking, and Parsing
 
-For more detail regarding each area, please watch for a PC blog available soon on the conference website <https://2021.naacl.org/>.
+For more detail regarding each area, please refer to [this blog post](../../blog/).
 
 ## NAACL-HLT 2021 Special Theme: New Challenges in NLP: Tasks, Methods, Positions
 
