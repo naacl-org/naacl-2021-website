@@ -104,7 +104,7 @@ Despite the general applicability of the unsupervised pre-training/fine-tuning p
 
 ## Submission Types & Requirements
 
-Following the previous conferences, NAACL-HLT 2021 will be open for two types of submissions: long and short papers. Author guidelines will be published at the conference webpage. Submission is electronic, using the Softconf START conference management for both long and short papers.
+Following the previous conferences, NAACL-HLT 2021 will be open for two types of submissions: long and short papers. Author guidelines will be published at the conference webpage. Submission is electronic, using the Softconf START conference management for both long and short papers. The submission site is now available at [https://www.softconf.com/naacl2021/papers/](https://www.softconf.com/naacl2021/papers/).
 
 ### Long Papers
 
