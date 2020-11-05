@@ -37,16 +37,16 @@ calls:
     children:
       - title: "Final Call for Papers"
         url: /calls/papers/
+      - title: "Call for System Demonstrations"
+        url: /calls/demos/
       - title: "Style Files and Formatting"
         url: /calls/style-and-formatting/
-      - title: "(old) First Call for Papers"
-        url: /calls/papers/first/
-      - title: "(old) Preliminary Call for Papers"
-        url: /calls/papers/prelim/
+      #- title: "(old) First Call for Papers"
+      #  url: /calls/papers/first/
+      #- title: "(old) Preliminary Call for Papers"
+      #  url: /calls/papers/prelim/
       #- title: "Industry Track Papers"
       #  url: /calls/industry/
-      #- title: "System Demonstrations"
-      #  url: /calls/demos/
       #- title: "Workshop Proposals"
       #  url: /calls/workshops/
       #- title: "Tutorial Proposals"

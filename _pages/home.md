@@ -10,6 +10,9 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 
 ## News
 
+**November 5, 2020**: Added the [Call for System Demonstrations](/calls/demos/).
+{: .notice--info}
+
 **November 2, 2020**: Added [Areas with Descriptions](/blog/).
 {: .notice--info}
 

@@ -9,6 +9,12 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+All accepted demos are published in a companion volume of the conference proceedings. We expect at least one of the authors to present a live demo during a demo session at NAACL 2021, with an accompanying poster.
+Submissions will undergo a single-blind reviewing process. So papers may include author and affiliation information, and freely make references to previously published material, and URLs.
+
+This year we are incorporating ethical considerations in the review process. Authors will be allowed extra space after the main content for a broader impact statement or other discussion of ethics. Please review the ethics policy before submitting.
+
+
 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021](/)) is currently scheduled to take place in Mexico City, Mexico from June 6th to June 11th, 2021. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates. 
 
 NAACL-HLT 2021 aims to bring together researchers interested in the design and study of natural language processing technology as well as its applications to new problem areas. With this goal in mind, NAACL-HLT 2021 invites the submission of long and short papers on creative, substantial and unpublished research in all aspects of computational linguistics. More details will be available on the conference website.
@@ -16,6 +22,8 @@ NAACL-HLT 2021 aims to bring together researchers interested in the design and s
 NAACL-HLT 2021 has a goal of a diverse technical program–in addition to traditional research results, papers may present negative findings, survey an area, announce the creation of a new resource, argue a position, report novel linguistic insights derived using existing techniques, and reproduce, or fail to reproduce, previous results.
 
 ## New in this Call for Papers
+
+<span style="color: #888; font-size: 80%">(Previous versions: [First Call for Papers](/calls/papers/first/), [Preliminary Call for Papers](/calls/papers/prelim/))</span>
 
 - Updated section on [ethics and ethics reviews](#ethics-policy-updated-in-final-call).
 - Clarification: the industry track will return to NAACL-HLT 2021. Please watch for a separate call for papers soon, with a later paper deadline.
