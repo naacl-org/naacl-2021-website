@@ -33,11 +33,13 @@ main:
     
 
 calls:
-  - title: Calls
+  - title: Call for
     children:
-      - title: "Final Call for Papers"
+      - title: "Main Conference Papers"
         url: /calls/papers/
-      - title: "Call for System Demonstrations"
+      - title: "Industry Track Papers"
+        url: /calls/industry/
+      - title: "System Demonstrations"
         url: /calls/demos/
       - title: "Style Files and Formatting"
         url: /calls/style-and-formatting/
@@ -45,8 +47,6 @@ calls:
       #  url: /calls/papers/first/
       #- title: "(old) Preliminary Call for Papers"
       #  url: /calls/papers/prelim/
-      #- title: "Industry Track Papers"
-      #  url: /calls/industry/
       #- title: "Workshop Proposals"
       #  url: /calls/workshops/
       #- title: "Tutorial Proposals"
