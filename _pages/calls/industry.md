@@ -107,8 +107,8 @@ General chair: Kristina Toutanova (Google)
   </tr>
   <tr>
     <td>Final notification for papers requiring ethics re-review</td>
-    <td>Thursday</td>
-    <td>May 6, 2021</td>
+    <td>Friday</td>
+    <td>May 7, 2021</td>
   </tr>
 </table>
 
