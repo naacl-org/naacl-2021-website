@@ -13,7 +13,7 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 **November 5, 2020**: Added [Call for Industry Track Papers](/calls/industry/) and [Call for System Demonstrations](/calls/demos/).
 {: .notice--info}
 
-**November 2, 2020**: Added [Areas with Descriptions](/blog/).
+**November 2, 2020**: Added [Areas with Descriptions](/calls/papers/#areas-with-descriptions).
 {: .notice--info}
 
 **October 27, 2020**: Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions).
