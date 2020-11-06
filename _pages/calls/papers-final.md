@@ -147,7 +147,7 @@ Authors may present preliminary versions of their work in other venues that are 
 
 ### Double submission
 
-No double submissions will be allowed for NAACL-HLT 2021. Authors submitting more than one paper to NAACL-HLT 2021 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL-HLT 2021 track (Research, SRW or demos); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
+No double submissions will be allowed for NAACL-HLT 2021. Authors submitting more than one paper to NAACL-HLT 2021 must ensure that the submissions do not overlap significantly (>25%) with each other. A given paper may only be submitted to a single NAACL-HLT 2021 track (Research, SRW, Demos or Industry); any paper found to be submitted to more than one track will be rejected by all tracks. Resubmission to an appropriate workshop that follows the main conference is not affected by this policy.
 
 ### Anonymity period
 

@@ -14,6 +14,11 @@ sidebar: false
 <a href="https://www.cs.washington.edu/people/faculty/lsz">Luke Zettlemoyer</a>, University of Washington and Facebook AI Research <br/>
 <a href="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en">Dilek Hakkani-Tur</a>, Amazon Alexa AI <br/>
 
+<hr>Industry Track Chairs [<a href="mailto: naacl2021-industry-track@googlegroups.com">email</a>]</hr>
+<a href="http://owenrambow.com/">Owen Rambow</a>, Stony Brook University
+<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli">Yunyao Li</a>, IBM Research
+<a href=http://pages.cs.wisc.edu/~ybkim/>Young-Bum Kim</a>, Amazon
+
 <h3>Local Chair</h3>
 Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
