@@ -9,12 +9,6 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-All accepted demos are published in a companion volume of the conference proceedings. We expect at least one of the authors to present a live demo during a demo session at NAACL 2021, with an accompanying poster.
-Submissions will undergo a single-blind reviewing process. So papers may include author and affiliation information, and freely make references to previously published material, and URLs.
-
-This year we are incorporating ethical considerations in the review process. Authors will be allowed extra space after the main content for a broader impact statement or other discussion of ethics. Please review the ethics policy before submitting.
-
-
 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021](/)) is currently scheduled to take place in Mexico City, Mexico from June 6th to June 11th, 2021. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates. 
 
 NAACL-HLT 2021 aims to bring together researchers interested in the design and study of natural language processing technology as well as its applications to new problem areas. With this goal in mind, NAACL-HLT 2021 invites the submission of long and short papers on creative, substantial and unpublished research in all aspects of computational linguistics. More details will be available on the conference website.
