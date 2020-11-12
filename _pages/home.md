@@ -10,65 +10,40 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 
 ## News
 
-**November 5, 2020**: Added [Call for Industry Track Papers](/calls/industry/) and [Call for System Demonstrations](/calls/demos/).
-{: .notice--info}
+<style>
+.news-table { font-size: .9em; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 20%; }
+</style>
 
-**November 2, 2020**: Added [Areas with Descriptions](/calls/papers/#areas-with-descriptions).
-{: .notice--info}
+| November 5, 2020 | Added [Call for Industry Track Papers](/calls/industry/) and [Call for System Demonstrations](/calls/demos/). |
+| November 2, 2020 | Added [Areas with Descriptions](/calls/papers/#areas-with-descriptions). |
+| October 27, 2020 | Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions). |
+| October 2, 2020 | The [First Call for Papers](/calls/papers/first) is out! |
+| September 2, 2020 | [Preliminary Call for Papers](/calls/papers/prelim) is out. |
+{: .news-table}
 
-**October 27, 2020**: Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions).
-{: .notice--warning}
+## Important Dates
 
-**October 2, 2020**: The [First Call for Papers](/calls/papers/first) is out!
-{: .notice--info}
+<style>
+.dates-table { font-size: .9em; }
+.dates-table tr td:nth-child(1) { width: 55%; }
+.dates-table tr td:nth-child(2) { width: 25%; }
+.dates-table del { color: #888; }
+</style>
 
-**September 2, 2020**: [Preliminary Call for Papers](/calls/papers/prelim)
-{: .notice--info} 
+| ~~Start of the anonymity period~~ | ~~Friday~~ | ~~October 23, 2020~~ |
+| Final paper submissions due (*long & short*) | Monday | November 23, 2020 |
+| Author Response Period | Wednesday – Monday | January 20 – 25, 2021 |
+| Notification of acceptance | Wednesday | March 10, 2021 |
+| Camera ready papers due | Sunday | April 11, 2021 |
+| Final notification for papers requiring ethics re-review | Friday | April 30, 2021 |
+| Publication date | Monday | May 24, 2021 |
+| Conference date | Sunday – Friday | June 6 – 11, 2021 |
+{: .dates-table}
+
+<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
 
 ## Welcome!
 
 NAACL-HLT 2021 is currently scheduled to take place in **Mexico City, Mexico** from **June 6th to June 11th, 2021**. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
 
-## Important Dates
-
-<table style="font-size: .9em;">
-<tbody>
-  <tr>
-    <td style="width: 55%;">Start of the anonymity period</td>
-    <td style="width: 25%;">Friday</td>
-    <td style="width: 25%;">October 23, 2020</td>
-  </tr>
-  <tr>
-    <td>Final paper submissions due (<i>long &amp; short</i>)</td>
-    <td>Monday</td>
-    <td>November 23, 2020</td>
-  </tr>
-  <tr>
-    <td>Author Response Period</td>
-    <td>Wednesday &ndash; Monday</td>
-    <td>January 20 &ndash; 25, 2021</td>
-  </tr>
-  <tr>
-    <td>Notification of acceptance</td>
-    <td>Wednesday</td>
-    <td>March 10, 2021</td>
-  </tr>
-  <tr>
-    <td>Camera ready papers due</td>
-    <td>Sunday</td>
-    <td>April 11, 2021</td>
-  </tr>
-  <tr>
-    <td>Final notification for papers requiring ethics re-review</td>
-    <td>Friday</td>
-    <td>April 30, 2021</td>
-  </tr>
-  <tr>
-    <td>Publication date</td>
-    <td>Monday</td>
-    <td>May 24, 2021</td>
-  </tr>
-</tbody>
-</table>
-
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
