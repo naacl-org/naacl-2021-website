@@ -22,7 +22,7 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 **October 2, 2020**: The [First Call for Papers](/calls/papers/first) is out!
 {: .notice--info}
 
-**September 2, 2020**: [Preliminary Call for Papers](/calls/papers/preliminary)
+**September 2, 2020**: [Preliminary Call for Papers](/calls/papers/prelim)
 {: .notice--info} 
 
 ## Welcome!
