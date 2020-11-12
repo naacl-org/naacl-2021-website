@@ -13,14 +13,14 @@ As announced in the NAACL call for papers, NAACL 2021:
 
 > _Authors are required to honour the ethical code set out in the [ACM Code of Ethics](https://www.acm.org/code-of-ethics). The consideration of the ethical impact of our research, use of data, and potential applications of our work has always been an important consideration, and as artificial intelligence is becoming more mainstream, these issues are increasingly pertinent. We ask that all authors read the code, and ensure that their work is conformant to this code. We reserve the right to reject papers on ethical grounds, where the authors are judged to have operated counter to the code of ethics, or have inadequately addressed legitimate ethical concerns with their work._
 
-This blog post provides an FAQ about the ethics review process and guidance to authors for how to address ethical considerations in your NAACL papers. This applies in the first instance to papers submitted to the main conference (including industry track papers and demo papers). We encourage NAACL workshops to follow similar principles.
+This page provides an FAQ about the ethics review process and guidance to authors for how to address ethical considerations in your NAACL papers. This applies in the first instance to papers submitted to the main conference (including industry track papers and demo papers). We encourage NAACL workshops to follow similar principles.
 
 
 ## How is NAACL 2021 handling ethics review? 
 
 Ethics review is handled at several levels: 
 
-*   In the CFP and this blog post: information is given concerning what is expected from the authors and reviewers concerning ethics. 
+*   In the CFP and this page: information is given concerning what is expected from the authors and reviewers concerning ethics. 
 
 *   NAACL reviewers are asked to consider the points listed in the [ethics review questions page](/ethics/review-questions/) and then indicate whether a paper should be flagged for further ethics review and, if so, what considerations lead them to that recommendation.
 
