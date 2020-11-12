@@ -55,6 +55,12 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <a href="http://faculty.iiitd.ac.in/~tanmoy/">Tanmoy Chakraborty</a>, IIIT-Delhi <br/>
 <a href="https://yz-joey.github.io/">Yuchao Zhou</a>, University of California, Los Angeles <br/>
 
+<h3>Publicity Chairs [<a href="mailto:naacl2021-publicity@googlegroups.com">email</a>]</h3>
+<a href="https://sarahwie.github.io/">Sarah Wiegreffe</a>, Georgia Institute of Technology <br/>
+<a href="http://www.esantus.com/">Enrico Santus</a>, Bayer <br/>
+<a href="https://qipeng.me/">Peng Qi</a>, JD AI <br/>
+<a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>, Princeton <br/>
+
 <h3>Website Chairs</h3>
 <a href="https://ppasupat.github.io">Ice Pasupat</a>, Google Research <br/>
 <a href="http://www.iuliaturc.com">Iulia Turc</a>, Google Research <br/>
