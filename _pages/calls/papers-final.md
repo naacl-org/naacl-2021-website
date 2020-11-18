@@ -205,10 +205,13 @@ As mentioned above, the anonymity period for NAACL-HLT 2021 is from October 23, 
 You may not update the non-anonymized version during the anonymity period, and we ask you not to advertise it on social media or take other actions that would further compromise double-blind reviewing during the anonymity period.
 
 **Clarifications:**
+{: #anonymity-period-clarifications}
 
 - The anonymity period starts at the end of Oct 23, 2020 anywhere on earth (11:59:59 pm UTC-12).
 
 - For papers submitted to arxiv or another pre-print server, there is often a delay between the submission time and the time the paper appears online. You will be in compliance with the anonymity rules as long as you submit by the end of Oct 23rd, even if the paper appears later (for arxiv papers, the submission time is seen under Submission history and the latest time to submit without violating the anonymity requirements is Oct 24, 2020 11:59:59 am UTC = Oct 23, 2020 11:59:59 pm [UTC-12](https://www.timeanddate.com/time/zone/timezone/utc-12)).
+
+- For papers submitted to ICLR 2021, if a non-anonymous version of the paper was made publicly available before the NAACL 2021 anonymity period (on or before Oct 23), it is OK to withdraw from ICLR and submit to NAACL. However, if de-anonymization on withdrawal results in the paper being de-anonymized for the first time, the paper would violate the NAACL 2021 anonymity policies.
 
 ### Double blind review
 
