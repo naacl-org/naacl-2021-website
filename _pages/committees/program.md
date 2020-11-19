@@ -2,7 +2,7 @@
 title: Senior Program Committee
 layout: single
 excerpt: "NAACL 2021 program committee."
-permalink: /committees/program
+permalink: /committees/program/
 sidebar:
     nav: "committees"
 ---

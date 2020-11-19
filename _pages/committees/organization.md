@@ -2,7 +2,7 @@
 title: Organizing Committee
 layout: single
 excerpt: "NAACL 2021 organizing committee."
-permalink: /organization
+permalink: /organization/
 sidebar: 
     nav: "committees"
 ---
