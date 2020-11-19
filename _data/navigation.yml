@@ -25,6 +25,9 @@ main:
   - title: "Ethics"
     url: /ethics/faq/
 
+  - title: "FAQ"
+    url: /faq/
+
   - title: "Committees"
     url: /organization
 
