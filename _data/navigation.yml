@@ -33,16 +33,18 @@ main:
     
 
 calls:
-  - title: Call for
+  - title: Calls
     children:
-      - title: "Main Conference Papers"
+      - title: "Call for Main Conference Papers"
         url: /calls/papers/
-      - title: "Industry Track Papers"
+      - title: "Call for Industry Track Papers"
         url: /calls/industry/
-      - title: "System Demonstrations"
+      - title: "Call for System Demonstrations"
         url: /calls/demos/
       - title: "Style Files and Formatting"
         url: /calls/style-and-formatting/
+      - title: "Reproducibility Checklist"
+        url: /calls/reproducibility-checklist/
       #- title: "(old) First Call for Papers"
       #  url: /calls/papers/first/
       #- title: "(old) Preliminary Call for Papers"

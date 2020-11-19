@@ -15,6 +15,7 @@ excerpt: "Mexico City, Mexico<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 20%; }
 </style>
 
+| November 19, 2020 | Added the [reproducibility checklist](/calls/reproducibility-checklist)
 | November 18, 2020 | Added a [clarification](/calls/papers/#anonymity-period-clarifications) regarding withdrawing from ICLR and submitting to NAACL. |
 | November 5, 2020 | Added [Call for Industry Track Papers](/calls/industry/) and [Call for System Demonstrations](/calls/demos/). |
 | November 2, 2020 | Added [Areas with Descriptions](/calls/papers/#areas-with-descriptions). |

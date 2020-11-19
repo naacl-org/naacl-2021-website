@@ -255,7 +255,9 @@ Authors resubmitting a paper that has been rejected from another venue are invit
 
 ### Reproducibility Criteria
 
-During the submission process, authors will be asked to answer the questions from the Reproducibility Checklist.  The checklist is intended as a reminder to help the authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. However, the answers will be made available to the reviewers.  Reviewers will be asked to assess the reproducibility of the work as part of their reviews. The updated checklist will be made available on the conference website, see previous versions in [Dodge et al, 2019](https://arxiv.org/pdf/1909.03004.pdf) and [Joelle Pineau's reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
+During the submission process, authors will be asked to answer the questions from the Reproducibility Checklist.  The checklist is intended as a reminder to help the authors improve reproducibility of their papers. The papers are not required to meet all reproducibility criteria listed. However, the answers will be made available to the reviewers.  Reviewers will be asked to assess the reproducibility of the work as part of their reviews.
+
+[The updated reproducibility checklist is now available here](/calls/reproducibility-checklist/). It is based on previous versions in [Dodge et al, 2019](https://arxiv.org/pdf/1909.03004.pdf) and [Joelle Pineau's reproducibility checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
 ### Style and formatting guidelines
 
