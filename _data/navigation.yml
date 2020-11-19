@@ -25,7 +25,7 @@ main:
   - title: "Ethics"
     url: /ethics/faq/
 
-  - title: "Organization"
+  - title: "Committees"
     url: /organization
 
   #- title: "Sponsors"
@@ -33,18 +33,14 @@ main:
     
 
 calls:
-  - title: Calls
+  - title: Call for
     children:
-      - title: "Call for Main Conference Papers"
+      - title: "Main Conference Papers"
         url: /calls/papers/
-      - title: "Call for Industry Track Papers"
+      - title: "Industry Track Papers"
         url: /calls/industry/
-      - title: "Call for System Demonstrations"
+      - title: "System Demonstrations"
         url: /calls/demos/
-      - title: "Style Files and Formatting"
-        url: /calls/style-and-formatting/
-      - title: "Reproducibility Checklist"
-        url: /calls/reproducibility-checklist/
       #- title: "(old) First Call for Papers"
       #  url: /calls/papers/first/
       #- title: "(old) Preliminary Call for Papers"
@@ -53,6 +49,12 @@ calls:
       #  url: /calls/workshops/
       #- title: "Tutorial Proposals"
       #  url: /calls/tutorials/
+  - title: Submission Material
+    children:
+      - title: "Style Files and Formatting"
+        url: /calls/style-and-formatting/
+      - title: "Reproducibility Checklist"
+        url: /calls/reproducibility-checklist/
 
 ethics:
   - title: Ethics
@@ -62,19 +64,19 @@ ethics:
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
 
-program:
-  - title: Program Details
-    children:
-      - title: "Tutorials"
-        url: /program/tutorials/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Keynote Speakers"
-        url: /program/keynotes/
-      - title: "Accepted Papers"
-        url: /program/accepted/
-      - title: "Careers in NLP Panel"
-        url: /program/careerspanel/
+# program:
+#   - title: Program Details
+#     children:
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Keynote Speakers"
+#         url: /program/keynotes/
+#       - title: "Accepted Papers"
+#         url: /program/accepted/
+#       - title: "Careers in NLP Panel"
+#         url: /program/careerspanel/
 
 
 # participants:
@@ -85,10 +87,18 @@ program:
 #       - title: "Social Event"
 #         url: /participants/social/
 
-sponsors:
-  - title: Sponsorship
+# sponsors:
+#   - title: Sponsorship
+#     children:
+#       - title: "List of Sponsors"
+#         url: /sponsors/list/
+#       - title: "Tiers &amp; Pricing"
+#         url: /sponsors/benefits/
+
+committees:
+  - title: Committees
     children:
-      - title: "List of Sponsors"
-        url: /sponsors/list/
-      - title: "Tiers &amp; Pricing"
-        url: /sponsors/benefits/
+      - title: "Organizing"
+        url: /organization/
+      - title: "Senior Program"
+        url: /committees/program/

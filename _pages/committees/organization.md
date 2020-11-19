@@ -3,7 +3,8 @@ title: Organizing Committee
 layout: single
 excerpt: "NAACL 2021 organizing committee."
 permalink: /organization
-sidebar: false
+sidebar: 
+    nav: "committees"
 ---
 
 <h3>General Chair</h3>
