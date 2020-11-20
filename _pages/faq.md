@@ -72,6 +72,8 @@ Which LaTeX template should be used?
 
 ## Ethics Committee
 
+See also: [Ethics FAQ](/ethics/faq/)
+
 Could you provide more information on how the committee members would be chosen so that the committee will reflect diversity of ethical viewpoints (both geographical and cultural)?
 {: .question}
 **Answer:** We are recruiting people we know have engaged with these issues in their work and asking for recommendations for areas of the world not yet well represented on the committee. If you have suggestions, please email [Emily Bender](http://faculty.washington.edu/ebender/contacting-me.html).
