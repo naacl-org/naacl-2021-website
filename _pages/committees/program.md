@@ -9,7 +9,7 @@ sidebar:
 
 ### Computational Social Science and Cultural Analytics
 **SACs:** David Bamman, Chenhao Tan <br>
-**ACs:** Dallas Card, Paramveer Dhillon, Kenny Joseph, David Mimno, Dong Nguyen, Brendan O'Connor, Daniel Preotiuc-Pietro, Sara Tonelli, Svetlana Volkova, Justine Zhang
+**ACs:** Dallas Card, Paramveer Dhillon, Lucie Flek, Kenny Joseph, David Mimno, Dong Nguyen, Brendan O'Connor, Daniel Preotiuc-Pietro, Sara Tonelli, Svetlana Volkova, Justine Zhang
 
 ### Dialogue and Interactive Systems
 **SACs:** Maxine Eskenazi, Kallirroi Georgila, Jiwei Li <br>
@@ -37,7 +37,7 @@ sidebar:
 
 ### Information Retrieval and Text Mining
 **SACs:** Eugene Agichtein, Alessandro Moschitti <br>
-**ACs:** Qingyao Ai, Ahmed Hassan Awadallah, Simone Filice, Karthik Raman, Oleg Rohlenko, Luca Soldaini, Yi Tay, Olga Uryupina, Thuy Vu, Hamed Zemani
+**ACs:** Qingyao Ai, Ahmed Hassan Awadallah, Simone Filice, Karthik Raman, Oleg Rokhlenko, Luca Soldaini, Yi Tay, Olga Uryupina, Thuy Vu, Hamed Zamani
 
 ### Interpretability and Analysis of Models for NLP
 **SACs:** Yonatan Belinkov, Grzegorz Chrupala, Anders Søgaard <br>
