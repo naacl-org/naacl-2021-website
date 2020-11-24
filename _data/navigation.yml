@@ -58,6 +58,12 @@ calls:
         url: /calls/style-and-formatting/
       - title: "Reproducibility Checklist"
         url: /calls/reproducibility-checklist/
+  - title: Archived calls
+    children:
+      - title: "First Call for Papers"
+        url: /calls/papers/first/
+      - title: "Preliminary Call for Papers"
+        url: /calls/papers/prelim/
 
 ethics:
   - title: Ethics
