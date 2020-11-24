@@ -54,6 +54,8 @@ calls:
       #  url: /calls/tutorials/
   - title: Submission Material
     children:
+      - title: "Area Descriptions"
+        url: /calls/area-descriptions/
       - title: "Style Files and Formatting"
         url: /calls/style-and-formatting/
       - title: "Reproducibility Checklist"
