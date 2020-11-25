@@ -50,7 +50,7 @@ We've added a special theme track titled New Challenges in NLP: Tasks, Methods, 
 
 Is there a requirement that authors should also review for the conference?
 {: .question}
-Although it is much appreciated, it is not a requirement for authors to serve as reviewers for NAACL 2021. Regardless of that, you should still fill out your Softconf profile (with semantic scholar info) in order to allow us to properly handle COIs.
+Although it is much appreciated, it is not a requirement for authors to serve as reviewers for NAACL 2021. Regardless of that, you should still fill out your Softconf profile (with semantic scholar info) in order to allow us to properly handle conflicts of interest (COIs).
 {: .answer}
 
 How to handle papers for which you have seen the de-anonymized preprint and thus know who the authors are?
