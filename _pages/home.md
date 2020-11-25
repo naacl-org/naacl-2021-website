@@ -35,7 +35,7 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 </style>
 
 | ~~Start of the anonymity period~~ | ~~Friday~~ | ~~October 23, 2020~~ |
-| Final paper submissions due (*long & short*) | Monday | November 23, 2020 |
+| ~~Final paper submissions due (*long & short*)~~ | ~~Monday~~ | ~~November 23, 2020~~ |
 | Author Response Period | Wednesday – Monday | January 20 – 25, 2021 |
 | Notification of acceptance | Wednesday | March 10, 2021 |
 | Camera ready papers due | Sunday | April 11, 2021 |
