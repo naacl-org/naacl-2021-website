@@ -13,7 +13,7 @@ sidebar:
 
 ### Dialogue and Interactive Systems
 **SACs:** Maxine Eskenazi, Kallirroi Georgila, Jiwei Li <br>
-**ACs:** Ryuichiro Higashinaka, Casey Kennington, Kazunori Komatani, Sungjin Lee, Jose David Lopes, Ramesh Manuvinakurike, Michael McTear, Alexandros Papangelis, Rebecca Passonneau, Gabriel Skantze, David Traum, Stefan Ultes, Nigel Ward, Jason Williams, Koichiro Yoshino, Kai Yu, Tiancheng Zhao
+**ACs:** Ryuichiro Higashinaka, Casey Kennington, Kazunori Komatani, Sungjin Lee, Pierre Lison, Jose David Lopes, Ramesh Manuvinakurike, Michael McTear, Alexandros Papangelis, Rebecca Passonneau, Gabriel Skantze, David Traum, Stefan Ultes, Nigel Ward, Jason Williams, Koichiro Yoshino, Kai Yu, Tiancheng Zhao
 
 ### Discourse and Pragmatics
 **SACs:** Giuseppe Carenini, Junyi (Jessy) Li <br>

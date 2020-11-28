@@ -44,10 +44,8 @@ calls:
         url: /calls/industry/
       - title: "System Demonstrations"
         url: /calls/demos/
-      #- title: "(old) First Call for Papers"
-      #  url: /calls/papers/first/
-      #- title: "(old) Preliminary Call for Papers"
-      #  url: /calls/papers/prelim/
+      - title: "Student Research Workshop"
+        url: https://naacl2021-srw.github.io/
       #- title: "Workshop Proposals"
       #  url: /calls/workshops/
       #- title: "Tutorial Proposals"
