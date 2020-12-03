@@ -54,7 +54,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <a href="https://bethard.faculty.arizona.edu/">Steven Bethard</a>, University of Arizona <br/>
 <a href="https://rycolab.github.io/authors/ryan/">Ryan Cotterell</a>, ETH Zurich and University of Cambridge <br/>
 <a href="http://faculty.iiitd.ac.in/~tanmoy/">Tanmoy Chakraborty</a>, IIIT-Delhi <br/>
-<a href="https://yz-joey.github.io/">Yuchao Zhou</a>, University of California, Los Angeles <br/>
+<a href="https://yz-joey.github.io/">Yichao Zhou</a>, University of California, Los Angeles <br/>
 
 <h3>Publicity Chairs [<a href="mailto:naacl2021-publicity@googlegroups.com">email</a>]</h3>
 <a href="https://sarahwie.github.io/">Sarah Wiegreffe</a>, Georgia Institute of Technology <br/>
