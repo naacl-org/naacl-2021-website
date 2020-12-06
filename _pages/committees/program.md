@@ -29,7 +29,7 @@ sidebar:
 
 ### Language Generation
 **SACs:** Asli Celikyilmaz, Nanyun Peng, Wei Xu <br>
-**ACs:** Antoine Bosselut, Yejin Choi, Greg Durrett, Claire Gardent, Marjan Ghazvininejad,Iryna Gurevych, Minlie Huang, Srinivasan Iyer, Mohit Iyyer, Yangfeng Ji, Mirella Lapata, Mike Lewis, Ankur Parikh, Nanyun Pang, Laura Perez-Beltrachini, Sudha Rao, Hannah Rashkin, Mark Riedl, John Wieting
+**ACs:** Antoine Bosselut, Greg Durrett, Claire Gardent, Iryna Gurevych, Srinivasan Iyer, Mohit Iyyer, Yangfeng Ji, Mirella Lapata, Mike Lewis, Ankur Parikh, Laura Perez-Beltrachini, Sudha Rao, Hannah Rashkin, Mark Riedl, John Wieting
 
 ### Information Extraction
 **SACs:** Heng Ji, Zornitsa Kozareva, William Wang <br>
