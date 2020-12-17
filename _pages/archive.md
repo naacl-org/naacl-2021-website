@@ -12,7 +12,6 @@ toc: false
 </style>
 
 | November 2, 2020 | Added [Area descriptions](/calls/area-descriptions/). |
-{: .news-table}
 | October 27, 2020 | Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions). |
 | October 2, 2020 | The [First Call for Papers](/calls/papers/first) is out! |
 | September 2, 2020 | [Preliminary Call for Papers](/calls/papers/prelim) is out. |
