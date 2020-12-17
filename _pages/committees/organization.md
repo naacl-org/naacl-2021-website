@@ -23,7 +23,8 @@ sidebar:
 <h3>Local Chair</h3>
 Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
-<h3>Workshop Chairs</h3>
+<h3>Workshop Chairs [<a href="mailto: naacl2021-workshop-chairs@googlegroups.com">email</a>]
+</h3>
 <a href="https://allenai.org/team/bhavanad">Bhavana Dalvi</a>, AI2 <br/>
 <a href="http://cl.sd.tmu.ac.jp/~komachi/index.en.html">Mamoru Komachi</a>, Tokyo Metropolitan University <br/>
 <a href="https://www.microsoft.com/en-us/research/people/mgalley">Michel Galley</a>, Microsoft Research <br/>

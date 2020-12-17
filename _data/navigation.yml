@@ -7,8 +7,8 @@ main:
   #- title: "LiveCaptions"
   #  url: /captions/
 
-  #- title: "Program"
-  #  url: /program/tutorials/
+  - title: "Program"
+    url: /program/workshops/
 
   #- title: "Blog"
   #  url: /blog
@@ -33,7 +33,7 @@ main:
 
   #- title: "Sponsors"
   #  url: /sponsors/list/
-    
+
 
 calls:
   - title: Call for
@@ -73,13 +73,13 @@ ethics:
       - title: "Ethics Review Questions"
         url: /ethics/review-questions/
 
-# program:
-#   - title: Program Details
-#     children:
+program:
+  - title: Program Details
+    children:
 #       - title: "Tutorials"
 #         url: /program/tutorials/
-#       - title: "Workshops"
-#         url: /program/workshops/
+      - title: "Workshops"
+        url: /program/workshops/
 #       - title: "Keynote Speakers"
 #         url: /program/keynotes/
 #       - title: "Accepted Papers"
