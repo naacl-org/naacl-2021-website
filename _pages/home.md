@@ -15,12 +15,12 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 20%; }
 </style>
 
+| December 17, 2020 | Added [Reviewer Instructions](/reviewer/instructions/) and [Reviewing Advice](/reviewer/advice/) in the Reviewer tab.
 | December 16, 2020 | Added [Workshops](/program/workshops) in the Program tab.
 | November 28, 2020 | Added [Call for Student Research Workshop Papers](https://naacl2021-srw.github.io/) in the Calls tab.
 | November 19, 2020 | Added [reproducibility checklist](/calls/reproducibility-checklist), [frequently asked questions](/faq), and [program committees](/committees/program).
 | November 18, 2020 | Added a [clarification](/calls/papers/#anonymity-period-clarifications) regarding withdrawing from ICLR and submitting to NAACL. |
 | November 5, 2020 | Added [Call for Industry Track Papers](/calls/industry/) and [Call for System Demonstrations](/calls/demos/). |
-| November 2, 2020 | Added [Area descriptions](/calls/area-descriptions/). |
 {: .news-table}
 
 [Older News](/archive/){: .btn .btn--info}

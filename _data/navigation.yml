@@ -25,6 +25,9 @@ main:
   - title: "Ethics"
     url: /ethics/faq/
 
+  - title: "Reviewer"
+    url: /reviewer/instructions/
+
   - title: "FAQ"
     url: /faq/
 
@@ -87,6 +90,15 @@ program:
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
+reviewer:
+  - title: Reviewer
+    children:
+      - title: "Reviewer Instructions"
+        url: /reviewer/instructions/
+      - title: "Example Review Form"
+        url: /downloads/NAACL2021-Review-Form.pdf
+      - title: "Reviewing Advice"
+        url: /reviewer/advice/
 
 # participants:
 #   - title: "Information for Participants"
