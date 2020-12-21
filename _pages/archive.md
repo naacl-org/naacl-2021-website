@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| November 18, 2020 | Added a [clarification](/calls/papers/#anonymity-period-clarifications) regarding withdrawing from ICLR and submitting to NAACL. |
+| November 5, 2020 | Added [Call for Industry Track Papers](/calls/industry/) and [Call for System Demonstrations](/calls/demos/). |
 | November 2, 2020 | Added [Area descriptions](/calls/area-descriptions/). |
 | October 27, 2020 | Added the [Final Call For Papers](/calls/papers/), [Style Files and Formatting](/calls/style-and-formatting/), [Ethics FAQ](/ethics/faq/), and [Ethics Review Questions](/ethics/review-questions). |
 | October 2, 2020 | The [First Call for Papers](/calls/papers/first) is out! |

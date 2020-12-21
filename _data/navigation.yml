@@ -121,7 +121,9 @@ reviewer:
 committees:
   - title: Committees
     children:
-      - title: "Organizing"
+      - title: "Organizing Committee"
         url: /organization/
-      - title: "Senior Program"
+      - title: "Senior Program Committee"
         url: /committees/program/
+      - title: "Ethics Committee"
+        url: /ethics/committee/
