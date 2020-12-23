@@ -8,7 +8,7 @@ toc: false
 toc_sticky: true
 toc_icon: "cog"
 ---
-- Alain Couillault (it/it), Association des Professionnels des Industries de la Langue(APIL), Montreuil, France
+- Alain Couillault, Association des Professionnels des Industries de la Langue(APIL), Montreuil, France
 - Alvin Grissom II (he/him), Haverford College, Haverford, USA
 - Amanda Stent  (they/them), Bloomberg, USA, UK and Pakistan
 - Annemarie Friedrich (she/her), Bosch, Stuttgart, Germany
