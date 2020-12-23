@@ -10,9 +10,10 @@ toc_icon: "cog"
 ---
 - Alain Couillault (it/it), Association des Professionnels des Industries de la Langue(APIL), Montreuil, France
 - Alvin Grissom II (he/him), Haverford College, Haverford, USA
-- Amanda Stent  (they/them), Bloomberg, USA
-- Annemarie Friedrich (she/her), Bosch, Stuttgart, Germany.
+- Amanda Stent  (they/them), Bloomberg, USA, UK and Pakistan
+- Annemarie Friedrich (she/her), Bosch, Stuttgart, Germany
 - Aurélie Névéol (she/her), Université Paris Saclay, CNRS, LISN, Orsay, France
+- Chen Li (he/him), Xi'an Jiaotong University, Xi'an, China
 - Claudia Borg (she/her), University of Malta, Msida, Malta
 - Dan Jurafsky (he/him), Stanford University, USA
 - Darja Fišer (she/her), University of Ljubljana, Slovenia
@@ -22,7 +23,7 @@ toc_icon: "cog"
 - Jade Abbott (she/her), Retro Rabbit, Johannesburg, South Africa
 - Jean-Yves Antoine (he/him), Université de Tours, Blois, France
 - Jin-Dong Kim (he/him), Database Center for Life Science (DBCLS), Kashiwa, Japan
-- Jingbo Xia (Dr.), Huazhong Agricultural University, Wuhan, China
+- Jingbo Xia (he/him), Huazhong Agricultural University, Wuhan, China
 - Jochen L. Leidner (he), Refinitiv Labs and University of Sheffield, UK
 - José Ochoa-Luna (he/him), Universidad Católica San Pablo, Arequipa, Peru
 - Karl Pichotta (he/him), Memorial Sloan Kettering Cancer Center, New York, USA
@@ -40,7 +41,7 @@ toc_icon: "cog"
 - Nyalleng Moorosi (she/her), Google AI, Accra Ghana
 - Qingcai Chen, Harbin Institute of Technology (Shenzhen), Shenzhen, Guangdong, China
 - Ryan Georgi (he/him), KPMG, Seattle, Washington
-- Attapol T. Rutherford (Te, Te), Chulalongkorn University, Bangkok, Thailand
+- Te Rutherford, Chulalongkorn University, Bangkok, Thailand
 - Thiago Castro Ferreira (he/him), Federal University of Minas Gerais, Belo Horizonte-MG, Brazil
 - Vukosi Marivate (he/him), University of Pretoria, Pretoria, South Africa
 - Wondwossen (he) Mulugeta, School of Information Science, Addis Ababa University, Ethiopia
