@@ -73,7 +73,7 @@ We will present a Best Demo Paper Award. The winner will be chosen based on the 
 
 ## Submission Guidelines
 
-All submissions should be made electronically via [START](https://softconf.com/naacl2021/demos/) (opening soon). Submissions must include:
+All submissions should be made electronically via [START](https://softconf.com/naacl2021/demos/). Submissions must include:
 
 * A paper describing the motivation and technical details of the system, including visual aids (e.g., screenshots, snapshots, or diagrams). See examples of recently accepted demo papers in EMNLP 2020, ACL 2020, NAACL 2019, NAACL 2018, ACL 2018, ACL 2017, EMNLP 2017, NAACL 2016, ACL 2015, NAACL 2015.
 
