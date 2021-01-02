@@ -9,6 +9,11 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+## News
+
+* Submission site now open at <https://www.softconf.com/naacl2021/industry/>
+* Submission deadline is **January 18, 2021, 23:59 UTC-12**.
+
 ## Background
 
 Language technologies and their applications are an integral and critical part of our daily lives.  The development of many of these technologies trace their roots to academic and industrial research laboratories where researchers invented a plethora of algorithms, benchmarked them against shared datasets and perfected the performance of these algorithms to provide plausible solutions to real-world applications. While a controlled laboratory setting is vital for a deeper scientific understanding of the language problem and the impact of algorithmic design choices on the performance of a technology, transitioning the technology to real-world industrial strength applications raises a different, yet challenging, set of technical issues.
@@ -48,6 +53,8 @@ The focus may include describing the problem related to actual use cases, its si
 **Submissions will be reviewed in a double-blind manner** and assessed based on their novelty, technical quality, potential impact, and clarity. Submissions in the industry track should emphasize real-world implementations of natural language processing systems, the development of such systems, or provide insights based on real-world datasets with obvious industry impact. For papers that rely heavily on empirical evaluations, the experimental methods and results should be clear, well executed, and repeatable (though the data may be proprietary).
 
 ## Paper Submissions
+
+**Submission site**: All submissions should be done through <https://www.softconf.com/naacl2021/industry/>.  The submission deadline is **January 18, 2021, 23:59 UTC-12** (i.e., as long as it is still January 18, 2021, somewhere on Earth).
 
 **Submission**: Authors are invited to submit original, full-length (6 page) industry track papers that are not previously published, accepted to be published, or under consideration for publication in any other forum.  Manuscripts should be submitted electronically, in PDF format and formatted using the official NAACL-HLT 2021 style templates:
 

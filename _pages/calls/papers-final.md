@@ -20,7 +20,7 @@ NAACL-HLT 2021 has a goal of a diverse technical program–in addition to tradit
 <span style="color: #888; font-size: 80%">(Previous versions: [First Call for Papers](/calls/papers/first/), [Preliminary Call for Papers](/calls/papers/prelim/))</span>
 
 - Updated section on [ethics and ethics reviews](#ethics-policy-updated-in-final-call).
-- Clarification: the industry track will return to NAACL-HLT 2021. Please watch for a separate call for papers soon, with a later paper deadline.
+- NAACL HLT 2021 also has a separate Industry Track. The paper deadline is January 18, 2021.  [The call for papers is here](/calls/industry/).
 - The publication date (the date papers become available on the ACL anthology) is May 24, 2021.
 - Minor edits to list of topics.
 
