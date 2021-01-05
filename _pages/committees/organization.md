@@ -25,7 +25,7 @@ sidebar:
 
 {% include committee-member.html
    name="Luke Zettlemoyer"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Luke_Zettlemoyer.jpg"
    site="https://www.cs.washington.edu/people/faculty/lsz"
    institution="University of Washington and Facebook AI Research"
 %}
@@ -37,7 +37,7 @@ sidebar:
    institution="Amazon Alexa AI"
 %}
 
-<h2>Industry Track Chairs [<a href="mailto: naacl2021-industry-track@googlegroups.com">email</a>]</h2>
+<h2>Industry Track Chairs [<a href="mailto: naacl2021-industrial-track@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Owen Rambow"
    picture="/assets/images/committee/books.jpeg"
@@ -80,7 +80,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Michel Galley"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Michel_Galley.jpg"
    site="https://www.microsoft.com/en-us/research/people/mgalley"
    institution="Microsoft Research"
 %}
@@ -110,7 +110,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Nelson Liu"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Nelson_Liu.jpg"
    site="https://cs.stanford.edu/~nfliu/"
    institution="Stanford University"
 %}
@@ -170,7 +170,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <h2>Publication Chairs [<a href="mailto:naacl2021-publication-chairs@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Iz Beltagy"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Iz_Beltagy.jpg"
    site="https://beltagy.net/"
    institution="AI2"
 %}
@@ -206,7 +206,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <h2>Publicity Chairs [<a href="mailto:naacl2021-publicity@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Sarah Wiegreffe"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Sarah_Wiegreffe.jpg"
    site="https://sarahwie.github.io/"
    institution="Georgia Institute of Technology"
 %}
@@ -235,7 +235,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <h2>Website Chairs</h2>
 {% include committee-member.html
    name="Ice Pasupat"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Ice_Pasupat.jpg"
    site="https://ppasupat.github.io"
    institution="Google Research"
 %}
