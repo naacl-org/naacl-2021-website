@@ -88,7 +88,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 <h2>Tutorial Chairs</h2>
 {% include committee-member.html
    name="Greg Kondrak"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Greg_Kondrak.jpg"
    site="https://webdocs.cs.ualberta.ca/~kondrak"
    institution="University of Alberta"
 %}
@@ -162,7 +162,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Victoria Lin"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Victoria_Lin.jpg"
    site="http://victorialin.net/"
    institution="Salesforce Research"
 %}
