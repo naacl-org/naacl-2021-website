@@ -32,7 +32,7 @@ sidebar:
 
 {% include committee-member.html
    name="Dilek Hakkani-Tur"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Dilek.jpg"
    site="https://scholar.google.com/citations?user=GMcL_9kAAAAJ&hl=en"
    institution="Amazon Alexa AI"
 %}
@@ -184,7 +184,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Ryan Cotterell"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Ryan_Cotterell.jpg"
    site="https://rycolab.github.io/authors/ryan/"
    institution="ETH Zurich and University of Cambridge"
 %}
