@@ -114,6 +114,6 @@ Authors will be allowed extra space after the 6th page for a broader impact stat
 ## Demonstration Co-chairs
 
 * Avi Sil (IBM Research AI)
-* Victoria Lin (Salesforce Research)
+* Victoria Lin (Facebook AI)
 
 

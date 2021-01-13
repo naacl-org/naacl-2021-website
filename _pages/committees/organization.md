@@ -164,7 +164,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
    name="Victoria Lin"
    picture="/assets/images/committee/Victoria_Lin.jpg"
    site="http://victorialin.net/"
-   institution="Salesforce Research"
+   institution="Facebook AI"
 %}
 
 <h2>Publication Chairs [<a href="mailto:naacl2021-publication-chairs@googlegroups.com">email</a>]</h2>
