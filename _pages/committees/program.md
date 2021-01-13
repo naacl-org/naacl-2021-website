@@ -93,7 +93,7 @@ sidebar:
 
 ### Sentiment Analysis and Stylistic Analysis
 **SACs:** Preslav Nakov, Diyi Yang <br>
-**ACs:** Tanmoy Chakraborty, Lun-Wei Ku, Soujanya Poria, Paolo Rosso, Thamar Solorio, Aixin Sun, Arkaitz Zubiaga
+**ACs:** Tanmoy Chakraborty, Lun-Wei Ku, Soujanya Poria, Paolo Rosso, Thamar Solorio, Aixin Sun, Arkaitz Zubiaga, Yulan He, Roman Klinger
 
 ### Speech
 **SAC:** Eric Fosler-Lussier <br>
