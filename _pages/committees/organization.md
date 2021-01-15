@@ -100,6 +100,13 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
    institution="University of Sheffield"
 %}
 
+{% include committee-member.html
+   name="Dan Gillick"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://research.google/people/DanGillick/"
+   institution="Google Research"
+%}
+
 <h2>Student Research Workshop Chairs [<a href="mailto:naacl2021-srw@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Esin Durmus"
