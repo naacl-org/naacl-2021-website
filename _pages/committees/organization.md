@@ -73,7 +73,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Mamoru Komachi"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Mamoru_Komachi.jpg"
    site="http://cl.sd.tmu.ac.jp/~komachi/index.en.html"
    institution="Tokyo Metropolitan University"
 %}
@@ -139,7 +139,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Yu Su"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Yu_Su.jpg"
    site="https://ysu1989.github.io/"
    institution="Ohio State University"
 %}
