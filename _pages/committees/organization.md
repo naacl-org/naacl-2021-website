@@ -102,7 +102,7 @@ Priscilla Rasmussen,  Association for Computational Linguistics <br/>
 
 {% include committee-member.html
    name="Dan Gillick"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Dan_Gillick.jpg"
    site="https://research.google/people/DanGillick/"
    institution="Google Research"
 %}
