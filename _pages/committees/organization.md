@@ -60,7 +60,11 @@ sidebar:
 %}
 
 <h2>Local Chair</h2>
-Priscilla Rasmussen,  Association for Computational Linguistics <br/>
+{% include committee-member.html
+   name="Priscilla Rasmussen"
+   picture="/assets/images/committee/books.jpeg"
+   institution="Association for Computational Linguistics"
+%}
 
 <h2>Workshop Chairs [<a href="mailto: naacl2021-workshop-chairs@googlegroups.com">email</a>]
 </h2>
