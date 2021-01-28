@@ -20,7 +20,6 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 | December 20, 2020 | Added [Ethics Committee](/ethics/committee/).
 | December 17, 2020 | Added [Reviewer Instructions](/reviewer/instructions/) and [Reviewing Advice](/reviewer/advice/) in the Reviewer tab.
 | December 16, 2020 | Added [Workshops](/program/workshops) in the Program tab.
-| November 28, 2020 | Added [Call for Student Research Workshop Papers](https://naacl2021-srw.github.io/) in the Calls tab.
 {: .news-table}
 
 [Older News](/archive/){: .btn .btn--info}
@@ -37,7 +36,7 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 
 | ~~Start of the anonymity period~~ | ~~Friday~~ | ~~October 23, 2020~~ |
 | ~~Final paper submissions due (*long & short*)~~ | ~~Monday~~ | ~~November 23, 2020~~ |
-| Author Response Period | Wednesday – Monday | January 20 – 25, 2021 |
+| ~~Author Response Period~~ | ~~Wednesday – Monday~~ | ~~January 20 – 25, 2021~~ |
 | Notification of acceptance | Wednesday | March 10, 2021 |
 | Camera ready papers due | Sunday | April 11, 2021 |
 | Final notification for papers requiring ethics re-review | Friday | April 30, 2021 |
