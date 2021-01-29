@@ -15,11 +15,11 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 20%; }
 </style>
 
+| January 29, 2021 | Added the [Sponsorship Bootlet](/sponsors/) which details sponsorship rates and benefits.
 | January 1, 2021 | The [Industry track](/calls/industry/) is now open for submission.
 | December 29, 2020 | The [System Demonstrations track](/calls/demos/) is now open for submission.
 | December 20, 2020 | Added [Ethics Committee](/ethics/committee/).
 | December 17, 2020 | Added [Reviewer Instructions](/reviewer/instructions/) and [Reviewing Advice](/reviewer/advice/) in the Reviewer tab.
-| December 16, 2020 | Added [Workshops](/program/workshops) in the Program tab.
 {: .news-table}
 
 [Older News](/archive/){: .btn .btn--info}

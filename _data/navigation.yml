@@ -19,6 +19,9 @@ main:
   #- title: "Participants"
   #  url: "/participants"
 
+  - title: "Sponsors"
+    url: /sponsors/
+
   - title: "Calls"
     url: /calls/papers/
 
@@ -34,9 +37,28 @@ main:
   - title: "Committees"
     url: /organization
 
-  #- title: "Sponsors"
-  #  url: /sponsors/list/
 
+program:
+  - title: Program Details
+    children:
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+      - title: "Workshops"
+        url: /program/workshops/
+#       - title: "Keynote Speakers"
+#         url: /program/keynotes/
+#       - title: "Accepted Papers"
+#         url: /program/accepted/
+#       - title: "Careers in NLP Panel"
+#         url: /program/careerspanel/
+
+# sponsors:
+#   - title: Sponsors
+#     children:
+#       - title: "Booklet: Rates &amp; Benefits"
+#         url: /sponsors/booklet/
+#      - title: "List of Sponsors"
+#        url: /sponsors/list/
 
 calls:
   - title: Call for
@@ -49,10 +71,6 @@ calls:
         url: /calls/demos/
       - title: "Student Research Workshop"
         url: https://naacl2021-srw.github.io/
-      #- title: "Workshop Proposals"
-      #  url: /calls/workshops/
-      #- title: "Tutorial Proposals"
-      #  url: /calls/tutorials/
   - title: Submission Material
     children:
       - title: "Area Descriptions"
@@ -78,20 +96,6 @@ ethics:
       - title: "Ethics Committee"
         url: /ethics/committee/
 
-program:
-  - title: Program Details
-    children:
-#       - title: "Tutorials"
-#         url: /program/tutorials/
-      - title: "Workshops"
-        url: /program/workshops/
-#       - title: "Keynote Speakers"
-#         url: /program/keynotes/
-#       - title: "Accepted Papers"
-#         url: /program/accepted/
-#       - title: "Careers in NLP Panel"
-#         url: /program/careerspanel/
-
 reviewer:
   - title: Reviewer
     children:
@@ -109,14 +113,6 @@ reviewer:
 #         url: /participants/accommodation/
 #       - title: "Social Event"
 #         url: /participants/social/
-
-# sponsors:
-#   - title: Sponsorship
-#     children:
-#       - title: "List of Sponsors"
-#         url: /sponsors/list/
-#       - title: "Tiers &amp; Pricing"
-#         url: /sponsors/benefits/
 
 committees:
   - title: Committees
