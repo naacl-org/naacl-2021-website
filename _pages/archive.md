@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| December 20, 2020 | Added [Ethics Committee](/ethics/committee/).
+| December 17, 2020 | Added [Reviewer Instructions](/reviewer/instructions/) and [Reviewing Advice](/reviewer/advice/) in the Reviewer tab.
 | December 16, 2020 | Added [Workshops](/program/workshops) in the Program tab.
 | November 28, 2020 | Added [Call for Student Research Workshop Papers](https://naacl2021-srw.github.io/) in the Calls tab.
 | November 19, 2020 | Added [reproducibility checklist](/calls/reproducibility-checklist), [frequently asked questions](/faq), and [program committees](/committees/program).
