@@ -3,9 +3,7 @@ title: Workshops
 layout: single
 excerpt: "NAACL 2021 Workshops."
 permalink: /program/workshops/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
+toc: false
 sidebar: 
     nav: program
 ---
@@ -96,7 +94,7 @@ See [event website](https://sites.google.com/view/textgraphs2021).
 *Organizers: Alexander Panchenko, Fragkiskos Malliaros, Varvara Logacheva, Abhik Jana, Dmitry Ustalov and Peter Jansen*
 
 ### W16: Data Science with Human-in-the-Loop: Language Advances
-See [event website](https://sites.google.com/view/dash-nlp2021).
+See [event website](https://sites.google.com/view/dash-la2021).
 
 *Organizers: Eduard Dragut, Yunyao Li, Lucian Popa and Slobodan Vucetic*
 
