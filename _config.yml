@@ -265,8 +265,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: false
   # _pages
