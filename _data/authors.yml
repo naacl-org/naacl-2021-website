@@ -1,1 +1,13 @@
 # Authors: TODO: fill this in when publishing blogs.
+
+program-chairs:
+  name        : "Program Chairs"
+  email       : "naacl-2021-program-chairs@googlegroups.com"
+  bio         : "Anna Rumshisky, Luke Zettlemoyer, and Dilek Hakkani-Tur"
+  avatar      : "assets/images/logos/acl-logo.png"
+
+publicity-chairs:
+  name        : "Publicity Chairs"
+  email       : "naacl2021-publicity@googlegroups.com"
+  bio         : "Sarah Wiegreffe, Enrico Santus, Peng Qi, and Danqi Chen"
+  avatar      : "assets/images/logos/acl-logo.png"

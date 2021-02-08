@@ -37,7 +37,7 @@ sidebar:
    institution="Amazon Alexa AI"
 %}
 
-<h2>Industry Track Chairs [<a href="mailto: naacl2021-industrial-track@googlegroups.com">email</a>]</h2>
+<h2>Industry Track Chairs [<a href="mailto:naacl2021-industrial-track@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Owen Rambow"
    picture="/assets/images/committee/books.jpeg"
@@ -66,7 +66,7 @@ sidebar:
    institution="Association for Computational Linguistics"
 %}
 
-<h2>Workshop Chairs [<a href="mailto: naacl2021-workshop-chairs@googlegroups.com">email</a>]
+<h2>Workshop Chairs [<a href="mailto:naacl2021-workshop-chairs@googlegroups.com">email</a>]
 </h2>
 {% include committee-member.html
    name="Bhavana Dalvi"
