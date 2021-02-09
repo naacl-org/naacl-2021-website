@@ -41,8 +41,8 @@ main:
 program:
   - title: Program Details
     children:
-#       - title: "Tutorials"
-#         url: /program/tutorials/
+      - title: "Tutorials"
+        url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
 #       - title: "Keynote Speakers"
