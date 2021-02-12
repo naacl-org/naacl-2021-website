@@ -8,6 +8,8 @@ toc: false
 toc_sticky: true
 toc_icon: "cog"
 ---
+Please note that, in addition to the usual COIs measures, ethics reviewers will not be assigned papers from their country of affiliation in order to limit potential pressure or issues.
+
 - Alain Couillault, Association des Professionnels des Industries de la Langue(APIL), Montreuil, France
 - Alvin Grissom II (he/him), Haverford College, Haverford, USA
 - Amanda Stent  (they/them), Bloomberg, USA, UK and Pakistan
@@ -40,8 +42,9 @@ toc_icon: "cog"
 - Natalie Schluter (she/her), IT University, Copenhagen, Denmark and Google Brain
 - Nyalleng Moorosi (she/her), Google AI, Accra Ghana
 - Qingcai Chen, Harbin Institute of Technology (Shenzhen), Shenzhen, Guangdong, China
-- Ryan Georgi (he/him), KPMG, Seattle, Washington
-- Te Rutherford, Chulalongkorn University, Bangkok, Thailand
+- Robert Monarch (he/they), Apple, USA
+- Ryan Georgi (he/him), KPMG, Seattle, Washington, USA
+- Te Rutherford (Te/Te/Te's), Chulalongkorn University, Bangkok, Thailand
 - Thiago Castro Ferreira (he/him), Federal University of Minas Gerais, Belo Horizonte-MG, Brazil
 - Vukosi Marivate (he/him), University of Pretoria, Pretoria, South Africa
 - Wondwossen (he) Mulugeta, School of Information Science, Addis Ababa University, Ethiopia
