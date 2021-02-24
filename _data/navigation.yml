@@ -8,7 +8,7 @@ main:
   #  url: /captions/
 
   - title: "Program"
-    url: /program/workshops/
+    url: /program/tutorials/
 
   - title: "Blog"
     url: /blog/
