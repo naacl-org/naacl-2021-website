@@ -78,3 +78,10 @@ Could you provide more information on how the committee members would be chosen 
 {: .question}
 We are recruiting people we know have engaged with these issues in their work and asking for recommendations for areas of the world not yet well represented on the committee. If you have suggestions, please email [Emily Bender](http://faculty.washington.edu/ebender/contacting-me.html).
 {: .answer}
+
+## Virtual Attendance
+
+Would I be able to present my paper virtually at the main conference and the workshops? Would I be able to participate in the conference virtually?
+{: .question}
+Yes, while we are still finalizing the format of the conference, all participants will have the option to attend virtually.
+{: .answer}
