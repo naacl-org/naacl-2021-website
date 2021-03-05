@@ -13,5 +13,5 @@ NAACL 2021 is extremely grateful to the following sponsors for their generous su
 -->
 
 If your organization would like to sponsor NAACL or other conferences in the ACL family,
-please refer to our [**Sponsorship Booklet**](/downloads/ACL-2021-Sponsorship-booklet.pdf)
+please refer to our [**Sponsorship Booklet**](/downloads/ACL-2021-Sponsorship-booklet.pdf?v=v2)
 for information about sponsorship rates and benefits.
