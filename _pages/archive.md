@@ -11,6 +11,7 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| January 30, 2021 | [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/) will be co-located with NAACL 2021.
 | January 29, 2021 | Added the [Sponsorship Booklet](/sponsors/) which details sponsorship rates and benefits.
 | January 1, 2021 | The [Industry track](/calls/industry/) is now open for submission.
 | December 29, 2020 | The [System Demonstrations track](/calls/demos/) is now open for submission.

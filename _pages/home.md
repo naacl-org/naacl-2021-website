@@ -5,21 +5,21 @@ permalink: /
 header:
   overlay_image: "/assets/images/mexico_city/palacio_de_bellas_artes.jpg"
   caption: 'Photo by <a href="https://unsplash.com/@manuel_arroyo25">Manuel Arroyo</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
+excerpt: "Online<br>June 6&ndash;11, 2021"
 ---
 
 ## News
 
 <style>
-.news-table { font-size: .9em; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 20%; }
+.news-table { font-size: .9em; table-layout: fixed; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| March 20, 2021 | <strong style="color:darkred;">The NAACL 2021 conference will be fully virtual.</strong> Please stay tuned for details regarding the conference format.
 | March 6, 2021 | The [Sponsorship Booklet](/sponsors/) has been updated.
 | March 2, 2021 | We are finalizing the format of the virtual conference. [FAQs](/faq/#virtual-attendance) will be updated regularly.
 | February 24, 2021 | Blog post: [Workshop Deadlines](/blog/workshop-deadlines/)
 | February 9, 2021 | Added [Tutorials](/program/tutorials/).
-| January 30, 2021 | [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/) will be co-located with NAACL 2021.
 {: .news-table}
 
 [Older News](/archive/){: .btn .btn--info}
@@ -37,7 +37,7 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 | ~~Start of the anonymity period~~ | ~~Friday~~ | ~~October 23, 2020~~ |
 | ~~Final paper submissions due (*long & short*)~~ | ~~Monday~~ | ~~November 23, 2020~~ |
 | ~~Author Response Period~~ | ~~Wednesday – Monday~~ | ~~January 20 – 25, 2021~~ |
-| Notification of acceptance | Wednesday | March 10, 2021 |
+| ~~Notification of acceptance~~ | ~~Wednesday~~ | ~~March 10, 2021~~ |
 | Camera ready papers due | Sunday | April 11, 2021 |
 | Final notification for papers requiring ethics re-review | Friday | April 30, 2021 |
 | Publication date | Monday | May 24, 2021 |
@@ -49,4 +49,4 @@ excerpt: "Mexico City, Mexico <br> June 6&ndash;11, 2021"
 
 ## Welcome!
 
-NAACL-HLT 2021 is currently scheduled to take place in **Mexico City, Mexico** from **June 6th to June 11th, 2021**. We are monitoring the ongoing global pandemic and will update the conference plans (e.g. moving to a virtual or hybrid format) as needed closer to the conference dates.
+NAACL-HLT 2021 is currently scheduled to take place **online** from **June 6th to June 11th, 2021**.
