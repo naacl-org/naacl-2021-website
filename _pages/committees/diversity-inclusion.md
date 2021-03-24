@@ -9,7 +9,7 @@ sidebar:
 
 **Email:** [naacl2021-diversity-inclusion@googlegroups.com](mailto:naacl2021-diversity-inclusion@googlegroups.com)
 
-## Senior Chair
+## Senior Chairs
 {% include committee-member.html
    name="Pranav A"
    extrainfo="(he/they)"
