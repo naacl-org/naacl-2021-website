@@ -47,8 +47,8 @@ program:
         url: /program/workshops/
 #       - title: "Keynote Speakers"
 #         url: /program/keynotes/
-#       - title: "Accepted Papers"
-#         url: /program/accepted/
+      - title: "Accepted Papers"
+        url: /program/accepted/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 

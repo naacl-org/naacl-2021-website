@@ -243,6 +243,21 @@ sidebar:
    institution="Princeton "
 %}
 
+<h2>Virtual Infrastructure Committee Advisors</h2>
+{% include committee-member.html
+   name="Jan-Christoph Klie"
+   picture="/assets/images/committee/Jan-Christoph_Klie.jpg"
+   site="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_41792.en.jsp"
+   institution="UKP Lab, Technical University of Darmstadt"
+%}
+
+{% include committee-member.html
+   name="Hao Fang"
+   picture="/assets/images/committee/Hao_Fang.jpg"
+   site="https://hao-fang.github.io/"
+   institution="Microsoft Semantic Machines, USA"
+%}
+
 <h2>Website Chairs</h2>
 {% include committee-member.html
    name="Ice Pasupat"
