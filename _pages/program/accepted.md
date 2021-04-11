@@ -853,7 +853,7 @@ Main Conference
 
 **Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**<br>Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri and Jens Lehmann
 
-**Does RoBERTa Contain Sufficient Syntactic Information for Aspect-Level Sentiment Classification?**<br>Junqi Dai, Hang Yan, Tianxiang Sun, Pengfei Liu and Xipeng Qiu
+**Does Syntax Matter for Aspect-based Sentiment Analysis?**<br>Junqi Dai, Hang Yan, Tianxiang Sun, Pengfei Liu and Xipeng Qiu
 
 **Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification**<br>Andrew Moore and Jeremy Barnes
 
