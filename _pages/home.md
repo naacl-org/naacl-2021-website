@@ -39,7 +39,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 | ~~Final paper submissions due (*long & short*)~~ | ~~Monday~~ | ~~November 23, 2020~~ |
 | ~~Author Response Period~~ | ~~Wednesday – Monday~~ | ~~January 20 – 25, 2021~~ |
 | ~~Notification of acceptance~~ | ~~Wednesday~~ | ~~March 10, 2021~~ |
-| Camera ready papers due | Sunday | April 11, 2021 |
+| ~~Camera ready papers due~~ | ~~Sunday~~ | ~~April 11, 2021~~ |
 | Final notification for papers requiring ethics re-review | Friday | April 30, 2021 |
 | Publication date | Monday | May 24, 2021 |
 | Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/) | Thursday – Friday | June 3 – 4, 2021 |
