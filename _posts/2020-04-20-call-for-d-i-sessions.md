@@ -20,7 +20,7 @@ D&I Sessions could be panels, presentations or sessions regarding the following:
 
 We expect D&I Sessions to help create a constructive environment for addressing concerns relating to current Diversity and Inclusion practices, and to help promote the importance of spreading awareness as well as making progress to understand and address special needs. The proposed D&I Sessions will decide on the content, timing and length of sessions themselves. NAACL 2021 will promote the sessions on the conference website, virtual conference platform and social media and, if desired, create virtual conference rooms and promote links to these.
 
-To express interest in organising a D&I Session, please fill in the [following form](https://forms.office.com/r/R5yqBJ6iRe) by May 15.
+To express interest in organising a D&I Session, please fill in the [following form](https://forms.office.com/r/29N9uGMdSj) by May 15.
 
 D&I Sessions have to abide by ACL's code of conduct: <https://www.aclweb.org/portal/content/acl-code-ethics>
 
