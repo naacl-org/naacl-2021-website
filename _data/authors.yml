@@ -11,3 +11,9 @@ publicity-chairs:
   email       : "naacl2021-publicity@googlegroups.com"
   bio         : "Sarah Wiegreffe, Enrico Santus, Peng Qi, and Danqi Chen"
   avatar      : "assets/images/logos/acl-logo.png"
+
+diversity-inclusion-chairs:
+  name        : "Diversity & Inclusion Chairs"
+  email       : "naacl2021-diversity-inclusion@googlegroups.com"
+  bio         : "Pranav A, Samira Shaikh, Pat Verga, Murathan Kurfali, Khyati Mahajan, and Prathyusha Jwalapuram"
+  avatar      : "assets/images/logos/acl-logo.png"
