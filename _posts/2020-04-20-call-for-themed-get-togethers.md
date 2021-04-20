@@ -32,7 +32,7 @@ Requests for virtual rooms which are in conflict with the above, or not in line 
 
 Virtual socials may adopt one of the following formats:
 
-*   **Private Gather town:** Done by [WINLP @ AACL 2020](http://www.winlp.org/winlp-2020-statellite-workshop-aacl-ijcnlp/) and [Queer in AI @ EMNLP 2020](https://sites.google.com/view/queer-in-ai/emnlp2020?authuser=0). This can be useful if you want the socials to be accessible for folks who are not registered for the main conference. We  will not provide the Gather town;  we expect you to set up your own Gather town  for your event.
+*   **Private [Gather town](https://gather.town) or [Topia](https://topia.io/):** Done by [WINLP @ AACL 2020](http://www.winlp.org/winlp-2020-statellite-workshop-aacl-ijcnlp/) and [Queer in AI @ EMNLP 2020](https://sites.google.com/view/queer-in-ai/emnlp2020?authuser=0). This can be useful if you want the socials to be accessible for folks who are not registered for the main conference. We  will not provide the Gather town;  we expect you to set up your own Gather town  for your event.
 
 *   **Public Zoom calls:** We can provide Zoom rooms for your event (note that the number of participants might be capped). Similar events were held by [WINLP @ AACL 2020](http://www.winlp.org/winlp-2020-statellite-workshop-aacl-ijcnlp/) and [Queer in AI @ EMNLP 2020](https://sites.google.com/view/queer-in-ai/emnlp2020?authuser=0). This can be useful if you want the socials to be accessible for folks who are not registered for the main conference.
 
