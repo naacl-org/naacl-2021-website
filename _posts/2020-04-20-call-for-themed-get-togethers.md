@@ -36,7 +36,7 @@ Virtual socials may adopt one of the following formats:
 
 *   **Public Zoom calls:** We can provide Zoom rooms for your event (note that the number of participants might be capped). Similar events were held by [WINLP @ AACL 2020](http://www.winlp.org/winlp-2020-statellite-workshop-aacl-ijcnlp/) and [Queer in AI @ EMNLP 2020](https://sites.google.com/view/queer-in-ai/emnlp2020?authuser=0). This can be useful if you want the socials to be accessible for folks who are not registered for the main conference.
 
-*   **NAACL’s Gather town:** This would be generally restricted to registrants, however a designated area/room within the Gather town can be set up for your event..
+*   **NAACL’s Gather town:** This would be generally restricted to registrants, however a designated area/room within the Gather town can be set up for your event.
 
 *   **Panel webinars:** This can be done either on Youtube (example: [NLP with Friends](https://nlpwithfriends.com/)), Twitch, Instagram live, Twitter spaces or Tiktok livestreams.
 
