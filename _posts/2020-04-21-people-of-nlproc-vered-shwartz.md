@@ -27,4 +27,4 @@ Which of the next 3 facts about Vered is the lie?
 
 3. I co-authored a paper with my brother.
 
-Vote in our Social Media Channels and fill out the Google form here: <https://forms.gle/GqdiRQFTw4LaJYmG8> if you want to be featured!
+Vote in our Social Media channel ([@naaclhlt](https://twitter.com/NAACLHLT)) and fill out the Google form here: <https://forms.gle/GqdiRQFTw4LaJYmG8> if you want to be featured!
