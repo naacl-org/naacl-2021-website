@@ -17,3 +17,9 @@ diversity-inclusion-chairs:
   email       : "naacl2021-diversity-inclusion@googlegroups.com"
   bio         : "Pranav A, Samira Shaikh, Pat Verga, Murathan Kurfali, Khyati Mahajan, and Prathyusha Jwalapuram"
   avatar      : "assets/images/logos/acl-logo.png"
+
+volunteer-chairs:
+  name        : "Volunteers Chairs"
+  email       : "naacl2021-volunteer-chairs@googlegroups.com"
+  bio         : ""
+  avatar      : "assets/images/logos/acl-logo.png"
