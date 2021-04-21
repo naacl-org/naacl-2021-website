@@ -25,5 +25,7 @@ Note that if you are applying for a registration fee waiver, it is expected that
 [Microsoft Office Form Link](https://forms.office.com/r/seYxmxSxx0)
 
 **Application deadline:** 2 weeks before the early registration deadline
+
 **Notification of acceptance:** 1 week before the early registration deadline
+
 We aim to send all notifications by the deadline above. However, we will start processing the applications as they come and you may be contacted earlier. 
