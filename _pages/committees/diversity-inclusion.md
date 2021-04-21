@@ -3,7 +3,7 @@ title: Diversity & Inclusion Committee
 layout: single
 excerpt: "NAACL 2021 diversity & inclusion committee."
 permalink: /committees/diversity-inclusion/
-sidebar: 
+sidebar:
     nav: "committees"
 ---
 
@@ -52,4 +52,22 @@ sidebar:
    picture="/assets/images/committee/Prathyusha_Jwalapuram.jpg"
    site="https://scholar.google.com/citations?user=HH1Daf4AAAAJ&hl=en"
    institution="Nanyang Technological University"
+%}
+
+## Social Chairs
+
+{% include committee-member.html
+   name="Luca Soldaini"
+   extrainfo="(he/him)"
+   picture="/assets/images/committee/Luca_Soldaini.jpg"
+   site="https://soldaini.net"
+   institution="Amazon Alexa AI"
+%}
+
+{% include committee-member.html
+   name="Sabine Weber"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/Sabine_Weber.jpg"
+   site="https://homepages.inf.ed.ac.uk/s1782911/index.html"
+   institution="University of Edinburgh"
 %}
