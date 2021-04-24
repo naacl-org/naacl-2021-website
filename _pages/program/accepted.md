@@ -992,3 +992,84 @@ System Demonstrations
 
 **MUDES: Multilingual Detection of Offensive Spans**<br>Tharindu Ranasinghe and Marcos Zampieri
 
+Industry Track
+---
+
+**Contextual Domain Classification with Temporal Representations**<br>Tzu-Hsiang Lin, Yipeng Shi, Chentao Ye, Yang Fan, Weitong Ruan, Emre Barut, Wael Hamza and Chengwei Su
+
+**Cross-lingual Supervision Improves Unsupervised Neural Machine Translation**<br>Mingxuan Wang, Hongxiao Bai, Lei Li and Hai Zhao
+
+**Pretrain-Finetune Based Training of Task-Oriented Dialogue Systems in a Real-World Setting**<br>Manisha Srivastava, Yichao Lu, Riley Peschon and Chenyang Li
+
+**Identifying and Resolving Annotation Changes for Natural Language Understanding**<br>Jose Garrido Ramas, Giorgio Pessot, Abdalghani Abujabal and Martin Rajman
+
+**An Emotional Comfort Framework for Improving User Satisfaction in E-Commerce Customer Service Chatbots**<br>Shuangyong Song, Chao Wang, Haiqing Chen and Huan Chen
+
+**Should we find another model?: Improving Neural Machine Translation Performance with ONE-Piece Tokenization Method without Model Modification**<br>chanjun park, Sugyeong Eo, Hyeonseok Moon and Heuiseok Lim
+
+**Graph-based Multilingual Product Retrieval in E-Commerce Search**<br>Hanqing Lu, Youna Hu, Tong Zhao, Tony Wu, Yiwei Song and Bing Yin
+
+**Auto Correcting in the Process of Translation --- Multi-task Learning Improves Dialogue Machine Translation**<br>Tao Wang, Chengqi Zhao, Mingxuan Wang, Lei Li and Deyi Xiong
+
+**Training Language Models under Resource Constraints for Adversarial Advertisement Detection**<br>Eshwar Shamanna Girishekar, Shiv Surya, Nishant Nikhil, Dyut Kumar Sil, Sumit Negi and Aruna Rajan
+
+**Ad Headline Generation using Self-Critical Masked Language Model**<br>Yashal Shakti Kanungo, Sumit Negi and Aruna Rajan
+
+**Addressing the Vulnerability of NMT in Input Perturbations**<br>Weiwen Xu, AiTi Aw, Yang Ding, Kui Wu and Shafiq Joty
+
+**A HYBRID APPROACH TO SCALABLE AND ROBUST SPOKEN LANGUAGE UNDERSTANDING IN ENTERPRISE VIRTUAL AGENTS**<br>Ryan Price, Mahnoosh Mehrabani, Narendra Gupta, Yeon-Jun Kim, Shahab Jalalvand, Minhua Chen, Yanjie Zhao and Srinivas Bangalore
+
+**Combining Weakly Supervised ML Techniques for Low-Resource NLU**<br>Victor Soto and Konstantine Arkoudas
+
+**Practical Transformer-based Multilingual Text Classification**<br>Cindy Wang and Michele Banko
+
+**Technical Question Answering across Tasks and Domains**<br>Wenhao Yu, Lingfei Wu, Yu Deng, Qingkai Zeng, Ruchi Mahindru, Sinem Guven and Meng Jiang
+
+**Coherent and Concise Radiology Report Generation via Context Specific Image Representations and Orthogonal Sentence States**<br>Litton J Kurisinkel, Nancy Chen and Aw Ai Ti
+
+**When does text prediction benefit from additional context? An exploration of contextual signals for chat and email messages**<br>Stojan Trajanovski, Chad Atalla, Kunho Kim, Vipul Agarwal, Milad Shokouhi and Chris Quirk
+
+**Bootstrapping a Music Voice Assistant with Weak Supervision**<br>Sergio Oramas, Massimo Quadrana and Fabien Gouyon
+
+**When and Why a Model Fails? A Human-in-the-loop Error Detection Framework for Sentiment Analysis**<br>Zhe Liu, Yufan Guo and Jalal Mahmud
+
+**Continuous Model Improvement for Language Understanding with Machine Translation**<br>Abdalghani Abujabal, Claudio Delli Bovi, Sungho Ryu, Turan Gojayev, Fabian Triefenbach and Yannick Versley
+
+**Proteno: Text Normalization with Limited Data for Fast Deployment in Text to Speech Systems**<br>Shubhi Tyagi, Antonio Bonafonte, Jaime Lorenzo-Trueba and Javier Latorre
+
+**Language Scaling for Universal Suggested Replies Model**<br>Qianlan Ying, Payal Bajaj, Budhaditya Deb, Yu Yang, Wei Wang, Bojia Lin, Milad Shokouhi, Xia Song, Yang Yang and Daxin Jiang
+
+**Query2Prod2Vec: Grounded Word Embeddings for eCommerce**<br>Federico Bianchi, Jacopo Tagliabue and Bingqing Yu
+
+**Industry Scale Semi-Supervised Learning for Natural Language Understanding**<br>Luoxin Chen, Francisco Garcia, Varun Kumar, He Xie and Jianhua Lu
+
+**LATEX-Numeric: Language Agnostic Text Attribute Extraction for Numeric Attributes**<br>Kartik Mehta, Ioana Oprea and Nikhil Rasiwasia
+
+**Label-Guided Learning for Item Categorization in e-Commerce**<br>Lei Chen and Hiro Miyake
+
+**An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models**<br>Amir Ganiev, Anderson De Andrade and Colton Chapin
+
+**Optimizing NLU Reranking Using Entity Resolution Signals in Multi-domain Dialog Systems**<br>Tong Wang, Jiangning Chen, Mohsen Malmir, Shuyan Dong, Xin He, Han Wang, Chengwei Su, Yue Liu and Yang Liu
+
+**Noise Robust Named Entity Understanding for Voice Assistants**<br>Deepak Muralidharan, Joel Ruben Antony Moniz, Sida Gao, Xiao Yang, Lin Li, Justine Kao, Stephen Pulman, Atish Kothari, Ray Shen, Yinying Pan, Vivek Kaul, Mubarak Seyed Ibrahim, Gang Xiang, Nan Dun, Yidan Zhou, Andy O, Yuan Zhang, Pooja Chitkara, Xuan Wang, Alkesh Patel, Kushal Tayal, Roger Zheng, Peter Grasch and Jason D Williams
+
+**OodGAN: Generative Adversarial Network for Out-of-Domain Data Generation**<br>Petr Marek, Vishal Ishwar Naik, Anuj Goyal and Vincent Auvray
+
+**Benchmarking Commercial Intent Detection Services with Practice-Driven Evaluations**<br>Haode Qi, Lin Pan, Atin Sood, Abhishek Shah, Ladislav Kunc, Mo Yu and Saloni Potdar
+
+**Entity Resolution in Open-domain Conversations**<br>Mingyue Shang, Tong Wang, Mihail Eric, Jiangning Chen, Jiyang Wang, Matthew Welch, Tiantong Deng, Akshay Grewal, Han Wang, Yue Liu, Yang Liu and Dilek Hakkani-Tur
+
+**HPIT: A High Performance Inference Library for Transformers**<br>Xiaohui Wang, Ying Xiong, Yang Wei, Mingxuan Wang and Lei Li
+
+**Goodwill Hunting: Analyzing and Repurposing Off-the-Shelf Named Entity Linking Systems**<br>Karan Goel, Laurel Orr, Nazneen Fatema Rajani, Jesse Vig and Christopher Ré
+
+**Discovering Better Model Architectures for Medical Query Understanding**<br>Wei Zhu, Yuan Ni, Xiaoling Wang and Guotong Xie
+
+**Intent Features for Rich Natural Language Understanding**<br>Brian Lester, Sagnik Ray Choudhury, Rashmi Prasad and Srinivas Bangalore
+
+**Development of an Enterprise-Grade Contract Understanding System**<br>Arvind Agarwal, Laura Chiticariu, Poornima Chozhiyath Raman, Marina Danilevsky, Diman Ghazi, Ankush Gupta, Shanmukha Guttula, Yannis Katsis, Rajasekar Krishnamurthy, Yunyao Li, Shubham Mudgal, Vitobha Munigala, Nicholas Phan, Dhaval Sonawane, Sneha Srinivasan, Sudarshan R. Thitte, mitesh vasa, Ramiya Venkatachalam, Vinitha Yaski and Huaiyu Zhu
+
+**Cost-effective Deployment of BERT Models in Serverless Environment**<br>Marek Suppa, Katarína Benešová and Andrej Švec
+
+**An Empirical Study of Generating Texts for Search Engine Advertising**<br>Hidetaka Kamigaito, Peinan Zhang, Hiroya Takamura and Manabu Okumura
+
