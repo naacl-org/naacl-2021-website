@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| March 24, 2021 | Added [Diversity & Inclusion committees](/committees/diversity-inclusion/)
+| March 20, 2021 | <strong style="color:darkred;">The NAACL 2021 conference will be fully virtual.</strong> Please stay tuned for details regarding the conference format.
 | March 6, 2021 | The [Sponsorship Booklet](/sponsors/) has been updated.
 | February 24, 2021 | Blog post: [Workshop Deadlines](/blog/workshop-deadlines/)
 | February 9, 2021 | Added [Tutorials](/program/tutorials/).

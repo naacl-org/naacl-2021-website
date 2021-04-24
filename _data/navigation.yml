@@ -13,14 +13,17 @@ main:
   - title: "Blog"
     url: /blog/
 
-  #- title: "Registration"
-  #  url: /registration
+  - title: "Registration"
+    url: /registration/
 
   #- title: "Participants"
   #  url: "/participants"
 
   - title: "Sponsors"
     url: /sponsors/
+
+  - title: "FAQ"
+    url: /faq/
 
   - title: "Calls"
     url: /calls/papers/
@@ -30,9 +33,6 @@ main:
 
   - title: "Reviewer"
     url: /reviewer/instructions/
-
-  - title: "FAQ"
-    url: /faq/
 
   - title: "Committees"
     url: /organization

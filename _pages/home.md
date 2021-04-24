@@ -15,12 +15,11 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| April 23, 2021 | <strong style="color:darkred;">Registration for the Virtual NAACL 2021 Conference is now open:</strong> [Registration Information](/registration/)
 | April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
 | April 21, 2021 | Blog post: [Call for volunteers](/blog/call-for-volunteers).
 | April 20, 2021 | Blog posts from Diversity & Inclusion Chairs: Calls for [affinity group socials](/blog/call-for-affinity-group-socials/), [themed get-togethers](/blog/call-for-themed-get-togethers/), [D&I subsidies](/blog/call-for-d-i-subsidies/), and [D&I sessions](/blog/call-for-d-i-sessions/).
 | April 6, 2021 | Added [Accepted Papers](/program/accepted/)
-| March 24, 2021 | Added [Diversity & Inclusion committees](/committees/diversity-inclusion/)
-| March 20, 2021 | <strong style="color:darkred;">The NAACL 2021 conference will be fully virtual.</strong> Please stay tuned for details regarding the conference format.
 {: .news-table}
 
 [Older News](/archive/){: .btn .btn--info}
