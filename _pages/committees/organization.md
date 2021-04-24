@@ -89,7 +89,7 @@ sidebar:
    institution="Microsoft Research"
 %}
 
-<h2>Tutorial Chairs</h2>
+<h2>Tutorial Chairs [<a href="mailto:naacl2021-tutorial-chairs@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Greg Kondrak"
    picture="/assets/images/committee/Greg_Kondrak.jpg"
@@ -243,6 +243,37 @@ sidebar:
    institution="Princeton "
 %}
 
+<h2>Social Chairs</h2>
+{% include committee-member.html
+   name="Luca Soldaini"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://soldaini.net/"
+   institution="Amazon Alexa Search"
+%}
+
+{% include committee-member.html
+   name="Sabine Weber"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://homepages.inf.ed.ac.uk/s1782911/index.html"
+   institution="University of Edinburgh"
+%}
+
+<h2>Volunteer Chairs [<a href="mailto:naacl2021-volunteer-chairs@googlegroups.com">email</a>]</h2>
+{% include committee-member.html
+   name="Hao Cheng"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://sites.google.com/site/hcheng2site"
+   institution="Microsoft Research"
+%}
+
+<h2>Virtual Infrastructure Committee</h2>
+{% include committee-member.html
+   name="Deepak Ramachandran"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://scholar.google.com/citations?user=TJnfAvYAAAAJ&hl=en"
+   institution="Google Research"
+%}
+
 <h2>Virtual Infrastructure Committee Advisors</h2>
 {% include committee-member.html
    name="Jan-Christoph Klie"
@@ -256,6 +287,13 @@ sidebar:
    picture="/assets/images/committee/Hao_Fang.jpg"
    site="https://hao-fang.github.io/"
    institution="Microsoft Semantic Machines, USA"
+%}
+
+{% include committee-member.html
+   name="Gisela Vallejo"
+   picture="/assets/images/committee/books.jpeg"
+   site="https://g-vallejo.github.io/"
+   institution="Independent research"
 %}
 
 <h2>Website Chairs</h2>
