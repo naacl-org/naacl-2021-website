@@ -243,21 +243,6 @@ sidebar:
    institution="Princeton "
 %}
 
-<h2>Social Chairs</h2>
-{% include committee-member.html
-   name="Luca Soldaini"
-   picture="/assets/images/committee/books.jpeg"
-   site="https://soldaini.net/"
-   institution="Amazon Alexa Search"
-%}
-
-{% include committee-member.html
-   name="Sabine Weber"
-   picture="/assets/images/committee/books.jpeg"
-   site="https://homepages.inf.ed.ac.uk/s1782911/index.html"
-   institution="University of Edinburgh"
-%}
-
 <h2>Volunteer Chairs [<a href="mailto:naacl2021-volunteer-chairs@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Hao Cheng"
