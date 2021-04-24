@@ -246,7 +246,7 @@ sidebar:
 <h2>Volunteer Chairs [<a href="mailto:naacl2021-volunteer-chairs@googlegroups.com">email</a>]</h2>
 {% include committee-member.html
    name="Hao Cheng"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Hao_Cheng.jpg"
    site="https://sites.google.com/site/hcheng2site"
    institution="Microsoft Research"
 %}
