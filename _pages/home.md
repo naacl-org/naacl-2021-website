@@ -11,6 +11,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 ## News
 
 <strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is now open!</strong>
+<br><span style="font-size:90%">Please also help us determine an effective format for the virtual conference by filling the [NAACL 2021 Virtual Format Survey](https://docs.google.com/forms/d/e/1FAIpQLSf0O3fc5SuiZhXlqzLBbD8_daB_VazLgUL5LUD5tBIglR_nJw/viewform).</span>
 {: .text-center .notice--danger}
 
 <style>
@@ -22,7 +23,6 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 | April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
 | April 21, 2021 | Blog post: [Call for volunteers](/blog/call-for-volunteers).
 | April 20, 2021 | Blog posts from Diversity & Inclusion Chairs: Calls for [affinity group socials](/blog/call-for-affinity-group-socials/), [themed get-togethers](/blog/call-for-themed-get-togethers/), [D&I subsidies](/blog/call-for-d-i-subsidies/), and [D&I sessions](/blog/call-for-d-i-sessions/).
-| April 6, 2021 | Added [Accepted Papers](/program/accepted/)
 {: .news-table}
 
 [Older News](/archive/){: .btn .btn--info}
