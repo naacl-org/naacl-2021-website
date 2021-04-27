@@ -12,11 +12,11 @@ diamond:
     alt: Google
     title: Google
 platinum:
-  - url: https://www.amazon.science/
+  - url: https://www.amazon.science
     image_path: /assets/images/logos/amazon-logo.png
     alt: Amazon
     title: Amazon
-  - url: 
+  - url: https://ai.facebook.com
     image_path: /assets/images/logos/facebook-logo.png
     alt: Facebook
     title: Facebook
@@ -24,21 +24,21 @@ platinum:
     image_path: /assets/images/logos/megagon-logo.png
     alt: Megagon
     title: Megagon
-  - url: 
+  - url: https://www.microsoft.com
     image_path: /assets/images/logos/microsoft-logo.jpg
     alt: Microsoft
     title: Microsoft
 gold:
-  - url: http://techatbloomberg.com/
+  - url: http://techatbloomberg.com
     image_path: /assets/images/logos/bloomberg-logo.png
     alt: Bloomberg
     title: Bloomberg
-  - url: 
+  - url: https://www.grammarly.com
     image_path: /assets/images/logos/grammarly-logo.png
     alt: Grammarly
     title: Grammarly
-  - url: 
-    image_path: 
+  - url: https://vanguard.com
+    image_path: /assets/images/logos/vanguard-logo.png
     alt: Vanguard
     title: Vanguard
 silver:
@@ -51,10 +51,23 @@ bronze:
     image_path: /assets/images/logos/babelscape-logo.png
     alt: Babelscape
     title: Babelscape
-  - url: https://www.legalforce.co.jp/
+  - url: https://hltcoe.jhu.edu
+    image_path: /assets/images/logos/hlt-logo.png
+    alt: Human Language Technology Center of Excellence
+    title: Human Language Technology Center of Excellence
+  - url: https://www.legalforce.co.jp
     image_path: /assets/images/logos/legalforce-logo.jpg
     alt: LegalForce
     title: LegalForce
+di_champion:
+  - url: https://research.google
+    image_path: /assets/images/logos/google-logo.png
+    alt: Google
+    title: Google
+  - url: https://www.microsoft.com
+    image_path: /assets/images/logos/microsoft-logo.jpg
+    alt: Microsoft
+    title: Microsoft
 ---
 
 NAACL-HLT 2021 is extremely grateful to all sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
@@ -64,7 +77,7 @@ please refer to our [**Sponsorship Booklet**](/downloads/ACL-2021-Sponsorship-bo
 for information about sponsorship rates and benefits.
 
 <style>
-.sponsors-list { justify-content: flex-start; } 
+.sponsors-list { justify-content: flex-start; }
 .sponsors-list > a {
   display: flex;
   flex-direction: row;
@@ -103,3 +116,7 @@ for information about sponsorship rates and benefits.
 ## Bronze
 
 {% include sponsors-list id="bronze" layout="third" %}
+
+## Diversity and Inclusion: Champion
+
+{% include sponsors-list id="di_champion" layout="third" %}
