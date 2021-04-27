@@ -254,7 +254,7 @@ sidebar:
 <h2>Virtual Infrastructure Committee</h2>
 {% include committee-member.html
    name="Deepak Ramachandran"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Deepak_Ramachandran.jpg"
    site="https://scholar.google.com/citations?user=TJnfAvYAAAAJ&hl=en"
    institution="Google Research"
 %}
