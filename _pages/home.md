@@ -19,6 +19,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| April 28, 2021 | Blog post: [NAACL D&I Grants Initiative](/blog/dei-grants/).
 | April 27, 2021 | Blog post: [#PeopleOfNLProc - Wei Coco Xu](/blog/people-of-nlproc-wei-coco-xu/).
 | April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
 | April 21, 2021 | Blog post: [Call for volunteers](/blog/call-for-volunteers).
