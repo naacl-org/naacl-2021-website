@@ -1045,7 +1045,7 @@ Industry Track
 
 **LATEX-Numeric: Language Agnostic Text Attribute Extraction for Numeric Attributes**<br>Kartik Mehta, Ioana Oprea and Nikhil Rasiwasia
 
-**Label-Guided Learning for Item Categorization in e-Commerce**<br>Lei Chen and Hiro Miyake
+**Label-Guided Learning for Item Categorization in e-Commerce**<br>Lei Chen and Hirokazu Miyake
 
 **An Architecture for Accelerated Large-Scale Inference of Transformer-Based Language Models**<br>Amir Ganiev, Anderson De Andrade and Colton Chapin
 
