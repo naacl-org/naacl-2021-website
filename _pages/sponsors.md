@@ -16,6 +16,10 @@ platinum:
     image_path: /assets/images/logos/amazon-logo.png
     alt: Amazon
     title: Amazon
+  - url: https://www.apple.com
+    image_path: /assets/images/logos/apple-logo.jpg
+    alt: Apple
+    title: Apple
   - url: https://ai.facebook.com
     image_path: /assets/images/logos/facebook-logo.png
     alt: Facebook
@@ -51,7 +55,7 @@ bronze:
     image_path: /assets/images/logos/babelscape-logo.png
     alt: Babelscape
     title: Babelscape
-  - url: https://hltcoe.jhu.edu
+  - url: https://hltcoe.jhu.edu/opportunities/research-scientists/
     image_path: /assets/images/logos/hlt-logo.png
     alt: Human Language Technology Center of Excellence
     title: Human Language Technology Center of Excellence
