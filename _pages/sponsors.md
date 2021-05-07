@@ -16,7 +16,7 @@ platinum:
     image_path: /assets/images/logos/amazon-logo.png
     alt: Amazon
     title: Amazon
-  - url: https://www.apple.com
+  - url: https://machinelearning.apple.com
     image_path: /assets/images/logos/apple-logo.jpg
     alt: Apple
     title: Apple
