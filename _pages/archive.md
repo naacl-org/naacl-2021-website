@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| April 27, 2021 | Blog post: [#PeopleOfNLProc - Wei Coco Xu](/blog/people-of-nlproc-wei-coco-xu/).
+| April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
 | April 6, 2021 | Added [Accepted Papers](/program/accepted/)
 | March 24, 2021 | Added [Diversity & Inclusion committees](/committees/diversity-inclusion/)
 | March 20, 2021 | <strong style="color:darkred;">The NAACL 2021 conference will be fully virtual.</strong> Please stay tuned for details regarding the conference format.

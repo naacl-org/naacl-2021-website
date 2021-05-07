@@ -19,10 +19,9 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| May 7, 2021 | Blog post: [#PeopleOfNLProc - Noah Smith](/blog/people-of-nlproc-noah-smith/).
 | May 3, 2021 | Blog post: [#PeopleOfNLProc - Lili Mou](/blog/people-of-nlproc-lili-mou/).
 | April 28, 2021 | Blog post: [NAACL D&I Grants Initiative](/blog/dei-grants/).
-| April 27, 2021 | Blog post: [#PeopleOfNLProc - Wei Coco Xu](/blog/people-of-nlproc-wei-coco-xu/).
-| April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
 | April 21, 2021 | Blog post: [Call for volunteers](/blog/call-for-volunteers).
 | April 20, 2021 | Blog posts from Diversity & Inclusion Chairs: Calls for [affinity group socials](/blog/call-for-affinity-group-socials/), [themed get-togethers](/blog/call-for-themed-get-togethers/), [D&I subsidies](/blog/call-for-d-i-subsidies/), and [D&I sessions](/blog/call-for-d-i-sessions/).
 {: .news-table}
