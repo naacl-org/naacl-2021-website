@@ -23,3 +23,9 @@ volunteer-chairs:
   email       : "naacl2021-volunteer-chairs@googlegroups.com"
   bio         : ""
   avatar      : "assets/images/logos/acl-logo.png"
+
+guest-post-name-change:
+  name        : "D&I and Publication Chairs"
+  email       : "naacl2021-publication-chairs@googlegroups.com"
+  bio         : "Pranav A, Ryan Cotterell"
+  avatar      : "assets/images/logos/acl-logo.png"
