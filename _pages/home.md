@@ -19,6 +19,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/). 
 | May 11, 2021 | [Call for Bird of Feather session hosts](/blog/call-for-bof-hosts/). **Deadline May 20**
 | May 11, 2021 | Blog post by D&I chairs: [Attendee’s Guide to Affinity Groups in NLP](/blog/affinity-groups/).
 | May 7, 2021 | Blog post: [#PeopleOfNLProc - Noah Smith](/blog/people-of-nlproc-noah-smith/).
