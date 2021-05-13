@@ -31,7 +31,7 @@ To improve upon these figures, we need to add in significant efforts and changes
 
 If you have changed your name and the publications that have cited your work have used your previous name, NAACL publication chairs are willing to check the camera-ready PDFs for citations that use your old name. The chairs will reach out to the authors with a request to resubmit the paper **before** publication. This way, your previous name should never show up in the proceedings.
 
-For this, please email us at [naacl2021-publication-chairs@googlegroups.com](naacl2021-publication-chairs@googlegroups.com). Your email should include your previous name as it is the most efficient and fastest way for us to update. We will promptly search through the proceedings, email the authors to request they update the citations.
+For this, please email us at <a href="mailto:naacl2021-publication-chairs@googlegroups.com">naacl2021-publication-chairs@googlegroups.com</a>. Your email should include your previous name as it is the most efficient and fastest way for us to update. We will promptly search through the proceedings, email the authors to request they update the citations.
 
 We also want to point out that if you want to change your name in your own publications in the ACL anthology, you can file a [correction](https://www.aclweb.org/anthology/info/corrections/).  You can also reach out to Queer in AI, NAACL publication chairs for guidance. Do note that the current ACL process is not yet supported by a name change policy, as detailed below.
 
