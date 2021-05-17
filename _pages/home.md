@@ -11,6 +11,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 ## News
 
 <strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is now open!</strong>
+<br>Early registration deadline: <strong style="color:#B00;">Thursday, May 20, 2021, 11:59 PM (EDT)</strong>
 <br><span style="font-size:90%">Please also help us determine an effective format for the virtual conference by filling the [NAACL 2021 Virtual Format Survey](https://docs.google.com/forms/d/e/1FAIpQLSf0O3fc5SuiZhXlqzLBbD8_daB_VazLgUL5LUD5tBIglR_nJw/viewform).</span>
 {: .text-center .notice--danger}
 
