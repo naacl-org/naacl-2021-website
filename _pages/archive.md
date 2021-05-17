@@ -11,6 +11,7 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| May 3, 2021 | Blog post: [#PeopleOfNLProc - Lili Mou](/blog/people-of-nlproc-lili-mou/).
 | April 27, 2021 | Blog post: [#PeopleOfNLProc - Wei Coco Xu](/blog/people-of-nlproc-wei-coco-xu/).
 | April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
 | April 6, 2021 | Added [Accepted Papers](/program/accepted/)
