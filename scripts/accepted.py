@@ -37,22 +37,22 @@ def main():
     # Accepted papers.
     mdfile.write("\nMain Conference\n---\n")
     with open(args.papers) as csvfile:
-      reader = csv.reader(csvfile, delimiter=",")
+      reader = csv.DictReader(csvfile, delimiter=",")
       for i, row in enumerate(reader):
-        if i > 0:
-          submission_id, title, authors, status = row
-          if status == "Accept":
-            write_title_authors(mdfile, title, authors)
+        submission_id, title, authors, status = (
+            row['Paper Id'], row['Title'], row['Authors'], row['Status'])
+        if status.strip().lower() == "accept":
+          write_title_authors(mdfile, title, authors)
 
     # Accepted demos.
     mdfile.write("\nSystem Demonstrations\n---\n")
     with open(args.demos) as csvfile:
-      reader = csv.reader(csvfile, delimiter=",")
+      reader = csv.DictReader(csvfile, delimiter=",")
       for i, row in enumerate(reader):
-        if i > 0:
-          submission_id, title, authors, status, abstract = row
-          if status == "Accept":
-            write_title_authors(mdfile, title, authors)
+        submission_id, title, authors, status = (
+            row['Paper Id'], row['Title'], row['Authors'], row['Status'])
+        if status.strip().lower() == "accept":
+          write_title_authors(mdfile, title, authors)
 
 
 if __name__ == "__main__":

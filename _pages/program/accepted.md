@@ -960,11 +960,22 @@ Main Conference
 
 System Demonstrations
 ---
+
 **PhoNLP: A joint multi-task learning model for Vietnamese part-of-speech tagging, named entity recognition and dependency parsing**<br>Linh The Nguyen and Dat Quoc Nguyen
 
 **Machine-Assisted Script Curation**<br>Manuel R. Ciosici, Joseph Cummings, Mitchell DeHaven, Alex Hedges, Yash Kankanampati, Dong-Ho Lee, Ralph Weischedel and Marjorie Freedman
 
 **NAMER: A Node-Based Multitasking Framework for Multi-Hop Knowledge Base Question Answering**<br>Minhao Zhang, Ruoyu Zhang, Lei Zou, Yinnian Lin and Sen Hu
+
+**DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation**<br>Sarik Ghazarian, Zixi Liu, Tuhin Chakrabarty, Xuezhe Ma, Aram Galstyan and Nanyun Peng
+
+**FITAnnotator: A Flexible and Intelligent Text Annotation System**<br>Yanzeng Li, Bowen Yu, Li Quangang and Tingwen Liu
+
+**Robustness Gym: Unifying the NLP Evaluation Landscape**<br>Karan Goel, Nazneen Fatema Rajani, Jesse Vig, Zachary Taschdjian, Mohit Bansal and Christopher Ré
+
+**EventPlus: A Temporal Event Understanding Pipeline**<br>Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, Rujun Han and Nanyun Peng
+
+**COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation**<br>Qingyun Wang, Manling Li, Xuan Wang, Nikolaus Parulian, Guangxing Han, Jiawei Ma, Jingxuan Tu, Ying Lin, Ranran Haoran Zhang, Weili Liu, Aabhas Chauhan, Yingjun Guan, Bangzheng Li, Ruisong Li, Xiangchen Song, Yi Fung, Heng Ji, Jiawei Han, Shih-Fu Chang, James Pustejovsky, Jasmine Rah, David Liem, Ahmed ELsayed, Martha Palmer, Clare Voss, Cynthia Schneider and Boyan Onyshkevych
 
 **Multifaceted Domain-Specific Document Embeddings**<br>Julian Risch, Philipp Hager and Ralf Krestel
 
@@ -972,25 +983,18 @@ System Demonstrations
 
 **Interactive Plot Manipulation using Natural Language**<br>Yihan Wang, Yutong Shao and Ndapa Nakashole
 
-**DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation**<br>Sarik Ghazarian, Zixi Liu, Tuhin Chakrabarty, Xuezhe Ma, Aram Galstyan and Nanyun Peng
-
 **ActiveAnno: General-Purpose Document-Level Annotation Tool with Active Learning Integration**<br>Max Wiechmann, Seid Muhie Yimam and Chris Biemann
 
 **TextEssence: A Tool for Interactive Analysis of Semantic Shifts Between Corpora**<br>Denis Newman-Griffis, Venkatesh Sivaraman, Adam Perer, Eric Fosler-Lussier and Harry Hochheiser
 
-**Supporting Spanish Writers using Automated Feedback**<br>Aoife Cahill, James Bruno and Tamar Lavee
+**Supporting Spanish Writers using Automated Feedback**<br>Aoife Cahill, James Bruno, James Ramey, Gilmar Ayala Meneses, Ian Blood, Florencia Tolentino, Tamar Lavee, Slava Andreyev
 
 **Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems**<br>Anish Acharya, Suranjit Adhikari, Sanchit Agarwal, Vincent Auvray, Nehal Belgamwar, Arijit Biswas, Shubhra Chandra, Tagyoung Chung, Maryam Fazel-Zarandi, Raefer Gabriel, Shuyang Gao, Rahul Goel, Dilek Hakkani-Tur, Jan Jezabek, Abhay Jha, Jiun-Yu Kao, Prakash Krishnan, Peter Ku, Anuj Goyal, Chien-Wei Lin, Qing Liu, Arindam Mandal, Angeliki Metallinou, Vishal Naik, Yi Pan, Shachi Paul, Vittorio Perera, Abhishek Sethi, Minmin Shen, Nikko Strom and Eddie Wang
 
-**FITAnnotator: A Flexible and Intelligent Text Annotation System**<br>Yanzeng Li, Bowen Yu, Li Quangang and Tingwen Liu
-
-**Robustness Gym: Unifying the NLP Evaluation Landscape**<br>Karan Goel, Nazneen Fatema Rajani, Jesse Vig, Zachary Taschdjian, Mohit Bansal and Christopher Ré
-
 **RESIN: A Dockerlized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System**<br>Haoyang Wen, Ying Lin, Tuan Lai, Xiaoman Pan, Sha Li, Xudong Lin, Ben Zhou, Manling Li, Haoyu Wang, Hongming Zhang, Xiaodong Yu, Alexander Dong, Zhenhailong Wang, Yi Fung, Piyush Mishra, Qing Lyu, Dídac Surís, Brian Chen, Susan Windisch Brown, Martha Palmer, Chris Callison-Burch, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang and Heng Ji
 
-**EventPlus: A Temporal Event Understanding Pipeline**<br>Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, Rujun Han and Nanyun Peng
-
 **MUDES: Multilingual Detection of Offensive Spans**<br>Tharindu Ranasinghe and Marcos Zampieri
+
 
 Industry Track
 ---
