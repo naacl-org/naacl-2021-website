@@ -957,6 +957,18 @@ Main Conference
 
 **Learning to Generate Code Comments from Class Hierarchies**<br>Jiyang Zhang, Sheena Panthaplackel, Pengyu Nie, Raymond Mooney, Junyi Jessy Li and Milos Gligoric
 
+**Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning**<br>Xuelu Chen, Michael Boratko, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li and Andrew McCallum 
+
+**Empirical Evaluation of Pre-trained Transformers for Human-Level NLP: The Role of Sample Size and Dimensionality**<br>Adithya V Ganesan, Matthew Matero, Aravind Reddy Ravula, Huy Vu and H. Andrew Schwartz
+
+**Identifying Medical Self-Disclosure in Online Communities**<br>Mina Valizadeh, Pardis Ranjbar-Noiey, Cornelia Caragea and Natalie Parde
+
+**Personalized Response Generation via Generative Split Memory Network**<br>Yuwei Wu, Xuezhe Ma and Diyi Yang
+
+**Put Chatbot into Its Interlocutor's Shoes: New Framework to Learn Chatbot Responding with Intention**<br>Hsuan Su, Jiun-Hao Jhan, Fan-yun Sun, Saurav Sahay and Hung-yi Lee
+
+**MultiOpEd: A Corpus of Multi-Perspective News Editorials**<br>Siyi Liu, Sihao Chen, Xander Uyttendaele and Dan Roth
+
 
 System Demonstrations
 ---
