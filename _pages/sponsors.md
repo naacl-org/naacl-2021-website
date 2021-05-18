@@ -37,7 +37,7 @@ gold:
     image_path: /assets/images/logos/bloomberg-logo.png
     alt: Bloomberg
     title: Bloomberg
-  - url: https://www.grammarly.com
+  - url: https://bit.ly/3bwaUct
     image_path: /assets/images/logos/grammarly-logo.png
     alt: Grammarly
     title: Grammarly

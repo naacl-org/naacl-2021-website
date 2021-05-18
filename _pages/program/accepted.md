@@ -597,7 +597,7 @@ Main Conference
 
 **Extending Multi-Document Summarization Evaluation to the Interactive Setting**<br>Ori Shapira, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Yael Amsterdamer and Ido Dagan
 
-**Cross-Lingual Word Embedding Refinement via Manhattan Norm Optimisation**<br>Xutan Peng, Chenghua Lin and Mark Stevenson
+**Cross-Lingual Word Embedding Refinement by ℓ1 Norm Optimisation**<br>Xutan Peng, Chenghua Lin and Mark Stevenson
 
 **Generative Imagination Elevates Machine Translation**<br>Quanyu Long, Mingxuan Wang and Lei Li
 
@@ -667,7 +667,7 @@ Main Conference
 
 **Training Data Augmentation for Code-Mixed Translation**<br>Abhirut Gupta, Aditya Vavre and Sunita Sarawagi
 
-**Highly Efficient Knowledge Graph Embeddings Learning via Closed-form Orthogonal Procrustes Analysis**<br>Xutan Peng, Guanyi Chen, Chenghua Lin and Mark Stevenson
+**Highly Efficient Knowledge Graph Embedding Learning with Closed-form Orthogonal Procrustes Analysis**<br>Xutan Peng, Guanyi Chen, Chenghua Lin and Mark Stevenson
 
 **Constrained Learning for End-to-End Event Reference Interpretation**<br>Jing Lu and Vincent Ng
 
