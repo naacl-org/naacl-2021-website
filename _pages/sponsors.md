@@ -41,6 +41,10 @@ gold:
     image_path: /assets/images/logos/grammarly-logo.png
     alt: Grammarly
     title: Grammarly
+  - url: https://www.research.ibm.com
+    image_path: /assets/images/logos/ibm-logo.jpg
+    alt: IBM
+    title: IBM
   - url: https://www.vanguardjobs.com/our-teams/data-analytics
     image_path: /assets/images/logos/vanguard-logo.png
     alt: Vanguard
