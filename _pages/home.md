@@ -19,6 +19,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| May 20, 2021 | Guest Post by QueerInAI: [Queer in AI Undergraduate Mentorship Program at NAACL](/blog/queer-mentorship/)
 | May 19, 2021 | Event Announcement: [Getting into NLP research and grad school applications](/blog/grad-school-panel/). 
 | May 19, 2021 | Announcement: [#PeopleOfNLProc has a dedicated website](/blog/people-of-nlproc-new-website/).
 | May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/).
