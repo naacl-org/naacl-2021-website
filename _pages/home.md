@@ -19,8 +19,9 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| May 13, 2021 | Event Announcement: [Getting into NLP research and grad school applications](/blog/grad-school-panel/). 
-| May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/). 
+| May 19, 2021 | Event Announcement: [Getting into NLP research and grad school applications](/blog/grad-school-panel/). 
+| May 19, 2021 | Announcement: [#PeopleOfNLProc has a dedicated website](/blog/people-of-nlproc-new-website/).
+| May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/).
 | May 11, 2021 | [Call for Bird of Feather session hosts](/blog/call-for-bof-hosts/). **Deadline May 20**
 | May 11, 2021 | Blog post by D&I chairs: [Attendee’s Guide to Affinity Groups in NLP](/blog/affinity-groups/).
 {: .news-table}
