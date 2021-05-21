@@ -41,3 +41,8 @@ guest-post-queer-in-ai:
   email       : "queerinai@gmail.com"
   bio         : "Queer in AI organizers"
   avatar      : "assets/images/logos/acl-logo.png"
+
+ethics-chairs:
+  name        : "Ethics Committee Co-Chairs"
+  bio         : "Emily Bender and Karën Fort"
+  avatar      : "assets/images/logos/acl-logo.png"
