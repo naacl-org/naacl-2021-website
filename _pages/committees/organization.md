@@ -150,7 +150,7 @@ sidebar:
 
 <h2>Ethics Chairs</h2>
 {% include committee-member.html
-   name="Emily Bender"
+   name="Emily M. Bender"
    picture="/assets/images/committee/Emily_Bender.jpg"
    site="https://faculty.washington.edu/ebender/"
    institution="University of Washington"
