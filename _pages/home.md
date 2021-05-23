@@ -19,12 +19,13 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+
+| May 23, 2021 | Event announcements by D&I chairs: [Intersectionality in NLP](/blog/intersectionality-panel) and [Inclusivity in Conferences](/blog/inclusivity-panel)
 | May 20, 2021 | Post by Ethics Committee Co-Chairs: [NAACL Ethics Review Process Report-Back](/blog/ethics-review-process-report-back)
 | May 20, 2021 | Guest Post by QueerInAI: [Queer in AI Undergraduate Mentorship Program at NAACL](/blog/queer-mentorship/)
 | May 19, 2021 | Event Announcement: [Getting into NLP research and grad school applications](/blog/grad-school-panel/). 
 | May 19, 2021 | Announcement: [#PeopleOfNLProc has a dedicated website](/blog/people-of-nlproc-new-website/).
 | May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/).
-| May 11, 2021 | [Call for Bird of Feather session hosts](/blog/call-for-bof-hosts/). **Deadline May 20**
 | May 11, 2021 | Blog post by D&I chairs: [Attendee’s Guide to Affinity Groups in NLP](/blog/affinity-groups/).
 {: .news-table}
 
