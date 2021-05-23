@@ -12,19 +12,22 @@ sidebar:
 
 ## Tutorial Schedule
 
-(Exact date and time TBA)
+6 Jun 2021 (all times PDT, UTC-7)
 
+**Morning (08:00–12:00)**
 * [T1](#t1): Pretrained Transformers for Text Ranking: BERT and Beyond
 * [T2](#t2): Fine-grained Interpretation and Causation Analysis in Deep NLP Models
 * [T3](#t3): Deep Learning on Graphs for Natural Language Processing
 * [T4](#t4): A Tutorial on Evaluation Metrics used in Natural Language Generation
 * [T5](#t5): Beyond Paragraphs: NLP for Long Sequences
+
+**Evening (16:00–20:00)**
 * [T6](#t6): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial
 
 
 ## Tutorial Details
 
-### T1: Pretrained Transformers for Text Ranking: BERT and Beyond
+### T1 (Morning, 8-12): Pretrained Transformers for Text Ranking: BERT and Beyond
 {: #t1}
 
 <a href="mailto:ayates@mpi-inf.mpg.de">Andrew Yates</a>,
@@ -33,11 +36,10 @@ sidebar:
 
 **LIVE**
 
-
 The goal of text ranking is to generate an ordered list of texts retrieved from a corpus in response to a query. Although the most common formulation of text ranking is search, instances of the task can also be found in many natural language processing applications. This tutorial, based on a forthcoming book, provides an overview of text ranking with neural network architectures known as transformers, of which BERT is the best-known example. The combination of transformers and self-supervised pretraining has, without exaggeration, revolutionized the fields of natural language processing (NLP), information retrieval (IR), and beyond. We provide a synthesis of existing work as a single point of entry for both researchers and practitioners. Our coverage is grouped into two categories: transformer models that perform reranking in multi-stage ranking architectures and learned dense representations that perform ranking directly. Two themes pervade our treatment: techniques for handling long documents, and techniques for addressing the tradeoff between effectiveness (result quality) and efficiency (query latency). Although transformer architectures and pretraining techniques are recent innovations, many aspects of their application are well understood. Nevertheless, there remain many open research questions, and thus in addition to laying out the foundations of pretrained transformers for text ranking, we also attempt to prognosticate the future.
 
 
-### T2: Fine-grained Interpretation and Causation Analysis in Deep NLP Models
+### T2 (Morning, 8-12): Fine-grained Interpretation and Causation Analysis in Deep NLP Models
 {: #t2}
 
 <a href="mailto:hsajjad@hbku.edu.qa">Hassan Sajjad</a>,
@@ -52,7 +54,7 @@ Deep neural networks have constantly pushed the state-of-the-art performance in 
 In this tutorial, we will present research work on interpreting fine-grained components of a neural network model from two perspectives, i) intrinsic analysis, and  ii) causation analysis. The former is a class of methods to analyze neurons with respect to a desired language concept or a task. The latter studies the role of neurons and input features in explaining the decisions made by the model. We will also discuss how interpretation methods and causation analysis can connect towards better interpretability of model prediction. Finally, we will walk you through various toolkits that facilitate fine-grained interpretation and causation analysis of neural models.
 
 
-### T3: Deep Learning on Graphs for Natural Language Processing
+### T3 (Morning, 8-12): Deep Learning on Graphs for Natural Language Processing
 {: #t3}
 
 <a href="mailto:lwu@email.wm.edu">Lingfei Wu</a>,
@@ -67,7 +69,7 @@ Due to its great power in modeling non-Euclidean data like graphs or manifolds, 
 This tutorial will cover relevant and interesting topics on applying deep learning on graph techniques to NLP, including automatic graph construction for NLP, graph representation learning for NLP, advanced GNN based models (e.g., graph2seq, graph2tree, and graph2graph) for NLP, and the applications of GNNs in various NLP tasks (e.g., machine translation, natural language generation, information extraction and semantic parsing). In addition, hands-on demonstration sessions will be included to help the audience gain practical experience on applying GNNs to solve challenging NLP problems using our recently developed open source library -- Graph4NLP, the first library for researchers and practitioners for easy use of GNNs for various NLP tasks.
 
 
-### T4: A Tutorial on Evaluation Metrics used in Natural Language Generation
+### T4 (Morning, 8-12): A Tutorial on Evaluation Metrics used in Natural Language Generation
 {: #t4}
 
 <a href="mailto:miteshk@cse.iitm.ac.in">Mitesh M. Khapra</a> and
@@ -85,7 +87,7 @@ This tutorial presents the evolution of automatic evaluation metrics to their cu
 - What are the possible future directions of research?
 
 
-### T5: Beyond Paragraphs: NLP for Long Sequences
+### T5 (Morning, 8-12): Beyond Paragraphs: NLP for Long Sequences
 {: #t5}
 
 <a href="mailto:beltagy@allenai.org">Iz Beltagy</a>,
@@ -99,7 +101,7 @@ This tutorial presents the evolution of automatic evaluation metrics to their cu
 A significant subset of natural language data includes documents that span thousands of tokens. The ability to process such long sequences is critical for many NLP tasks including document classification, summarization, multi-hop, and open domain question answering, and document-level or multi-document relationship extraction and coreference resolution. Yet, scaling state-of-the-art models to long sequences is challenging as many models are designed for shorter sequences. One notable example is Transformer models that have quadratic computational cost in the sequence length, making them prohibitively expensive for long sequence tasks. This is reflected in many widely-used models such as RoBERTa and BERT where the sequence length is limited to only 512 tokens. In this tutorial, we will bring interested NLP researchers up to speed about the recent and ongoing techniques for document-level representation learning. Additionally, we will discuss new research opportunities to address existing challenges in this domain. We will first provide an overview of established long sequence NLP techniques, including hierarchical, graph-based, and retrieval-based methods. We will then focus on the recent long-sequence transformer methods, how they compare to each other, and how they can be applied to NLP tasks (see Tay et al. (2020) for a recent survey). We will also discuss various memory-saving methods that are key to processing long sequences. Throughout the tutorial, we will use classification, question answering, and information extraction as motivating tasks.  We will also have a hands-on coding exercise focused on summarization.
 
 
-### T6: Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial
+### T6 (Afternoon, 4-8): Crowdsourcing Natural Language Data at Scale: A Hands-On Tutorial
 {: #t6}
 
 <a href="mailto:adrutsa@yandex-team.ru">Alexey Drutsa</a>,
