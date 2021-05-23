@@ -853,7 +853,7 @@ Main Conference
 
 **Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**<br>Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri and Jens Lehmann
 
-**Does Syntax Matter for Aspect-based Sentiment Analysis?**<br>Junqi Dai, Hang Yan, Tianxiang Sun, Pengfei Liu and Xipeng Qiu
+**Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa**<br>Junqi Dai, Hang Yan, Tianxiang Sun, Pengfei Liu and Xipeng Qiu
 
 **Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification**<br>Andrew Moore and Jeremy Barnes
 
