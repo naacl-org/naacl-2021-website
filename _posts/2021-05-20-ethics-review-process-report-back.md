@@ -10,6 +10,8 @@ categories:
 
 In this blog post, we give an experience report and overview of the process we created and followed as chairs of the NAACL 2021 Ethics Committee. In doing so, we aim on the one hand to provide transparency about this process to the NAACL community and on the other hand to support similar work for later conferences and reviewing systems (including ACL Rolling Review).
 
+This blog post reflects the opinions of the Ethics Committee chairs, and not necessarily the rest of the organizing committee. For the PC's point of view, see the upcoming post by PCs.
+
 <h2>Long-Term Vision</h2>
 In the long-term, we hope to see our community routinely considering societal impact (or “ethics”) in the course of review, alongside other factors such as the clarity of definition of hypotheses, the extent to which experiments reported effectively test the hypotheses, grounding and relationship to existing literature, validity of described methods, clarity of presentation, and likelihood of impact within the scientific community. Just as with the other dimensions of review, the dimension of ethics/societal impact is broad, including such considerations as impact on the environment, on workers involved in the research (e.g. as crowdworkers), on data subjects, on potential users of technology developed on the basis of the research, on other people impacted if such software is used, and potentially also societal systems and structures. Of course, no researcher is in a position to perfectly predict future impacts; thus the emerging best practices involve clear description of known information (energy usage, compensation of crowd workers, privacy protections for data subjects, etc) and thoughtful discussion of potential risks of application of the results.
 
