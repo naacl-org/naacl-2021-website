@@ -19,46 +19,70 @@ All times are PDT, UTC-7.
 .event-table tr td:nth-child(2) { min-width: 7em; }
 </style>
 
+| June 2-4 | Whole day | Mexican NLP school and mentoring sessions |
 | Sunday, June 6 | 9:00--11:00 | Black in AI social |
 | Sunday, June 6 | 10:30--12:00 | Masakhane social |
 | Sunday, June 6 | 15:00--16:00 | Queer in AI Undergraduate Mentorship Session |
 | Sunday, June 6 | 18:30--20:00 | Queer in AI social |
 | Monday, June 7 | 6:30--8:00 | Queer in AI social |
 | Monday, June 7 | 13:00--14:00 | D&I Session: Inclusivity in Conferences |
-| Monday, June 7 | 14:30--16:00 | LatinX in AI (LXAI) Social |
+| Monday, June 7 | 14:30--16:00 | LatinX in AI Social |
 | Monday, June 7 | 14:30--16:00 | Getting into NLP research and grad school applications |
 | Tuesday, June 8 | 6:30--8:00 | Getting into NLP research and grad school applications |
-| Tuesday, June 8 | 13:00--15:00 | North African in NLP |
+| Tuesday, June 8 | 13:00--15:00 | North Africans in NLP |
 | Tuesday, June 8 | 15:00--16:00 | D&I Session: Give Your Time to Radical Communities, Not Your Boss |
 | Wednesday, June 9 | 6:00--8:00 | D&I session: WINLP panel |
 | Thursday, June 10 | 6:00--7:00 | D&I Session: Intersectionality panel |
-| Thursday, June 10 | 8:00--9:00 | LXAI Social |
+| Thursday, June 10 | 8:00--9:00 | LatinX in AI Social |
 | Friday, June 11 | 7:00--8:30 | D&I session: EquiCL discussion |
 {: .event-table}
 
+## Mexican NLP school and mentoring sessions
+
+**Date:** June 2-4<br>
+**Time:** 9:00--11:00<br>
+
+[**Website**](https://ampln.github.io/escuelaverano2021/)
+
+This Summer School has the aim to 1) Strengthen the NLP training for the Latin American student community; 2) Promote the diversity of the NLP community by increasing the visibility of Mexico and the Latin American region (currently part of NAACL). The mentoring sessions are focused on undregraduate/graduate students pursuing a career in NLP.
+
+The mentoring sessions are scheduled for Friday June 4th 11:15-13:00 (GMT-5) Mexico City Time.
+
 ## Black in AI Social
+
+[**Website**](https://blackinai.github.io/#/events/social-naacl-2021)
+
+[**Registration Link**](https://forms.office.com/Pages/ResponsePage.aspx?id=28am4grn6EidKwihTYoMpX41ACvpRHNMrOJ_vQ5RiqBURUpLUzBXT0RJNUJXU05YUzdITFdZUVJGQi4u) 
 
 **Date:** Sunday, June 6<br>
 **Time:** 9:00--11:00<br>
-**Chair:** [Salomey Osei](mailto:sosei@aimsammi.org)
+**Organizers:** [Salomey Osei, Foutse Yuehgoh, Mírian Silva](mailto:sosei@aimsammi.org)
 
 Black in AI is a place for sharing ideas, fostering collaborations and discussing initiatives to increase the presence of Black people in the field of Artificial Intelligence. Join the Black in AI social to connect with Black researchers in NLP and to learn how to get involved in this affinity group!
 
 
 ## Masakhane Social
 
+[**Website**](https://www.masakhane.io/events/social-naacl-2021)
+
+[**Registration Link**](https://docs.google.com/forms/d/e/1FAIpQLScd7Y5Lo7bU6RqWsL0V40msa6sToyqICrM2aN-i8Nn50_Tx6w/viewform)
+
 **Date:** Sunday, June 6<br>
 **Time:** 10:30--12:00<br>
-**Chair:** [Bonaventure Dossou](mailto:femipancrace.dossou@gmail.com)
+**Organizers:** [Bonaventure Dossou and Chris Emezue](mailto:femipancrace.dossou@gmail.com)
 
 Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans. Join Masakhane's social event to meet the amazing researchers in this community, discuss their current efforts in builing NLP tools for African languages, and learn how to support them and/or get involved!
 
 
 ## Queer in AI Undergraduate Mentorship Session
 
+[**Website**](https://2021.naacl.org/blog/queer-mentorship/)
+
+[**Registration Link**](https://forms.gle/jzXex9AX9yJD5VudA)
+
 **Date:** Sunday, June 6<br>
 **Time:** 15:00--16:00<br>
-**Chair:** [Arjun Subramonian](mailto:queerinai@gmail.com)
+**Organizer:** [Arjun Subramonian](mailto:queerinai@gmail.com)
 <br>
 **Speaker:** Sabrina Mielke
 
@@ -67,17 +91,21 @@ The Queer in AI Undergraduate Mentorship session is part of a monthly series whe
 
 ## Queer in AI Social
 
+[**Website**](https://sites.google.com/view/queer-in-ai/naacl-2021)
+
+[**Registration Link**](https://docs.google.com/forms/d/e/1FAIpQLSdUtsixb1lj4-C8B8VaXuIJziFVqr6VJkeLBUNQaYQKPuMZ-w/viewform)
+
 ***Session 1***<br>
 **Date:** Sunday, June 6<br>
 **Time:** 18:30--20:00<br>
-**Chair:** [Michael McKenna](mailto:queer-in-nlp@googlegroups.com)
+**Host:** [Michael McKenna](mailto:queer-in-nlp@googlegroups.com)
 <br>
 **Speaker:** Aditya Joshi
 
 ***Session 2***<br>
 **Date:** Monday, June 7<br>
 **Time:** 6:30--8:00<br>
-**Chair:** [Michael McKenna](mailto:queer-in-nlp@googlegroups.com)
+**Host:** [Jack Dukatz](mailto:queer-in-nlp@googlegroups.com)
 <br>
 **Speaker:** Nikita Srivatsan
 
@@ -85,6 +113,10 @@ The Queer in AI social is an event for queer people and allies in AI to share th
 
 
 ## D&I Session: Inclusivity in Conferences
+
+[**Website**](https://2021.naacl.org/blog/inclusivity-panel/)
+
+[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_44wmsiHESU-DM73VR2o6bg)
 
 **Date:** Monday, June 7<br>
 **Time:** 13:00--14:00<br>
@@ -96,10 +128,18 @@ The Queer in AI social is an event for queer people and allies in AI to share th
 The purpose of the diversity and inclusion panel is to bring together representatives from different affinity groups to discuss how NLP conferences can be made more accessible and welcoming. It is also to raise awareness for these issues with the larger community and the organisers of future conferences.
 
 
-## LatinX in AI (LXAI) Social
+## LatinX in AI Social
 
+***Session 1***<br>
 **Date:** Monday, June 7<br>
 **Time:** 14:30--16:00<br>
+**Chair:** [Diana Galván Sosa](mailto:dianags@latinxinai.org)
+<br>
+**Speakers:** TBA
+
+***Session 2***<br>
+**Date:** Thursday, June 10<br>
+**Time:** 8:00--9:00<br>
 **Chair:** [Diana Galván Sosa](mailto:dianags@latinxinai.org)
 <br>
 **Speakers:** TBA
@@ -109,6 +149,8 @@ This affinity social is aimed at LatinX individuals working on or interested in 
 
 ## Getting into NLP research and grad school applications
 
+[**Website**](https://2021.naacl.org/blog/grad-school-panel/)
+
 ***Session 1***<br>
 **Date:** Monday, June 7<br>
 **Time:** 14:30--16:00<br>
@@ -116,6 +158,8 @@ This affinity social is aimed at LatinX individuals working on or interested in 
 <br>
 **Moderator:** Samira Shaikh<br>
 **Panelists:** Abhilasha Ravichander, William Agnew, Pan Xu, Phu Mon Htut, Elizabeth Salesky
+
+[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_Pw-VB-rQRbyAfYyHRSo9PQ)
 
 ***Session 2***<br>
 **Date:** Tuesday, June 8<br>
@@ -125,10 +169,14 @@ This affinity social is aimed at LatinX individuals working on or interested in 
 **Moderator:** Vlad Niculae<br>
 **Panelists:** Sebastian Ruder, Salomon Kabongo, Sian Gooding, Nick McKenna, Elizabeth Nielsen
 
+[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_YKTcpkAJTEGsH9e6IneGUQ)
+
 The intented audience of this is pre-doctoral students and in general anyone who is looking to get into NLP research. The session is schedule to open with a brief introducion of various initiatives aimed to predoctoral researchers, followed by a 45 minutes panel with graduate students from Europe, Asia, and US moderated by a faculty member.
 
 
-## North African in NLP
+## North Africans in NLP
+
+[**Registration Link**](https://forms.gle/W1UkPvvWdd4CknHi8)
 
 **Date:** Tuesday, June 8<br>
 **Time:** 13:00--15:00<br>
@@ -139,6 +187,11 @@ We are an affinity group for people of North African descent who are researchers
 
 ## D&I Session: Give Your Time to Radical Communities, Not Your Boss
 
+[**Website**](https://sites.google.com/view/queer-in-ai/home?authuser=0)
+
+[**Registration Link**](queer-in-nlp@googlegroups.com)
+
+
 **Date:** Tuesday, June 8<br>
 **Time:** 15:00--16:00<br>
 **Chair:** [Michael McKenna](mailto:queer-in-nlp@googlegroups.com)
@@ -148,11 +201,15 @@ We are an affinity group for people of North African descent who are researchers
 Give Your Time to Radical Communities, Not Your Boss--In this talk Willie Agnew will talk about Queer in AI's organizing and philosophy, and argue that the time and skills people have are incredibly valuable, and if given to radical organizations, can build power and make change.
 
 
-## D&I Session: WINLP Panel
+## D&I Session: NLP Women in the Time of Corona: Adaptations and Lessons for Women and Allies
+
+[**Website**](http://www.winlp.org/winlp-2021-satellite-workshop-naacl/)
+
+[**Registration Link**](https://www.eventbrite.com/e/naacl-winlp-panel-nlp-women-in-the-time-of-corona-registration-154296146929)
 
 **Date:** Wednesday, June 9<br>
 **Time:** 6:00--8:00<br>
-**Chair:** [Erika Varis](mailto:erikavaris@gmail.com)
+**Core Organizer:** [Erika Varis](winlp-chairs@googlegroups.com)
 <br>
 **Panelists:** Catherine Gitau, Samira Shaikh, Rossana Cunha, Margaret Mitchell, Aloka Fernando, Libby Barak
 
@@ -161,6 +218,10 @@ The pandemic has hit women in every industry especially hard, resulting in signi
 
 ## D&I Session: Intersectionality Panel
 
+[**Website**](https://2021.naacl.org/blog/intersectionality-panel/)
+
+[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_SBXeX3iBSJOsQ-zdSZ9Bhw)
+
 **Date:** Thursday, June 10<br>
 **Time:** 6:00--7:00<br>
 **Chair:** [Vasundhara Gautam](mailto:vasundhara131719@gmail.com)
@@ -168,17 +229,6 @@ The pandemic has hit women in every industry especially hard, resulting in signi
 **Panelists:** Alex Lu, Candace Ross, Nedjma Ousidhoum, Nikita Srivatsan, Arjun Subramonian
 
 Panel at NAACL 2021 to discuss the experiences of intersectionally marginalized folks in academia and tech. The discussion will be informed by current issues including AAPI hate, anti-trans bills, the Black Lives Matter movement, disability advocacy, hardships faced by North Africans, and so on.
-
-
-## LXAI Social
-
-**Date:** Thursday, June 10<br>
-**Time:** 8:00--9:00<br>
-**Chair:** [Diana Galván Sosa](mailto:dianags@latinxinai.org)
-<br>
-**Speakers:** TBA
-
-This affinity social is aimed at LatinX individuals working on or interested in NLP with a goal to increase the visibility of researchers of LatinX origin in a field that has been dominated by countries such as China, USA and Germany. Those already working on NLP will have the opportunity to connect with fellow LatinX and make their own work known, while those new to the field will benefit from the scientific exchange, guidance and advice of researchers with their same background. Participants will be able to engage in discussions about NLP (formal and informal) and to share their thoughts on how to increase the presence of LatinX in NLP.
 
 
 ## D&I Session: EquiCL Discussion

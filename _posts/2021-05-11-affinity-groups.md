@@ -34,14 +34,27 @@ Our Senior Chair Pranav reached out to organizers of affinity groups to discuss 
 
 **[Salomey Osei](https://twitter.com/nanayaasally?lang=en) (Core Organizer of Black in NLP)**
 
+**[Mírian Silva](https://mirianfsilva.github.io/) (Core Organizer of Black in NLP)**
+
+**[Foutse Yuehgoh](https://www.linkedin.com/in/foutse-yuehgoh-9105b184/) (Core Organizer of Black in NLP)**
+
 <img src="/assets/images/affinity-blog/salomey.jpg" alt="Salomey Osei" width="200"/>
+<img src="/assets/images/affinity-blog/mirian.jpg" alt="Mírian Silva" width="200"/>
+<img src="/assets/images/affinity-blog/foutse.jpg" alt="Foutse Yuehgoh" width="200"/>
 
 
-Black in AI made it possible for me to attend the NeurIPS conference, they gave me the opportunity to interact with the AI community, grow my knowledge in AI and also enhance my confidence in this exciting field. After the conference, I looked for opportunities and ways to give back to the community that gave me a first feel of how an international conference looked like, hence I applied to be a volunteer organiser.
+Black in AI increases the presence and inclusion of Black people in the field of AI by creating space for sharing ideas, fostering collaborations, mentorship and advocacy. **We're addressing the diversity crisis in AI.** Black in AI was founded to challenge the status quo.
+
+**Be part of something bigger than yourself.** By relating and connecting with one another, we justify and normalize our presence in the field, supporting each other by celebrating successes as well as providing support during setbacks.
+
+“Black in AI made it possible for me to attend the NeurIPS conference, they gave me the opportunity to interact with the AI community, grow my knowledge in AI and also enhance my confidence in this exciting field. After the conference, I looked for opportunities and ways to give back to the community that gave me a first feel of how an international conference looked like, hence I applied to be a volunteer organiser.
 
 Black in AI has introduced several programs to help the Black community in AI, including the recent Graduate programme, my aim is to rise higher in my field of interest to be able to support knowledge-wise and financially.
 
-For people like me, I think volunteering is the main thing that can be done. For others who can do more, supporting financially or by mentoring students from the Black in AI community will go a long way to help (in my opinion).
+For people like me, I think volunteering is the main thing that can be done. For others who can do more, supporting financially or by mentoring students from the Black in AI community will go a long way to help (in my opinion).” - Salomey Osei.
+
+“Black in AI is a community that has helped me feel welcome within the AI environment. Where I found references and inspirations. Today I voluntarily try to give back everything that the community has been providing me. I hope that more black people will come to join us, collaborate with our community and feel welcomed to work with AI.” - Mírian Silva
+
 
 _Black in AI will be organizing socials and panels at NAACL 2021. To support them, join their socials and help them to recruit._
 

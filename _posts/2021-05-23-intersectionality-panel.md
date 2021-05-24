@@ -27,4 +27,4 @@ This event is accessible to everyone, even non-NAACL participants, and will be h
 *   [Alex Lu](http://www.moseslab.csb.utoronto.ca/alexlu/) (he/him)
 *   [Candace Ross](http://candaceross.io/) (she/her)
 *   [Nikita Srivatsan](http://www.cs.cmu.edu/~asrivats/) (she/her, they/them)
-*   [Arjun Subramoniam](https://arjunsubramonian.github.io/) (they/them)
+*   [Arjun Subramonian](https://arjunsubramonian.github.io/) (they/them)
