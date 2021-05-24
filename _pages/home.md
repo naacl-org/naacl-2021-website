@@ -11,7 +11,6 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 ## News
 
 <strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is now open!</strong>
-<br>Early registration deadline: <strong style="color:#B00;">Thursday, May 20, 2021, 11:59 PM (EDT)</strong>
 <br><span style="font-size:90%">Please also help us determine an effective format for the virtual conference by filling the [NAACL 2021 Virtual Format Survey](https://docs.google.com/forms/d/e/1FAIpQLSf0O3fc5SuiZhXlqzLBbD8_daB_VazLgUL5LUD5tBIglR_nJw/viewform).</span>
 {: .text-center .notice--danger}
 
@@ -20,6 +19,8 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| May 23, 2021 | [The Proceedings of NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) is now published.
+| May 23, 2021 | Added [Social Program Schedule](/program/social/).
 | May 23, 2021 | Event announcements by D&I chairs: [Intersectionality in NLP](/blog/intersectionality-panel) and [Inclusivity in Conferences](/blog/inclusivity-panel)
 | May 20, 2021 | Post by Ethics Committee Co-Chairs: [NAACL Ethics Review Process Report-Back](/blog/ethics-review-process-report-back)
 | May 20, 2021 | Guest Post by QueerInAI: [Queer in AI Undergraduate Mentorship Program at NAACL](/blog/queer-mentorship/)

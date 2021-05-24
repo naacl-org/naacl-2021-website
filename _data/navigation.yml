@@ -49,6 +49,8 @@ program:
 #         url: /program/keynotes/
       - title: "Accepted Papers"
         url: /program/accepted/
+      - title: "Social Programs"
+        url: /program/social/
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
