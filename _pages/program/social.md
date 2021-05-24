@@ -184,7 +184,7 @@ We are an affinity group for people of North African descent who are researchers
 
 [**Website**](https://sites.google.com/view/queer-in-ai/home?authuser=0)
 <br>
-[**Registration Link**](queer-in-nlp@googlegroups.com)
+[**Registration Link**](https://forms.gle/8M4haHgUrwtbXqa77)
 
 **Date:** Tuesday, June 8<br>
 **Time:** 15:00--16:00<br>
@@ -220,7 +220,7 @@ The pandemic has hit women in every industry especially hard, resulting in signi
 **Time:** 6:00--7:00<br>
 **Chair:** [Vasundhara Gautam](mailto:vasundhara131719@gmail.com)
 <br>
-**Panelists:** Alex Lu, Candace Ross, Nedjma Ousidhoum, Nikita Srivatsan, Arjun Subramonian
+**Panelists:** Alex Lu, Candace Ross, Nikita Srivatsan, Arjun Subramonian
 
 Panel at NAACL 2021 to discuss the experiences of intersectionally marginalized folks in academia and tech. The discussion will be informed by current issues including AAPI hate, anti-trans bills, the Black Lives Matter movement, disability advocacy, hardships faced by North Africans, and so on.
 
