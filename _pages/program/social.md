@@ -19,7 +19,7 @@ All times are PDT, UTC-7.
 .event-table tr td:nth-child(2) { min-width: 7em; }
 </style>
 
-| June 2-4 | Whole day | Mexican NLP school and mentoring sessions |
+| June 2--4 | whole day | Mexican NLP school and mentoring sessions |
 | Sunday, June 6 | 9:00--11:00 | Black in AI social |
 | Sunday, June 6 | 10:30--12:00 | Masakhane social |
 | Sunday, June 6 | 15:00--16:00 | Queer in AI Undergraduate Mentorship Session |
@@ -39,10 +39,9 @@ All times are PDT, UTC-7.
 
 ## Mexican NLP school and mentoring sessions
 
-**Date:** June 2-4<br>
-**Time:** 9:00--11:00<br>
-
 [**Website**](https://ampln.github.io/escuelaverano2021/)
+
+**Date:** June 2--4<br>
 
 This Summer School has the aim to 1) Strengthen the NLP training for the Latin American student community; 2) Promote the diversity of the NLP community by increasing the visibility of Mexico and the Latin American region (currently part of NAACL). The mentoring sessions are focused on undregraduate/graduate students pursuing a career in NLP.
 
@@ -51,7 +50,7 @@ The mentoring sessions are scheduled for Friday June 4th 11:15-13:00 (GMT-5) Mex
 ## Black in AI Social
 
 [**Website**](https://blackinai.github.io/#/events/social-naacl-2021)
-
+<br>
 [**Registration Link**](https://forms.office.com/Pages/ResponsePage.aspx?id=28am4grn6EidKwihTYoMpX41ACvpRHNMrOJ_vQ5RiqBURUpLUzBXT0RJNUJXU05YUzdITFdZUVJGQi4u) 
 
 **Date:** Sunday, June 6<br>
@@ -64,7 +63,7 @@ Black in AI is a place for sharing ideas, fostering collaborations and discussin
 ## Masakhane Social
 
 [**Website**](https://www.masakhane.io/events/social-naacl-2021)
-
+<br>
 [**Registration Link**](https://docs.google.com/forms/d/e/1FAIpQLScd7Y5Lo7bU6RqWsL0V40msa6sToyqICrM2aN-i8Nn50_Tx6w/viewform)
 
 **Date:** Sunday, June 6<br>
@@ -77,7 +76,7 @@ Masakhane is a grassroots organisation whose mission is to strengthen and spur N
 ## Queer in AI Undergraduate Mentorship Session
 
 [**Website**](https://2021.naacl.org/blog/queer-mentorship/)
-
+<br>
 [**Registration Link**](https://forms.gle/jzXex9AX9yJD5VudA)
 
 **Date:** Sunday, June 6<br>
@@ -92,7 +91,7 @@ The Queer in AI Undergraduate Mentorship session is part of a monthly series whe
 ## Queer in AI Social
 
 [**Website**](https://sites.google.com/view/queer-in-ai/naacl-2021)
-
+<br>
 [**Registration Link**](https://docs.google.com/forms/d/e/1FAIpQLSdUtsixb1lj4-C8B8VaXuIJziFVqr6VJkeLBUNQaYQKPuMZ-w/viewform)
 
 ***Session 1***<br>
@@ -115,7 +114,7 @@ The Queer in AI social is an event for queer people and allies in AI to share th
 ## D&I Session: Inclusivity in Conferences
 
 [**Website**](https://2021.naacl.org/blog/inclusivity-panel/)
-
+<br>
 [**Registration Link**](https://us02web.zoom.us/webinar/register/WN_44wmsiHESU-DM73VR2o6bg)
 
 **Date:** Monday, June 7<br>
@@ -151,7 +150,7 @@ This affinity social is aimed at LatinX individuals working on or interested in 
 
 [**Website**](https://2021.naacl.org/blog/grad-school-panel/)
 
-***Session 1***<br>
+***Session 1*** \[[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_Pw-VB-rQRbyAfYyHRSo9PQ)\]<br>
 **Date:** Monday, June 7<br>
 **Time:** 14:30--16:00<br>
 **Chair:** [Nelson Liu](mailto:nfliu@cs.stanford.edu)
@@ -159,17 +158,13 @@ This affinity social is aimed at LatinX individuals working on or interested in 
 **Moderator:** Samira Shaikh<br>
 **Panelists:** Abhilasha Ravichander, William Agnew, Pan Xu, Phu Mon Htut, Elizabeth Salesky
 
-[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_Pw-VB-rQRbyAfYyHRSo9PQ)
-
-***Session 2***<br>
+***Session 2*** \[[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_YKTcpkAJTEGsH9e6IneGUQ)\]<br>
 **Date:** Tuesday, June 8<br>
 **Time:** 6:30--8:00<br>
 **Chair:** [Khyati Mahajan](mailto:kmahaja2@uncc.edu)
 <br>
 **Moderator:** Vlad Niculae<br>
 **Panelists:** Sebastian Ruder, Salomon Kabongo, Sian Gooding, Nick McKenna, Elizabeth Nielsen
-
-[**Registration Link**](https://us02web.zoom.us/webinar/register/WN_YKTcpkAJTEGsH9e6IneGUQ)
 
 The intented audience of this is pre-doctoral students and in general anyone who is looking to get into NLP research. The session is schedule to open with a brief introducion of various initiatives aimed to predoctoral researchers, followed by a 45 minutes panel with graduate students from Europe, Asia, and US moderated by a faculty member.
 
@@ -188,9 +183,8 @@ We are an affinity group for people of North African descent who are researchers
 ## D&I Session: Give Your Time to Radical Communities, Not Your Boss
 
 [**Website**](https://sites.google.com/view/queer-in-ai/home?authuser=0)
-
+<br>
 [**Registration Link**](queer-in-nlp@googlegroups.com)
-
 
 **Date:** Tuesday, June 8<br>
 **Time:** 15:00--16:00<br>
@@ -204,7 +198,7 @@ Give Your Time to Radical Communities, Not Your Boss--In this talk Willie Agnew 
 ## D&I Session: NLP Women in the Time of Corona: Adaptations and Lessons for Women and Allies
 
 [**Website**](http://www.winlp.org/winlp-2021-satellite-workshop-naacl/)
-
+<br>
 [**Registration Link**](https://www.eventbrite.com/e/naacl-winlp-panel-nlp-women-in-the-time-of-corona-registration-154296146929)
 
 **Date:** Wednesday, June 9<br>
@@ -219,7 +213,7 @@ The pandemic has hit women in every industry especially hard, resulting in signi
 ## D&I Session: Intersectionality Panel
 
 [**Website**](https://2021.naacl.org/blog/intersectionality-panel/)
-
+<br>
 [**Registration Link**](https://us02web.zoom.us/webinar/register/WN_SBXeX3iBSJOsQ-zdSZ9Bhw)
 
 **Date:** Thursday, June 10<br>
