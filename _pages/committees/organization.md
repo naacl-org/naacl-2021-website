@@ -259,6 +259,13 @@ sidebar:
    institution="Google Research"
 %}
 
+{% include committee-member.html
+   name="Wen Xiao"
+   picture="/assets/images/committee/Wen_Xiao.jpg"
+   site="https://wendy-xiao.github.io/"
+   institution="University of British Columbia"
+%}
+
 <h2>Virtual Infrastructure Committee Advisors</h2>
 {% include committee-member.html
    name="Jan-Christoph Klie"
