@@ -81,7 +81,7 @@ di_champion:
 NAACL-HLT 2021 is extremely grateful to all sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
 
 If your organization would like to sponsor NAACL or other conferences in the ACL family,
-please refer to our [**Sponsorship Booklet**](/downloads/ACL-2021-Sponsorship-booklet.pdf?v=v2)
+please refer to our [**Sponsorship Booklet**](/downloads/ACL-2021-Sponsorship-booklet.pdf?v=v3)
 for information about sponsorship rates and benefits.
 
 <style>
