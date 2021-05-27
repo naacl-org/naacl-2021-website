@@ -15,7 +15,7 @@ This event is accessible to everyone, even non-NAACL participants, and will be h
 
 ## **Timings and Registration Link**
 
-9 am - 10 am Eastern Daylight Time ([Convert to your timezone](https://dateful.com/eventlink/2365453208)), **[Registration link](https://us02web.zoom.us/webinar/register/WN_SBXeX3iBSJOsQ-zdSZ9Bhw)**
+June 10, 9 am - 10 am Eastern Daylight Time ([Convert to your timezone](https://dateful.com/eventlink/2365453208)), **[Registration link](https://us02web.zoom.us/webinar/register/WN_SBXeX3iBSJOsQ-zdSZ9Bhw)**
 
 
 ## **Panelists**
