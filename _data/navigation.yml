@@ -8,7 +8,7 @@ main:
   #  url: /captions/
 
   - title: "Program"
-    url: /program/tutorials/
+    url: /program/
 
   - title: "Blog"
     url: /blog/
@@ -41,6 +41,8 @@ main:
 program:
   - title: Program Details
     children:
+      - title: "Conference Program"
+        url: /program/
       - title: "Tutorials"
         url: /program/tutorials/
       - title: "Workshops"
