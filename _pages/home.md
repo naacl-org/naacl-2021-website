@@ -10,6 +10,9 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 
 ## News
 
+The [**Conference Program Schedule**](/program/) is now online.
+{: .text-center .notice--info}
+
 <strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is now open!</strong>
 <br><span style="font-size:90%">Please also help us determine an effective format for the virtual conference by filling the [NAACL 2021 Virtual Format Survey](https://docs.google.com/forms/d/e/1FAIpQLSf0O3fc5SuiZhXlqzLBbD8_daB_VazLgUL5LUD5tBIglR_nJw/viewform).</span>
 {: .text-center .notice--danger}
@@ -19,7 +22,6 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| May 30, 2021 | The [**Conference Program**](/program/) is now online.
 | May 23, 2021 | [The Proceedings of NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) is now published.
 | May 23, 2021 | Added [Social Program Schedule](/program/social/).
 | May 23, 2021 | Event announcements by D&I chairs: [Intersectionality in NLP](/blog/intersectionality-panel) and [Inclusivity in Conferences](/blog/inclusivity-panel)
@@ -49,7 +51,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 | ~~Notification of acceptance~~ | ~~Wednesday~~ | ~~March 10, 2021~~ |
 | ~~Camera ready papers due~~ | ~~Sunday~~ | ~~April 11, 2021~~ |
 | ~~Final notification for papers requiring ethics re-review~~ | ~~Friday~~ | ~~April 30, 2021~~ |
-| Publication date | Monday | May 24, 2021 |
+| ~~Publication date~~ | ~~Monday~~ | ~~May 24, 2021~~ |
 | Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/) | Thursday – Friday | June 3 – 4, 2021 |
 | Conference date | Sunday – Friday | June 6 – 11, 2021 |
 {: .dates-table}
