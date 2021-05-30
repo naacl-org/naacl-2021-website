@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-The main conference schedule can be accessed below (all times PDT, UTC-7):
+The conference schedule can be accessed below (all times PDT, UTC-7):
 
 * [Main Conference](/conference-program/main/program.html)
 * [System Demonstrations](/conference-program/demo/program.html)
