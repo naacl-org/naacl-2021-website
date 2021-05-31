@@ -30,8 +30,10 @@ All times are PDT, UTC-7.
 | Monday, June 7 | 14:30--16:00 | Getting into NLP research and grad school applications |
 | Tuesday, June 8 | 6:30--8:00 | Getting into NLP research and grad school applications |
 | Tuesday, June 8 | 13:00--15:00 | North Africans in NLP |
+| Tuesday, June 8 | 15:00--16:00 | Mexican cultural event (Guided virtual tour) |
 | Tuesday, June 8 | 15:00--16:00 | D&I Session: Give Your Time to Radical Communities, Not Your Boss |
-| Wednesday, June 9 | 6:00--8:00 | (WINLP Panel) NLP Women in the Time of Corona: Adaptations and Lessons for Women and Allies |
+| Wednesday, June 9 | 6:00--7:00 | Mexican cultural event (Linguistic diversity) |
+| Wednesday, June 9 | 6:00--8:00 | D&I Session: (WINLP Panel) NLP Women in the Time of Corona |
 | Thursday, June 10 | 6:00--7:00 | D&I Session: Intersectionality panel |
 | Thursday, June 10 | 8:00--9:00 | LatinX in AI Social |
 | Friday, June 11 | 7:00--8:30 | D&I session: EquiCL discussion |
@@ -238,3 +240,21 @@ Panel at NAACL 2021 to discuss the experiences of intersectionally marginalized 
 **Moderator:** Marine Carpuat
 
 Over the past few years, an increasing number of people have done amazing work to improve the diversity & inclusion of our conferences (e.g., as part of conference organization teams and/or grassroot efforts). This event aims to provide a forum for them to connect, share their experience and lessons learned, and discuss what can be done for others to build on prior efforts effectively. This event will be part of ongoing work by EquiCL (<http://equicl.org/>) to support and strengthen diversity and inclusion in the ACL community.
+
+## Mexican Cultural Events
+***Session 1***<br>
+**Date:** Tuesday, June 8<br>
+**Time:** 15:00--16:00<br>
+**Organizer:** [Rocío Cerbón](mailto:rocio.cerbon.y@gmail.com)
+<br>
+
+Join us on a guided virtual tour to the best places to visit, what to do and eat in Mexico’s capital city. We will go over to some of the most iconic and known places like the Historical Centre, Archeological Sites such as Teotihuacan and Templo Mayor. And in the south of the city, we will get to know touristic locations like Coyoacan and Xochimilco.
+<br>
+
+***Session 2***<br>
+**Date:** Wednesday, June 9<br>
+**Time:** 6:00--7:00<br>
+**Organizer:** [Rocío Cerbón](mailto:rocio.cerbon.y@gmail.com)
+<br>
+
+This session will provide an overview of Mexico's linguistic situation until 2020. We’ll go through the Mexican language’s diversity. We'll learn about linguistic families, currently most spoken languages and more. At the beginning we will host a Kahoot about facts of Mexican languages, don’t miss it!

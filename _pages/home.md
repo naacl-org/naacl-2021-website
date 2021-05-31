@@ -22,6 +22,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| May 31, 2021 | Event annoucement: [Mexican Cultural Events](/blog/mexican-event).
 | May 23, 2021 | [The Proceedings of NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) is now published.
 | May 23, 2021 | Added [Social Program Schedule](/program/social/).
 | May 23, 2021 | Event announcements by D&I chairs: [Intersectionality in NLP](/blog/intersectionality-panel) and [Inclusivity in Conferences](/blog/inclusivity-panel)
@@ -29,7 +30,6 @@ The [**Conference Program Schedule**](/program/) is now online.
 | May 20, 2021 | Guest Post by QueerInAI: [Queer in AI Undergraduate Mentorship Program at NAACL](/blog/queer-mentorship/)
 | May 19, 2021 | Event Announcement: [Getting into NLP research and grad school applications](/blog/grad-school-panel/). 
 | May 19, 2021 | Announcement: [#PeopleOfNLProc has a dedicated website](/blog/people-of-nlproc-new-website/).
-| May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/).
 | May 11, 2021 | Blog post by D&I chairs: [Attendee’s Guide to Affinity Groups in NLP](/blog/affinity-groups/).
 {: .news-table}
 
