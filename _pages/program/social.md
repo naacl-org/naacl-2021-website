@@ -31,7 +31,7 @@ All times are PDT, UTC-7.
 | Tuesday, June 8 | 6:30--8:00 | Getting into NLP research and grad school applications |
 | Tuesday, June 8 | 13:00--15:00 | North Africans in NLP |
 | Tuesday, June 8 | 15:00--16:00 | D&I Session: Give Your Time to Radical Communities, Not Your Boss |
-| Wednesday, June 9 | 6:00--8:00 | D&I session: WINLP panel |
+| Wednesday, June 9 | 6:00--8:00 | (WINLP Panel) NLP Women in the Time of Corona: Adaptations and Lessons for Women and Allies |
 | Thursday, June 10 | 6:00--7:00 | D&I Session: Intersectionality panel |
 | Thursday, June 10 | 8:00--9:00 | LatinX in AI Social |
 | Friday, June 11 | 7:00--8:30 | D&I session: EquiCL discussion |
@@ -129,6 +129,10 @@ The purpose of the diversity and inclusion panel is to bring together representa
 
 ## LatinX in AI Social
 
+[**Website**](https://www.latinxinai.org/naacl-2021)
+<br>
+[**Registration Link**](https://www.eventbrite.com/e/latinx-in-ai-lxai-social-naacl-2021-tickets-154290957407)
+
 ***Session 1***<br>
 **Date:** Monday, June 7<br>
 **Time:** 14:30--16:00<br>
@@ -195,7 +199,7 @@ We are an affinity group for people of North African descent who are researchers
 Give Your Time to Radical Communities, Not Your Boss--In this talk Willie Agnew will talk about Queer in AI's organizing and philosophy, and argue that the time and skills people have are incredibly valuable, and if given to radical organizations, can build power and make change.
 
 
-## D&I Session: NLP Women in the Time of Corona: Adaptations and Lessons for Women and Allies
+## D&I Session: (WINLP Panel) NLP Women in the Time of Corona: Adaptations and Lessons for Women and Allies
 
 [**Website**](http://www.winlp.org/winlp-2021-satellite-workshop-naacl/)
 <br>
@@ -203,7 +207,7 @@ Give Your Time to Radical Communities, Not Your Boss--In this talk Willie Agnew 
 
 **Date:** Wednesday, June 9<br>
 **Time:** 6:00--8:00<br>
-**Core Organizer:** [Erika Varis](winlp-chairs@googlegroups.com)
+**Core Organizer:** [WINLP chairs](mailto:winlp-chairs@googlegroups.com)
 <br>
 **Panelists:** Catherine Gitau, Samira Shaikh, Rossana Cunha, Margaret Mitchell, Aloka Fernando, Libby Barak
 
