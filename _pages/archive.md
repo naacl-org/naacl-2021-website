@@ -11,6 +11,7 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/).
 | May 3, 2021 | Blog post: [#PeopleOfNLProc - Lili Mou](/blog/people-of-nlproc-lili-mou/).
 | April 27, 2021 | Blog post: [#PeopleOfNLProc - Wei Coco Xu](/blog/people-of-nlproc-wei-coco-xu/).
 | April 21, 2021 | Blog post: [#PeopleOfNLProc - Vered Shwartz](/blog/people-of-nlproc-vered-shwartz/).
