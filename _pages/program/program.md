@@ -3,9 +3,7 @@ title: Conference Program
 layout: single
 excerpt: "NAACL 2021 Conference Program."
 permalink: /program/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
+toc: false
 sidebar:
     nav: program
 ---
