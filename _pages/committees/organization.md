@@ -266,6 +266,20 @@ sidebar:
    institution="University of British Columbia"
 %}
 
+{% include committee-member.html
+   name="Mauricio Mazuecos"
+   picture="/assets/images/committee/books.jpeg"
+   site=""
+   institution="National University of Córdoba"
+%}
+
+{% include committee-member.html
+   name="Martín Villalba"
+   picture="/assets/images/committee/books.jpeg"
+   site="http://www.coli.uni-saarland.de/~villalba/"
+   institution="Saarland University"
+%}
+
 <h2>Virtual Infrastructure Committee Advisors</h2>
 {% include committee-member.html
    name="Jan-Christoph Klie"
