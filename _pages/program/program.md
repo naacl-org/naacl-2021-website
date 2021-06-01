@@ -14,3 +14,5 @@ The conference schedule can be accessed below (all times PDT, UTC-7):
 * [System Demonstrations](/conference-program/demo/program.html)
 * [Industry Track](/conference-program/industry/program.html)
 * [Student Research Workshop](/conference-program/srw/program.html)
+
+The time zones of the [workshops](https://2021.naacl.org/program/workshops/) vary. Please check individual workshop pages for details.

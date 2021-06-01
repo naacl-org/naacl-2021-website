@@ -8,6 +8,8 @@ sidebar:
     nav: program
 ---
 
+Note that while the main conference time zone is Pacific Daylight Time (PDT), workshop time zones vary.
+
 Please refer to each individual event's website for more details.
 
 ## June 6
