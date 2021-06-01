@@ -55,6 +55,10 @@ silver:
     alt: Duolingo
     title: Duolingo
 bronze:
+  - url: https://research.adobe.com/
+    image_path: /assets/images/logos/adobe-logo.png
+    alt: Adobe
+    title: Adobe
   - url: https://babelscape.com
     image_path: /assets/images/logos/babelscape-logo.png
     alt: Babelscape
