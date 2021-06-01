@@ -1,5 +1,5 @@
 ---
-title: Keynote Speakers
+title: Keynote Speakers (Main Conference and Industry Track)
 layout: single
 excerpt: "NAACL 2021 Keynote Speakers."
 permalink: /program/keynotes/
@@ -40,9 +40,9 @@ Dr Shakir Mohamed works on technical and sociotechnical questions in machine lea
 {: .speaker-bio}
 
 
-## Hinrich Schutze
+## Hinrich Schütze
 
-![Hinrich Schutze](/assets/images/keynotes/Hinrich_Schutze.jpg){: .align-center}
+![Hinrich Schütze](/assets/images/keynotes/Hinrich_Schuetze.jpg){: .align-center}
 
 ### Humans Learn From Task Descriptions and So Should Our Models
 
@@ -55,7 +55,7 @@ of a pretrained language model that "understands" the task description, especial
 
 In the last part of the talk, I will show how bias in NLP models can be addressed using task descriptions. Instructing a model to reveal and reduce its biases is remarkably effective and may contribute in the future to a fairer and more inclusive NLP.
 
-Hinrich Schuetze (PhD 1995, Stanford University) is Professor for Computational Linguistics and director of the Center for Information and Language Processing at the University of Munich (LMU Munich).  Before moving to Munich in 2013, he taught at the University of Stuttgart.  He
+Hinrich Schütze (PhD 1995, Stanford University) is Professor for Computational Linguistics and director of the Center for Information and Language Processing at the University of Munich (LMU Munich).  Before moving to Munich in 2013, he taught at the University of Stuttgart.  He
 worked on natural language processing and information retrieval technology at Xerox PARC, at several Silicon Valley startups and at Google 1995-2004 and 2008/9.  He is a coauthor of Foundations of Statistical Natural Language Processing (with Chris Manning) and Introduction to Information Retrieval (with Chris Manning and Prabhakar Raghavan). Ever since starting his PhD in the early 1990s, Hinrich's research interests have been at the interface of linguistics, neural networks and computer science.
 {: .speaker-bio}
 
