@@ -17,7 +17,7 @@ There will be the total of 499 presentations at the main conference, which inclu
 - 18 papers published in the Transactions of the Association for Computational Linguistics (TACL), and
 - 4 papers from the journal of Computational Linguistics (CL).
 
-There are also 39 [industry track papers](https://2021.naacl.org/program/accepted/#industry-track), 17 [system demonstrations](https://2021.naacl.org/program/accepted/#system-demonstrations), and 22 Student Research Workshop papers, which will be presented in sessions parallel with the main track.
+There are also 39 [industry track papers](https://2021.naacl.org/conference-program/industry/program.html), 17 [system demonstrations](https://2021.naacl.org/conference-program/demo/program.html), and 22 [Student Research Workshop](https://2021.naacl.org/conference-program/srw/program.html) papers, which will be presented in sessions parallel with the main track.
 
 Following recent successful online events, our virtual format for the main conference includes both interactive talk sessions and posters in *Gather.Town*. A 12-minute video will also be available for long papers and a 7-minute video for short papers, to be viewed at any time during or after the conference.
 

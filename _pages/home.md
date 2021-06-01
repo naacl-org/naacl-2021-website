@@ -22,7 +22,8 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| June 1, 2021 | The [Conference Structure](/blog/conference-structure) is now available.
+| June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
+| June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
 | May 31, 2021 | Event annoucement: [Mexican Cultural Events](/blog/mexican-event).
 | May 23, 2021 | [The Proceedings of NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) is now published.
 | May 23, 2021 | Added [Social Program Schedule](/program/social/).
