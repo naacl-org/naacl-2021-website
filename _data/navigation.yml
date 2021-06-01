@@ -22,9 +22,6 @@ main:
   - title: "Sponsors"
     url: /sponsors/
 
-  - title: "FAQ"
-    url: /faq/
-
   - title: "Calls"
     url: /calls/papers/
 
@@ -33,6 +30,9 @@ main:
 
   - title: "Reviewer"
     url: /reviewer/instructions/
+
+  - title: "FAQ"
+    url: /faq/
 
   - title: "Committees"
     url: /organization
@@ -43,12 +43,12 @@ program:
     children:
       - title: "Conference Program"
         url: /program/
+      - title: "Keynote Speakers"
+        url: /program/keynotes/
       - title: "Tutorials"
         url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
-#       - title: "Keynote Speakers"
-#         url: /program/keynotes/
       - title: "Accepted Papers"
         url: /program/accepted/
       - title: "Social Programs"
