@@ -17,7 +17,7 @@ The conference schedule can be accessed below (all times PDT, UTC-7):
 * [System Demonstrations](/conference-program/demo/program.html)
 * [Industry Track](/conference-program/industry/program.html)
 * [Student Research Workshop](/conference-program/srw/program.html)
-* [Workshops](/program/workshops/)
+* [Workshops](/program/workshops/)\*
 * [Social Programs](/program/social/)
 
-The time zones of the [workshops](/program/workshops/) vary. Please check individual workshop pages for details.
+\* The time zones of the [workshops](/program/workshops/) vary. Please check individual workshop pages for details.
