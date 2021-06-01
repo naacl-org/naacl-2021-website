@@ -7,11 +7,11 @@ tags:
 categories:
   blog
 ---
-The NAACL 2021 conference is fast approaching, and we wanted to give you a quick overview of the [conference format and schedule](https://2021.naacl.org/conference-program/main/program.html).
+The NAACL 2021 conference is fast approaching, and we wanted to give you a quick overview of the [conference format and schedule](https://2021.naacl.org/program/).
 
 NAACL 2021 will be held as a completely virtual conference, in response to the restrictions imposed by the COVID-19 pandemic.  We are using the [Underline](https://underline.io/events/122/reception) platform to host the conference events online, including pre-recorded videos, interactive presentations and live poster sessions.  A walk-through video for navigating NAACL 2021 using the Underline is available [here](https://screencast-o-matic.com/watch/crhwbGVh3vx).
 
-There will be the total of 499 presentations at the main conference, which includes:
+There will be the total of 499 presentations at the [main conference](https://2021.naacl.org/conference-program/main/program.html), which includes:
 - 350 long papers
 - 127 short papers
 - 18 papers published in the Transactions of the Association for Computational Linguistics (TACL), and
