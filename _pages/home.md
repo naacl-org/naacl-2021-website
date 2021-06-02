@@ -22,6 +22,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| June 2, 2021 | Congratulations to the winners of the [Best Paper Awards](/blog/best-paper-awards)!
 | June 2, 2021 | Blogpost by D&I chairs: [NAACL Mentoring Sessions](/blog/mentoring/)
 | June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
 | June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
