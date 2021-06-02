@@ -22,15 +22,13 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| June 2, 2021 | Blogpost by D&I chairs: [NAACL Mentoring Sessions](/blog/mentoring/)
 | June 1, 2021 | The [Conference Structure](/blog/conference-structure/) is now available.
 | June 1, 2021 | Added the list of [Keynote Speakers](/program/keynotes/).
-| May 31, 2021 | Event annoucement: [Mexican Cultural Events](/blog/mexican-event).
+| May 31, 2021 | Event annoucements by D&I chairs: [Mexican Cultural Events](/blog/mexican-event), [Intersectionality in NLP](/blog/intersectionality-panel), [Inclusivity in Conferences](/blog/inclusivity-panel), [Getting into NLP research and grad school applications](/blog/grad-school-panel/)
 | May 23, 2021 | [The Proceedings of NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) is now published.
 | May 23, 2021 | Added [Social Program Schedule](/program/social/).
-| May 23, 2021 | Event announcements by D&I chairs: [Intersectionality in NLP](/blog/intersectionality-panel) and [Inclusivity in Conferences](/blog/inclusivity-panel)
-| May 20, 2021 | Post by Ethics Committee Co-Chairs: [NAACL Ethics Review Process Report-Back](/blog/ethics-review-process-report-back)
-| May 20, 2021 | Guest Post by QueerInAI: [Queer in AI Undergraduate Mentorship Program at NAACL](/blog/queer-mentorship/)
-| May 19, 2021 | Event Announcement: [Getting into NLP research and grad school applications](/blog/grad-school-panel/). 
+| May 20, 2021 | Post by Ethics Committee Co-Chairs: [NAACL Ethics Review Process Report-Back](/blog/ethics-review-process-report-back).
 | May 19, 2021 | Announcement: [#PeopleOfNLProc has a dedicated website](/blog/people-of-nlproc-new-website/).
 | May 11, 2021 | Blog post by D&I chairs: [Attendee’s Guide to Affinity Groups in NLP](/blog/affinity-groups/).
 {: .news-table}
