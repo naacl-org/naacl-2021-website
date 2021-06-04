@@ -251,7 +251,7 @@ sidebar:
    institution="Microsoft Research"
 %}
 
-<h2>Virtual Infrastructure Committee</h2>
+<h2>Virtual Infrastructure Chair</h2>
 {% include committee-member.html
    name="Deepak Ramachandran"
    picture="/assets/images/committee/Deepak_Ramachandran.jpg"
@@ -259,6 +259,7 @@ sidebar:
    institution="Google Research"
 %}
 
+<h2>Virtual Infrastructure Committee</h2>
 {% include committee-member.html
    name="Wen Xiao"
    picture="/assets/images/committee/Wen_Xiao.jpg"

@@ -13,8 +13,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 The [**Conference Program Schedule**](/program/) is now online.
 {: .text-center .notice--info}
 
-<strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is now open!</strong>
-<br><span style="font-size:90%">Please also help us determine an effective format for the virtual conference by filling the [NAACL 2021 Virtual Format Survey](https://docs.google.com/forms/d/e/1FAIpQLSf0O3fc5SuiZhXlqzLBbD8_daB_VazLgUL5LUD5tBIglR_nJw/viewform).</span>
+<strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is still open!</strong>
 {: .text-center .notice--danger}
 
 <style>
