@@ -30,7 +30,7 @@ class Chair(object):
   def html(self):
     before = '<tr><td valign=top style="padding-top: 10px;">&nbsp;</td><td valign=top style="padding-top: 10px;"><i> Session chair: '
     after = '</i></td></tr>'
-    return "{} {} ({}) [{}] {}".format(before, self.name, self.affiliation, mailto(self.email), after)
+    return "{} {} ({}) {}".format(before, self.name, self.affiliation, after)
 
 
 chairs = []
