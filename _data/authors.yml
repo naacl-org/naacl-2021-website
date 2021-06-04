@@ -46,3 +46,8 @@ ethics-chairs:
   name        : "Ethics Committee Co-Chairs"
   bio         : "Emily M. Bender and Karën Fort"
   avatar      : "assets/images/logos/acl-logo.png"
+
+industry-chairs:
+  name        : "Industry Track Chairs"
+  bio         : "Owen Rambow, Yunyao Li, Young-Bum Kim"
+  avatar      : "assets/images/logos/acl-logo.png"
