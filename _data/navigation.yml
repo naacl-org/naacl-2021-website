@@ -7,6 +7,9 @@ main:
   #- title: "LiveCaptions"
   #  url: /captions/
 
+  - title: "Live Virtual Conference"
+    url: "https://underline.io/events/122/reception"
+
   - title: "Program"
     url: /program/
 
@@ -22,20 +25,20 @@ main:
   - title: "Sponsors"
     url: /sponsors/
 
-  - title: "Calls"
-    url: /calls/papers/
-
   - title: "Ethics"
     url: /ethics/faq/
-
-  - title: "Reviewer"
-    url: /reviewer/instructions/
 
   - title: "FAQ"
     url: /faq/
 
   - title: "Committees"
     url: /organization
+
+  - title: "Calls"
+    url: /calls/papers/
+
+  - title: "Reviewer"
+    url: /reviewer/instructions/
 
 
 program:
