@@ -11,6 +11,11 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| May 23, 2021 | [The Proceedings of NAACL 2021](https://www.aclweb.org/anthology/events/naacl-2021/) is now published.
+| May 23, 2021 | Added [Social Program Schedule](/program/social/).
+| May 20, 2021 | Post by Ethics Committee Co-Chairs: [NAACL Ethics Review Process Report-Back](/blog/ethics-review-process-report-back).
+| May 19, 2021 | Announcement: [#PeopleOfNLProc has a dedicated website](/blog/people-of-nlproc-new-website/).
+| May 11, 2021 | Blog post by D&I chairs: [Attendee’s Guide to Affinity Groups in NLP](/blog/affinity-groups/).
 | May 13, 2021 | Announcement: [NAACL’s Citation Name Change Procedure](/blog/name-change-procedure/).
 | May 3, 2021 | Blog post: [#PeopleOfNLProc - Lili Mou](/blog/people-of-nlproc-lili-mou/).
 | April 27, 2021 | Blog post: [#PeopleOfNLProc - Wei Coco Xu](/blog/people-of-nlproc-wei-coco-xu/).
