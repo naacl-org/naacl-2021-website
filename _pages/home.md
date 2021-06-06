@@ -14,9 +14,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
         The <b><a href="https://underline.io/events/122/reception">Virtual Conference Website</a></b> is now live.
         See the <a href="https://screencast-o-matic.com/watch/crhwbGVh3vx">walkthrough video</a> and <a href="/participants/presenters/">presenter instructions</a>.
     </div>
-    <div style="width: 100%; height: 50%; float: center;">
-        <img src="/assets/images/logos/underline.png" width="15%" height="15%">
-    </div>
+    <img src="/assets/images/logos/underline.png" style="max-height: 5em;">
 </div>
 {: .text-center .notice--info}
 
@@ -34,6 +32,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| June 3, 2021 | Added details about the [Careers in NLP](/blog/careers-in-nlp) industry panel.
 | June 4, 2021 | Added [instructions for presenters](/participants/presenters/) and [Zoom rooms instructions](/participants/zoom-rooms/)
 | June 3, 2021 | Details about the [Startups in NLP](/blog/startups-in-nlp) industry panel.
 | June 3, 2021 | Updates from the program chairs on the [paper review process](/blog/paper-review-process) and [ethics-review-process](/blog/ethics-review-process).
