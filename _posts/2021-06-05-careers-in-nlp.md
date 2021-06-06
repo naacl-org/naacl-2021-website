@@ -17,7 +17,7 @@ categories:
 
 The questions are based on the survey results from [this form](https://forms.gle/jCryJDfkuPt6j8udA). Additional questions will be taken from the audience if time permits.
 
-# Moderator
+<h1 style="margin:2em 0 0;"> Moderator </h1>
 
 ## Philip Resnik
 
@@ -25,7 +25,7 @@ The questions are based on the survey results from [this form](https://forms.gle
 
 **Philip Resnik** is a Professor of Linguistics at the University of Maryland, with a joint appointment at UMD's Institute for Advanced Computer Studies and an affiliate appointment in CS. He received his BSc at Harvard in 1987, his Ph.D. in CIS at UPenn in 1993, and he joined the University of Maryland faculty in 1996. His industry experience prior to entering academia includes time at BBN, IBM T.J. Watson Research Center, and Sun Microsystems Laboratories. Philip was a technical co-founder of CodeRyte (clinical NLP), lead scientist for Converseon (spearheading development of their sentiment analysis platform, now marketed as ConveyAPI), and founder of React Labs (which took a crack at commercializing his research on scalable real-time response measurement and engagement using mobile devices). He is currently an advisor to Converseon and FiscalNote (government relationship management) and co-founder of a new startup, Thematically.
 
-# Panelists
+<h1 style="margin:2em 0 0;"> Panelists </h1>
 
 ## Isabelle Augenstein
 

@@ -17,14 +17,14 @@ categories:
 
 Questions will be taken from the audience
 
-<h1> Moderator </h1>
+<h1 style="margin:2em 0 0;"> Moderator </h1>
 
 <h2> Alon Lavie </h2>
 ![Alon Lavie](/assets/images/startups-in-nlp/alon_lavie.jpg){: .align-center}
 
 **Alon Lavie** is the VP of Language Technologies at Unbabel, a leading translation technology and services company, and a Consulting (adjunct) Professor at the Language Technologies Institute at Carnegie Mellon University.  At Unbabel, Alon leads and manages the company's US AI lab based in Pittsburgh and provides strategic AI leadership company-wide.  Prior to joining Unbabel, Alon was a senior manager at Amazon, where he led and managed the Amazon Machine Translation R&D group in Pittsburgh.  Prior to that, Alon co-founded  "Safaba Translation Solutions", a Machine Translation technology start-up company, where he was Chairman of the Board, President and CTO.  Safaba was acquired by Amazon in 2015.  From 1995 to 2015, Alon was a Research Professor at the Language Technologies Institute at Carnegie Mellon University.  His main research interests and activities focus on Machine Translation evaluation (the METEOR and COMET metrics), translation Quality Estimation, Machine Translation adaptation approaches with and without human feedback,  and methods for multi-engine MT system combination.  Alon served as the President of the International Association for Machine Translation (IAMT) (2013-2015). Prior to that, he was president of the Association for Machine Translation in the Americas (AMTA) (2008-2012), and was General Chair of the AMTA 2010 and 2012 conferences. He is a member of the Association for Computational Linguistics (ACL), where he was president of SIGParse - ACL's special interest group on parsing (2008-2013).
 
-<h1> Panelists </h1>
+<h1 style="margin:2em 0 0;"> Panelists </h1>
 
 <h2> Apoorv Agarwal </h2>
 ![Apoorv Agarwal](/assets/images/startups-in-nlp/apoorv_agarwal.jpg){: .align-center}
