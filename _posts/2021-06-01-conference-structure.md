@@ -33,7 +33,9 @@ The goal of this format is to allow the audience to engage into an in-depth disc
 For the oral pitches for in the first segments, we advise authors to think of these as brief summaries of each paper.  The authors can use any format they prefer; they may want to use a reduced set of slides, play a part of their video, or use their poster as a prop. The idea was to have a "reminder" pitch before the Q&A for each paper. Then the poster segment of each session can be used by the folks interested in each paper for longer discussions with the authors.
 
 The industry track and SRW sessions will follow the same format, while system demonstrations have pre-recorded videos, posters, and longer (80 minutes) *Gather.Town* sessions where the presenters could also demonstrate their systems interactively.
-In addition to paper sessions, there will be keynote presentations (recorded or live), followed by live Q&A, best paper awards session, a business meeting, opening and closing sessions, as well as mentoring sessions, social events and sponsor booth events.
+
+In addition to paper sessions, there will be [keynote presentations](https://2021.naacl.org/program/keynotes/) (recorded or live), followed by live Q&A, best paper awards session, a business meeting, opening and closing sessions, as well as mentoring sessions, social events and sponsor booth events.
+
 The conference will have a morning and an evening session block to account for the difference across time zones, with one keynote talk and 3 paper sessions per block, for a total of 6 paper sessions per day.  The blocks are timed as follows:
 
 - The morning block will run from 8 am Pacific Daylight (UTC-7) / 11 am Eastern Daylight (UTC-4) to 1 pm Pacific / 4 pm Eastern.
