@@ -79,3 +79,12 @@ UL { list-style: circle outside }
 
 UL UL { list-style: square outside }
 
+/* This is for the padding cell in the table */
+.pad {
+  width: 10%;
+}
+@media (min-width: 1000px) {
+  .pad {
+    width: 100px;
+  }
+}
