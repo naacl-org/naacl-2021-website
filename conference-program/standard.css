@@ -88,3 +88,12 @@ UL UL { list-style: square outside }
     width: 100px;
   }
 }
+
+/* This is for toggler */
+.toggler td:nth-child(2) {
+  background-color: #e2efda;
+  cursor: pointer;
+}
+.yellow td:nth-child(2) {
+  background-color: #f8cbad;
+}
