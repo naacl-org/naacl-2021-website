@@ -32,6 +32,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| June 8, 2021 | Congratulations to the winners of the [Best Industry Paper Award](/blog/best-industry-paper)!
 | June 3, 2021 | Added details about the [Careers in NLP](/blog/careers-in-nlp) industry panel.
 | June 4, 2021 | Added [instructions for presenters](/participants/presenters/) and [Zoom rooms instructions](/participants/zoom-rooms/)
 | June 3, 2021 | Details about the [Startups in NLP](/blog/startups-in-nlp) industry panel.
