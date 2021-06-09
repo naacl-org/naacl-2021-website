@@ -6,6 +6,8 @@ categories:
   blog
 ---
 
+**Slides (PDF):** [Takeaways from Ethics Review](/downloads/pc-ethics-takeaway.pdf) by Program Co-Chairs
+
 The process followed for the NAACL 2021 ethics review was outlined by the Ethics Chairs in [an earlier post](https://2021.naacl.org/blog/ethics-review-process-report-back/). Comments from the ethics reviewers and track chairs were reviewed by the Program Chairs when making final acceptance decisions on the papers.  As a result, 7 papers were accepted conditionally, which means that there were certain conditions imposed on the paper in the form of questions or requirements to be fulfilled for the paper to be accepted to the conference. For the majority of conditionally accepted papers, these included clarifications of the process the studies underwent for human subjects research, institutional review board protocols established for the studies, and discussion of whether and how the data collection procedures were coordinated with and complied with the rules outlined in terms of service for the websites and organizations that owned the data. As a result, 6 conditionally accepted papers were accepted into the conference, and one paper was rejected.
 
 Our takeaway from this process is as follows:  While we think the ethics review process is highly valuable, we found it very difficult to execute well in its current form. We believe that ethics review should be done as much as possible prior to paper submission, as described below. A conference program committee is not the best group to ensure that the reported work complies with ethical standards.
