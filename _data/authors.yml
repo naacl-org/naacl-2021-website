@@ -51,3 +51,8 @@ industry-chairs:
   name        : "Industry Track Chairs"
   bio         : "Owen Rambow, Yunyao Li, Young-Bum Kim"
   avatar      : "assets/images/logos/acl-logo.png"
+
+demo-chairs:
+  name        : "Demonstration Chairs"
+  bio         : "Victoria Lin, Avi Sil"
+  avatar      : "assets/images/logos/acl-logo.png"
