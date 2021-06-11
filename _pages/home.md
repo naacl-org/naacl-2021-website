@@ -24,9 +24,6 @@ The [**Whova web app**](https://whova.com/portal/webapp/nacon_202106/) is availa
 The [**Conference Program Schedule**](/program/) is now online.
 {: .text-center .notice--info}
 
-<strong style="color:darkred;">[Registration](/registration/) for the Virtual NAACL 2021 Conference is still open!</strong>
-{: .text-center .notice--danger}
-
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
