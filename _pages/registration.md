@@ -8,10 +8,10 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-The NAACL 2021 registration fees are drastically reduced, reflecting our necessary move to being 100% virtual.  We are offering Early rates through May 20th and Late rates beginning May 21st.   We include early and late rates to encourage early registrations so we can approximate the numbers of users and be able to work around any potential for system crashes or other glitches due to unexpected high volume.  The fees charged will allow full access to all parts of the conference.
+**Registration is now closed.**
+{: .notice .notice--info .text-center}
 
-[Register Here](https://aclweb.org/conference/virtual-naacl-hlt-2021-conference-registration/){: .btn .btn--info .btn--large}
-{: .text-center}
+The NAACL 2021 registration fees are drastically reduced, reflecting our necessary move to being 100% virtual.  We are offering Early rates through May 20th and Late rates beginning May 21st.   We include early and late rates to encourage early registrations so we can approximate the numbers of users and be able to work around any potential for system crashes or other glitches due to unexpected high volume.  The fees charged will allow full access to all parts of the conference.
 
 ## Registration Details
 

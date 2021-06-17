@@ -9,16 +9,15 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 ---
 
 ## News
-<div style="width: 100%;">
-    <div style="width: 100%; height: 50%; float: center;">
-        The <b><a href="https://underline.io/events/122/reception">Virtual Conference Website</a></b> is now live.
-        See the <a href="https://screencast-o-matic.com/watch/crhwbGVh3vx">walkthrough video</a> and <a href="/participants/presenters/">presenter instructions</a>.
-    </div>
-    <img src="/assets/images/logos/underline.png" style="max-height: 5em;">
-</div>
+The [**Virtual Conference Website**](https://underline.io/events/122/reception)
+([walkthrough video](https://screencast-o-matic.com/watch/crhwbGVh3vx))
+is still available for registered participants.
+A subset of the content will be made available without registration in mid July,
+and the pre-recorded talks for authors who opted in will be uploaded to the ACL anthology.<br>
+<img src="/assets/images/logos/underline.png" style="max-height: 5em;">
 {: .text-center .notice--info}
 
-The [**Whova web app**](https://whova.com/portal/webapp/nacon_202106/) is available (for asynchronous text chats only).
+The [**Whova web app**](https://whova.com/portal/webapp/nacon_202106/) is available (for asynchronous text chats) until June 18, 2021.
 {: .text-center .notice--info}
 
 The [**Conference Program Schedule**](/program/) is now online.
@@ -61,7 +60,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 | ~~Camera ready papers due~~ | ~~Sunday~~ | ~~April 11, 2021~~ |
 | ~~Final notification for papers requiring ethics re-review~~ | ~~Friday~~ | ~~April 30, 2021~~ |
 | ~~Publication date~~ | ~~Monday~~ | ~~May 24, 2021~~ |
-| Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/) | Thursday – Friday | June 3 – 4, 2021 |
+| ~~Co-located event: [NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/)~~ | ~~Thursday – Friday~~ | ~~June 3 – 4, 2021~~ |
 | Conference date | Sunday – Friday | June 6 – 11, 2021 |
 {: .dates-table}
 
