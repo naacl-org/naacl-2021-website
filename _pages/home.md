@@ -9,6 +9,10 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 ---
 
 ## News
+
+NAACL D&I videos are now available on our [**Youtube channel.**](https://www.youtube.com/channel/UCbdq7M48OgNoPIa9Uj_IBCw)
+{: .text-center .notice--info}
+
 The [**Virtual Conference Website**](https://underline.io/events/122/reception)
 ([walkthrough video](https://screencast-o-matic.com/watch/crhwbGVh3vx))
 is still available for registered participants.
@@ -28,6 +32,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| June 18, 2021 | Blogpost by D&I chairs: [Increasing Financial Accessibility in NAACL](/blog/dni-subsidies).
 | June 8, 2021 | Congratulations to the winners of the [Best Demo Award](/blog/best-demo-award)!
 | June 8, 2021 | Congratulations to the winners of the [Best Industry Paper Award](/blog/best-industry-paper)!
 | June 3, 2021 | Added details about the [Careers in NLP](/blog/careers-in-nlp) industry panel.
