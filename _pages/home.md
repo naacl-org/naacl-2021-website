@@ -10,7 +10,7 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 
 ## News
 
-NAACL D&I videos are now available on our [**Youtube channel.**](https://www.youtube.com/channel/UCbdq7M48OgNoPIa9Uj_IBCw)
+NAACL D&I videos are now available on our [**Youtube channel**](https://www.youtube.com/channel/UCbdq7M48OgNoPIa9Uj_IBCw).
 {: .text-center .notice--info}
 
 The [**Virtual Conference Website**](https://underline.io/events/122/reception)
@@ -19,9 +19,6 @@ is still available for registered participants.
 A subset of the content will be made available without registration in mid July,
 and the pre-recorded talks for authors who opted in will be uploaded to the ACL anthology.<br>
 <img src="/assets/images/logos/underline.png" style="max-height: 5em;">
-{: .text-center .notice--info}
-
-The [**Whova web app**](https://whova.com/portal/webapp/nacon_202106/) is available (for asynchronous text chats) until June 18, 2021.
 {: .text-center .notice--info}
 
 The [**Conference Program Schedule**](/program/) is now online.
