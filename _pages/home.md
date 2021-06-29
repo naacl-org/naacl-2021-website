@@ -10,6 +10,14 @@ excerpt: "Online<br>June 6&ndash;11, 2021"
 
 ## News
 
+<div class="text-center notice--danger">
+<p>Please fill out the short <a href="https://forms.office.com/r/Ww583kAMf7"><strong>post-conference survey</strong></a> to help us better organize future conferences.</p>
+<p style="font-size: 80%">The survey takes ~4 minutes to complete. Note that there will be no email receipt once you hit submit, and please only submit once.
+Aggregate statistics for non-text answers may be made publicly available. Answers to this survey will remain anonymous.
+Any questions or direct feedback can be sent to <a href="mailto:naacl-contact@aclweb.org">naacl-contact@aclweb.org</a>.
+</p>
+</div>
+
 NAACL D&I videos are now available on our [**Youtube channel**](https://www.youtube.com/channel/UCbdq7M48OgNoPIa9Uj_IBCw).
 {: .text-center .notice--info}
 
