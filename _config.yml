@@ -146,11 +146,13 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - log
+  - minimal-mistakes-jekyll.gemspec
   - node_modules
   - package.json
   - Rakefile
@@ -160,6 +162,7 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - agenda
   - webagenda
+  - scripts
 keep_files:
   - .git
   - .svn
